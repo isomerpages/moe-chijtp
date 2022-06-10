@@ -23,3 +23,12 @@ In 1662, Fr Barré set up a girls’ school in the village of Sotteville near Ro
 In 1666, Fr Barré realized the need for a spiritual bond among the sisters to counteract rising opposition from the other ‘writing masters’ or teachers of that time. He began a new religious congregation – the Charitable Mistresses of the Schools of the Holy Infant Jesus. As membership increased, the schools – known variously as the Charitable Christian Schools of the Holy Infant Jesus, the Little Charitable Schools or the Schools of Providence – multiplied. In Paris, he named his schools simply the Schools of the Holy Infant Jesus. In 1678, he founded a novitiate for the sisters on the Seine. However, in May 1686, his health declined, and he died on 31 May.  
   
 On 7 March 1999, Nicolas Barré was beatified in Rome by Pope John Paul II at a ceremony that was the apex of three days spent in prayerful rejoicing.
+
+# Our History
+**1854**
+
+* * *
+
+Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.
+
+Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.
