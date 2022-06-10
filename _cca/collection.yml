@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/IJ Media Club.md
       - Clubs & Societies/Debating and Oratory Society.md
       - Clubs & Societies/.keep
