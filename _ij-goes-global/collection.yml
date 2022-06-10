@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - IJ goes Global.md
+      - 2019/Chiang Mai.md
       - 2019/.keep
