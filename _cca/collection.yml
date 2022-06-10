@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Netball School Team.md
+      - Sports & Games/Netball.md
       - Sports & Games/Basketball.md
       - Sports & Games/Badminton.md
       - Sports & Games/Track & Field.md
