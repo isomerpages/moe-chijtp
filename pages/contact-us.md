@@ -2,15 +2,15 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: CHIJ
+agency_name: CHIJ Toa Payoh
 locations:
   - address:
       - 626 Lorong 1 Toa Payoh
       - Singapore 319764
       - ""
-    title: General Office
     operating_hours: []
     maps_link: ""
+    title: General Office
 contacts:
   - content:
       - phone: +65 6353 4972
