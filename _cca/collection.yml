@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/National Cadet Corps.md
+      - Uniformed Groups/NCC (Sea).md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/Uniformed Group.md
       - Uniformed Groups/.keep
