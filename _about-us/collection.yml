@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Key Information.md
+      - Principal's Message.md
+      - Mission, Vision, Our Crest and Motto.md
+      - CHIJ History.md
       - School Organization/.keep
       - School Organization/CHIJ Board of Management.md
       - School Organization/CHIJ Staff.md
       - School Organization/CHIJ SMT.md
       - School Organization/CHIJ EAS.md
       - School Organization/CHIJ Parent Support Group.md
-      - CHIJ History.md
-      - Mission, Vision, Our Crest and Motto.md
-      - Principal's Message.md
+      - Key Information.md
