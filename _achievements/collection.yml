@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Students Achievements/Clubs & Societies.md
       - Students Achievements/.keep
       - School Achievements.md
