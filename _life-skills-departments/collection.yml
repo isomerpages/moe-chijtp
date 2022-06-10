@@ -2,5 +2,6 @@ collections:
   life-skills-departments:
     output: true
     order:
+      - Elements of Business Skills.md
       - Design & Technology.md
       - Life Skills.md
