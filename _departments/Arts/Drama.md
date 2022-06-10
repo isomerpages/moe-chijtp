@@ -26,3 +26,15 @@ During the course of study students in CHIJ Secondary will:
 *   Work in a disciplined and collaborative way towards a shared goal  
     
 *   Understand the personal, social and cultural impact of drama through the exploration of local theatre forms and other artistic genres
+
+#### LEARNING IN DRAMA
+
+* * *
+
+Learning in drama requires an experiential mode of learning that involves active participation in the three domains of making, presenting and reflecting which provide the framework for learning in drama. These are considered interrelated, interdependent and equally important.
+
+*   Making involves the active exploration of ideas through the application of the elements and conventions of drama. Students select and structure dramatic elements and conventions to create and shape dramatic action. They work in the forms of improvisation, roleplay, story-telling, and playbuilding to create original works. In this domain students learn to work with ideas, holding some and discarding others as they refine meaning, reframing and delaying final judgement, thus leading to development of the skills of flexible and creative thinking.
+
+*   Presenting involves the development of expressive communication processes which may lead to performance. Students apply the elements and conventions of drama to a practical knowledge of dramatic forms and styles as they develop a range of performance skills. In this domain students learn to value the processes of rehearsal and refinement as they work towards a shared goal.  
+    
+*   Reflecting involves interpretation, critical analysis and evaluation of their own and others’ dramatic works. Students demonstrate their understanding of the application of elements and conventions to a range of dramatic forms and styles. In this domain students learn to use the vocabulary of drama to communicate in written and oral forms.
