@@ -63,7 +63,6 @@ third_nav_title: Students Achievements
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
 .tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
 </style>
@@ -88,23 +87,23 @@ third_nav_title: Students Achievements
   <tr>
     <td class="tg-brl1">IJ YM</td>
     <td class="tg-v41i">IJ Youth Mission Interschool Competition</td>
-    <td class="tg-vo25">IJ YM Inter-school competition -<br>Distinction</td>
-    <td class="tg-vo25">IJ YM Inter-school competition -<br>Distinction</td>
-    <td class="tg-vo25"></td>
+    <td class="tg-brl1">IJ YM Inter-school competition -<br>Distinction</td>
+    <td class="tg-brl1">IJ YM Inter-school competition -<br>Distinction</td>
+    <td class="tg-brl1"></td>
   </tr>
   <tr>
     <td class="tg-brl1">Debating and Oratory Society</td>
     <td class="tg-v41i">St. Margaret’s Ladies Debate League</td>
-    <td class="tg-vo25"></td>
-    <td class="tg-vo25">5th Overall<br><br>Tiararose Sarah Khaled attained 3rd overall best speaker of the tournament</td>
-    <td class="tg-vo25"></td>
+    <td class="tg-brl1"></td>
+    <td class="tg-brl1">5th Overall<br><br>Tiararose Sarah Khaled attained 3rd overall best speaker of the tournament</td>
+    <td class="tg-brl1"></td>
   </tr>
   <tr>
     <td class="tg-brl1">Arts Alive!</td>
     <td class="tg-v41i"></td>
-    <td class="tg-vo25">Chinatown Lantern Painting Competition:<br>-       Creative award<br>-       4 Consolation Prizes</td>
-    <td class="tg-vo25"></td>
-    <td class="tg-vo25"></td>
+    <td class="tg-brl1">Chinatown Lantern Painting Competition:<br>-       Creative award<br>-       4 Consolation Prizes</td>
+    <td class="tg-brl1"></td>
+    <td class="tg-brl1"></td>
   </tr>
 </tbody>
 </table>
