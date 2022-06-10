@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Organization/CHIJ Staff.md
       - School Organization/CHIJ Board of Management.md
       - School Organization/.keep
       - CHIJ History.md
