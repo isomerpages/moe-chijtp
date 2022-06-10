@@ -1,4 +1,5 @@
 collections:
   life-skills-departments:
     output: true
-    order: []
+    order:
+      - Life Skills.md
