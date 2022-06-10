@@ -2,7 +2,6 @@ collections:
   achievements:
     output: true
     order:
-      - Students Achievements/CHIJ in the News.md
       - Students Achievements/Uniformed Groups.md
       - Students Achievements/Sports & Games.md
       - Students Achievements/Performing Arts.md
