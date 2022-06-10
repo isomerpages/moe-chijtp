@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Life Skills.md
       - Humanities.md
       - English.md
       - CCE/.keep
