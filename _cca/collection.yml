@@ -2,13 +2,13 @@ collections:
   cca:
     output: true
     order:
-      - Performing Groups/IJ Theatre.md
-      - Performing Groups/Guitar Ensemble.md
-      - Performing Groups/IJ Dance Ensemble.md
-      - Performing Groups/Concert Band.md
-      - Performing Groups/Choir.md
-      - Performing Groups/Performing Groups.md
       - Performing Groups/.keep
+      - Performing Groups/Performing Groups.md
+      - Performing Groups/Choir.md
+      - Performing Groups/Concert Band.md
+      - Performing Groups/IJ Dance Ensemble.md
+      - Performing Groups/Guitar Ensemble.md
+      - Performing Groups/IJ Theatre.md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Track & Field.md
