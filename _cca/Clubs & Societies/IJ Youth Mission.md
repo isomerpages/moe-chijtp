@@ -49,3 +49,8 @@ All members participate in the annual IJ Youth Msion Inter-school Competition to
 During the year, a wide range of activities are conducted for members: Community Service, Reflection on Talks/Videos, Fundraising for the Needy, Home Visits, Camps and Development of Personal Skills through craft works and other activities. 
 
 Join the IJ Youth Mission to acquire inner strength and character as well as to discover the meaning and purpose of serving the community.
+
+![](/images/IJ%20Youth%20Mission%20(Students-2).jpg)
+![](/images/IJ%20Youth%20Mission%20(Students-3).jpg)
+![](/images/IJ%20Youth%20Mission%20(Students-4).jpg)
+![](/images/IJ%20Youth%20Mission%20(Students-5).jpg)
