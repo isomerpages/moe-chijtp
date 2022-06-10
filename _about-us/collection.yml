@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Organization/.keep
       - CHIJ History.md
       - Mission, Vision, Our Crest and Motto.md
       - Principal's Message.md
