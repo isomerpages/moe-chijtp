@@ -135,3 +135,35 @@ third_nav_title: CCE
   </tr>
 </tbody>
 </table>
+
+# Secondary 3
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">UNIT/ LESSON</th>
+    <th class="tg-s2rg">OBJECTIVES<br> <br>At the end of the lessons, students would be able to:</th>
+    <th class="tg-s2rg">TERM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25">Respectful Relationships Safety Lesson 1</td>
+    <td class="tg-vo25">·       Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>·       Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>·       Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.<br>·       Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>·       Know that a decision to end a relationship will have consequences on oneself and others.<br>·       Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>·       Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
+    <td class="tg-vo25">T2W1</td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Respectful Relationships Safety Lesson 2</td>
+    <td class="tg-vo25">·       Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>·       Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td class="tg-vo25">T2W2</td>
+  </tr>
+</tbody>
+</table>
