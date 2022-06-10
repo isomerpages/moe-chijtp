@@ -36,8 +36,6 @@ psg.chijsec@gmail.com
 
 ### PSG@IJ Sec EXCO 2022
 * * *
-
-
 <html>
 <head>
 <style>
@@ -56,3 +54,75 @@ img {
 
 </body>
 </html>
+
+* * *
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+
+
+<p><img src="/images/Mrs%20Olivia%20Tang-Yeo.jpg" style="width:60px;height:80px;margin-left:15px;">
+<center>Mrs Olivia Tang-Yeo<br> 
+Vice Chairperson<br>
+</center></p>
+	
+</body>
+</html>
+
+* * *
+
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+
+
+<p><img src="/images/Lorene.jpg" style="width:60px;height:80px;margin-left:15px;">
+<center>Mrs Lorene Lim<br> 
+Secretary<br>
+</center></p>
+	
+</body>
+</html>
+
+***
+
+<center>Mrs Joyce Chong<br>
+Treasurer</center>
+
+***
+<center>Mrs Angelia Lai<br>
+</center>
+
+***
+<center>Mrs YouNa Choy<br>
+</center>
+
+***
+<center>Mrs Jenevieve Chua<br>
+</center>
+
+***
+<center>Mrs Valerie Yeo-Ang<br>
+</center>
+
+***
+<center>Mrs Adrienne Wong<br>
+</center>
+
+
+
+
