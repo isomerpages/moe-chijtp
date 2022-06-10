@@ -2,7 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Clubs & Societies/CHIJ Chinese Cultural Society.md
-      - Clubs & Societies/Automation & Robotics Club.md
-      - Clubs & Societies/Arts Alive!.md
       - Clubs & Societies/.keep
+      - Clubs & Societies/Arts Alive!.md
+      - Clubs & Societies/Automation & Robotics Club.md
+      - Clubs & Societies/CHIJ Chinese Cultural Society.md
