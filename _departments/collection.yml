@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Sexuality Education @ CHIJ.md
       - CCE/National Education.md
       - CCE/CCE.md
       - CCE/.keep
