@@ -37,3 +37,15 @@ third_nav_title: Sports & Games
   </tr>
 </tbody>
 </table>
+
+![](/images/Athletics%202.jpg)
+
+The Athletics CCA is a CCA where girls are given the opportunity to participate in a variety of track and field events, ranging from the fast and furious 100m and the gruelling 3000m, to the explosive long jump and technical Shot Put, before they are placed in a specialisation. Certain girls will also have the chance to participate in the cross country events, where runners compete to complete a course over open terrain, i.e. gravel, grass, mud, and hills. Not for the faint-hearted, Athletics is a CCA that demands a high level of mental and physical toughness.
+
+  
+
+The Athletics team trains under the experienced hands of our coaches and our strong team camaraderie enables us to do well each year during the Singapore Press Holdings Schools Relay Championships, the Singapore Youth and Junior Athletics Championships, the National Inter-School Cross Country Championships and the National Inter-School Track and Field Championships, where our girls display their talents and skills in the competition arena. Each year, we strive to go beyond our personal best and bring glory to the school by not just training hard physically, but also honing our skills and tactical awareness.
+
+  
+
+Ultimately, the goal for our CCA is not just to win medals, but rather we aim to inculcate discipline within our girls and create opportunities for character and leadership building. We believe it is these values that will allow those who succeed on the track and on the field to achieve similar and greater success in their lives after they have graduated from CHIJ.
