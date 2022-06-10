@@ -149,3 +149,15 @@ CHIJ moves back to its Toa Payoh site after the Programme for Rebuilding and Imp
 **2007**  
 * * *
 The new school building is opened and the Centre of Excellence for Language and the Arts launched on 18 August.
+
+**2008**  
+* * *
+CHIJ Secondary is awarded the School Distinction Award and Best Practice Award in Teaching and Learning.
+
+**2009**  
+* * *
+CHIJ Secondary attains the Singapore Quality Class and is awarded the Outstanding Development Award in Character Education.
+
+**2010**  
+* * *
+CHIJ Secondary is awarded the Development Award in National Education and the Best Practice Award in Staff Wellbeing. The school hosts the torch-lighting ceremony for the inaugural Singapore 2010 Youth Olympic Games.
