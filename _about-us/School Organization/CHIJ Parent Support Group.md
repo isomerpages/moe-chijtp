@@ -123,6 +123,4 @@ Treasurer</center>
 <center>Mrs Adrienne Wong<br>
 </center>
 
-
-
-
+**BLESSING & LIGHTING OF CANDLES VIDEO [HERE](https://sites.google.com/chijsec.edu.sg/chijblessings/home) !**
