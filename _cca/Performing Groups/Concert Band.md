@@ -4,3 +4,40 @@ permalink: /cca/Performing-Groups/concert-band
 description: ""
 third_nav_title: Performing Groups
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ujx6{color:#333;text-align:left;vertical-align:top}
+.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
+.tg .tg-h0uh{color:#333;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h0uh"></th>
+    <th class="tg-h0uh">Junior Band</th>
+    <th class="tg-0lax"><span style="font-weight:bold">Main Band</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osjb">Teacher-in-Charge<br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mrs Teresa Francis</span><br><br><span style="color:inherit;background-color:transparent">Ms Samantha Chan</span></td>
+    <td class="tg-ujx6">Ms Grace Champion <br><br>Mr Chan Yew Choong<br><br>Ms Balvinder Kaur</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Training Days/Time</span><br></td>
+    <td class="tg-ujx6"><span style="background-color:initial">Tuesday (3.00 pm – 6.00 pm)</span><br><br>Friday (3.00 pm - 6.00 pm)<br>*Sec 1s will join the Main Band in July after Sec 1 Recital</td>
+    <td class="tg-ujx6">Mondays ( 3.00 pm – 6.00 pm)<br>Wednesday ( 3.00 pm – 6.00 pm) <br>Friday (3.00 pm - 6.00 pm)</td>
+  </tr>
+  <tr>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Venue</span></td>
+    <td class="tg-pvk6" colspan="2"><span style="color:inherit;background-color:transparent">CHIJ Secondary, Band Room </span></td>
+  </tr>
+</tbody>
+</table>
