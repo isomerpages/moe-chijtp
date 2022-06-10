@@ -246,3 +246,25 @@ third_nav_title: CCE
   </tr>
 </tbody>
 </table>
+
+# INFORMATION FOR PARENTS
+
+  
+
+10. Parents may opt their children out of Sexuality Education CCE Lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+  
+
+11. Parents who wish to opt their children out of the Sexuality Education CCE Lessons need to complete an opt-out form. This form is included in the Parents Gateway acknowledgement form.
+
+  
+
+12. Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form is included in the Parents Gateway acknowledgement form.  
+
+  
+
+13. Parents can contact the school at 63534972 (Attn: Ms Sum Kar Mun/ Mrs Priscilla Lim) or email sum_kar_mun@moe.edu.sg or priscilla_lim_a@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+  
+
+14. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
