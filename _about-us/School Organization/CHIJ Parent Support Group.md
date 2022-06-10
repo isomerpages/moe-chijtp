@@ -4,16 +4,15 @@ permalink: /about-us/School-Organization/chij-parent-support-group
 description: ""
 third_nav_title: School Organization
 ---
-<img src="/images/Audra%20Chuah.jpg" 
-     style="width:40%">
+<img style="width:40%" src="/images/Audra%20Chuah.jpg">
 		 
-Dear Parents/Guardians, 
+Dear Parents/Guardians,&nbsp;
 
-Hello and a warm welcome to our new Secondary 1 students and parents. 
+Hello and a warm welcome to our new Secondary 1 students and parents.&nbsp;
 
-The pandemic continues to affect us in different ways, and in this new school year, there will still be restrictions that prevent us from being physically involved in school activities. While we could not activate Parent Volunteers to support in school activities, we actively explored different ways that we could support the school and our girls. We are glad to be able to collaborate with the school in some programmes last year. 
+The pandemic continues to affect us in different ways, and in this new school year, there will still be restrictions that prevent us from being physically involved in school activities. While we could not activate Parent Volunteers to support in school activities, we actively explored different ways that we could support the school and our girls. We are glad to be able to collaborate with the school in some programmes last year.&nbsp;
 
-Though IJ Fiesta had to be modified greatly, the girls had fun through class-based activities. PSG was able to support with treats and little party packs. We also continued to bring Youth Day and Children’s Day treat to the girls as well.  Though they were muted celebrations, we hope we were able to still bring a smile to the girls.    
+Though IJ Fiesta had to be modified greatly, the girls had fun through class-based activities. PSG was able to support with treats and little party packs. We also continued to bring Youth Day and Children’s Day treat to the girls as well.&nbsp; Though they were muted celebrations, we hope we were able to still bring a smile to the girls.&nbsp;&nbsp;  
 
 With the help of IJ Secondary Alumni and many Secondary 4 parents, we were able to bring some kind of normalcy to last year’s Graduation Night. Although everyone was in their classes, with technology, a very supportive Principal and a fantastic team of teachers, the evening was filled with fun, laughter, excitement.
 
@@ -36,67 +35,67 @@ psg.chijsec@gmail.com
 
 ### PSG@IJ Sec EXCO 2022
 * * *
-<html>
-<head>
+
+
 <style>
 img {
   float: left;
 }
 </style>
-</head>
-<body>
 
 
 
-<p><img src="/images/Audra%20Chuah.jpg" style="width:60px;height:80px;margin-left:15px;">
-<center>Mrs Audra Chuah<br>
-	Chairperson</center></p>
 
-</body>
-</html>
+
+<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
+</p><center>Mrs Audra Chuah<br>
+	Chairperson</center><p></p>
+
+
+
 
 * * *
-<html>
-<head>
+
+
 <style>
 img {
   float: left;
 }
 </style>
-</head>
-<body>
 
 
 
-<p><img src="/images/Mrs%20Olivia%20Tang-Yeo.jpg" style="width:60px;height:80px;margin-left:15px;">
-<center>Mrs Olivia Tang-Yeo<br> 
+
+
+<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Mrs%20Olivia%20Tang-Yeo.jpg">
+</p><center>Mrs Olivia Tang-Yeo<br> 
 Vice Chairperson<br>
-</center></p>
+</center><p></p>
 	
-</body>
-</html>
+
+
 
 * * *
 
-<html>
-<head>
+
+
 <style>
 img {
   float: left;
 }
 </style>
-</head>
-<body>
 
 
 
-<p><img src="/images/Lorene.jpg" style="width:60px;height:80px;margin-left:15px;">
-<center>Mrs Lorene Lim<br> 
+
+
+<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Lorene.jpg">
+</p><center>Mrs Lorene Lim<br> 
 Secretary<br>
-</center></p>
+</center><p></p>
 	
-</body>
-</html>
+
+
 
 ***
 
@@ -116,11 +115,13 @@ Treasurer</center>
 </center>
 
 ***
-<center>Mrs Valerie Yeo-Ang<br>
+<center>Mrs&nbsp;Valerie Yeo-Ang<br>
 </center>
 
 ***
 <center>Mrs Adrienne Wong<br>
 </center>
 
-**BLESSING & LIGHTING OF CANDLES VIDEO [HERE](https://sites.google.com/chijsec.edu.sg/chijblessings/home) !**
+**BLESSING &amp; LIGHTING OF CANDLES VIDEO&nbsp;[HERE](https://sites.google.com/chijsec.edu.sg/chijblessings/home)&nbsp;!**
+
+<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQszUoaELEQ3U5E1xAq0Y4WKo-9ktERzAHrOnwVJhCGMAvA6GHkrlS-_fGKjpkD8qHte30hCxpamNHF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
