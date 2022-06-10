@@ -36,5 +36,23 @@ psg.chijsec@gmail.com
 
 ### PSG@IJ Sec EXCO 2022
 * * *
-![](/images/Audra%20Chuah.jpg)
 
+
+<html>
+<head>
+<style>
+img {
+  float: left;
+}
+</style>
+</head>
+<body>
+
+
+
+<p><img src="/images/Audra%20Chuah.jpg" style="width:60px;height:80px;margin-left:15px;">
+<center>Mrs Audra Chuah<br>
+	Chairperson</center></p>
+
+</body>
+</html>
