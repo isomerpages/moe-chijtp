@@ -52,23 +52,23 @@ Student leadership opportunities include but are not limited to:
   </tr>
   <tr>
     <td class="tg-vo25">Class Committee</td>
-    <td class="tg-vo25"><br>IJ Fiesta<br>IJ Cares and CCE initiatives<br>Peer Support<br></td>
+    <td class="tg-vo25">IJ Fiesta<br><br>IJ Cares and CCE initiatives<br><br>Peer Support<br></td>
   </tr>
   <tr>
     <td class="tg-vo25">CCA Committee</td>
-    <td class="tg-vo25"><br>CCA Open House<br>CCA Orientation/ Bonding<br></td>
+    <td class="tg-vo25">CCA Open House<br><br>CCA Orientation/ Bonding<br></td>
   </tr>
   <tr>
     <td class="tg-vo25">Peer Support Leaders</td>
-    <td class="tg-vo25"><br>Secondary 1 Orientation<br>Secondary 1 PSL Sessions<br></td>
+    <td class="tg-vo25">Secondary 1 Orientation<br><br>Secondary 1 PSL Sessions<br></td>
   </tr>
   <tr>
     <td class="tg-vo25">House Committee</td>
-    <td class="tg-vo25"><br>House Meetings<br>Inter-House Level Games and Cross Country<br></td>
+    <td class="tg-vo25">House Meetings<br><br>Inter-House Level Games and Cross Country<br></td>
   </tr>
   <tr>
     <td class="tg-vo25">Student Councillor</td>
-    <td class="tg-vo25"><br>IJ Spirit Day and IJ Fiesta<br>Teachers’ Day Celebration</td>
+    <td class="tg-vo25">IJ Spirit Day and IJ Fiesta<br><br>Teachers’ Day Celebration</td>
   </tr>
 </tbody>
 </table>
