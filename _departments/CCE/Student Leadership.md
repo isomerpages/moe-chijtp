@@ -25,3 +25,50 @@ In their 4–5 years with us, students go through a structured leadership progra
 **Leadership opportunities**
 
 <iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2-FRIAy0yrs8z_SBoDtwc6DgDntyf7tMbXCyxqMnu6r7lbhpC5SceoO-6hwwpCzve7fR7TNxsBQjM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+Student leadership opportunities include but are not limited to:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pm70{color:#222;font-style:italic;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-jgbu{color:#222;font-style:italic;text-align:center;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vo25">APPOINTMENT</th>
+    <th class="tg-vo25">LEARNING EXPERIENCES &amp; OPPORTUNITIES</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-pm70">-</td>
+    <td class="tg-jgbu">For all students<br><br>Cohort camps<br><br>Level programmes including motivational talks and The Five Leadership Practices workshops<br><br>Student-initiated Values in Action projects<br><br>Student-initiated Activities<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Class Committee</td>
+    <td class="tg-vo25"><br>IJ Fiesta<br>IJ Cares and CCE initiatives<br>Peer Support<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">CCA Committee</td>
+    <td class="tg-vo25"><br>CCA Open House<br>CCA Orientation/ Bonding<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Peer Support Leaders</td>
+    <td class="tg-vo25"><br>Secondary 1 Orientation<br>Secondary 1 PSL Sessions<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">House Committee</td>
+    <td class="tg-vo25"><br>House Meetings<br>Inter-House Level Games and Cross Country<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vo25">Student Councillor</td>
+    <td class="tg-vo25"><br>IJ Spirit Day and IJ Fiesta<br>Teachers’ Day Celebration</td>
+  </tr>
+</tbody>
+</table>
