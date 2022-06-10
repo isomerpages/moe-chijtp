@@ -2,4 +2,5 @@ collections:
   life-skills-departments:
     output: true
     order:
+      - Design & Technology.md
       - Life Skills.md
