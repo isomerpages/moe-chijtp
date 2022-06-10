@@ -32,5 +32,9 @@ if you are able to contribute in any way to any event or if you have any enquiri
 
 [](mailto:psg.chijsec@gmail.com)
 
-psg.chijsec@gmail.com  
+psg.chijsec@gmail.com
+
+### PSG@IJ Sec EXCO 2022
+* * *
+![](/images/Audra%20Chuah.jpg)
 
