@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Organization
 ---
 <img style="width:40%" src="/images/Audra%20Chuah.jpg">
-		 
-
 
 Dear Parents/Guardians,&nbsp;
 
