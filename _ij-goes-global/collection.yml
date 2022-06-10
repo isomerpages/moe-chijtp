@@ -1,0 +1,4 @@
+collections:
+  ij-goes-global:
+    output: true
+    order: []
