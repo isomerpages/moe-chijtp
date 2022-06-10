@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - CHIJ History.md
       - Mission, Vision, Our Crest and Motto.md
       - Principal's Message.md
