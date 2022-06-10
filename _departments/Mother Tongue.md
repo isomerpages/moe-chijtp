@@ -38,3 +38,29 @@ Teaching resources
 
 IMTL Login:<br>
 [Https://imtl.sg/login/index.php](https://imtl.sg/wp-login.php)
+
+### Tamil Language
+
+**Overview**
+
+The Tamil Department aims to provide a holistic learning environment for our students, working towards moulding our students’ hearts and mind through various pedagogies and activities. Our girls learn and experience speaking and writing Tamil Language in fun and interactive ways, enabling our students to learn the language beyond the curriculum.
+
+1. ICT – we use extensive ICT tools and approaches enabling our students to enjoy the language beyond classroom and textbooks. 
+
+2. Language and Culture – enables students to experience Tamil Language and culture beyond the school and curriculum. Students are exposed to our culture, tradition and history and are able to learn more about Tamil Language. Our Mother Tongue fortnight activities and learning Journeys are aimed to develop a love for the language and instil a sense of belonging in our students.
+
+Tamil Language Competitions
+
+We focus on the individual learning needs of our students and apply differentiated teaching strategies to cater to each student. We also send our students for external competitions organised by community centres and expose them to the community outside, boosting their self-esteem and confidence.
+
+Our Tamil Language students are encouraged to speak in Tamil increasing their vocabulary content and using them effectively. Proper intonation, expression and pronunciation are emphasised for reading at all levels. To help the students to sharpen their listening skills, they are exposed to various recordings of different genres like advertisement, conversation and news reading in class
+
+Focused revision on each examination component is given to students for all levels. This exposes them to various question types, thus giving them confidence to tackle such questions. Students are also given revision papers to help them prepare for examination and time-management is emphasised in the process.
+
+**Teaching Resources**
+
+Tamil Touch-typing Practice<br>
+[http://wk.w3tamil.com/tamil99/](http://wk.w3tamil.com/tamil99/)
+
+IMTL Login:<br>
+[https://imtl.sg/login/index.php](https://imtl.sg/login/index.php)
