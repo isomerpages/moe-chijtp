@@ -6,6 +6,8 @@ third_nav_title: School Organization
 ---
 <img style="width:40%" src="/images/Audra%20Chuah.jpg">
 		 
+
+
 Dear Parents/Guardians,&nbsp;
 
 Hello and a warm welcome to our new Secondary 1 students and parents.&nbsp;
