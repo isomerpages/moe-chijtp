@@ -53,3 +53,18 @@ With a serving heart and mind, the Guides also render their services in the nume
   
 
 Depending on the national posture and prevailing safe-management measures, Guides can look forward to organising and executing the annual Secondary One orientation campfire, attending overnight camps where they will be sleeping under tents and collaborating with Guides and Scouts from other schools.
+
+![](/images/Girl%20Guides%20(Students-2).png)
+<center>Firepit and backdrop for Sec 1 orientation Campfire</center>
+
+![](/images/Girl%20Guides%20(Students-3).png)
+<center>Sec 1 participants walking across the structure build</center>
+
+![](/images/Girl%20Guides%20(Students-4).png)
+<center>Lighting of the Campfire</center>
+
+![](/images/Girl%20Guides%20(Students-5).png)
+<center>National Day March Past</center>
+
+![](/images/Girl%20Guides%20(Students-6).png)
+<center>Outdoor cooking</center>
