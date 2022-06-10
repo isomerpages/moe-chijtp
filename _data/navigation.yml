@@ -6,3 +6,5 @@ links:
     url: /page/
   - title: Resource
     resource_room: true
+  - title: Menu Title
+    collection: achievements
