@@ -4,7 +4,6 @@ permalink: /about-us/School-Organization/chij-parent-support-group
 description: ""
 third_nav_title: School Organization
 ---
-
 <img src="/images/Audra%20Chuah.jpg" 
      style="width:40%">
 		 
@@ -22,3 +21,16 @@ So I hope we can do the same for this year’s cohort with your support when nee
 
 God’s Blessings to you all,<br>
 Audra
+
+***“We Serve With Faith, Hope and Love…”***
+![](/images/lordspeech.png)
+
+![](/images/QR.jpg)
+Please contact any of our Exco members
+
+if you are able to contribute in any way to any event or if you have any enquiries.
+
+[](mailto:psg.chijsec@gmail.com)
+
+psg.chijsec@gmail.com  
+
