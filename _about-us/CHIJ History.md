@@ -27,8 +27,20 @@ On 7 March 1999, Nicolas Barré was beatified in Rome by Pope John Paul II at a 
 # Our History
 **1854**
 
-* * *
+* * *		
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
 
-Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.
+<p><img src="/images/CHIJ%20History%20(1).jpg" 
+style="width:170px;height:170px;margin-left:15px;">
+Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.</p>
 
-Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.
+</body>
+</html>
