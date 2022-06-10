@@ -4,7 +4,7 @@ permalink: /cca/Sports-and-Games/netball
 description: ""
 third_nav_title: Sports & Games
 ---
-
+# School Team
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -57,3 +57,40 @@ However, the CHIJ Netball School Team is not only about winning competitions. Be
 
 ![](/images/Netball%20(Students-3).jpg)
 ![](/images/Netball%20(Students-4).jpg)
+
+# Recreational Team
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
+.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-osjb"></th>
+    <th class="tg-0lax"><span style="font-weight:bold">Recreational Team</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-osjb">Teacher-in-Charge<br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mrs Priscilla Lim , Mrs Mythily Ezhilmani and Mrs So-Lee Yirong</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-osjb">Training Days/Time<br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mondays and Wednesday (3:00 pm - 5:30 pm)</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-osjb">Venue<br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Parade Square / Indoor Sports Hall at CHIJ Secondary</span></td>
+  </tr>
+</tbody>
+</table>
+
+![](/images/Netball%20Recre%201.jpg)
+The Netball Recreational Club is a Co-Curricular Activity that not only allows students to learn Netball skills and tactics under the tutelage of a full-time experienced coach, it also emphasizes the importance of teamwork and sportsmanship. To help us achieve these aims, the club participates in both competitive and friendly games. Each year, every level gets to represent the school in at least one netball competition. We participate in various age-group netball carnivals such as the Daisy Tan Netball Carnival, T-Net Netball Carnival and Sneakers Netball Carnival. In 2021, we organised an in-house games carnival to promote the same camaraderie and team spirit. We will always look for opportunities to enable our members to grow holistically.
