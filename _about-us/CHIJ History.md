@@ -161,3 +161,31 @@ CHIJ Secondary attains the Singapore Quality Class and is awarded the Outstandin
 **2010**  
 * * *
 CHIJ Secondary is awarded the Development Award in National Education and the Best Practice Award in Staff Wellbeing. The school hosts the torch-lighting ceremony for the inaugural Singapore 2010 Youth Olympic Games.
+
+**2011**  
+* * *
+CHIJ Secondary is awarded the Meritorious Defence Partner Award.
+
+**2012**  
+* * *
+The CHIJ community marks the 350th anniversary of its founding in 1662: as part of the celebration, the CHIJ Museum is opened in May.
+
+**2014**  
+* * *
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="/images/CHIJ%20History%20(4).png" 
+style="width:170px;height:170px;margin-left:15px;">
+CHIJ girls past and present gathered on 9 Nov (Sun) to celebrate the 160th anniversary of their alma mater.About 400 students, teachers and alumni formed a human chain around the original Convent of the Holy Infant Jesus building, along Victoria Street, now known as Chijmes, while singing the school song.
+</p>
+
+</body>
+</html>
