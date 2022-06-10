@@ -47,7 +47,7 @@ Secondary 1 pupils are taught to design rooms using Goggle Sketch-up.
 
 Secondary 2 pupils designed and made scale-down cardboard models of rooms.
 
-#### Secondary One
+# Secondary One
 
 **Product Design** – Secondary 1E pupils designed and made Wooden Torchlight Keychains
 ![](/images/1E%20DNT.png)
@@ -56,3 +56,13 @@ Secondary 2 pupils designed and made scale-down cardboard models of rooms.
 **Interior Design** –  Secondary 1 pupils designed their own bedrooms with the Goggle Sketch-up.
 ![](/images/Google%20Sketch-Up%201.jpg)
 ![](/images/Google%20Sketch-Up%202.jpg)
+
+# Secondary Two
+**Product Design** – Secondary 2E pupils designed and made Wooden and Acrylic products.
+![](/images/2E.png)
+**Product Design** – Secondary 2 NA pupils designed and made Acrylic Clocks
+![](/images/2NA.png)
+**Interior Design** – Secondary 2E and 2 NA pupils designed and made cardboard models of rooms with allocated Interior Design Styles.
+![](/images/Cardboard%20Models%20of%20Rooms%201.jpg)
+![](/images/Cardboard%20Models%20of%20Rooms%202.jpg)
+![](/images/Cardboard%20Models%20of%20Rooms%203.jpg)
