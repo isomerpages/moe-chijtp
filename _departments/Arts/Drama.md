@@ -38,3 +38,29 @@ Learning in drama requires an experiential mode of learning that involves active
 *   Presenting involves the development of expressive communication processes which may lead to performance. Students apply the elements and conventions of drama to a practical knowledge of dramatic forms and styles as they develop a range of performance skills. In this domain students learn to value the processes of rehearsal and refinement as they work towards a shared goal.  
     
 *   Reflecting involves interpretation, critical analysis and evaluation of their own and others’ dramatic works. Students demonstrate their understanding of the application of elements and conventions to a range of dramatic forms and styles. In this domain students learn to use the vocabulary of drama to communicate in written and oral forms.
+
+#### ASSESSMENT IN DRAMA
+
+* * *
+
+  
+
+Objectives of assessment will incorporate the following:
+
+  
+
+**Understanding**
+
+Students should be able to demonstrate understanding of the performance possibilities of text and other stimuli and the differing roles of actor, director, stage manager and technician in their realisation.
+
+  
+
+**Devising**
+
+Students should be able to demonstrate the ability to devise dramatic material and reflect on its effectiveness.
+
+  
+
+**Performing Skills**
+
+Students should be able to demonstrate performing skills in drama The above is based on the assessment requirement as stipulated in the IGCSE Examination. However, at lower secondary levels, expectations will be adjusted to suit the capabilities and objectives of the respective levels. However, the IGCSE assessment objectives should be adhered to in when students commence their 2 year IGCSE Drama course in Secondary 3.
