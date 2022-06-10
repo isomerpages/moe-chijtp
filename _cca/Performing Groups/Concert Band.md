@@ -59,3 +59,6 @@ The Band hopes to inculcate discipline, perseverance and GRIT in our students as
 In line with the school’s motto ‘Simple in Virtue, Steadfast in Duty’, the Band believes in the value of diligence and hard work in her continual quest for musical excellence.
 
 <strong><i>"One heart, One mind, One band, One sound".<i></strong>
+	
+![](/images/Concert%20Band%20(Students-2).jpg)
+![](/images/Concert%20Band%20(Students-3).jpg)
