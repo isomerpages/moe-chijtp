@@ -121,3 +121,31 @@ A common curriculum is introduced for Secondary 1 and 2.
 **1975**  
 * * *
 Pre-university classes at CHIJ are terminated. The Board of Management of all IJ Schools is formed.
+
+**1983**  
+* * *
+CHIJ moves out of its Victoria Street campus in December.
+
+**1984**  
+* * *
+Classes begin at the new site in Toa Payoh.
+
+**1985**  
+* * *
+CHIJ Primary and Secondary Schools are officially opened on 17 August.
+
+**1994**  
+* * *
+CHIJ Secondary goes Autonomous.
+
+**2004**  
+* * *
+CHIJ celebrates 150 years of its presence in Singapore.
+
+**2006**  
+* * *
+CHIJ moves back to its Toa Payoh site after the Programme for Rebuilding and Improving Existing Schools (PRIME).
+
+**2007**  
+* * *
+The new school building is opened and the Centre of Excellence for Language and the Arts launched on 18 August.
