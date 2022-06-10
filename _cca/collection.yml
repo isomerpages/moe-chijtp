@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Performing Groups/.keep
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Track & Field.md
