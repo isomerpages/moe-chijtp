@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Clubs & Societies/Legion of Mary.md
       - Clubs & Societies/iGrow@IJ (ECO Club).md
       - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/IJ Media Club.md
