@@ -2,8 +2,8 @@ collections:
   life-skills-departments:
     output: true
     order:
-      - Principles of Accounts.md
-      - Food & Consumer Education.md
-      - Elements of Business Skills.md
-      - Design & Technology.md
       - Life Skills.md
+      - Design & Technology.md
+      - Elements of Business Skills.md
+      - Food & Consumer Education.md
+      - Principles of Accounts.md
