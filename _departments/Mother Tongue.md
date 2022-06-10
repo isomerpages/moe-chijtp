@@ -30,11 +30,9 @@ The Chinese Language teachers use the adapted Flipped Classroom approach where s
 
 Mother Tongue Fortnight activities are organised annually to provide opportunities for students to gain a deeper understanding of Chinese culture and heritage through hands-on activities and programmes. Some examples of activities are paper-cutting, Chinese calligraphy, Chinese riddles competition.
 
-  
-
 The department verified believes in the importance of keeping the language alive and complements classroom learning with experiential learning approaches and learning journeys.   
 
-Teaching resources  
+**Teaching resources**
 
 IMTL Login:<br>
 [Https://imtl.sg/login/index.php](https://imtl.sg/wp-login.php)
@@ -49,7 +47,7 @@ The Tamil Department aims to provide a holistic learning environment for our stu
 
 2. Language and Culture – enables students to experience Tamil Language and culture beyond the school and curriculum. Students are exposed to our culture, tradition and history and are able to learn more about Tamil Language. Our Mother Tongue fortnight activities and learning Journeys are aimed to develop a love for the language and instil a sense of belonging in our students.
 
-Tamil Language Competitions
+**Tamil Language Competitions**
 
 We focus on the individual learning needs of our students and apply differentiated teaching strategies to cater to each student. We also send our students for external competitions organised by community centres and expose them to the community outside, boosting their self-esteem and confidence.
 
@@ -64,3 +62,21 @@ Tamil Touch-typing Practice<br>
 
 IMTL Login:<br>
 [https://imtl.sg/login/index.php](https://imtl.sg/login/index.php)
+
+### Malay Language
+
+**Overview**
+
+The Malay Language Unit of the Mother Tongue Department at CHIJ aims to develop the language as a Living Language - one that is used on a day to day basis, in various environments, by students who are articulate, confident and passionate about their mother tongue. 
+
+**Lessons**
+
+Malay Language lessons provide the best opportunity and platform for the students to learn and inculcate the love for the Malay Language. Leveraging on the usage of innovative pedagogies and tools, we strive to engage our students effectively. Also recognising the challenges faced by students in learning the language, we aim to inculcate, to the best of our ability, the usage of the language in an authentic learning environment. These will ensure that our students are articulate in the language.
+
+**Mother Tongue Activities**
+
+Through the students participation in activities organised such as the Mother Tongue Fortnight and Learning Journeys, students develop a greater understanding of the Malay culture and norms. Activities such as the Malay Language & Cultural Quiz and theatre or drama performances viewing also provide a platform for the students to explore deeper. These will develop the confidence in our students in using the language.
+
+**Competitions**
+
+Throughout the school year, our students are encouraged to participate in a myriad of Malay Language competitions and activities organised by MOE and various organisations. Through their participation in these competitions, students develop their passion and love for the language. With this, we hope that our students will also learn to realise the language roles and importance in the society, country and regional world.
