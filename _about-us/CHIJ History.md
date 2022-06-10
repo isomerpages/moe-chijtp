@@ -44,3 +44,80 @@ Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogl
 
 </body>
 </html>
+
+**1862**
+* * *
+More land is acquired. Enrolment reaches 145, of which 82 receive free education.
+
+**1881**  
+* * *
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="/images/CHIJ%20History%20(2).jpg" 
+style="width:170px;height:170px;margin-left:15px;">
+CHIJ is declared a Government-Aided School..</p>
+
+</body>
+</html>
+
+**1902**  
+* * *
+Enrolment reaches 300. The junior Cambridge Examination begins.
+
+**1905**  
+* * *
+Secondary Education starts.
+
+**1909**  
+* * *
+The well-known Victoria Street chapel is erected.
+
+**1920**  
+
+* * *
+Commercial classes are introduced, the first of their kind in Singapore, with an average class size of 15 to 20 students. Domestic Science and Needlework are introduced into the curriculum.
+
+**1921**
+
+* * *
+
+<html>
+<head>
+<style>
+img {
+  float: right;
+}
+</style>
+</head>
+<body>
+
+<p><img src="/images/CHIJ%20History%20(3).jpg" 
+style="width:170px;height:170px;margin-left:15px;">
+The Registration of School Ordinance comes into being. CHIJ is registered on 1 August.</p>
+
+</body>
+</html>
+
+**1931**  
+* * *
+A piece of land adjoining the Van Dyke Hotel is acquired. This is used as a hostel and subsequently becomes part of CHIJ Secondary.
+
+**1964**  
+* * *
+CHIJ separates into Primary and Secondary Schools.
+
+**1969**  
+* * *
+A common curriculum is introduced for Secondary 1 and 2.
+
+**1975**  
+* * *
+Pre-university classes at CHIJ are terminated. The Board of Management of all IJ Schools is formed.
