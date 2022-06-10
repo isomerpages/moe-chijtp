@@ -2,17 +2,17 @@ collections:
   cca:
     output: true
     order:
-      - Sports & Games/Dragonboating.md
-      - Sports & Games/Bowling.md
-      - Sports & Games/Tennis.md
-      - Sports & Games/Squash.md
-      - Sports & Games/Rhythmic Gymnastics.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Track & Field.md
-      - Sports & Games/Sports & Games.md
       - Sports & Games/.keep
+      - Sports & Games/Sports & Games.md
+      - Sports & Games/Track & Field.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Sports & Games/Squash.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Dragonboating.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Clubs & Societies.md
       - Clubs & Societies/Arts Alive!.md
