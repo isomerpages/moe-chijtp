@@ -2,4 +2,5 @@ collections:
   ij-goes-global:
     output: true
     order:
+      - IJ goes Global.md
       - 2019/.keep
