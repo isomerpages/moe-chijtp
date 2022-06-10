@@ -2,10 +2,10 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/NCC (Sea).md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/Uniformed Group.md
       - Uniformed Groups/.keep
+      - Uniformed Groups/Uniformed Group.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Sea).md
       - Sports & Games/.keep
       - Sports & Games/Sports & Games.md
       - Sports & Games/Track & Field.md
