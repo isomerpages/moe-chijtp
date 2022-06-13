@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Announcements.md
       - Students.md
       - Teachers.md
       - Parents.md
