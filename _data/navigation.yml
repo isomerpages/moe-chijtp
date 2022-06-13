@@ -1,10 +1,11 @@
 logo: /images/CHIJ-Crest-2013-CYMK-600x684.jpeg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Page
-    url: /page/
-  - title: Resource
-    resource_room: true
-  - title: Menu Title
+  - title: About Us
+    collection: about-us
+  - title: Achievements
     collection: achievements
+  - title: CCA
+    collection: cca
+  - title: Departments
+    url: /departments/Arts
+    sublinks: []
