@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Group.md
+      - Uniformed Groups/Red Cross Youth.md
       - Uniformed Groups/Girl Guides.md
       - Uniformed Groups/NCC (Sea).md
       - Sports & Games/.keep
