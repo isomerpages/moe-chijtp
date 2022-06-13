@@ -49,5 +49,5 @@ third_nav_title: Sports & Games
 
 ![](/images/Basketball%20(Students-2).jpg)
 <center><i>Inter-School Basketball Championships</i><center>
-	
+
 ![](/images/Basketball%20(Students-3).jpg)
