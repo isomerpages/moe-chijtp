@@ -68,3 +68,19 @@ Students who are under the following schemes would automatically qualify for sub
 Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy **[Form][](/files/Annex%20D.pdf)** to apply for an additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household. 
 
 Application for subsidy should be submitted to the General Office.
+
+**Important Actions For Parents**
+
+  
+
+To proceed with the purchase of PLD, please complete the online form at this [**link**](https://go.gov.sg/pdlpadmin). 
+
+  
+
+The online form will consist:   
+
+*   Intent to Purchase PLD 
+*   Edusave Withdrawal (for SC only)     
+*   Authorisation to collect PLD 
+
+If you are unable to submit this form online, please contact the school's General Office for a hardcopy version or click this link to download the **[files](/files/Intentform22.pdf)** , and submit it to the General Office.
