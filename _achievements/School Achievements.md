@@ -30,3 +30,9 @@ description: ""
 
 <img src="/images/Best%20Practice%20Award%20(Character%20and%20Citizenship%20Education).jpg" 
      style="width:40%">
+		 
+<center><strong><u>Best Practice Award
+(Partnership)</u></center></strong>
+
+<img src="/images/Best%20Practice%20Award%20(Partnership).jpg" 
+     style="width:40%">
