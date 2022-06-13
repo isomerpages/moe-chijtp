@@ -105,6 +105,6 @@ The CHIJ Secondary Choir also anchored the 165th historical celebrations of the 
 
 We wish to express our heartfelt thanks to all involved, for the dedication and hard work, that continually inspire Choir girls to give of their best at every local and international competition.
 
-**Achievements**
+<strong>Achievements</strong>
 ***
 ![](/images/Choir%20(Students-3)%20at%20SYF%202013.jpg)
