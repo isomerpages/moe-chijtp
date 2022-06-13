@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Open House.md
       - Principal's Message.md
       - Mission, Vision, Our Crest and Motto.md
       - CHIJ History.md
@@ -13,4 +12,5 @@ collections:
       - School Organization/CHIJ EAS.md
       - School Organization/CHIJ Parent Support Group.md
       - Key Information.md
+      - Open House.md
       - NDLP.md
