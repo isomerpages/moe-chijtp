@@ -3,13 +3,18 @@ title: School Achievements
 permalink: /achievements/school-achievements
 description: ""
 ---
-<center><strong>Singapore Quality Class</center></strong>
+<center><strong><u>Singapore Quality Class</center></strong></u>
 
 <img src="/images/Singapre%20Quality%20Class.jpg" 
      style="width:60%">
 
 
-<center><strong>Singapore Distinction Award</center></strong>
+<center><strong><u>Singapore Distinction Award</u></center></strong>
 
 <img src="/images/Singapore%20Distinction%20Award.jpg" 
      style="width:60%">
+		 
+<center><strong><u>Best Practice Award
+(Teaching & Learning)</u></center></strong>
+<img src="/images/Best%20Practice%20Award%20(Teaching%20&%20Learning).jpg" 
+     style="width:40%">
