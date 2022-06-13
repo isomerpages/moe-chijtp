@@ -24,3 +24,9 @@ description: ""
 
 <img src="/images/Best%20Practice%20Award%20(Staff%20Well-Being%20and%20Development).jpg" 
      style="width:40%">
+	
+<center><strong><u>Best Practice Award
+(Character and Citizenship Education)</u></center></strong>
+
+<img src="/images/Best%20Practice%20Award%20(Character%20and%20Citizenship%20Education).jpg" 
+     style="width:40%">
