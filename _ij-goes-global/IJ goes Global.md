@@ -41,3 +41,5 @@ Subject-based and CCA-based learning journeys are also an integral part of IJ Go
 
 </body>
 </html>
+
+![](/images/IJ%20global%202.png)
