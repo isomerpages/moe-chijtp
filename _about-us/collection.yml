@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - NDLP.md
       - Principal's Message.md
       - Mission, Vision, Our Crest and Motto.md
       - CHIJ History.md
@@ -13,3 +12,4 @@ collections:
       - School Organization/CHIJ EAS.md
       - School Organization/CHIJ Parent Support Group.md
       - Key Information.md
+      - NDLP.md
