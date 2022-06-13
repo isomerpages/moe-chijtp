@@ -2,9 +2,9 @@ collections:
   resources:
     output: true
     order:
-      - IJ Calender.md
-      - Announcements.md
-      - Students.md
-      - Teachers.md
       - Parents.md
+      - Teachers.md
+      - Students.md
+      - Announcements.md
+      - IJ Calender.md
       - CHIJ Museum.md
