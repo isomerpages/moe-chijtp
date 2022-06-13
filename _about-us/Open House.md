@@ -4,4 +4,4 @@ permalink: /about-us/open-house
 description: ""
 ---
 # Open House Link
-https://sites.google.com/chijsec.edu.sg/virtualopenhouse
+[open house site](https://sites.google.com/chijsec.edu.sg/virtualopenhouse)
