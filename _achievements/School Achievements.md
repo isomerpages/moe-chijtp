@@ -42,3 +42,8 @@ description: ""
 
 <img src="/images/Best%20Practice%20Award%20(Student%20All-Round%20Development).jpg" 
      style="width:40%">
+		
+<center><strong><u>Centre of Excellence
+(Language & The Arts)</u></center></strong>
+<img src="/images/Centre%20of%20Excellence%20(Language%20&%20The%20Arts).jpg" 
+     style="width:40%">
