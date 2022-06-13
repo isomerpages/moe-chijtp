@@ -36,3 +36,9 @@ description: ""
 
 <img src="/images/Best%20Practice%20Award%20(Partnership).jpg" 
      style="width:40%">
+
+<center><strong><u>Best Practice Award
+(Student All-Round Development)</u></center></strong>
+
+<img src="/images/Best%20Practice%20Award%20(Student%20All-Round%20Development).jpg" 
+     style="width:40%">
