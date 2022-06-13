@@ -3,4 +3,7 @@ title: Parents
 permalink: /resources/parents
 description: ""
 ---
-**NEW!** **[[STUDENT PARENTS CCA BRIEFING SLIDES]](/files/CCABriefingslides2022.pdf))**
+**NEW!** **[STUDENT PARENTS CCA BRIEFING SLIDES](/files/CCABriefingslides2022.pdf))**
+
+**NEW!** **[student CCA info booklet]()**
+
