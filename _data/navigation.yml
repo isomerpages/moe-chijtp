@@ -8,4 +8,6 @@ links:
     collection: cca
   - title: Departments
     url: /departments/Arts
-    sublinks: []
+    sublinks:
+      - title: Arts
+        url: /departments/Arts
