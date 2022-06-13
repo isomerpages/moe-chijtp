@@ -84,3 +84,16 @@ The online form will consist: 
 *   Authorisation to collect PLD 
 
 If you are unable to submit this form online, please contact the school's General Office for a hardcopy version or click this link to download the **[files](/files/Intentform22.pdf)** , and submit it to the General Office.
+
+
+**Further Queries**
+
+Should there be any further queries or clarification, please email <helpdesk@chijsec.edu.sg>  
+
+**Resources**
+
+Parents Handbook on Learning with PLD [Book 1](/files/ParentHB1.pdf) &  **Book 2**
+
+  
+
+Cyberwellness Resources for Parents [Parent's Kit](/files/cybwellness4uchild.pdf)
