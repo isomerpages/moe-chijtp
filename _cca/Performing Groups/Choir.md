@@ -43,29 +43,29 @@ third_nav_title: Performing Groups
 
   
 
-<font color="#0000ff">C</font>**ommitment**
+<font color="#0000ff">C</font><strong>ommitment</strong>
 
 Committed to the music with a strong sense of purpose and self-discipline
 
   
 
-<font color="#0000ff">H</font>**umility**
+<font color="#0000ff">H</font><strong>umility</strong>
 
 To be humble before God and Man
 
   
 
-<font color="#0000ff">I</font>**nclusiveness**
+<font color="#0000ff">I</font><strong>nclusiveness</strong>
 
 A community that builds enduring friendships amongst choristers of diverse backgrounds
 
   
 
-<font color="#0000ff">J</font>**oy**
+<font color="#0000ff">J</font><strong>oy</strong>
 
 Develop a sense of gratitude and the joy for music
 
-<u>**MISSION**</u>
+<u><strong>MISSION </strong></u>
 
 The Convent of the Holy Infant Jesus Secondary Choir is committed to:
 
@@ -77,7 +77,7 @@ The Convent of the Holy Infant Jesus Secondary Choir is committed to:
 
   
 
-<u>**VISION**</u>
+<u><strong>VISION</strong></u>
 
 The Convent of the Holy Infant Jesus Secondary Choir is committed to:  
 
