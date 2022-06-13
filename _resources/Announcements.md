@@ -93,3 +93,8 @@ We would also like to inform you that when your child arrives at the vaccination
 Thank you. Together we can overcome this. Stay safe!
 
 FormSG Link ([https://go.gov.sg/moevaccsmsgc](https://go.gov.sg/moevaccsmsgc))
+
+* [Letter of Consent Declaration Forms](/files/Letter%20of%20consent%20%20Declaration%20Form.pdf)
+* [Parent Kit on Student Vaccination Exercise ](/files/Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
+* [Press Release on Vaccination Exercise for Students](/files/Press%20Release%20on%20Vaccination%20Exercise%20for%20Students.pdf)
+* [Vaccination for students infographic](/files/Vaccination%20for%20students%20Infographic.pdf)
