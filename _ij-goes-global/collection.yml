@@ -2,6 +2,7 @@ collections:
   ij-goes-global:
     output: true
     order:
+      - 2018/Vietnam.md
       - 2018/Hong Kong (Choir).md
       - 2018/.keep
       - IJ goes Global.md
