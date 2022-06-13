@@ -48,6 +48,6 @@ third_nav_title: Sports & Games
 “Feel the passion, love the game” This is exactly how the IJ Basketball team feels about the game. With such dedication, those who join us are bound to feel it too. The team participates in the South Zone Secondary Schools Basketball Championships, has friendly matches with various schools and competitions organized by external organizations.
 
 ![](/images/Basketball%20(Students-2).jpg)
-<center><i>Inter-School Basketball Championships</i><center>
+<center><i>Inter-School Basketball Championships</i></center>
 
 ![](/images/Basketball%20(Students-3).jpg)
