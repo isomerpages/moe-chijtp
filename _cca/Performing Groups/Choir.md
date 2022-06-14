@@ -43,25 +43,25 @@ third_nav_title: Performing Groups
 
   
 
-<font color="#0000ff">C</font><strong>ommitment</strong>
+**C**ommitment
 
 Committed to the music with a strong sense of purpose and self-discipline
 
   
 
-<font color="#0000ff">H</font><strong>umility</strong>
+**H**umility
 
 To be humble before God and Man
 
   
 
-<font color="#0000ff">I</font><strong>nclusiveness</strong>
+**I**nclusiveness
 
 A community that builds enduring friendships amongst choristers of diverse backgrounds
 
   
 
-<font color="#0000ff">J</font><strong>oy</strong>
+**J**oy
 
 Develop a sense of gratitude and the joy for music
 
