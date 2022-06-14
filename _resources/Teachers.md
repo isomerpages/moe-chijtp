@@ -6,5 +6,5 @@ description: ""
 ## CHIJ Link
   
 <p><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
-<img height="50" width="50" src="/images/safetyPortal_ver2.png">  
+<img height="20" width="30" src="/images/safetyPortal_ver2.png">  
 </a></p>
