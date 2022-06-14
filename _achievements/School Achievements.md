@@ -3,7 +3,7 @@ title: School Achievements
 permalink: /achievements/school-achievements
 description: ""
 ---
-<strong><p style="text-align: center;">Singapore Quality Class</p>
+<center><strong><u>Singapore Quality Class</u></center></strong>
 
 <img src="/images/Singapre%20Quality%20Class.jpg" 
      style="width:40%">
