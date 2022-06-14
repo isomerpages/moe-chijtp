@@ -4,9 +4,6 @@ permalink: /resources/teachers
 description: ""
 ---
 ## CHIJ Link
-  
-  
-  
 <p><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
 <img style="width:25%" src="/images/safetyPortal_ver2.png">  
 </a></p>  
@@ -30,4 +27,25 @@ description: ""
 
 <p><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
 <img style="width:25%" src="/images/JIT.png">  
+</a></p>
+
+<p><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
+<img style="width:25%" src="/images/ij%20staff%20portal.png">  
+</a></p>
+
+<p><a href="https://vle.learning.moe.edu.sg/login">  
+<img style="width:25%" src="/images/SLS.png">  
+</a></p>
+
+<p><a href="https://vle.learning.moe.edu.sg/login">  
+<img style="width:25%" src="/images/SLS.png">  
+</a></p>
+
+
+<p><a href="https://forms.gle/vonHJXvTW6a49d9VA">  
+<img style="width:25%" src="/images/IT%20Equipment_ver2.png">  
+</a></p>
+
+<p><a href="https://rbs.avero-tech.com/login.html">  
+<img style="width:25%" src="/images/Venue%20Booking%20Icon.png">  
 </a></p>
