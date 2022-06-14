@@ -7,3 +7,6 @@ description: ""
 
 **NEW!** **[student CCA info booklet]()**
 
+**NEW!** **[NDLP@CHIJ](https://moe-chijtp-staging.netlify.app/ndlp)**
+
+**NEW! [MOE PARENTING-FOCUSED INSTAGRAM ACCOUNT](https://www.instagram.com/parentingwith.moesg/)**
