@@ -15,6 +15,7 @@ description: ""
 <img style="width:25%" src="/images/CCA%20Orientation%20Slides%20Icon.png">  
 </p>
 
+
 <p><a href="https://workspace.google.com/dashboard"> 
 <img style="width:25%" src="/images/stdicon.png">  
 </a></p>
@@ -22,5 +23,3 @@ description: ""
 <p><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
 <img style="width:25%" src="/images/CHIJ%20Library%20Catalogue%20Icon.png">  
 </a></p>
-
-
