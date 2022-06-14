@@ -12,11 +12,19 @@ description: ""
 </a></p>
 
 <p><a href="/files/CCABriefingslides2022%20(1).pdf">
-<img style="width:25%" src="/images/CCA%20Orientation%20Slides%20Icon.png">
-</p>
+<img style="width:25%" src="/images/CCA%20Orientation%20Slides%20Icon.png"></p>
 
 <p><a href="https://workspace.google.com/dashboard"> 
 <img style="width:25%" src="/images/stdicon.png">  
+</a></p>
+
+<p><a href=""> 
+<img style="width:25%" src="/images/CCABK.png">  
+</a></p>
+Slides more than 5MB
+
+<p><a href="/files/iconguide.pdf"> 
+<img style="width:25%" src="/images/iconguide.png">  
 </a></p>
 
 <p><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
