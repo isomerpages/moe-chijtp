@@ -124,7 +124,7 @@ third_nav_title: Students Achievements
 <thead>
   <tr>
     <th class="tg-v41i" rowspan="2">CCA<br> </th>
-    <th class="tg-brl1"><span style="font-weight:bold">COMPETITION</span><br></th>
+    <th class="tg-vo25"><span style="font-weight:bold">COMPETITION</span></th>
     <th class="tg-v41i" colspan="2">2018</th>
     <th class="tg-s2rg" colspan="2">2019<span style="color:#222;background-color:transparent"> </span><br><br></th>
   </tr>
