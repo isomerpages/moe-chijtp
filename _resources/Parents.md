@@ -41,3 +41,11 @@ description: ""
 
 
 **\[PARENT KIT\]: HELPFUL TIPS ON ENGAGING YOUR TEEN DURING THIS PERIOD**[Rkit-HBL](/files/RKit-HBL.pdf)
+
+### Secondary 1 Matters
+
+* [5. QA Subject Based Banding](/files/QA%20Subject%20Based%20Banding.pdf)
+
+### Subject Allocation 
+* [Subject Allocation Briefing Slides 8 Apr](/files/Subject%20Allocation%20Briefing%20Slides%208%20Apr.pdf)
+* [Subject Allocation Briefing Slides 22 Apr](/files/Subject%20Allocation%20Briefing%20Slides%2022%20Apr.pdf)
