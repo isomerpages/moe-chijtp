@@ -58,7 +58,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-y8xx">Netball</td>
-    <td class="tg-pfgq">South Zone Inter-School  <br><br><br><br><br>National Inter-School<br><br></td>
+    <td class="tg-68g4">South Zone Inter-School  <br><br><br><br><br>National Inter-School<br><br></td>
     <td class="tg-pfgq">1st <br><br><br><br><br>1st<br> </td>
     <td class="tg-pfgq">1st<br><br><br><br><br>1st<br> </td>
     <td class="tg-68g4">1st<br><br><br><br> <br>2nd</td>
@@ -66,7 +66,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-y8xx">Tennis</td>
-    <td class="tg-pfgq">National Inter-School</td>
+    <td class="tg-68g4">National Inter-School</td>
     <td class="tg-pfgq">5th<br>(Plate Champion)</td>
     <td class="tg-pfgq">5th<br>(Plate Champion)</td>
     <td class="tg-pfgq">5th<br>(Plate Champion)</td>
@@ -74,7 +74,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-y8xx">Ten-Pin Bowling</td>
-    <td class="tg-pfgq">National Inter-School<br><br><br>- Overall</td>
+    <td class="tg-68g4">National Inter-School<br><br><br>- Overall</td>
     <td class="tg-pfgq">8th</td>
     <td class="tg-pfgq">7th</td>
     <td class="tg-pfgq">5th</td>
