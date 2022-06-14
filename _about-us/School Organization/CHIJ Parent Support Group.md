@@ -4,11 +4,11 @@ permalink: /about-us/School-Organization/chij-parent-support-group
 description: ""
 third_nav_title: School Organization
 ---
-<img style="width:40%" src="/images/Audra%20Chuah.jpg">
+<img style="width:25%" src="/images/Audra%20Chuah.jpg">
 
-Dear Parents/Guardians,&nbsp;
+Dear Parents/Guardians,
 
-Hello and a warm welcome to our new Secondary 1 students and parents.&nbsp;
+Hello and a warm welcome to our new Secondary 1 students and parents.
 
 The pandemic continues to affect us in different ways, and in this new school year, there will still be restrictions that prevent us from being physically involved in school activities. While we could not activate Parent Volunteers to support in school activities, we actively explored different ways that we could support the school and our girls. We are glad to be able to collaborate with the school in some programmes last year.&nbsp;
 
