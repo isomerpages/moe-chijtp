@@ -11,10 +11,9 @@ description: ""
 <img style="width:25%" src="/images/SLS.png">  
 </a></p>
 
-<p>
-<img style="width:25%" src="/images/CCA%20Orientation%20Slides%20Icon.png">  
+<p><a href="/files/CCABriefingslides2022%20(1).pdf">
+<img style="width:25%" src="/images/CCA%20Orientation%20Slides%20Icon.png">
 </p>
-
 
 <p><a href="https://workspace.google.com/dashboard"> 
 <img style="width:25%" src="/images/stdicon.png">  
