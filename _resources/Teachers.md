@@ -27,3 +27,7 @@ description: ""
 <p><a href="/resources/chij-museum">  
 <img style="width:25%" src="/images/CHIJ%20Museum%20Icon.png">  
 </a></p>
+
+<p><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
+<img style="width:25%" src="/images/JIT.png">  
+</a></p>
