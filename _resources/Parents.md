@@ -38,3 +38,6 @@ description: ""
 
 **Secondary 5**
 * [S5NA Booklist](/files/S5NAbooklist.pdf)
+
+
+**\[PARENT KIT\]: HELPFUL TIPS ON ENGAGING YOUR TEEN DURING THIS PERIOD**[Rkit-HBL](/files/RKit-HBL.pdf)
