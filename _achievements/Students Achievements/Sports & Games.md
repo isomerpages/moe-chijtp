@@ -43,10 +43,10 @@ third_nav_title: Students Achievements
   <tr>
     <td class="tg-y8xx">Basketball</td>
     <td class="tg-68g4"><br> <br>ActiveSG – BAS Basketball Development League<br><br><br>T-Net Club Under-14 Boys &amp; Girls Basketball Tournament<br><br><br><br>T-Net Club Under-16 Boys &amp; Girls Basketball Tournament</td>
-    <td class="tg-pfgq"> <br> <br> <br> <br> <br> <br> <br> <br><br>4th</td>
+    <td class="tg-pfgq"> <br> <br> <br> <br> <br> <br> <br> <br><br><br>4th</td>
     <td class="tg-pfgq"><br><br>3rd</td>
     <td class="tg-pfgq"> <br> <br>  <br><br><br>1st</td>
-    <td class="tg-pfgq"> <br> <br> <br> <br> <br> <br> <br> <br> <br>2nd<br></td>
+    <td class="tg-pfgq"> <br> <br> <br> <br> <br> <br> <br> <br><br> <br>2nd<br></td>
   </tr>
   <tr>
     <td class="tg-y8xx">Gym (Rhythmics)</td>
