@@ -10,3 +10,8 @@ description: ""
   
 
 MID-YEAR EXAMINATION TIMETABLE 2022
+* [Sec 2 MYE TT 2022](/files/MYE22S2.pdf)
+* [Sec 4E5N MYE TT 2022](/files/MYE22S4E5N.pdf)
+* [Sec 4NA MYE TT 2022](/files/MYE22S4NA.pdf)
+* [Sec 4NT MYE TT 2022](/files/MYE22S4NTa.pdf)
+* [S3HMT MYE TT 2022](/files/MYE22S3HMT.pdf)
