@@ -49,3 +49,33 @@ description: ""
 <p><a href="https://rbs.avero-tech.com/login.html">  
 <img style="width:25%" src="/images/Venue%20Booking%20Icon.png">  
 </a></p>
+
+# MOE Links
+<p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">  
+<img style="width:25%" src="/images/MIMS.png">  
+</a></p>
+
+<p><a href="https://workspace.google.com/dashboard"> 
+<img style="width:25%" src="/images/iconemail_ver2.png">  
+</a></p>
+
+<p><a href="https://intranet.moe.gov.sg/"> 
+<img style="width:25%" src="/images/MOE%20Intranet%20Icon.png">  
+</a></p>
+
+<p><a href="https://schoolcockpit.moe.gov.sg/"> 
+<img style="width:25%" src="/images/School%20Cockpit%20Icon.png">  
+</a></p>
+
+<p><a href="https://schoolcockpit.moe.gov.sg/academic/"> 
+<img style="width:25%" src="/images/sccsr.png">  
+</a></p>
+
+<p><a href="https://www.hrp.gov.sg/hrp/#/"> 
+<img style="width:25%" src="/images/hrp.png">  
+</a></p>
+
+
+
+
+
