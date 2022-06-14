@@ -24,6 +24,6 @@ description: ""
 </a></p>
 
 
-<p><a href="https://scmobile.moe.edu.sg/login">  
+<p><a href="/resources/chij-museum">  
 <img style="width:25%" src="/images/CHIJ%20Museum%20Icon.png">  
 </a></p>
