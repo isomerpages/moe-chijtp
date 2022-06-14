@@ -87,3 +87,15 @@ description: ""
 <img style="width:25%" src="/images/iExams%20Icon.png">  
 </a></p>
 
+<p><a href="http://intranet.moe.gov.sg/hr_online/"> 
+<img style="width:25%" src="/images/HR%20Online%20Icon.png">  
+</a></p>
+
+<p><a href="https://ibens.moe.gov.sg/rm/"> 
+<img style="width:25%" src="/images/ibens_ver2.png">  
+</a></p>
+
+<p><a href="https://pg.moe.edu.sg/"> 
+<img style="width:25%" src="/images/PG2.png">  
+</a></p>
+
