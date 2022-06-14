@@ -30,3 +30,9 @@ Slides more than 5MB
 <p><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
 <img style="width:25%" src="/images/CHIJ%20Library%20Catalogue%20Icon.png">  
 </a></p>
+
+
+<p><a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
+<img style="width:25%" src="/images/timetable.png">  
+</a></p>
+
