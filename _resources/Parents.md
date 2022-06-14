@@ -49,3 +49,7 @@ description: ""
 ### Subject Allocation 
 * [Subject Allocation Briefing Slides 8 Apr](/files/Subject%20Allocation%20Briefing%20Slides%208%20Apr.pdf)
 * [Subject Allocation Briefing Slides 22 Apr](/files/Subject%20Allocation%20Briefing%20Slides%2022%20Apr.pdf)
+
+### IJ Quarterly
+* [IJ Quarterly 2022 T1](/files/IJ%20Quarterly%202022-T1.pdf)
+* [IJ Quarterly 2022 T2](/files/IJ%20Quarterly%202022-T2.pdf)
