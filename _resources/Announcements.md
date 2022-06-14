@@ -8,7 +8,6 @@ description: ""
 
 ## CHIJ Secondary CCA Briefing for Parents
 
-### 
 
 [\> read more](https://www-chijsec-edu-sg-admin.cwp.sg/general/newsnevents/cca-briefing)
 
