@@ -18,6 +18,11 @@ description: ""
 <img style="width:25%" src="/images/stdicon.png">  
 </a></p>
 
+<p><a href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"> 
+<img style="width:25%" src="/images/stdicon.png">  
+</a></p>
+
+
 <p><a href=""> 
 <img style="width:25%" src="/images/CCABK.png">  
 </a></p>
@@ -36,3 +41,6 @@ Slides more than 5MB
 <img style="width:25%" src="/images/timetable.png">  
 </a></p>
 
+<p><a href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"> 
+<img style="width:25%" src="/images/HBL.jpg">  
+</a></p>
