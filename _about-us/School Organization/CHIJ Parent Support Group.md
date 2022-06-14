@@ -45,8 +45,6 @@ img {
 
 
 
-
-
 <p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
 </p><center>Mrs Audra Chuah<br>
 	Chairperson</center><p></p>
