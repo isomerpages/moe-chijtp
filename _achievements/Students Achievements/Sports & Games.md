@@ -107,3 +107,83 @@ third_nav_title: Students Achievements
 </table>
 
 ## Achievements 2018-2019
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-rlkj{color:#222;text-align:center;vertical-align:middle}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v41i" rowspan="2">CCA<br> </th>
+    <th class="tg-brl1"> <br>COMPETITION</th>
+    <th class="tg-v41i" colspan="2">2018</th>
+    <th class="tg-s2rg" colspan="2">2019<span style="color:#222;background-color:transparent"> </span><br><br></th>
+  </tr>
+  <tr>
+    <th class="tg-brl1"> <br> </th>
+    <th class="tg-v41i">C<br>Div</th>
+    <th class="tg-v41i">B<br>Div</th>
+    <th class="tg-v41i">C<br>Div<span style="color:#222;background-color:transparent"> </span><br><br></th>
+    <th class="tg-v41i">B<br>Div<span style="color:#222;background-color:transparent"> </span><br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v41i">Badminton</td>
+    <td class="tg-vo25">South Zone Inter-School</td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> 3rd </span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Basketball</td>
+    <td class="tg-vo25"><br>ActiveSG – BAS Basketball Development League<br></td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-rlkj"><br><span style="color:#222;background-color:transparent">2nd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Gym (Rhythmics)</td>
+    <td class="tg-vo25">National Inter-School</td>
+    <td class="tg-brl1">3rd  </td>
+    <td class="tg-brl1">3rd  </td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3rd</span><br><span style="color:#222;background-color:transparent">  </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">3rd</span><br><span style="color:#222;background-color:transparent">  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Netball</td>
+    <td class="tg-brl1">South Zone Inter-School  <br>National Inter-School<br><br></td>
+    <td class="tg-brl1">1st</td>
+    <td class="tg-brl1">1st<br></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">QF </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">1st </span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Netball Rec</td>
+    <td class="tg-brl1">Daisy Tan Carnival</td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-brl1">6th</td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-v41i">Tennis</td>
+    <td class="tg-brl1">National Inter-School</td>
+    <td class="tg-brl1"> </td>
+    <td class="tg-brl1">4th</td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
+    <td class="tg-rlkj"><span style="color:#222;background-color:transparent">4</span>th<span style="color:#222;background-color:transparent"> </span></td>
+  </tr>
+</tbody>
+</table>
