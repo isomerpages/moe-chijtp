@@ -6,6 +6,8 @@ third_nav_title: School Organization
 ---
 <img style="width:25%" src="/images/Audra%20Chuah.jpg">
 
+
+
 Dear Parents/Guardians,
 
 Hello and a warm welcome to our new Secondary 1 students and parents.
@@ -22,7 +24,9 @@ God’s Blessings to you all,<br>
 Audra
 
 ***“We Serve With Faith, Hope and Love…”***
-![](/images/lordspeech.png)
+
+<img src="/images/lordspeech.png" 
+     style="width:60%">
 
 ![](/images/QR.jpg)
 Please contact any of our Exco members
@@ -38,14 +42,12 @@ psg.chijsec@gmail.com
 
 
 <style>
-img {
-  float: left;
-}
+
 </style>
 
 
 
-<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
+<p><img style=" float:left;width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
 </p><center>Mrs Audra Chuah<br>
 	Chairperson</center><p></p>
 
@@ -55,17 +57,13 @@ img {
 * * *
 
 
-<style>
-img {
-  float: left;
-}
-</style>
 
 
 
 
 
-<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Mrs%20Olivia%20Tang-Yeo.jpg">
+
+<p><img style="float:left;width:60px;height:80px;margin-left:15px;" src="/images/Mrs%20Olivia%20Tang-Yeo.jpg">
 </p><center>Mrs Olivia Tang-Yeo<br> 
 Vice Chairperson<br>
 </center><p></p>
@@ -77,17 +75,13 @@ Vice Chairperson<br>
 
 
 
-<style>
-img {
-  float: left;
-}
-</style>
 
 
 
 
 
-<p><img style="width:60px;height:80px;margin-left:15px;" src="/images/Lorene.jpg">
+
+<p><img style="float:left;width:60px;height:80px;margin-left:15px;" src="/images/Lorene.jpg">
 </p><center>Mrs Lorene Lim<br> 
 Secretary<br>
 </center><p></p>
