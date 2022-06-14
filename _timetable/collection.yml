@@ -1,4 +1,5 @@
 collections:
   timetable:
     output: true
-    order: []
+    order:
+      - Timetable 2022.md
