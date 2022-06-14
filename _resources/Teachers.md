@@ -75,7 +75,15 @@ description: ""
 <img style="width:25%" src="/images/hrp.png">  
 </a></p>
 
+<p><a href="https://pacgov.agd.gov.sg/ipac/portal/jsp/login/index1.jsp"> 
+<img style="width:25%" src="/images/PAC@Gov%20Icon.png">  
+</a></p>
 
+<p><a href="https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DG4oD5k-svMnSLVnAUE_8KSDX-nab7hb3DOYNJGthIHa_H%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DV6vdoWiCS67jrV-tfW1ZaMpuusgh5pmXubT06peXu_4%26code_challenge_method%3DS256%26nonce%3DG4oD5k-svMnSLVnAUE_8KSDX-nab7hb3DOYNJGthIHa_H"> 
+<img style="width:25%" src="/images/opal2.png">  
+</a></p>
 
-
+<p><a href="https://iexams.seab.gov.sg/login"> 
+<img style="width:25%" src="/images/iExams%20Icon.png">  
+</a></p>
 
