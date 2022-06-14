@@ -124,7 +124,7 @@ third_nav_title: Students Achievements
 <thead>
   <tr>
     <th class="tg-v41i" rowspan="2">CCA<br> </th>
-    <th class="tg-brl1"> <br>COMPETITION</th>
+    <th class="tg-brl1"><span style="font-weight:bold">COMPETITION</span><br></th>
     <th class="tg-v41i" colspan="2">2018</th>
     <th class="tg-s2rg" colspan="2">2019<span style="color:#222;background-color:transparent"> </span><br><br></th>
   </tr>
@@ -163,7 +163,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-v41i">Netball</td>
-    <td class="tg-brl1">South Zone Inter-School  <br>National Inter-School<br><br></td>
+    <td class="tg-vo25">South Zone Inter-School  <br>National Inter-School<br><br></td>
     <td class="tg-brl1">1st</td>
     <td class="tg-brl1">1st<br></td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent">QF </span></td>
@@ -171,7 +171,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-v41i">Netball Rec</td>
-    <td class="tg-brl1">Daisy Tan Carnival</td>
+    <td class="tg-vo25">Daisy Tan Carnival</td>
     <td class="tg-brl1"> </td>
     <td class="tg-brl1">6th</td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
@@ -179,7 +179,7 @@ third_nav_title: Students Achievements
   </tr>
   <tr>
     <td class="tg-v41i">Tennis</td>
-    <td class="tg-brl1">National Inter-School</td>
+    <td class="tg-vo25">National Inter-School</td>
     <td class="tg-brl1"> </td>
     <td class="tg-brl1">4th</td>
     <td class="tg-rlkj"><span style="color:#222;background-color:transparent"> </span></td>
