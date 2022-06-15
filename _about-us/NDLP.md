@@ -3,7 +3,6 @@ title: NDLP
 permalink: /ndlp
 description: ""
 ---
-
 [NDLP Parents Engagement Slides](/files/NDLPslide.pdf)
 
 ![](/images/ipad.png)
@@ -66,7 +65,7 @@ Students who are under the following schemes would automatically qualify for sub
 *   Singapore Citizens who are already on MOE FAS or 
 *   Singapore Citizens who are already on our school-based FAS Scheme (IJ Bursary) and whose Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.   
 
-Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy **[Form][](/files/Annex%20D.pdf)** to apply for an additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household. 
+Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy **[Form](/files/Annex%20D.pdf)** to apply for an additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household. 
 
 Application for subsidy should be submitted to the General Office.
 
