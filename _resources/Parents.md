@@ -28,7 +28,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vo25" rowspan="2">With effect from 1 Jan 2022, our new uniform supplier will be:<br><br>Magdalene Sewing Centre Pte Ltd<br><br>5000 Ang Mo Kio Ave 5<br>Techplace 2 #05-09<br>Singapore 569870<br><br>Tel: 6293 5840<br><br>HP: 8638 0499<br><br>The new uniform supplier will also be selling the uniforms and PE attire in our school from 3 - 6 Jan 2022 (8.30am - 3pm). Online order can also be made at https://www.magdalene.com.sg<br><br>If you would like to visit their retail shop at Ang Mo Kio, please make an e-appointment on their website https://www.magdalene.com.sg before your visit.<br></td>
+    <td class="tg-vo25" rowspan="2">With effect from 1 Jan 2022, our new uniform supplier will be:<br><br>Magdalene Sewing Centre Pte Ltd<br><br>5000 Ang Mo Kio Ave 5<br>Techplace 2 #05-09<br>Singapore 569870<br><br>Tel: 6293 5840<br>HP: 8638 0499<br><br>The new uniform supplier will also be selling the uniforms and PE attire in our school from 3 - 6 Jan 2022 (8.30am - 3pm). Online order can also be made at https://www.magdalene.com.sg<br><br>If you would like to visit their retail shop at Ang Mo Kio, please make an e-appointment on their website https://www.magdalene.com.sg before your visit.<br></td>
   </tr>
   <tr>
   </tr>
