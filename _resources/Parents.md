@@ -69,6 +69,8 @@ description: ""
 
 ### Secondary 1 Matters
 
+* [1. Slides Presentation for Sec 1 Parents](https://go.gov.sg/fow6dq)
+
 * [5. QA Subject Based Banding](/files/QA%20Subject%20Based%20Banding.pdf)
 
 ### Subject Allocation 
@@ -85,5 +87,3 @@ The school will be admitting students via these talent areas in 2022:
 <table class="ive_eobj_center ives_tab_kosong" style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed; color: rgb(34, 34, 34); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 764.562px;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); vertical-align: top; border: 1px solid rgb(0, 0, 0); width: 313px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Badminton&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Basketball&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Rhythmic Gymnastics&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Netball&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Tennis&nbsp;</li></ul></div></td><td style="margin: 0px; outline: 0px; padding: 7px; text-align: center; background-color: transparent; color: rgb(34, 34, 34); vertical-align: top; border: 1px solid rgb(0, 0, 0); width: 271px;"><div style="margin: 0px; outline: 0px; padding: 0px; line-height: 22.4px; text-align: left;"><ul style="margin: 0px 0px 0.5em 1.5em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px;">Bowling&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Track and Field&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Concert Band&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Choir&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px;">Debating&nbsp;</li></ul></div></td></tr></tbody></table>
 
 For more information on DSA-Sec, please refer to the MOE website at [https://www.moe.gov.sg/secondary/dsa](https://www.moe.gov.sg/secondary/dsa)
-
-
