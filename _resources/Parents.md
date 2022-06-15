@@ -5,7 +5,7 @@ description: ""
 ---
 **NEW!** **[STUDENT PARENTS CCA BRIEFING SLIDES](/files/CCABriefingslides2022.pdf))**
 
-**NEW!** **[student CCA info booklet]()**
+**NEW!** **[Student CCA Info Booklet](https://go.gov.sg/7e6r03)**
 
 **NEW!** **[NDLP@CHIJ](https://moe-chijtp-staging.netlify.app/ndlp)**
 
@@ -69,7 +69,7 @@ description: ""
 
 ### Secondary 1 Matters
 
-* [1. Slides Presentation for Sec 1 Parents](https://go.gov.sg/fow6dq)
+* [1. Slides Presentation for Sec 1 Parents[Student CCA Info Booklet](https://go.gov.sg/7e6r03)](https://go.gov.sg/fow6dq)
 
 * [5. QA Subject Based Banding](/files/QA%20Subject%20Based%20Banding.pdf)
 
