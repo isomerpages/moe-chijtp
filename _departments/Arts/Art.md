@@ -46,7 +46,7 @@ For a glimpse of the AEP curriculum, please refer to the [Little Book of Art Le
 
   
 
-We celebrated our 30th Year of CHIJ AEP in 2015. A snippet of our exhibition can be found in the CHIJ AEP Show Catalogue.
+We celebrated our 30th Year of CHIJ AEP in 2015. A snippet of our exhibition can be found in the [CHIJ AEP Show Catalogue.](https://go.gov.sg/68zbki).
 
   
 
