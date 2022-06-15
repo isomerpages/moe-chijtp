@@ -92,7 +92,7 @@ Should there be any further queries or clarification, please email <helpdesk@chi
 
 **Resources**
 
-Parents Handbook on Learning with PLD [Book 1](/files/ParentHB1.pdf) &  **Book 2**
+Parents Handbook on Learning with PLD [Book 1](/files/ParentHB1.pdf) &  [Book 2](https://go.gov.sg/bagc5j)
 
   
 
