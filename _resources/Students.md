@@ -23,10 +23,10 @@ description: ""
 </a></p>
 
 
-<p><a href=""> 
+<p><a href="https://go.gov.sg/7e6r03"> 
 <img style="width:25%" src="/images/CCABK.png">  
 </a></p>
-Slides more than 5MB
+
 
 <p><a href="/files/iconguide.pdf"> 
 <img style="width:25%" src="/images/iconguide.png">  
