@@ -7,7 +7,7 @@ description: ""
 </a></p></center>
 
 <img src="/images/Nicolas%20Barre.jpg" 
-     style="width:50%">
+     style="width:20%">
 		 
 <center>*"The darkness of this night, wherein <br>
 one sees nothing, yet sees everything, <br>
