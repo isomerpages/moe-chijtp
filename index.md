@@ -28,4 +28,5 @@ sections:
       button: Click Here
       url: /resources/chij-museum
       alt: Image alt text
+      image: /images/CHIJ_Museum.jpg
 ---
