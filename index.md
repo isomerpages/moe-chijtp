@@ -16,5 +16,5 @@ sections:
   - infobar:
       title: Calendar of Events
       button: View All
-      url: /calendar/
+      url: /resources/ij-calender
 ---
