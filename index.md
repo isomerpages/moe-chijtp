@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/chijherobanner.gif
+      background: /images/chijtp1.jpeg
       key_highlights:
         - title: Announcements
           description: Read More
