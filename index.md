@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/chijherobanner.gif
-      key_highlights:
-        - title: Calendar of Events
-          description: ""
-          url: ""
   - infobar:
       title: Announcements
       description: About a sentence worth of description here
