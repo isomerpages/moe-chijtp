@@ -15,4 +15,10 @@ sections:
         - title: Calendar of Events
           description: View All
           url: /resources/ij-calender
+  - infobar:
+      title: Extended Curriculum Timetable
+      subtitle: Announcements
+      description: 20-24 June
+      button: Read More
+      url: /resources/announcements
 ---
