@@ -9,15 +9,11 @@ sections:
   - hero:
       background: /images/chijherobanner.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: ""
         - title: Calendar of Events
           description: ""
           url: ""
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
+      title: Announcements
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
