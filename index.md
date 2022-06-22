@@ -10,7 +10,11 @@ sections:
       background: /images/chijherobanner.gif
   - infobar:
       title: Announcements
-      description: About a sentence worth of description here
-      button: Button text
+      description: Extended Curriculum Timetable 20-24 June
+      button: Read More
       url: /faq/
+  - infobar:
+      title: Calendar of Events
+      button: View All
+      url: /calendar/
 ---
