@@ -21,4 +21,11 @@ sections:
       description: 20-24 June
       button: Read More
       url: /resources/announcements
+  - infopic:
+      title: IJ Museum
+      subtitle: Resources
+      description: Virtual Tour
+      button: Click Here
+      url: /resources/chij-museum
+      alt: Image alt text
 ---
