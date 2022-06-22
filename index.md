@@ -12,7 +12,7 @@ sections:
       title: Announcements
       description: Extended Curriculum Timetable 20-24 June
       button: Read More
-      url: /faq/
+      url: /resources/announcements
   - infobar:
       title: Calendar of Events
       button: View All
