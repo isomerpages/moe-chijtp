@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://www.chijsec.edu.sg
 favicon: /images/CHIJ-Crest-2013-CYMK-600x684.jpeg
 colors:
   primary-color: "#13449d"
@@ -52,3 +52,8 @@ plugins:
   - jekyll-remote-theme
 staging: https://moe-chijtp-staging.netlify.app
 prod: https://moe-chijtp-prod.netlify.app
+shareicon: /images/isomer-logo.svg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
