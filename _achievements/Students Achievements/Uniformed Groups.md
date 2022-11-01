@@ -1,6 +1,6 @@
 ---
 title: Uniformed Groups
-permalink: /achievements/Students-Achievements/uniformed-groups
+permalink: /achievements/Students-Achievements/uniformed-groups/
 description: ""
 third_nav_title: Students Achievements
 ---
@@ -19,32 +19,32 @@ third_nav_title: Students Achievements
   <tr>
     <th class="tg-brl1"><span style="font-weight:normal">CCA</span></th>
     <th class="tg-brl1"><span style="font-weight:normal">COMPETITION</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">2017</span></th>
-    <th class="tg-brl1"><span style="font-weight:normal">2018</span></th>
     <th class="tg-brl1"><span style="font-weight:normal">2019</span></th>
+    <th class="tg-brl1"><span style="font-weight:normal">2020</span></th>
+    <th class="tg-brl1"><span style="font-weight:normal">2021</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-brl1"><span style="font-weight:normal">Girl Guides</span></td>
-    <td class="tg-brl1"><span style="font-weight:normal">PNA</span></td>
-    <td class="tg-brl1"><span style="font-weight:normal">Silver</span></td>
+    <td class="tg-brl1"><span style="font-weight:normal">Puan Noor Aishah Award</span></td>
     <td class="tg-brl1"><span style="font-weight:normal">Gold</span></td>
-    <td class="tg-brl1"></td>
+    <td class="tg-brl1"><span style="font-weight:normal">NA</span></td>
+    <td class="tg-brl1"><span style="font-weight:normal">Silver</span></td></td>
   </tr>
   <tr>
     <td class="tg-brl1"><span style="font-weight:normal">Red Cross</span><br></td>
-    <td class="tg-brl1"><span style="font-weight:normal">Community Service Award</span></td>
+    <td class="tg-brl1"><span style="font-weight:normal">Excellent Unit Award</span></td>
     <td class="tg-brl1"><span style="font-weight:normal">NA</span></td>
     <td class="tg-brl1"><span style="font-weight:normal">NA</span></td>
-    <td class="tg-brl1"></td>
+    <td class="tg-brl1"><span style="font-weight:normal">Gold</span></td>
   </tr>
   <tr>
-    <td class="tg-s2rg"><br></td>
-    <td class="tg-brl1"><span style="font-weight:normal">Excellent Unit Award</span></td>
-    <td class="tg-brl1"><span style="font-weight:normal">Silver</span></td>
-    <td class="tg-brl1"><span style="font-weight:normal">Bronze</span></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-s2rg"><span style="font-weight:normal">NCC(sea)</span</td>
+    <td class="tg-brl1"><span style="font-weight:normal"></span></td>
+    <td class="tg-brl1"><span style="font-weight:normal">NA</span></td>
+    <td class="tg-brl1"><span style="font-weight:normal">NA</span></td>
+    <td class="tg-0lax"><span style="font-weight:normal">Distinction</span></td>
   </tr>
 </tbody>
 </table>
