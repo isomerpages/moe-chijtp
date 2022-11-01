@@ -32,4 +32,4 @@ If you are our IJ girl, know that you are among a Christ-centred community that 
 > 
 Blessings, <br>
 Mrs Rachel Lee <br>
-Principal <br>
+> Principal <br>
