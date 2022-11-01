@@ -1,18 +1,18 @@
 ---
 title: School Achievements
-permalink: /achievements/school-achievements
+permalink: /achievements/school-achievements/
 description: ""
 ---
 <center><strong><u>Singapore Quality Class</u></strong>
 
 <img src="/images/Singapre%20Quality%20Class.jpg" 
-     style="width:40%">
+     style="width:30%">
 
 
 <center><strong><u>Singapore Distinction Award</u></strong>
 
 <img src="/images/Singapore%20Distinction%20Award.jpg" 
-     style="width:40%">
+     style="width:30%">
 		 
 <center><strong><u>Best Practice Award
 (Teaching & Learning)</u></strong>
