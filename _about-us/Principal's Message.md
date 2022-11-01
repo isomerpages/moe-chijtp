@@ -1,6 +1,6 @@
 ---
 title: Principal's Message
-permalink: /about-us/principals-message
+permalink: /about-us/principals-message/
 description: ""
 ---
 The oldest Catholic girls’ school and the mother school of all the CHIJ schools in Singapore, CHIJ Secondary was first established in Victoria Street (where CHIJMES now stands) before moving to its present Toa Payoh site in 1983. Known as “Town Convent” then, the school was where the Sisters of the Infant Jesus Order lived out their mission to educate girls of all social classes, especially those in need. Over her 165 years of history and transformations, scores of girls have passed through her hallowed halls and bear testament to an education underpinned by the central Christian belief of the worth and dignity of each person. By their example, the IJ sisters extolled the value of simplicity, trust in God, and a love for the community. Their legacy continues today.
@@ -28,7 +28,7 @@ Indeed, as our motto goes, our desire is for every one of our IJ girls to be
 <center> <strong>Simple in Virtue, Steadfast in Duty.</strong></center>
 
 If you are our IJ girl, know that you are among a Christ-centred community that seeks to care for and nurture you. If you are not yet a part of the IJ family, we invite you to be a part of the legacy.
-
+![](/images/Mrslee.jpeg)
 Blessings, <br>
 Mrs Rachel Lee <br>
 Principal <br>
