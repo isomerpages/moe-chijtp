@@ -29,7 +29,9 @@ Indeed, as our motto goes, our desire is for every one of our IJ girls to be
 
 If you are our IJ girl, know that you are among a Christ-centred community that seeks to care for and nurture you. If you are not yet a part of the IJ family, we invite you to be a part of the legacy.
 
-![width="50" height="60"](/images/Mrslee.jpeg)
+```
+<img src="![](/images/Mrslee.jpeg)" alt="Girl in a jacket" width="500" height="600">
+```
 
 
 Blessings, <br>
