@@ -30,6 +30,11 @@ Indeed, as our motto goes, our desire is for every one of our IJ girls to be
 If you are our IJ girl, know that you are among a Christ-centred community that seeks to care for and nurture you. If you are not yet a part of the IJ family, we invite you to be a part of the legacy.
 
 
+<img style=" width:10%"  src="/images/Mrslee.jpeg" align="left"> 
+
+<br>
+<br>
+
 Blessings, <br>
 Mrs Rachel Lee <br>
 Principal <br>
