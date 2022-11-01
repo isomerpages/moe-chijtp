@@ -2,10 +2,10 @@ collections:
   resources:
     output: true
     order:
-      - Events.md
       - Parents.md
       - Teachers.md
       - Students.md
       - Announcements.md
+      - Events.md
       - IJ Calender.md
       - CHIJ Museum.md
