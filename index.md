@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: CHIJ Home
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -30,4 +30,5 @@ sections:
       alt: Image alt text
       image: /images/CHIJ_Museum.jpg
 ---
+
 
