@@ -1,6 +1,6 @@
 ---
 title: CHIJ Parent Support Group
-permalink: /about-us/School-Organization/chij-parent-support-group
+permalink: /about-us/School-Organization/chij-parent-support-group/
 description: ""
 third_nav_title: School Organization
 ---
@@ -58,17 +58,11 @@ psg.chijsec@gmail.com
 
 
 
-
-
-
-
-
 <p><img style="float:left;width:60px;height:80px;margin-left:15px;" src="/images/Mrs%20Olivia%20Tang-Yeo.jpg">
 </p><center>Mrs Olivia Tang-Yeo<br> 
 Vice Chairperson<br>
 </center><p></p>
 	
-
 
 
 * * *
