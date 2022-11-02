@@ -8,7 +8,7 @@ NDLP PARENTS ENGAGEMENT SLIDES](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/20
   
 ![ipad3.jpeg](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ipad3.jpeg)  
   
-Important**!** To proceed with the purchase of PLD, please complete the online form at this **[link](https://go.gov.sg/pdlpadmin).** Full details can be found below.  
+Important To proceed with the purchase of PLD, please complete the online form at this **[link](https://go.gov.sg/pdlpadmin).** Full details can be found below.  
   
 **National Digital Literacy Programme (NDLP)**  
 
@@ -20,11 +20,7 @@ At MOE’s Committee of Supply Debate in March 2020, MOE launched the National D
 
 The Covid-19 pandemic has revealed the need for us to accelerate the National Digital Literacy Programme (NDLP). All secondary schools will thus embark on the Personalized Digital Learning Programme (PDLP).
 
-  
-
 **PDLP Outcomes @ CHIJ**  
-
-  
 
 With every student owing a PLD, teachers can leverage the affordances of ICT tools to create ICT-enriched learning experiences. 
 
@@ -38,21 +34,16 @@ iii) Effective Communicators. 
 
   
 
-  
-
 ![1.png](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/1.png)
 
   
-
 Throughout their educational journey in IJ, students will be able to acquire digital skills across the 3 domains as shown below.   
 
-  
 
 ![2.png](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/2.png)  
 
 **Personal Learning Device @CHIJ**  
 
-  
 
 Having heard the views of staff, parents, and students through various engagement sessions, the school has decided to adopt the iPad as the personal learning device for our students. Every iPad will come bundled with a Pencil to maximize its use as a learning tool. The devices will be distributed to students in Term 3, and we will progressively roll out their use during lessons.
 
