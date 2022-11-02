@@ -2,4 +2,4 @@ collections:
   ndlp:
     output: true
     order:
-      - page.md
+      - NDLP.md
