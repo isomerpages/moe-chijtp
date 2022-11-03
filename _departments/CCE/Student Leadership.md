@@ -1,6 +1,6 @@
 ---
 title: Student Leadership
-permalink: /departments/CCE/student-leadership
+permalink: /departments/CCE/student-leadership/
 description: ""
 third_nav_title: CCE
 ---
@@ -24,7 +24,7 @@ In their 4–5 years with us, students go through a structured leadership progra
 
 **Leadership opportunities**
 
-<iframe allowfullscreen="true" height="500" width="500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2-FRIAy0yrs8z_SBoDtwc6DgDntyf7tMbXCyxqMnu6r7lbhpC5SceoO-6hwwpCzve7fR7TNxsBQjM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="500" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2-FRIAy0yrs8z_SBoDtwc6DgDntyf7tMbXCyxqMnu6r7lbhpC5SceoO-6hwwpCzve7fR7TNxsBQjM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 Student leadership opportunities include but are not limited to:
 
