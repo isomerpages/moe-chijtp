@@ -17,6 +17,8 @@ links:
         url: /departments/english
       - title: Humanities
         url: /departments/humanities
+      - title: Life Skills
+        url: /life-skills
       - title: Mathematics
         url: /departments/mathematics
       - title: Mother Tongue
@@ -25,8 +27,6 @@ links:
         url: /departments/physical-education
       - title: Science
         url: /departments/science
-      - title: Life Skills
-        url: /life-skills
   - title: Resources
     collection: resources
   - title: NDLP
