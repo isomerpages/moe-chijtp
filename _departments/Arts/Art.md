@@ -1,6 +1,6 @@
 ---
 title: Art
-permalink: /departments/Arts/art
+permalink: /departments/Arts/art/
 description: ""
 third_nav_title: Arts
 ---
@@ -42,8 +42,7 @@ Students will offer the GCE 'O' Level Higher Art examination at the end of 4 yea
 
   
 
-For a glimpse of the AEP curriculum, please refer to the [Little Book of Art Lessons](https://www.moe.gov.sg/docs/default-source/document/education/secondary/files/little-book-of-art-lessons.pdf).
-
+For a glimpse of the AEP curriculum, please refer to the Little Book of Art Lessons.
   
 
 We celebrated our 30th Year of CHIJ AEP in 2015. A snippet of our exhibition can be found in the [CHIJ AEP Show Catalogue.](https://go.gov.sg/68zbki).
