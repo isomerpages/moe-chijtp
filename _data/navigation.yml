@@ -27,9 +27,9 @@ links:
         url: /departments/physical-education
       - title: Science
         url: /departments/science
-  - title: Resources
-    collection: resources
   - title: NDLP
     collection: ndlp
+  - title: Resources
+    collection: resources
   - title: Open house
     url: https://sites.google.com/chijsec.edu.sg/virtualopenhouse
