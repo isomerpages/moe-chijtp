@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero banner 4.gif
+      background: /images/Mbanner.gif
       key_highlights:
         - title: Announcements
           description: Read More
@@ -30,5 +30,3 @@ sections:
       alt: Image alt text
       image: /images/CHIJ_Museum.jpg
 ---
-
-
