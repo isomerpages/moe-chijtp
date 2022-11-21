@@ -1,6 +1,6 @@
 ---
 title: Food & Consumer Education
-permalink: /departments/life-skills/food-n-consumer-education
+permalink: /departments/life-skills/food-n-consumer-education/
 description: ""
 ---
 RATIONALE AND VALUE OF SUBJECT

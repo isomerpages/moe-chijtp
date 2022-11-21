@@ -1,6 +1,6 @@
 ---
 title: IJ goes Global
-permalink: /ij-goes-global
+permalink: /ij-goes-global/
 description: ""
 ---
 ![](/images/IJ%20global.png)

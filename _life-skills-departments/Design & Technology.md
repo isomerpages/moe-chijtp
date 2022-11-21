@@ -1,6 +1,6 @@
 ---
 title: Design & Technology
-permalink: /life-skills-departments/design-n-technology
+permalink: /life-skills-departments/design-n-technology/
 description: ""
 ---
 Design and Technology is part of a holistic broad-based education. It is a compulsory project-based subject in the lower secondary school curriculum. Design and Technology anchors on design action and application of knowledge and design process.

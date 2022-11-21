@@ -1,6 +1,6 @@
 ---
 title: CHIJ Museum
-permalink: /resources/chij-museum
+permalink: /resources/chij-museum/
 description: ""
 ---
 ![](/images/CHIJ_Museum.jpg)

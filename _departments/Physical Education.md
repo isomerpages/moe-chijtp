@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /departments/physical-education
+permalink: /departments/physical-education/
 description: ""
 ---
 ![](/images/PHYSICAL%20EDUCATION.jpg)

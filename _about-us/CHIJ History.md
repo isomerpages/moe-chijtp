@@ -1,6 +1,6 @@
 ---
 title: CHIJ History
-permalink: /about-us/chij-history
+permalink: /about-us/chij-history/
 description: ""
 ---
 <center><p> <a href="https://www.infantjesussisters.org/">click to visit the "Infant Jesus Sisters' Website"
