@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /departments/english
+permalink: /departments/english/
 description: ""
 ---
 ![](/images/ENGLISH.jpg)

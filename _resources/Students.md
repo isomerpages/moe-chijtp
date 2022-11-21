@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /resources/students
+permalink: /resources/students/
 description: ""
 ---
 <p><a href="https://indd.adobe.com/view/cd31b081-37c6-490f-9da3-8221a1ac3b73?mv=affiliate&amp;mv2=red">  

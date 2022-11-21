@@ -1,6 +1,6 @@
 ---
 title: Life Skills
-permalink: /life-skills
+permalink: /life-skills/
 description: ""
 ---
 

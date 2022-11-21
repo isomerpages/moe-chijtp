@@ -1,6 +1,6 @@
 ---
 title: Humanities
-permalink: /departments/humanities
+permalink: /departments/humanities/
 description: ""
 ---
 ![](/images/HUMANITIES.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /departments/Mother-Tongue
+permalink: /departments/Mother-Tongue/
 description: ""
 ---
 ![](/images/MOTHER%20TONGUE.jpg)

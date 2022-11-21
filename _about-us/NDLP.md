@@ -1,6 +1,6 @@
 ---
 title: NDLP
-permalink: /ndlp
+permalink: /ndlp/
 description: ""
 ---
 [NDLP Parents Engagement Slides](/files/NDLPslide.pdf)
