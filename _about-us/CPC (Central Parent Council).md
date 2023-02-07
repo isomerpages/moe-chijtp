@@ -91,4 +91,3 @@ Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2
 *   [202007 – Monthly Rosary – Gregory Goh (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Monthly-Rosary-Gregory-Goh-Ethel-Goh-P5-Lily.pdf)
 *   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](/files/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
 *   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](/files/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
-
