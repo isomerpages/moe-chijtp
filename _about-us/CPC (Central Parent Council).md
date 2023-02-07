@@ -6,6 +6,7 @@ description: ""
 <img src="/images/CPC-Logo.jpg" 
      style="width:60%">
 		 
+
 ### Join us as a Parent Volunteer!
 
 ### YOU CAN PLAY A PART
@@ -60,10 +61,11 @@ Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2
 
 *   [06102022 – Children’s Day 2022](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/11/06102022-Childrens-Day-2022.pdf)
 *   [03092022 – Dads for Life Event](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/09/03092022-Dads-for-Life-Event.pdf)
-*   [31082022 – Mid Autumn Festival Celebrations](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/09/31082022-Mid-Autumn-Festival-Celebrations.pdf)
-*   [08082022 – National Day Observance Ceremony](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/09/08082022-National-Day-Observance-Ceremony.pdf)
+*   [31082022 – Mid Autumn Festival Celebrations](/files/31082022-Mid-Autumn-Festival-Celebrations.pdf)
+*   [08082022 – National Day Observance Ceremony](/files/08082022-National-Day-Observance-Ceremony.pdf)
 *   [04082022 – Lower Primary Games](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/08/04082022-Lower-Primary-Games.pdf)
-*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)
+*   [23022022 – PV Welcome Chat – Samantha Chin (Sarah Chin, 3 Orchid)](/files/23022022-PV-Welcome-Chat-Samantha-Chin-Sarah-Chin-3-Orchid.pdf)
+		 
 
 ### **CPC News Articles (2021)**
 
