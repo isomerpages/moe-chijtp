@@ -37,3 +37,17 @@ scan the QR Code
 
 <img src="/images/2023-CPC-Mailing-List-QR-Code-250x250.png" 
      style="width:50%">
+
+or email CPC at [chijpri.cpc@gmail.com](mailto:chijpri.cpc@gmail.com)
+
+<img src="/images/CPC-org-chart-2023.jpg" 
+     style="width:70%">
+		 
+### Parent Volunteer Handbook:
+
+Please click [here](/files/CPC-Parent-Handbook.pdf) to view the Parent Volunteer Handbook.
+
+### **CPC Parents Welcome Chat 2022:**
+
+Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2022/03/CPC-PV-Welcome-Chat-2022.pdf) to view the slides.
+
