@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - CPC (Central Parent Council).md
       - Principal's Message.md
       - Mission, Vision, Our Crest and Motto.md
       - CHIJ History.md
@@ -14,3 +13,4 @@ collections:
       - School Organization/CHIJ Parent Support Group.md
       - Key Information.md
       - NDLP.md
+      - CPC (Central Parent Council).md
