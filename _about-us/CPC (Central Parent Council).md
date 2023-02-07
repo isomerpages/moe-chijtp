@@ -7,7 +7,6 @@ description: ""
      style="width:60%">
 		 
 
-
 ### Join us as a Parent Volunteer!
 
 ### YOU CAN PLAY A PART
@@ -83,12 +82,13 @@ Please click [here](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2
 *   [202011 – P6 Thank-You Notes for PVs](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/202011-P6-Thank-You-Notes-for-PVs.pdf)
 *   [20201008 – Children’s Day – Games – Cara Ann Pereira (Isabela D Penha, P4 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Games-Cara-Ann-Pereira-Isabela-D-Penha-P4-Hibi.pdf)
 *   [20201008 – Children’s Day – Goodie Bags – Magdalene Yip (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201008-Childrens-Day-Goodie-Bags-Magdalene-Yip-Ethel-Goh-P5-Lily.pdf)
-*   [20201105 – P6 Grad Party – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Party-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
-*   [20201105 – P6 Grad Tea – Veronica Silvester (Sara Shaine Silvester, P6 Hibiscus)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/11/20201105-P6-Grad-Tea-Veronica-Silvester-Sara-Shaine-Silvester-P6-Hibiscus.pdf)
-*   [202010 – PSLE Prayer Vigil – Sharon Lim (Gwendolynn Tham, P6 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/10/202010-PSLE-Prayer-Vigil-Sharon-Lim-Gwendolynn-Tham-P6-Hibi.pdf)
-*   [202010 – PSLE Prayer Vigil – Regina Teo (Julianne Teo, P6 Hibi)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/10/202010-PSLE-Prayer-Vigil-Regina-Teo-Julianne-Teo-P6-Hibi.pdf)
-*   [202008 – Teacher’s Day – Lisa Ling (Rachel Ling, P5 Ixora & Emma Ling, P3 Daisy)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/09/202008-Teachers-Day-Lisa-Ling-Rachel-Ling-P5-Ixora-Emma-Ling-P3-Daisy-.pdf)
-*   [202008 – Online Novena – Juliet Distant (Hannah Yeo, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/08/202008-Online-Novena-Juliet-Distant-Hannah-Yeo-P6-Lily.pdf)
+*   [20201105 – P6 Grad Party – Joyce Tan (Natalie Chong, P6 Orchid)](/files/20201105-P6-Grad-Party-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
+*   [20201105 – P6 Grad Tea – Veronica Silvester (Sara Shaine Silvester, P6 Hibiscus)](/files/20201105-P6-Grad-Tea-Veronica-Silvester-Sara-Shaine-Silvester-P6-Hibiscus.pdf)
+*   [202010 – PSLE Prayer Vigil – Sharon Lim (Gwendolynn Tham, P6 Hibi)](/files/202010-PSLE-Prayer-Vigil-Sharon-Lim-Gwendolynn-Tham-P6-Hibi.pdf)
+*   [202010 – PSLE Prayer Vigil – Regina Teo (Julianne Teo, P6 Hibi)](/files/202010-PSLE-Prayer-Vigil-Regina-Teo-Julianne-Teo-P6-Hibi.pdf)
+*   [202008 – Teacher’s Day – Lisa Ling (Rachel Ling, P5 Ixora & Emma Ling, P3 Daisy)](/files/202008-Teachers-Day-Lisa-Ling-Rachel-Ling-P5-Ixora-Emma-Ling-P3-Daisy-.pdf)
+*   [202008 – Online Novena – Juliet Distant (Hannah Yeo, P6 Lily)](/files/202008-Online-Novena-Juliet-Distant-Hannah-Yeo-P6-Lily.pdf)
 *   [202007 – Monthly Rosary – Gregory Goh (Ethel Goh, P5 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Monthly-Rosary-Gregory-Goh-Ethel-Goh-P5-Lily.pdf)
-*   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
-*   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](https://www.chijpritoapayoh.moe.edu.sg/wp-content/uploads/2020/07/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
+*   [202007 – PSLE Survival Kit – Magdalene Balon (Aimelyne Balon, P6 Lily)](/files/202007-PSLE-Survival-Kit-Magdalene-Balon-Aimelyne-Balon-P6-Lily.pdf)
+*   [202007 – Special Treat For Staff – Joyce Tan (Natalie Chong, P6 Orchid)](/files/202007-Special-Treat-For-Staff-Joyce-Tan-Natalie-Chong-P6-Orchid.pdf)
+
