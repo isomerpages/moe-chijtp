@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Special Programmes/.keep
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Group.md
       - Uniformed Groups/Red Cross Youth.md
