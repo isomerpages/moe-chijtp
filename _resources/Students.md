@@ -52,3 +52,7 @@ description: ""
 <p><a href="https://sites.google.com/moe.edu.sg/chijecg2021/home"> 
 <img style="width:25%" src="/images/ECG.png">  
 </a></p>
+	
+<p><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
+<img style="width:25%" src="/images/HWB.png">  
+</a></p>
