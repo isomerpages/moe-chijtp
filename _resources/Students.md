@@ -37,7 +37,6 @@ description: ""
 <img style="width:25%" src="/images/CHIJ%20Library%20Catalogue%20Icon.png">  
 </a></p>
 
-
 <p><a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
 <img style="width:25%" src="/images/timetable.png">  
 </a></p>
@@ -57,4 +56,3 @@ description: ""
 <p><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
 <img style="width:25%" src="/images/HWB.png">  
 </a></p>
-	
