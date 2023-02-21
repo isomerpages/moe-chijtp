@@ -3,7 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 ---
-![](/images/SCIENCE.jpg)
+![](/images/Dept/sic.jpeg)
 
 ### MISSION & GOALS
 
