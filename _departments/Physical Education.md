@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /departments/physical-education/
 description: ""
 ---
-![](/images/PHYSICAL%20EDUCATION.jpg)
+![](/images/Dept/PE.jpeg)
 
 ### The PE-CCA Programme
 
