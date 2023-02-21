@@ -4,8 +4,8 @@ permalink: /departments/Arts/art/
 description: ""
 third_nav_title: Arts
 ---
-![](/images/ART.jpg)
 
+![](/images/Dept/arts.jpeg)
 **Mission Statement**
 
   
