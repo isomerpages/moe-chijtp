@@ -3,7 +3,7 @@ title: Mother Tongue
 permalink: /departments/Mother-Tongue/
 description: ""
 ---
-![](/images/MOTHER%20TONGUE.jpg)
+![](/images/Dept/MTL.jpeg)
  **Mission Statement**
 
   
