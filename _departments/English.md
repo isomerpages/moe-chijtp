@@ -3,7 +3,8 @@ title: English
 permalink: /departments/english/
 description: ""
 ---
-![](/images/ENGLISH.jpg)
+
+![](/images/Dept/eng.jpeg)
 
 ### Mission Statement:
 
