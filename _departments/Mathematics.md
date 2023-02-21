@@ -3,8 +3,7 @@ title: Mathematics
 permalink: /departments/mathematics/
 description: ""
 ---
-![](/images/MATHEMATICS.jpg)
-
+![](/images/Dept/maths.jpeg)
 ### MISSION STATEMENT
 
   
