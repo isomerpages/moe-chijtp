@@ -3,7 +3,7 @@ title: Humanities
 permalink: /departments/humanities/
 description: ""
 ---
-![](/images/HUMANITIES.jpg)
+![](/images/Dept/hum.jpeg)
 
 ### Mission Statement
 
