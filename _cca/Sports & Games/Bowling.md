@@ -25,7 +25,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Pakirisamy Ragulan, Mr Tristan Fernandez, Mr Yeo Kee Sheng &amp; Ms Jey Sundari</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Pakirisamy Ragulan, Mr Tristan Fernandez, &amp; Ms Jey Sundari</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
