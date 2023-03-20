@@ -4,12 +4,7 @@ permalink: /page/
 description: ""
 ---
 [  
-NDLP PARENTS ENGAGEMENT SLIDES](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/2022/NDLPslide.pdf)  
-  
-![ipad3.jpeg](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ipad3.jpeg)  
-  
-Important To proceed with the purchase of PLD, please complete the online form at this **[link](https://go.gov.sg/pdlpadmin).** Full details can be found below.  
-  
+
 **National Digital Literacy Programme (NDLP)**  
 
 ![p1png.png](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/p1png.png)  
@@ -66,53 +61,6 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 * 3 Year Apple Care+ and 3 Year Insurance
 * 1st Gen Apple Pencil
 
-**Use of Edusave **
-
-If your child/ward is a Singapore citizen, you can use your child’s/ward’s Edusave to pay partly or fully for the PLD. A Singapore citizen student can use up to the available Edusave balance in his/her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE has provided a one-off $200 Edusave top-up, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution for secondary students and primary students. Parents/guardians can also choose to pay cash for the PLD. Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.  
-  
-
-**Financial Assistance  
-  
-**
-
-Subsidies are available to students who require financial assistance. 
-
-Students who are under the following schemes would automatically qualify for subsidies and do not need to take any action:        
-
-*   Singapore Citizens who are already on MOE FAS or 
-*   Singapore Citizens who are already on our school-based FAS Scheme (IJ Bursary) and whose Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less.   
-
-Students who are currently not under the above schemes may approach the school’s General Office or download the Application for Subsidy **[Form](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/Annex%20D.pdf)** to apply for an additional subsidy if their Gross Household Income (GHI) is $4,000 or less, or Per Capita Income (PCI) is $1,000 or less. “PCI” refers to the Gross Household Income divided by the total number of family members in the household. 
-
-Application for subsidy should be submitted to the General Office.   
-
-**Important Actions For Parents**
-
-  
-
-To proceed with the purchase of PLD, please complete the online form at this [**link**](https://go.gov.sg/pdlpadmin). 
-
-  
-
-The online form will consist:   
-
-*   Intent to Purchase PLD 
-*   Edusave Withdrawal (for SC only)     
-*   Authorisation to collect PLD 
-
-  
-
-If you are unable to submit this form online, please contact the school's General Office for a hardcopy version or click this link to download the **[files](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/2022/Intentform22.pdf)** , and submit it to the General Office.
-
-  
-
-**Further Queries**
-
-  
-
-Should there be any further queries or clarification, please email <helpdesk@chijsec.edu.sg>  
-
-  
 
 **Resources**
 
