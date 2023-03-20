@@ -26,7 +26,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Seng Wee Pheng, Mr Wong Wei Keong, Ms Margaret Teo &amp; Mr Tan Tee Wee </span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Seng Wee Pheng, Ms Margaret Teo &amp; Mr Wong Wei Keong </span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
@@ -49,7 +49,7 @@ Competition season lasts from January to April for the "B" division and July to 
 
   
 
-Under the leadership and expertise of our coach Ms Kok Mun Wai, the CHIJ Netball School Team has flourished as her dedication and passion for the sport has contributed immensely to the netball legacy in CHIJ. It was her guidance, with the support of the school, which led us to claim the double championship title for both 'B' and 'C' Division in both the South Zone Inter-school Netball Championships as well as National Inter-school Netball Championships consecutively in both 2015 and 2016. In 2017, we achieved championships for South Zone Inter-school Netball Championships while achieving 1st and 2nd placing for C division and B division for Nationals respectively. Through the team's perseverance and determination to do our best, our team managed to clinch our double championships once again, both at the 2018 Zonal and National Championships. In 2019, we achieved champions for both divisions in the South Zone Inter-school Netball Championships and 2nd placing for "C" division at the National Inter-school Championships.
+Under the leadership and expertise of our coach Ms Kok Mun Wai, the CHIJ Netball School Team has flourished as her dedication and passion for the sport has contributed immensely to the netball legacy in CHIJ. It was her guidance, with the support of the school, which led us to claim the double championship title for both 'B' and 'C' Division in both the South Zone Inter-school Netball Championships as well as National Inter-school Netball Championships consecutively in both 2015 and 2016. In 2017, we achieved championships for South Zone Inter-school Netball Championships while achieving 1st and 2nd placing for C division and B division for Nationals respectively. Through the team's perseverance and determination to do our best, our team managed to clinch our double championships once again, both at the 2018 Zonal and National Championships. In 2019, we achieved champions for both divisions in the South Zone Inter-school Netball Championships and 2nd placing for "C" division at the National Inter-school Championships. In 2022, we achieved champions for both B & C divisions in the South Zone Inter-school Netball Championships. 
 
   
 
