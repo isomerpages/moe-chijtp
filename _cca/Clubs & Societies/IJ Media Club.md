@@ -36,11 +36,11 @@ third_nav_title: Clubs & Societies
 
 ![](/images/IJ%20Media%20Club%201.jpg)
 
-IJ Media Club provides the opportunity for students to be involved in photography, videography, as well as the setting up of audio-visual systems to support school-wide events and activities. As such, members will be trained in the handling of DSLR cameras, mobile photography and videography techniques, and the post-production of their works through editing tools such as Adobe Photoshop and iMovie. Ample hands-on learning opportunities will also be provided for members with at least two outdoor field shoots organised in a year (subject to change due to the prevailing safe management measures). 
+IJ Media Club provides the opportunity for students to be involved in photography, videography, as well as the setting up of audio-visual systems to support school-wide events and activities. As such, members will be trained in the handling of DSLR cameras, mobile photography and videography techniques, and the post-production of their works through editing tools such as Adobe Photoshop and iMovie. Ample hands-on learning opportunities will also be provided for members with at least two outdoor field shoots organised in a year. 
 
   
 
-In addition, all IJ Media Club members are encouraged to participate in national and international photography and videography competitions to gain greater exposure. Some competitions that our Media Club members participated in 2021 include the N.E.mation! 2022 storyboarding competition and the Canon Youth Photography Awards 2021. 
+In addition, all IJ Media Club members are encouraged to participate in national and international photography and videography competitions to gain greater exposure. Some competitions that our Media Club members participated in 2022 include the N.E.mation! 2022 storyboarding competition and the SYFgoesOnline! 2022 Pixel Perfect. 
 
   
 
