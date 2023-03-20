@@ -43,9 +43,11 @@ Arts Alive! provides its members opportunities to engage in the arts, through a 
 Students at Arts Alive! get to express, explore and evaluate different art forms while applying various materials, issues and mediums. There would be exhibitions and performances to offer them a window to the vibrant arts scene in Singapore, and to raise their cultural and aesthetic awareness. Beyond school, they interact with different community groups through the CCA VIA (Values-in Action) to share their knowledge and love for the arts.
 
 2019-2020 Art sessions: Manga drawing, Felt art and Decoupage<br>
-2021 Art sessions: Pyrography, Cyanotype and Crochet
+2021 Art sessions: Pyrography, Cyanotype and Crochet<br>
+2022 Art sessions: Linocut, Embroidery and Nagomi Art
 
 
 **Our Achievements:**
 *   Dyslexia Awareness Art Competition - (Mixed media open category) - 1st Position & 5 Top 20 Positions (2019)
 *   Public Transport Workers' Appreciation 2021 Colouring Contest (Shortlisted)
+*   Best of Show award for the MTC Design For Good Youth Competition 2022
