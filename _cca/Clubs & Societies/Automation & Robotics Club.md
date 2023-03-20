@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 <thead>
   <tr>
     <th class="tg-h0uh"><span style="color:inherit;background-color:transparent">Teacher-in-Charge</span></th>
-    <th class="tg-ujx6"><span style="font-weight:normal">Mr R Yuvindran, Mr Jason Ng &amp; Ms Afiqah Be Jamaludin</span></th>
+    <th class="tg-ujx6"><span style="font-weight:normal">Mr Ang Hoot Woon, Mr Jason Ng &amp; Ms Afiqah Be Jamaludin</span></th>
   </tr>
 </thead>
 <tbody>
