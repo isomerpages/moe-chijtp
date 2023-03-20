@@ -42,7 +42,7 @@ All IJ Youth Mission members in the school are given a chance to work together w
 
   
 
-All members participate in the annual IJ Youth Msion Inter-school Competition to showcase their community service and programme for the year. The IJ Youth Msion (CHIJ Secondary) has attained the Certificate of Distinction from 2014 to 2019 (No competitions from 2020 due to Covid restrictions).
+All members participate in the annual IJ Youth Msion Inter-school Competition to showcase their community service and programme for the year. The IJ Youth Msion (CHIJ Secondary) has attained the Certificate of Distinction from 2014 to 2019 and 2022 (No competitions from 2020 and 2021 due to Covid restrictions).
 
   
 
