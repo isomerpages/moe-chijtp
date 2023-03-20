@@ -17,7 +17,7 @@ third_nav_title: Performing Groups
 <thead>
   <tr>
     <th class="tg-osjb">Teacher-in-Charge</th>
-    <th class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Joanne Tan, Mr Adrian Moh and Ms Nur Adibah</span><br></th>
+    <th class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Joanne Tan, Mr Adrian Moh and Ms Sim Hoon Kuan</span><br></th>
   </tr>
 </thead>
 <tbody>
