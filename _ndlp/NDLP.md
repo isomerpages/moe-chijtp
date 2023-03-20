@@ -3,8 +3,6 @@ title: NDLP
 permalink: /page/
 description: ""
 ---
-
-
 **National Digital Literacy Programme (NDLP)**  
 
 ![p1png.png](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/p1png.png)  
@@ -62,7 +60,7 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 * 1st Gen Apple Pencil
 
 **Need Help?**
-
+![](/images/Helpdesk.jpg)
 
 
 **Resources**
