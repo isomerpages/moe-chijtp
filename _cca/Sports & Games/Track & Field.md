@@ -25,7 +25,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge</td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Daniel Kuan (IC), Mr Joel Chen, Mr Harry Goh &amp; Ms Norshidah</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Daniel Kuan (IC), Ms Jesslyn Winata, Mr Harry Goh &amp; Ms Norshidah Abdul Rahim</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
