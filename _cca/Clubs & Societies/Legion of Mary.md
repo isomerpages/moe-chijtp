@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 <thead>
   <tr>
     <th class="tg-h0uh"><span style="color:inherit;background-color:transparent">Teacher-in-Charge</span></th>
-    <th class="tg-ujx6"><span style="font-weight:normal">Mr Geraint Wong &amp; Ms Christine Koh</span></th>
+    <th class="tg-ujx6"><span style="font-weight:normal">Mr Geraint Wong &amp; Ms Linda Cruz</span></th>
   </tr>
 </thead>
 <tbody>
