@@ -35,7 +35,7 @@ third_nav_title: Sports & Games
   </tr>
   <tr>
     <td class="tg-osjb">Venue<br></td>
-    <td class="tg-pvk6" colspan="2"><span style="color:inherit;background-color:transparent">MOE Evans Rd Tennis Court </span><br><span style="color:inherit;background-color:transparent">Farrer Park Tennis Centre</span></td>
+    <td class="tg-pvk6" colspan="2"><span style="color:inherit;background-color:transparent">MOE Evans Rd Tennis Court </span><br><span style="color:inherit;background-color:transparent">Yio Chu Kang Tennis Centre</span></td>
   </tr>
 </tbody>
 </table>
