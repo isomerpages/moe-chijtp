@@ -19,7 +19,7 @@ third_nav_title: Clubs & Societies
 <thead>
   <tr>
     <th class="tg-h0uh"><span style="color:inherit;background-color:transparent">Teacher-in-Charge</span></th>
-    <th class="tg-ujx6"><span style="font-weight:normal">Ms Lokambal Dakshnamoorthy &amp; Ms Karina Lalchand Sheri</span></th>
+    <th class="tg-ujx6"><span style="font-weight:normal">Mr Harry Goh &amp; Ms Karina Lalchand Sheri</span></th>
   </tr>
 </thead>
 <tbody>
@@ -42,4 +42,4 @@ iGrow@IJ offers a wide range of hands-on activities for students to participate 
 
   
 
-The club provides a platform and an opportunity for members to meaningfully contribute to the formation and upkeep of this new landscape in the school while themselves getting the opportunity to experience the process of gardening and farming. Students will also be exposed to a variety of vegetables, flowering and non-flowering plants and other plants that we use in our everyday life. With the establishment of the hydroponics farm, members will also get a unique opportunity to understand and try their hands at a modern farming method to grow and harvest vegetables that we intend to donate as a gesture of giving back to the society or for the school’s use.
+iGrow@IJ welcomes all students with a passion and interest for environmental stewardship and provides an opportunity for students to deepen their own knowledge, understanding and appreciation for the natural world and it's importance in our lives.
