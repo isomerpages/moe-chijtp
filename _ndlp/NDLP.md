@@ -3,7 +3,7 @@ title: NDLP
 permalink: /page/
 description: ""
 ---
-[  
+
 
 **National Digital Literacy Programme (NDLP)**  
 
@@ -60,6 +60,9 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 * 64 GB ROM
 * 3 Year Apple Care+ and 3 Year Insurance
 * 1st Gen Apple Pencil
+
+**Need Help?**
+
 
 
 **Resources**
