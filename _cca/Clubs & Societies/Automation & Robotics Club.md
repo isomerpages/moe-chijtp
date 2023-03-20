@@ -98,6 +98,17 @@ On top of all that, students are trained to have a growth mindset anchored by va
     <td class="tg-brl1">2021</td>
     <td class="tg-brl1">Greenwave Challenge by Sembcorp </td>
     <td class="tg-brl1">Certificate of Participation</td>
+		 </tr>
+  <tr>
+    <td class="tg-brl1">2022</td>
+    <td class="tg-brl1">IDE Competition </td>
+    <td class="tg-brl1">2nd Overall for IDE Maker and Best Engineering Award</td>
   </tr>
+  <tr>
+    <td class="tg-brl1">2022</td>
+    <td class="tg-brl1">Drone Odyssey</td>
+    <td class="tg-brl1">3rd place for Cat B1 and C1</td>
+  </tr>
+  <tr>
 </tbody>
 </table>
