@@ -24,7 +24,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Foong Sheng Hui Lionel, Ms Linda Cruz, Mr Saraln Ng </span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mr Foong Sheng Hui Lionel, Ms Linda Cruz </span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Day/Time<br></td>
@@ -63,4 +63,3 @@ The activities of Red Cross Youth will focus on the following:
 9. Fund Raising
 
 Apart from training activities, CHIJ Red Cross Youth also organises recreational activities like bonding games and camps, heritage trails and outings for our cadets. Members are given the opportunity to develop their organisational and leadership skills by planning for activities and camps.
-
