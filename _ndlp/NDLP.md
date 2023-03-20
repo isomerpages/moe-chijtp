@@ -61,9 +61,8 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 
 | ![4.png](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/4.png)  
  |   
-* Apple iPad (9th Gen)
+* Apple iPad (10th Gen)
 * 64 GB ROM
-* 10.2-inch LED Display 
 * 3 Year Apple Care+ and 3 Year Insurance
 * 1st Gen Apple Pencil
 
