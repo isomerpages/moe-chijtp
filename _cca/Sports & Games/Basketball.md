@@ -24,7 +24,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mdm Zhang Shujuan, Ms Kong Mei Sing , Mr Leon Yeo &amp;</span><br><span style="color:inherit;background-color:transparent">Mr Ang Hoot Woon</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mdm Zhang Shujuan, Ms Kong Mei Sing , Mr Leon Yeo &amp;</span><br><span style="color:inherit;background-color:transparent"></span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
