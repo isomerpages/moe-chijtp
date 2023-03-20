@@ -24,11 +24,11 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Chen Lanqing, Mrs Tay Yit Ming &amp; Ms Joy Tan</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Fiona Tan, Mrs Tay Yit Ming &amp; Ms Stephanie Song</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Tuesday, Wednesday &amp; Friday (2:45 pm - 5:45 pm)</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Tuesday, Wednesday &amp; Friday (3:00 pm - 6:00 pm)</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Venue</td>
