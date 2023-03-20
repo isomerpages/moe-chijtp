@@ -25,7 +25,7 @@ third_nav_title: Sports & Games
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Miss Mastura Senin, Miss Tan Poh Yoke, Ms Kim Purushothaman, Mr Sunny Ng and Mr Eraja Rajan</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Miss Mastura Senin, Miss Tan Poh Yoke, Ms Kim Purushothaman, Mr Eraja Rajan and Mr Kenneth Ho</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
