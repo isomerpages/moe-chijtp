@@ -4,7 +4,6 @@ permalink: /cca/Uniformed-Groups/NCC/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,7 +24,7 @@ third_nav_title: Uniformed Groups
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Jazreel Loh , Mr Tan Yee Ping &amp; Mr Joel Chel</span><br></td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Ong Yee Hwee , Mr Tan Yee Ping &amp; Mr Joel Chen</span><br></td>
   </tr>
   <tr>
     <td class="tg-osjb">Training Day/Time<br></td>
