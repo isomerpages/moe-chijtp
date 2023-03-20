@@ -27,8 +27,8 @@ third_nav_title: Performing Groups
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mrs Teresa Francis</span><br><br><span style="color:inherit;background-color:transparent">Ms Samantha Chan</span></td>
-    <td class="tg-ujx6">Ms Grace Champion <br><br>Mr Chan Yew Choong<br><br>Ms Balvinder Kaur</td>
+    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent"></span><br><br><span style="color:inherit;background-color:transparent">Ms Samantha Chan</span></td>
+    <td class="tg-ujx6">Mrs Teresa Francis <br><br>Mr Chan Yew Choong<br><br>Ms Balvinder Kaur</td>
   </tr>
   <tr>
     <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Training Days/Time</span><br></td>
