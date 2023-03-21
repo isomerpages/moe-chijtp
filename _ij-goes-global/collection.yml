@@ -1,0 +1,16 @@
+collections:
+  ij-goes-global:
+    output: true
+    order:
+      - IJ goes Global.md
+      - 2019/.keep
+      - 2019/Japan Fukuoka.md
+      - 2019/Japan Futaba.md
+      - 2019/Vietnam.md
+      - 2019/Chiang Mai.md
+      - 2018/.keep
+      - 2018/Japan Tokyo.md
+      - 2018/Japan Fukuoka.md
+      - 2018/Hong Kong.md
+      - 2018/Vietnam.md
+      - 2018/Hong Kong (Choir).md
