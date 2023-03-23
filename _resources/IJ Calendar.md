@@ -1,5 +1,5 @@
 ---
-title: IJ Calender
+title: IJ Calendar
 permalink: /resources/ij-calender/
 description: ""
 ---
