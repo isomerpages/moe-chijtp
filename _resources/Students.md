@@ -49,7 +49,7 @@ description: ""
 <img style="width:50%" src="/images/IconStu/ECG.png"> 
 </a>
 			</td>  
-    <td><a href="/files/iconguide.pdf"> 
+    <td><a href="/files/ICT/iconguide.pdf"> 
 <img style="width:50%" src="/images/IconStu/iconguide.png">  
 </a>
 		</td>
