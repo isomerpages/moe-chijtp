@@ -26,8 +26,8 @@ description: ""
     <td><a href="https://go.gov.sg/7e6r03"> 
 			<img style="width:50%" src="/images/IconStu/CCAInfoBk.png">  
 			</a>
-		</td>  
-    <td><a href="/files/CCABriefingslides2022(1).pdf">
+		</td>[CCA](/files/CCABriefingslides2022_1.pdf)
+    <td><a href="/files/CCABriefingslides2022.pdf">
 <img style="width:50%" src="/images/IconStu/CCAOrientationSlides.png">
 			</a>
 		</td>  
