@@ -16,8 +16,8 @@ description: ""
 		</td>
 		<td><a href="https://workspace.google.com/dashboard"> 
 <img style="width:50%" src="/images/IconTr/iconemail_ver2.png">  
-</a>
-			
+			</a>
+		</td>
 <td><a href="https://rbs.avero-tech.com/login.html">  
 <img style="width:50%" src="/images/IconTr/VenueBooking.png">  
 </a>
