@@ -4,46 +4,46 @@ permalink: /resources/teachers/
 description: ""
 ---
 ## CHIJ Link
-<p><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
-<img style="width:20%" src="/images/IconTr/safetyPortal_ver2.png">  
-</a></p>  
+<table>
+  <tr>
+<td><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
+<img style="width:50%" src="/images/IconTr/safetyPortal_ver2.png">  
+</a></td>  
   
-<p><a href="https://scmobile.moe.edu.sg/login">  
-<img style="width:20%" src="/images/IconTr/SCMobileAttendance.png">  
-</a></p>
+<td><a href="https://scmobile.moe.edu.sg/login">  
+<img style="width:50%" src="/images/IconTr/SCMobileAttendance.png">  
+</a></td>
 
-<p><a href="https://workspace.google.com/dashboard"> 
-<img style="width:20%" src="/images/IconTr/iconemail_ver2.png">  
-</a></p>
+<td><a href="https://workspace.google.com/dashboard"> 
+<img style="width:50%" src="/images/IconTr/iconemail_ver2.png">  
+</a></td>
+		<td><a href="/resources/chij-museum">  
+<img style="width:50%" src="/images/IconTr/CHIJMuseum.png">  
+</a></td>
+ </tr>
+  <tr>
+<td><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
+<img style="width:50%" src="/images/IconTr/ICTJIT.png">  
+</a></td>
 
-<p><a href="https://scmobile.moe.edu.sg/login">  
-<img style="width:20%" src="/images/IconTr//SCMobileAttendance.png">  
-</a></p>
+<td><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
+<img style="width:50%" src="/images/IconTr/ijStaffPortal.png">  
+</a></td>
 
-
-<p><a href="/resources/chij-museum">  
-<img style="width:20%" src="/images/IconTr/CHIJMuseum.png">  
-</a></p>
-
-<p><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
-<img style="width:20%" src="/images/IconTr/ICTJIT.png">  
-</a></p>
-
-<p><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
-<img style="width:20%" src="/images/IconTr/ijStaffPortal.png">  
-</a></p>
-
-<p><a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:20%" src="/images/IconTr/SLS.png">  
-</a></p>
-
-<p><a href="https://forms.gle/vonHJXvTW6a49d9VA">  
-<img style="width:20%" src="/images/IconTr/ITEquipment_ver2.png">  
-</a></p>
-
-<p><a href="https://rbs.avero-tech.com/login.html">  
-<img style="width:20%" src="/images/IconTr/VenueBooking.png">  
-</a></p>
+<td><a href="https://vle.learning.moe.edu.sg/login">  
+<img style="width:50%" src="/images/IconTr/SLS.png">  
+</a></td>
+<td><a href="https://forms.gle/vonHJXvTW6a49d9VA"> 
+<img style="width:50%" src="/images/IconTr/ITEquipment_ver2.png">  
+</a></td>
+ </tr>
+  <tr>
+<td><a href="https://rbs.avero-tech.com/login.html">  
+<img style="width:50%" src="/images/IconTr/VenueBooking.png">  
+</a></td>
+ </tr>
+  </tr>
+</table>
 
 # MOE Links
 <p><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">  
