@@ -27,18 +27,17 @@ Throughout their educational journey in IJ, students will be able to acquire dig
 Having heard the views of staff, parents, and students through various engagement sessions, the school has decided to adopt the iPad as the personal learning device for our students. Every iPad will come bundled with a Pencil to maximize its use as a learning tool. The devices will be distributed to students in Term 3, and we will progressively roll out their use during lessons.
 
 With hardware and software in the hand of students, the work they need to do become the work they love to do. Students love iPad because it’s portable, capable, and easy to use. It helps them to become self-directed and collaborative learners with a Multi-Touch experience that’s interactive and engaging. 
-![](/images/NDLP/NDLP3.png)
+
+<img style="width:75%" src="/images/NDLP/NDLP3.png">  
 
 The iPad bundle which includes a warranty and insurance for purchase is as shown below:  
-![](/images/NDLP/NDLP4.png)  
 
-* Apple iPad (10th Gen)
-* 64 GB ROM
-* 3 Year Apple Care+ and 3 Year Insurance
-* 1st Gen Apple Pencil
+<img style="width:50%" src="/images/NDLP/NDLP4.png">  
+** Note: the latest model for purchase is Apple iPad (10th Gen)*
+
 
 **Need Help?**
-![Helpdesk](/images/NDLP/Helpdesk.jpg)
+<img style="width:50%" src="/images/NDLP/Helpdesk.jpg">  
 
 **Resources**  
 Parents Handbook on Learning with PLD ([Book 1 ](/files/ICT/ParentHB1.pdf) & [Book 2](/files/ICT/))  
