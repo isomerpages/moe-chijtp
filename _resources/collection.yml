@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student/HelpDesk.md
-      - Student/Students.md
+      - Student/Links.md
       - Student/.keep
       - Parents/.keep
       - Parents/Parents.md
