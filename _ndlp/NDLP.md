@@ -15,10 +15,9 @@ The Covid-19 pandemic has revealed the need for us to accelerate the National Di
 With every student owing a PLD, teachers can leverage the affordances of ICT tools to create ICT-enriched learning experiences. 
 
 Through the PDLP, CHIJ aims to develop students into 
-i) Critical Thinkers
-ii) Leaders of Self and Others
-iii) Effective Communicators. 
-
+1. Critical Thinkers
+2. Leaders of Self and Others
+3. Effective Communicators. 
 ![](/images/NDLP/NDLP1.png)
 
 Throughout their educational journey in IJ, students will be able to acquire digital skills across the 3 domains as shown below.   
@@ -42,5 +41,5 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 ![Helpdesk](/images/NDLP/Helpdesk.jpg)
 
 **Resources**  
-Parents Handbook on Learning with PLD [Book1 ](/files/ICT/ParentHB1.pdf)  
+Parents Handbook on Learning with PLD ([Book 1 ](/files/ICT/ParentHB1.pdf) & [Book 2](/files/ICT/))  
 Cyberwellness Resources for Parents [Parents' Toolkit](/files/ICT/cybwellness4uchild.pdf)
