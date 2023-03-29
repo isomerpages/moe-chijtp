@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Student/HelpDesk.md
       - Student/Students.md
       - Student/.keep
       - Parents/.keep
