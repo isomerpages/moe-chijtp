@@ -9,7 +9,9 @@ description: ""
 <img style="width:50%" src="/images/IconStu/timetable.png">  
 </a>
 		</th>  
-    <th>2
+    <th><a href="https://indd.adobe.com/view/cd31b081-37c6-490f-9da3-8221a1ac3b73?mv=affiliate&amp;mv2=red">  
+<img style="width:50%" src="/images/IconStu/shb2.png">  
+</a>
 		</th>  
     <th><a href="https://sites.google.com/moe.edu.sg/ijtech"> 
 <img style="width:50%" src="/images/IconStu/IJTech.png">  
@@ -34,14 +36,7 @@ description: ""
 <img style="width:50%" src="/images/IconStu/HWB.png">
 </a>
   </td>		
-  </tr>  
-	  <tr>  
-    <td>33
-		</td>  
-    <td>8</td>  
-    <td>9
-  </td>  
-  </tr>  
+  </tr>
 	  <tr>  
     <td><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
 <img style="width:50%" src="/images/IconStu/LibCatalogue.png">  
