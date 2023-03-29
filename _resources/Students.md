@@ -3,7 +3,6 @@ title: Students
 permalink: /resources/students/
 description: ""
 ---
-<p>
 <table>  
   <tr>  
     <th><a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
@@ -59,8 +58,3 @@ description: ""
 		</td>
   </tr>	 
 </table>
-</p>
-
-| Column 1 | Column 2 | Column 3 | Column 4 |
-| -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | ![](/images/IconStu/SLS.png)     |
