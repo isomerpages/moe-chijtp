@@ -9,11 +9,9 @@ description: ""
 <td><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
 <img style="width:50%" src="/images/IconTr/safetyPortal_ver2.png">  
 </a></td>  
-  
 <td><a href="https://scmobile.moe.edu.sg/login">  
 <img style="width:50%" src="/images/IconTr/SCMobileAttendance.png">  
 </a></td>
-
 <td><a href="https://workspace.google.com/dashboard"> 
 <img style="width:50%" src="/images/IconTr/iconemail_ver2.png">  
 </a></td>
@@ -24,25 +22,27 @@ description: ""
   <tr>
 <td><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
 <img style="width:50%" src="/images/IconTr/ICTJIT.png">  
-</a></td>
-
-<td><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
+</a>
+		</td>
+		<td><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
 <img style="width:50%" src="/images/IconTr/ijStaffPortal.png">  
-</a></td>
-
-<td><a href="https://vle.learning.moe.edu.sg/login">  
+</a>
+		</td>
+		<td><a href="https://vle.learning.moe.edu.sg/login">  
 <img style="width:50%" src="/images/IconTr/SLS.png">  
-</a></td>
-<td><a href="https://forms.gle/vonHJXvTW6a49d9VA"> 
+</a>
+		</td>
+	<td><a href="https://forms.gle/vonHJXvTW6a49d9VA"> 
 <img style="width:50%" src="/images/IconTr/ITEquipment_ver2.png">  
-</a></td>
- </tr>
-  <tr>
-<td><a href="https://rbs.avero-tech.com/login.html">  
+</a>
+		</td>
+	 </tr>
+	<tr>
+		<td><a href="https://rbs.avero-tech.com/login.html">  
 <img style="width:50%" src="/images/IconTr/VenueBooking.png">  
-</a></td>
+</a>
+		</td>
  </tr>
-  </tr>
 </table>
 
 # MOE Links
