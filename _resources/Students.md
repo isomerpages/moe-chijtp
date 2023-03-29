@@ -53,8 +53,8 @@ description: ""
 </a>
 		</td>
 		<td><a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:50%" src="/images/SLS.png">  
+<img style="width:50%" src="/images/IconStu/SLS.png">  
 </a>
 		</td>
-  </tr>  
+  </tr>
 </table>
