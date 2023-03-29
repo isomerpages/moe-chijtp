@@ -17,16 +17,16 @@ description: ""
 </a></p>
 
 <p><a href="https://scmobile.moe.edu.sg/login">  
-<img style="width:20%" src="/images/SC%20Mobile%20Attendance%20Icon.png">  
+<img style="width:20%" src="/images/IconTr//SCMobileAttendance.png">  
 </a></p>
 
 
 <p><a href="/resources/chij-museum">  
-<img style="width:20%" src="/images/CHIJ%20Museum%20Icon.png">  
+<img style="width:20%" src="/images/IconTr/CHIJMuseum.png">  
 </a></p>
 
 <p><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
-<img style="width:20%" src="/images/JIT.png">  
+<img style="width:20%" src="/images/IconTr/JIT.png">  
 </a></p>
 
 <p><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
@@ -34,20 +34,15 @@ description: ""
 </a></p>
 
 <p><a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:20%" src="/images/SLS.png">  
+<img style="width:20%" src="/images/IconTr/SLS.png">  
 </a></p>
-
-<p><a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:20%" src="/images/SLS.png">  
-</a></p>
-
 
 <p><a href="https://forms.gle/vonHJXvTW6a49d9VA">  
-<img style="width:20%" src="/images/IT%20Equipment_ver2.png">  
+<img style="width:20%" src="/images/IconTr/ITEquipment_ver2.png">  
 </a></p>
 
 <p><a href="https://rbs.avero-tech.com/login.html">  
-<img style="width:20%" src="/images/Venue%20Booking%20Icon.png">  
+<img style="width:20%" src="/images/IconTr/VenueBooking.png">  
 </a></p>
 
 # MOE Links
