@@ -5,32 +5,47 @@ description: ""
 ---
 <table>  
   <tr>  
-    <th>1<a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
-<img style="width:25%" src="/images/IconStu/timetable.png">  
-</a></th>  
-    <th>2</th>  
-    <th>3</th>  
+    <th><a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
+<img style="width:50%" src="/images/IconStu/timetable.png">  
+</a>
+		</th>  
+    <th>2
+		</th>  
+    <th><a href="https://sites.google.com/moe.edu.sg/ijtech"> 
+<img style="width:50%" src="/images/IconStu/IJTech.png">  
+</a>
+		</th>  
   </tr>  
   <tr>  
-    <td>4</td>  
+    <td><a href="https://go.gov.sg/7e6r03"> 
+<img style="width:50%" src="/images/IconStu/CCAInfoBk.png">  
+</a></td>  
     <td>5</td>  
     <td>6</td>  
   </tr>  
 	  <tr>  
-    <td>7</td>  
+    <td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"> 
+<img style="width:50%" src="/images/HBL.jpg">  
+</a>
+		</td>  
     <td>8</td>  
-    <td>9</td>  
+    <td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
+<img style="width:50%" src="/images/IconStu/HWB.png">
+</a>
+  </td>  
   </tr>  
 	  <tr>  
-    <td>10<a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
-<img style="width:50%" src="/images/Icons_student/LibCatalogue.png">  
+    <td><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
+<img style="width:50%" src="/images/IconStu/LibCatalogue.png">  
 </a>
 			</td>  
-    <td>11<a href="https://sites.google.com/moe.edu.sg/chijecg2021/home"> 
-<img style="width:50%" src="/images/Icons_student/ECG.png"> 
+    <td><a href="https://sites.google.com/moe.edu.sg/chijecg2021/home"> 
+<img style="width:50%" src="/images/IconStu/ECG.png"> 
 </a>
 			</td>  
-    <td>12</td>  
+    <td><a href="/files/iconguide.pdf"> 
+<img style="width:50%" src="/images/IconStu/iconguide.png">  
+</a></td>  
   </tr>  
 </table>
 
