@@ -26,11 +26,11 @@ description: ""
 </a></p>
 
 <p><a href="https://sites.google.com/moe.edu.sg/ictjitpage/home">  
-<img style="width:20%" src="/images/IconTr/JIT.png">  
+<img style="width:20%" src="/images/IconTr/ICTJIT.png">  
 </a></p>
 
 <p><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
-<img style="width:20%" src="/images/ij%20staff%20portal.png">  
+<img style="width:20%" src="/images/IconTr/ijStaffPortal.png">  
 </a></p>
 
 <p><a href="https://vle.learning.moe.edu.sg/login">  
