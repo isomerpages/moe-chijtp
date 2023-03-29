@@ -44,7 +44,10 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 ![Helpdesk](/images/NDLP/Helpdesk.jpg)
 
 **Resources**
-Parents Handbook on Learning with PLD ([**Book 1**](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ParentHB1.pdf) &  [**Book 2**](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ParentHB2.pdf))
+
+Parents Handbook on Learning with PLD [Book1 ](/files/ICT/ParentHB1.pdf)
+
+([**Book 1**](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ParentHB1.pdf) &  [**Book 2**](https://www.chijsec.edu.sg/qql/slot/u521/PDLP/ParentHB2.pdf))
 
   
 
