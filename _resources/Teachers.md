@@ -42,7 +42,6 @@ description: ""
 		</td>
 	 </tr>
 	<tr>
-		</td>
 		<td><a href="/resources/chij-museum">  
 <img style="width:50%" src="/images/IconTr/CHIJMuseum.png">  
 </a>
