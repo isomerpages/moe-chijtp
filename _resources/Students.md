@@ -3,6 +3,40 @@ title: Students
 permalink: /resources/students/
 description: ""
 ---
+<table>  
+  <tr>  
+    <th>1<a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
+<img style="width:25%" src="/images/IconStu/timetable.png">  
+</a></th>  
+    <th>2</th>  
+    <th>3</th>  
+  </tr>  
+  <tr>  
+    <td>4</td>  
+    <td>5</td>  
+    <td>6</td>  
+  </tr>  
+	  <tr>  
+    <td>7</td>  
+    <td>8</td>  
+    <td>9</td>  
+  </tr>  
+	  <tr>  
+    <td>10<a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
+<img style="width:50%" src="/images/Icons_student/LibCatalogue.png">  
+</a>
+			</td>  
+    <td>11<a href="https://sites.google.com/moe.edu.sg/chijecg2021/home"> 
+<img style="width:50%" src="/images/Icons_student/ECG.png"> 
+</a>
+			</td>  
+    <td>12</td>  
+  </tr>  
+</table>
+
+
+
+
 <p><a href="https://indd.adobe.com/view/cd31b081-37c6-490f-9da3-8221a1ac3b73?mv=affiliate&amp;mv2=red">  
 <img style="width:25%" src="/images/shb2.png">  
 </a></p>
@@ -56,4 +90,3 @@ description: ""
 <p><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
 <img style="width:25%" src="/images/HWB.png">  
 </a></p>
-	
