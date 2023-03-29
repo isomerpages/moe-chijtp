@@ -15,8 +15,8 @@ description: ""
 <img style="width:50%" src="/images/IconStu/IJTech.png">  
 </a>
 		</th>
-		<td><a href="https://go.gov.sg/7e6r03"> 
-<img style="width:50%" src="/images/IconStu/CCAInfoBk.png">  
+		<td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"> 
+<img style="width:50%" src="/images/HBL.jpg">  
 </a>
 		</td>  
   </tr>  
@@ -25,18 +25,21 @@ description: ""
 <img style="width:50%" src="/images/IconStu/CCAInfoBk.png">  
 </a>
 		</td>  
-    <td>5</td>  
-    <td>6</td>  
-  </tr>  
-	  <tr>  
-    <td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"> 
-<img style="width:50%" src="/images/HBL.jpg">  
-</a>
+    <td><a href="/files/CCABriefingslides2022%20(1).pdf">
+<img style="width:50%" src="/images/IconStu/CCAOrientationSlides.png">
 		</td>  
-    <td>8</td>  
+    <td>6
+		</td> 
     <td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
 <img style="width:50%" src="/images/IconStu/HWB.png">
 </a>
+  </td>		
+  </tr>  
+	  <tr>  
+    <td>33
+		</td>  
+    <td>8</td>  
+    <td>9
   </td>  
   </tr>  
 	  <tr>  
