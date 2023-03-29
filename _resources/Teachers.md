@@ -5,15 +5,15 @@ description: ""
 ---
 ## CHIJ Link
 <p><a href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1">  
-<img style="width:20%" src="/images/safetyPortal_ver2.png">  
+<img style="width:20%" src="/images/IconTr/safetyPortal_ver2.png">  
 </a></p>  
   
 <p><a href="https://scmobile.moe.edu.sg/login">  
-<img style="width:20%" src="/images/SC%20Mobile%20Attendance%20Icon.png">  
+<img style="width:20%" src="/images/IconTr/SCMobileAttendance.png">  
 </a></p>
 
 <p><a href="https://workspace.google.com/dashboard"> 
-<img style="width:20%" src="/images/iconemail_ver2.png">  
+<img style="width:20%" src="/images/IconTr/iconemail_ver2.png">  
 </a></p>
 
 <p><a href="https://scmobile.moe.edu.sg/login">  
@@ -101,4 +101,3 @@ description: ""
 
 <p><br />
 </p>
-
