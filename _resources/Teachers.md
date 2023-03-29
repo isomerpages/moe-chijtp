@@ -32,10 +32,6 @@ description: ""
 <img style="width:50%" src="/images/IconTr/safetyPortal_ver2.png">  
 </a>
 		</td>  
-		<td><a href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home">  
-<img style="width:50%" src="/images/IconTr/ijStaffPortal.png">  
-</a>
-		</td>
 		<td><a href="https://vle.learning.moe.edu.sg/login">  
 <img style="width:50%" src="/images/IconTr/SLS.png">  
 </a>
