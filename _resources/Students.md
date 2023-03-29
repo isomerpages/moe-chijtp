@@ -62,4 +62,4 @@ description: ""
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | -------- | -------- | -------- |
-| Text     | Text     | Text     | ![https://vle.learning.moe.edu.sg/login](/images/IconStu/SLS.png)     |
+| Text     | Text     | Text     | ![](/images/IconStu/SLS.png)     |
