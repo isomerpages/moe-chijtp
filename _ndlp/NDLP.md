@@ -33,7 +33,7 @@ With hardware and software in the hand of students, the work they need to do bec
 The iPad bundle which includes a warranty and insurance for purchase is as shown below:  
 
 <img style="width:50%" src="/images/NDLP/NDLP4.png">  
-** Note: the latest model for purchase is Apple iPad (10th Gen)*
+* Note: the latest model for purchase is Apple iPad (10th Gen)*
 
 
 **Need Help?**
