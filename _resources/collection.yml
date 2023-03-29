@@ -2,15 +2,15 @@ collections:
   resources:
     output: true
     order:
-      - Students/Helpdesk.md
-      - Students/Links.md
-      - Students/.keep
       - Parents/.keep
       - Parents/Parents.md
       - Parents/IJ Quarterly.md
       - Parents/DSA 2022.md
       - Parents/Uniform.md
       - Teachers.md
+      - Students/.keep
+      - Students/Helpdesk.md
+      - Students/Links.md
       - Announcements.md
       - IJ Calendar.md
       - CHIJ Museum.md
