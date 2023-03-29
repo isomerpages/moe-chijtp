@@ -4,7 +4,6 @@ permalink: /resources/students/
 description: ""
 third_nav_title: Student
 ---
-
 <table>  
   <tr>  
     <td><a href="https://moe-chijtp-staging.netlify.app/general/newsnevents/timetable-2022"> 
@@ -61,6 +60,3 @@ third_nav_title: Student
   </td>		
   </tr>
 </table>
-
-**Need Help?**
-<img style="width:50%" src="/images/NDLP/Helpdesk.jpg">  
