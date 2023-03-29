@@ -39,22 +39,5 @@ description: ""
 </a>
   </td>		
   </tr>
-	  <tr>  
-    <td><a href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"> 
-<img style="width:50%" src="/images/IconStu/LibCatalogue.png">  
-</a>
-			</td>  
-    <td><a href="https://sites.google.com/moe.edu.sg/chijecg2021/home"> 
-<img style="width:50%" src="/images/IconStu/ECG.png"> 
-</a>
-			</td>  
-    <td><a href="/files/iconguide.pdf"> 
-<img style="width:50%" src="/images/IconStu/iconguide.png">  
-</a>
-		</td>
-		<td><a href="https://vle.learning.moe.edu.sg/login">  
-<img style="width:50%" src="/images/IconStu/SLS.png">  
-</a>
-		</td>
-  </tr>
+	 
 </table>
