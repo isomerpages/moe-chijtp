@@ -29,6 +29,7 @@ description: ""
 		</td>  
     <td><a href="/files/CCABriefingslides2022(1).pdf">
 <img style="width:50%" src="/images/IconStu/CCAOrientationSlides.png">
+			</a>
 		</td>  
     <td><a href="https://workspace.google.com/dashboard"> 
 <img style="width:50%" src="/images/IconStu/stdicon.png">  
