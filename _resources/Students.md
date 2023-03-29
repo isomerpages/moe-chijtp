@@ -59,7 +59,3 @@ description: ""
   </td>		
   </tr>
 </table>
-
-[CCA Briefing Slides](/files/CCA/2023CCABriefingSlides.pdf)  
-[CCA Info Booklet](/files/CCA/2023StudentCCAInfoBooklet.pdf)  
-[Student email onboarding guide](/files/ICT/iconguide.pdf)
