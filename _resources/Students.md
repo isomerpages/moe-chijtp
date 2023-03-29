@@ -30,7 +30,9 @@ description: ""
     <td><a href="/files/CCABriefingslides2022%20(1).pdf">
 <img style="width:50%" src="/images/IconStu/CCAOrientationSlides.png">
 		</td>  
-    <td>6
+    <td><a href="https://workspace.google.com/dashboard"> 
+<img style="width:50%" src="/images/IconStu/stdicon.png">  
+</a>
 		</td> 
     <td><a href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"> 
 <img style="width:50%" src="/images/IconStu/HWB.png">
@@ -48,7 +50,12 @@ description: ""
 			</td>  
     <td><a href="/files/iconguide.pdf"> 
 <img style="width:50%" src="/images/IconStu/iconguide.png">  
-</a></td>  
+</a>
+		</td>
+		<td><a href="https://vle.learning.moe.edu.sg/login">  
+<img style="width:50%" src="/images/SLS.png">  
+</a>
+		</td>
   </tr>  
 </table>
 
