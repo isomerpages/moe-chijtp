@@ -56,13 +56,11 @@ description: ""
 		<td><a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">  
 <img style="width:50%" src="/images/IconTr/MIMS.png">  
 </a></td>
-
+		
 <td><a href="https://workspace.google.com/dashboard"> 
 <img style="width:50%" src="/images/IconTr/iconemail_ver2.png">  
 </a></td>
-
-
-
+		
 <td><a href="https://schoolcockpit.moe.gov.sg/"> 
 <img style="width:50%" src="/images/IconTr/SchoolCockpit.png">  
 </a></td>
@@ -106,6 +104,5 @@ description: ""
 <td><a href="https://intranet.moe.gov.sg/"> 
 <img style="width:50%" src="/images/IconTr/MOEIntranet.png">  
 </a></td>
-		
   </tr>
 </table>
