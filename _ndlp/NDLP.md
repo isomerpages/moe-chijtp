@@ -40,6 +40,6 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 <img style="width:50%" src="/images/NDLP/Helpdesk.jpg">  
 
 **Resources**  
-Parents Handbook on Learning with PLD ([Book 1 ](/files/ICT/ParentHB1.pdf) & [Book 2](/files/ICT/))  
+Parents Handbook on Learning with PLD ([Book 1 ](/files/ICT/ParentHB1.pdf) & [Book 2](/files/ICT/ParentHB2.pdf))  
 Cyberwellness Resources for Parents [Parents' Toolkit](/files/ICT/cybwellness4uchild.pdf)  
 Parents' Briefing [slides](/files/ICT/NDLPslide.pdf)
