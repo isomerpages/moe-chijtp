@@ -4,11 +4,10 @@ permalink: /resources/parents/permalink/
 description: ""
 third_nav_title: Parents
 ---
+# **Direct School Admission 2023**
+[CHIJ Secondary DSA information Booklet 2022](/files/DSA_Info_Sec%201%202023A.pdf)
 
-# **Direct School Admission 2022**
-[CHIJ Secondary DSA information Booklet](/files/DSA_Info_Sec%201%202023A.pdf)
-
-The school will be admitting students via these talent areas in 2022:
+The school will be admitting students via these talent areas in 2023:
 
 * Badminton 
 * Basketball 
