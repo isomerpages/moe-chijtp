@@ -4,10 +4,10 @@ permalink: /resources/permalink/
 description: ""
 third_nav_title: Parents
 ---
+# **CHIJ  UNIFORM SUPPLIER**
 
-**CHIJ  UNIFORM SUPPLIER**
+**Magdalene Sewing Centre Pte Ltd**
 
-Magdalene Sewing Centre Pte Ltd
 5000 Ang Mo Kio Ave 5
 Techplace 2 #05-09
 Singapore 569870
