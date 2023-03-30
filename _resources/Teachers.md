@@ -41,12 +41,6 @@ description: ""
 </a>
 		</td>
 	 </tr>
-	<tr>
-		<td><a href="/resources/chij-museum">  
-<img style="width:50%" src="/images/IconTr/CHIJMuseum.png">  
-</a>
-		</td>
- </tr>
 </table>
 
 ## MOE Links
