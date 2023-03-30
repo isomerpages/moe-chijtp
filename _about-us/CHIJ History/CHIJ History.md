@@ -2,7 +2,9 @@
 title: CHIJ History
 permalink: /about-us/chij-history/
 description: ""
+third_nav_title: CHIJ History
 ---
+
 <center><p> <a href="https://www.infantjesussisters.org/">click to visit the "Infant Jesus Sisters' Website"
 </a></p></center>
 

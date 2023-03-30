@@ -2,7 +2,10 @@
 title: CHIJ Museum
 permalink: /resources/chij-museum/
 description: ""
+third_nav_title: CHIJ History
 ---
+
+
 ![](/images/CHIJ_Museum.jpg)
 
 **Tour of The CHIJ Museum**

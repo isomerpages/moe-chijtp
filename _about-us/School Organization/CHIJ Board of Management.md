@@ -4,7 +4,7 @@ permalink: /about-us/School-Organization/chij-board-of-management/
 description: ""
 third_nav_title: School Organization
 ---
-![](/images/IJboard22.jpg)
+![](/images/IJBOM23.jpg)
 
 For enquiries, please email to
 
