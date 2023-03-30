@@ -2,11 +2,11 @@ collections:
   resources:
     output: true
     order:
-      - Parents/DSA Application.md
       - Parents/.keep
       - Parents/Secondary 1 Matters.md
       - Parents/IJ Quarterly.md
       - Parents/Subject Allocation.md
+      - Parents/DSA Application.md
       - Parents/Booklist.md
       - Parents/Uniform.md
       - Teachers.md
