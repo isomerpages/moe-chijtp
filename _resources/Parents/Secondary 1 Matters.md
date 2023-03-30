@@ -4,6 +4,7 @@ permalink: /resources/parents/
 description: ""
 third_nav_title: Parents
 ---
+
 # **Secondary 1 Matters**
 
  [Introduction to CHIJ Secondary](/files/Parents/Introduction%20to%20CHIJ%20Secondary.pdf)

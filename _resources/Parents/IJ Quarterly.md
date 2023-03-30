@@ -1,9 +1,12 @@
 ---
 title: IJ Quarterly
-permalink: /permalink/
+permalink: /resources/parents/ij-quarterly/
 description: ""
 third_nav_title: Parents
 ---
+
+
+
 # IJ Quarterly 2023
 
 * [IJ Quarterly T1](/files/IJ%20Quarterly%202023-T1.pdf)

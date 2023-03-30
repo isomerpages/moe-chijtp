@@ -1,9 +1,10 @@
 ---
 title: DSA Application
-permalink: /resources/parents/permalink/
+permalink: /resources/parents/dsa-application/
 description: ""
 third_nav_title: Parents
 ---
+
 # **Direct School Admission 2023**
 [CHIJ Secondary DSA information Booklet 2022](/files/DSA_Info_Sec%201%202023A.pdf)
 
