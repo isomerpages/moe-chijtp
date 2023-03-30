@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - CHIJ History/CHIJ Museum.md
-      - CHIJ History/CHIJ History.md
       - CHIJ History/.keep
+      - CHIJ History/CHIJ History.md
+      - CHIJ History/CHIJ Museum.md
       - Principal's Message.md
       - Mission, Vision, Our Crest and Motto.md
       - School Organization/.keep
