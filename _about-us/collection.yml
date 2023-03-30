@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CHIJ History/CHIJ Museum.md
       - CHIJ History/CHIJ History.md
       - CHIJ History/.keep
       - Principal's Message.md
