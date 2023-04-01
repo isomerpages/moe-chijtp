@@ -67,7 +67,7 @@ The Convent of the Holy Infant Jesus Secondary Choir is committed to:
 3. Deepening the interest and joy for singing
 5. Serving the school and catholic community with the voices that God has blessed us with
 
-<u><strong>VISION</strong></u>
+<u><strong>VISION</strong></u>  
 The Convent of the Holy Infant Jesus Secondary Choir is committed to:  
 1. Achieving choral excellence through studying and performing a wide variety of choral music
 4. Deepening the interest and joy for singing
