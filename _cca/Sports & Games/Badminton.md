@@ -2,7 +2,7 @@
 title: Badminton
 permalink: /cca/Sports-and-Games/badminton/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -19,7 +19,7 @@ third_nav_title: Sports & Games
 <thead>
   <tr>
     <th class="tg-osjb"></th>
-    <th class="tg-0lax"><span style="font-weight:bold">School Team &amp; Recreational Team</span></th>
+    <th class="tg-0lax"><span style="font-weight:bold">Badminton School Team &amp; Recreational Team</span></th>
   </tr>
 </thead>
 <tbody>
