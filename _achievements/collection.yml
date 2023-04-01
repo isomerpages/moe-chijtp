@@ -1,5 +1,4 @@
 collections:
   achievements:
     output: true
-    order:
-      - Students Achievements/.keep
+    order: []
