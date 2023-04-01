@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Students Achievements/.keep
-      - Students Achievements/Clubs & Societies.md
       - Students Achievements/Uniformed Groups.md
