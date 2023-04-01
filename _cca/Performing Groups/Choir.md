@@ -19,7 +19,7 @@ third_nav_title: Performing Groups
 <thead>
   <tr>
     <th class="tg-osjb"></th>
-    <th class="tg-1wig">Club/Recreational Team &amp; School Team</th>
+    <th class="tg-1wig">Choir</th>
   </tr>
 </thead>
 <tbody>
@@ -44,62 +44,40 @@ third_nav_title: Performing Groups
   
 
 **C**ommitment
-
 Committed to the music with a strong sense of purpose and self-discipline
 
   
 
 **H**umility
-
 To&nbsp;be humble before God and Man
-
   
 
 **I**nclusiveness
-
 A community that builds enduring friendships amongst choristers of diverse backgrounds
 
   
 
 **J**oy
-
 Develop a sense of gratitude and the joy for music
 
-<u><strong>MISSION </strong></u>
-
+<u><strong>MISSION </strong></u>  
 The Convent of the Holy Infant Jesus Secondary Choir is committed to:
 
-1\. Achieving choral excellence through studying and performing a wide variety of choral music
-
-2\. Deepening the interest and joy for singing
-
-3\. Serving the school and catholic community with the voices that God has blessed us with
-
-  
+1. Achieving choral excellence through studying and performing a wide variety of choral music
+3. Deepening the interest and joy for singing
+5. Serving the school and catholic community with the voices that God has blessed us with
 
 <u><strong>VISION</strong></u>
-
 The Convent of the Holy Infant Jesus Secondary Choir is committed to:  
-
-1\. Achieving choral excellence through studying and performing a wide variety of choral music
-
-2\. Deepening the interest and joy for singing
-
-3\. Serving the school and catholic community with the voices that God has blessed us with
-
-  
+1. Achieving choral excellence through studying and performing a wide variety of choral music
+4. Deepening the interest and joy for singing
+6. Serving the school and catholic community with the voices that God has blessed us with 
 
 The award-winning CHIJ Choir is well known for its high standards both locally and abroad.&nbsp;
 
-  
-
 As an established Performing Arts group the CCA continues to nurture confident choir members who are passionate in taking choral music into top-notch international competitions abroad. Choir girls have travelled to Sydney Australia, Hawaii USA, Xiamen China, Riva del Garda Italy (twice) and Hong Kong (4 times) for international festivals and returned with top awards in all categories, in all countries.&nbsp;
 
-  
-
-In 2018 we were top in the Equal Voices Category, a Gold Award winner, and top 8 finalists in the Singapore International Choral Festival 2018. We were participants of the 2018 Asia Cantate (competition) in Hong Kong too. Our members are disciplined, anchored in choral music and contribute substantially to school events and in-house performances.&nbsp;
-
-  
+In 2018 we were top in the Equal Voices Category, a Gold Award winner, and top 8 finalists in the Singapore International Choral Festival 2018. We were participants of the 2018 Asia Cantate (competition) in Hong Kong too. Our members are disciplined, anchored in choral music and contribute substantially to school events and in-house performances.&nbsp; 
 
 The CHIJ Secondary Choir also anchored the 165th historical celebrations of the 11 Infant Jesus convents' combined choir at the National stadium, 2019. Choir provides our graduation cohorts a solid platform for Direct School Admission to preferred Junior Colleges, on account of all-round high attainment levels and Distinctions.&nbsp; In 2019 the choir obtained the Certification of Distinction in the Singapore Youth Festival, and we hope to do our best in the SYF 2021. Within convent grounds, the girls lead the school congregation in morning hymn and assembly, and on occasion, are in attendance to assist in official events. Throughout Covid-19 years, 2020 and 2021, CHIJ Choir continued to be active, energetic and vibrant in numerous video productions in both public and school-based presentations, jam sessions and competitions.&nbsp;
 
