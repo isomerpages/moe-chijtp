@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Achievements.md
       - CHIJ History/.keep
       - CHIJ History/CHIJ History.md
       - CHIJ History/CHIJ Museum.md
@@ -14,4 +13,5 @@ collections:
       - School Organization/CHIJ SMT.md
       - School Organization/CHIJ EAS.md
       - School Organization/CHIJ Parent Support Group.md
+      - School Achievements.md
       - Key Information.md
