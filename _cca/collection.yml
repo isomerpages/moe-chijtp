@@ -2,29 +2,7 @@ collections:
   cca:
     output: true
     order:
-      - Performing Arts/IJ Theatre.md
-      - Performing Arts/Guitar Ensemble.md
-      - Performing Arts/IJ Dance Ensemble.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Choir.md
-      - Performing Arts/Overview.md
-      - Performing Arts/.keep
       - SYF 2023.md
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Overview.md
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/NCC (Sea).md
-      - Sports & Games/.keep
-      - Sports & Games/Overview.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Bowling.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Rhythmic Gymnastics.md
-      - Sports & Games/Squash.md
-      - Sports & Games/Tennis.md
-      - Sports & Games/Track and Field.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Overview.md
       - Clubs & Societies/Arts Alive!.md
@@ -35,4 +13,26 @@ collections:
       - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/iGrow@IJ (ECO Club).md
       - Clubs & Societies/Legion of Mary.md
+      - Performing Arts/.keep
+      - Performing Arts/IJ Theatre.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/IJ Dance Ensemble.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Overview.md
+      - Sports & Games/.keep
+      - Sports & Games/Overview.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Sports & Games/Squash.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Track and Field.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Sea).md
       - Performing Groups/.keep
