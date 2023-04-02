@@ -58,19 +58,19 @@ IJ Media Club welcomes all who are keen to explore and deepen their interest in 
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-2).jpg" style="width:100%">
+  <img src="/images/IJ%20Media%20Club%20(Students-2).jpg" style="width:80%">
   <div class="text">Caption Text</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-3).jpg" style="width:100%">
+  <img src="/images/IJ%20Media%20Club%20(Students-3).jpg" style="width:80%">
   <div class="text">Caption Two</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-4).jpg" style="width:100%">
+  <img src="/images/IJ%20Media%20Club%20(Students-4).jpg" style="width:80%">
   <div class="text">Caption Three</div>
 </div>
 
