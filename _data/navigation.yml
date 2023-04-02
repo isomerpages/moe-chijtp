@@ -25,7 +25,7 @@ links:
         url: /departments/physical-education
       - title: Science
         url: /departments/science
-  - title: NDLP
-    collection: ndlp
+  - title: Programmes
+    collection: programmes
   - title: Resources
     collection: resources
