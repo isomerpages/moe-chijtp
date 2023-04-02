@@ -1,5 +1,5 @@
 collections:
-  ndlp:
+  programmes:
     output: true
     order:
       - NDLP.md
