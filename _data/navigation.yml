@@ -25,7 +25,5 @@ links:
         url: /departments/physical-education
       - title: Science
         url: /departments/science
-  - title: Programmes
-    collection: programmes
   - title: Resources
     collection: resources
