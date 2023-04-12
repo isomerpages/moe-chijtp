@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Arts/.keep
-      - Arts/Arts.md
+      - Arts/Overview.md
       - Arts/Art.md
       - Arts/Drama.md
       - Arts/Music.md
