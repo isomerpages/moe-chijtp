@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - NDLP.md
+      - ICT.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Art.md
