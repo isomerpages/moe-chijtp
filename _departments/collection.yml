@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - ICT.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Art.md
@@ -21,3 +20,4 @@ collections:
       - Mother Tongue.md
       - Physical Education.md
       - Science.md
+      - ICT.md
