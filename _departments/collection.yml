@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - The Arts/Arts.md
       - The Arts/Art.md
       - The Arts/.keep
       - The Arts/Music.md
