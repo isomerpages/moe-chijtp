@@ -2,7 +2,7 @@ collections:
   departments:
     output: true
     order:
-      - ICT.md
+      - ICTs.md
       - Arts/.keep
       - Arts/Arts.md
       - Arts/Art.md
