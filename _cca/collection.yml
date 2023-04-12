@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - SYF 2023.md
       - Clubs & Societies/.keep
       - Clubs & Societies/Overview.md
       - Clubs & Societies/Arts Alive!.md
