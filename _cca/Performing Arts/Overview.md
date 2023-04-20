@@ -73,7 +73,7 @@ third_nav_title: Performing Arts
 			Accomplishment (Chinese Dance)
 		</td>
 		<td>
-			Pending
+			Accomplishment (Chinese Dance)
 		</td>
 	</tr>
 	<tr>
