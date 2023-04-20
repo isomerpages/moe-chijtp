@@ -4,6 +4,7 @@ permalink: /departments/ar/art/
 description: ""
 third_nav_title: AR
 ---
+![](/images/Dept/arts.jpeg)
 **Mission Statement**
 
 To nurture inquiring and engaged art learners who display curiosity, resourcefulness, cultural awareness and discernment, to communicate, collaborate and innovate in the increasingly complex world  
