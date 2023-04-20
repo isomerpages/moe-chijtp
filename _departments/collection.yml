@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
-      - AR/Drama.md
-      - AR/Art.md
-      - AR/Overview.md
       - AR/.keep
+      - AR/Overview.md
+      - AR/Art.md
+      - AR/Drama.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
