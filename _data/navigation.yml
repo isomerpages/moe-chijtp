@@ -5,27 +5,6 @@ links:
   - title: CCA
     collection: cca
   - title: Departments
-    url: /departments
-    sublinks:
-      - title: The Arts
-        url: /departments/arts/overview
-      - title: CCE
-        url: /departments/cce/overview
-      - title: English
-        url: /departments/english
-      - title: Humanities
-        url: /departments/humanities
-      - title: Life Skills
-        url: /life-skills
-      - title: Mathematics
-        url: /departments/mathematics
-      - title: Mother Tongue
-        url: /departments/Mother-Tongue
-      - title: Physical Education
-        url: /departments/physical-education
-      - title: Science
-        url: /departments/science
-      - title: ICT
-        url: /departments/ict
+    collection: departments
   - title: Resources
     collection: resources
