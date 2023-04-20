@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - CCE/.keep
-      - CCE/Overview.md
-      - CCE/National Education.md
-      - CCE/Sexuality Education.md
-      - CCE/Student Leadership.md
-      - CCE/Values in Action (VIA).md
-      - CCE/EDUSAVE.md
+      - Cce/.keep
+      - Cce/Overview.md
+      - Cce/National Education.md
+      - Cce/Sexuality Education.md
+      - Cce/Student Leadership.md
+      - Cce/Values in Action (VIA).md
+      - Cce/EDUSAVE.md
       - English.md
       - Humanities.md
       - Mathematics.md
