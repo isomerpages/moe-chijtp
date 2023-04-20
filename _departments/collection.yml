@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - AR/Music.md
       - AR/.keep
       - AR/Overview.md
       - AR/Art.md
