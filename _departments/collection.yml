@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Life Skills/.keep
       - Arts/.keep
       - Arts/Overview.md
       - Arts/Art.md
