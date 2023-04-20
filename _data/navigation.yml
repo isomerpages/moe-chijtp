@@ -5,7 +5,7 @@ links:
   - title: CCA
     collection: cca
   - title: Departments
-    url: /departments/Arts
+    url: /departments
     sublinks:
       - title: The Arts
         url: /departments/arts/overview
