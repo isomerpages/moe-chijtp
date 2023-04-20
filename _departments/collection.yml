@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - AR/Overview.md
       - AR/.keep
       - CCE/.keep
       - CCE/Overview.md
