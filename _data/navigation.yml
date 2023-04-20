@@ -7,10 +7,10 @@ links:
   - title: Departments
     url: /departments/Arts
     sublinks:
-      - title: Arts
-        url: /departments/Arts
+      - title: The Arts
+        url: /departments/arts/overview
       - title: CCE
-        url: /departments/CCE
+        url: /departments/cce
       - title: English
         url: /departments/english
       - title: Humanities
@@ -25,5 +25,7 @@ links:
         url: /departments/physical-education
       - title: Science
         url: /departments/science
+      - title: ICT
+        url: /departments/ict
   - title: Resources
     collection: resources
