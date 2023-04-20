@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - AR/Music.md
       - AR/.keep
       - AR/Overview.md
       - AR/Art.md
       - AR/Drama.md
+      - AR/Music.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
