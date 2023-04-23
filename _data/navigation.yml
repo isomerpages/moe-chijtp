@@ -5,15 +5,6 @@ links:
   - title: CCA
     collection: cca
   - title: Departments
-    url: /departments/
-    sublinks:
-      - title: CCE
-        url: /departments/cce/overview/
-      - title: English
-        url: /departments/English/
-      - title: Humanities
-        url: /departments/humanities/
+    collection: departments
   - title: Resources
     collection: resources
-  - title: Menu Title
-    resource_room: true
