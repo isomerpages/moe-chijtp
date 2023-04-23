@@ -9,6 +9,10 @@ links:
     sublinks:
       - title: CCE
         url: /departments/cce/overview/
+      - title: English
+        url: /departments/English/
+      - title: Humanities
+        url: /departments/humanities/
   - title: Resources
     collection: resources
   - title: Menu Title
