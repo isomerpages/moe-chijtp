@@ -5,6 +5,9 @@ links:
   - title: CCA
     collection: cca
   - title: Departments
-    collection: departments
+    url: /departments/
+    sublinks:
+      - title: CCE
+        url: /departments/cce/overview/
   - title: Resources
     collection: resources
