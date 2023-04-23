@@ -11,3 +11,5 @@ links:
         url: /departments/cce/overview/
   - title: Resources
     collection: resources
+  - title: Menu Title
+    resource_room: true
