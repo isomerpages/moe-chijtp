@@ -2,32 +2,9 @@ logo: /images/isoma ij logo2.png
 links:
   - title: About Us
     collection: about-us
-  - title: Achievements
-    collection: achievements
   - title: CCA
     collection: cca
   - title: Departments
-    url: /departments/Arts
-    sublinks:
-      - title: Arts
-        url: /departments/Arts
-      - title: CCE
-        url: /departments/CCE
-      - title: English
-        url: /departments/english
-      - title: Humanities
-        url: /departments/humanities
-      - title: Life Skills
-        url: /life-skills
-      - title: Mathematics
-        url: /departments/mathematics
-      - title: Mother Tongue
-        url: /departments/Mother-Tongue
-      - title: Physical Education
-        url: /departments/physical-education
-      - title: Science
-        url: /departments/science
-  - title: NDLP
-    collection: ndlp
+    collection: departments
   - title: Resources
     collection: resources

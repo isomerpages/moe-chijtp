@@ -1,6 +1,6 @@
 ---
 title: Mother Tongue
-permalink: /departments/Mother-Tongue/
+permalink: /departments/mother-tongue/
 description: ""
 ---
 ![](/images/Dept/MTL.jpeg)
@@ -24,13 +24,13 @@ To nurture bilingual learners who are proud to share their heritage and culture,
 
 **Overview**
 
-The Chinese Department seeks to provide a conducive environment for students to develop reading, writing, listening and comprehension skills and to express communicate in their Mother Tongue. Through interactive teaching methods, use of ICT and discussion on current affairs, students gain confidences in communicating in Their mother Tongue, and also gain an appreciation for the language. For example, in developing the oral presentation skills of our students, group activities such as interviews and discussions are used as platforms to promote interaction and communication among students. 
+The Chinese Department seeks to provide a conducive environment for students to develop reading, writing, listening and comprehension skills and to express communicate in their Mother Tongue. Through interactive teaching methods, use of ICT and discussion on current affairs, students gain confidences in communicating in Their mother Tongue, and also gain an appreciation for the language. For example, in developing the oral presentation skills of our students, group activities such as interviews and discussions are used as platforms to promote interaction and communication among students.&nbsp;
 
 The Chinese Language teachers use the adapted Flipped Classroom approach where students engage with the discussion topics prior to the lesson, and students can learn at their own pace. Curriculum time is maximised as students are able to deepen their understanding of concepts through discussions with their peers And group activities facilitated by the teacher.
 
 Mother Tongue Fortnight activities are organised annually to provide opportunities for students to gain a deeper understanding of Chinese culture and heritage through hands-on activities and programmes. Some examples of activities are paper-cutting, Chinese calligraphy, Chinese riddles competition.
 
-The department verified believes in the importance of keeping the language alive and complements classroom learning with experiential learning approaches and learning journeys.   
+The department verified believes in the importance of keeping the language alive and complements classroom learning with experiential learning approaches and learning journeys.&nbsp;  
 
 **Teaching resources**
 
@@ -43,7 +43,7 @@ IMTL Login:<br>
 
 The Tamil Department aims to provide a holistic learning environment for our students, working towards moulding our students’ hearts and mind through various pedagogies and activities. Our girls learn and experience speaking and writing Tamil Language in fun and interactive ways, enabling our students to learn the language beyond the curriculum.
 
-1. ICT – we use extensive ICT tools and approaches enabling our students to enjoy the language beyond classroom and textbooks. 
+1. ICT – we use extensive ICT tools and approaches enabling our students to enjoy the language beyond classroom and textbooks.&nbsp;
 
 2. Language and Culture – enables students to experience Tamil Language and culture beyond the school and curriculum. Students are exposed to our culture, tradition and history and are able to learn more about Tamil Language. Our Mother Tongue fortnight activities and learning Journeys are aimed to develop a love for the language and instil a sense of belonging in our students.
 
@@ -67,7 +67,7 @@ IMTL Login:<br>
 
 **Overview**
 
-The Malay Language Unit of the Mother Tongue Department at CHIJ aims to develop the language as a Living Language - one that is used on a day to day basis, in various environments, by students who are articulate, confident and passionate about their mother tongue. 
+The Malay Language Unit of the Mother Tongue Department at CHIJ aims to develop the language as a Living Language - one that is used on a day to day basis, in various environments, by students who are articulate, confident and passionate about their mother tongue.&nbsp;
 
 **Lessons**
 
@@ -75,7 +75,7 @@ Malay Language lessons provide the best opportunity and platform for the student
 
 **Mother Tongue Activities**
 
-Through the students participation in activities organised such as the Mother Tongue Fortnight and Learning Journeys, students develop a greater understanding of the Malay culture and norms. Activities such as the Malay Language & Cultural Quiz and theatre or drama performances viewing also provide a platform for the students to explore deeper. These will develop the confidence in our students in using the language.
+Through the students participation in activities organised such as the Mother Tongue Fortnight and Learning Journeys, students develop a greater understanding of the Malay culture and norms. Activities such as the Malay Language &amp; Cultural Quiz and theatre or drama performances viewing also provide a platform for the students to explore deeper. These will develop the confidence in our students in using the language.
 
 **Competitions**
 

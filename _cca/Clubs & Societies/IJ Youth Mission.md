@@ -1,8 +1,8 @@
 ---
 title: IJ Youth Mission
-permalink: /cca/Clubs-and-Societies/ij-youth-mission/
+permalink: /cca/clubs-and-societies/ij-youth-mission/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,7 +46,7 @@ All members participate in the annual IJ Youth Msion Inter-school Competition to
 
   
 
-During the year, a wide range of activities are conducted for members: Community Service, Reflection on Talks/Videos, Fundraising for the Needy, Home Visits, Camps and Development of Personal Skills through craft works and other activities. 
+During the year, a wide range of activities are conducted for members: Community Service, Reflection on Talks/Videos, Fundraising for the Needy, Home Visits, Camps and Development of Personal Skills through craft works and other activities.&nbsp;
 
 Join the IJ Youth Mission to acquire inner strength and character as well as to discover the meaning and purpose of serving the community.
 

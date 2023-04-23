@@ -1,8 +1,8 @@
 ---
 title: Legion of Mary
-permalink: /cca/Clubs-and-Societies/legion-of-mary/
+permalink: /cca/clubs-and-societies/legion-of-mary/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +36,7 @@ third_nav_title: Clubs & Societies
 
 ![](/images/Legion%20of%20Mary%201.jpg)
 
-The Legion of Mary was founded in Dublin, Ireland, on 7 September 1921, by Frank Duff. It is a lay Catholic organisation whose members give service to the Church on a voluntary basis in almost every country.  The objective of the Legion of Mary is to glorify God through the holiness of its members developed by prayer and active co-operation in Mary’s and the Church’s work.
+The Legion of Mary was founded in Dublin, Ireland, on 7 September 1921, by Frank Duff. It is a lay Catholic organisation whose members give service to the Church on a voluntary basis in almost every country.&nbsp; The objective of the Legion of Mary is to glorify God through the holiness of its members developed by prayer and active co-operation in Mary’s and the Church’s work.
 
   
 

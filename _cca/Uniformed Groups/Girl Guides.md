@@ -1,6 +1,6 @@
 ---
 title: Girl Guides
-permalink: /cca/Uniformed-Groups/girl-guides/
+permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
 ---
@@ -42,7 +42,7 @@ third_nav_title: Uniformed Groups
 
 Our Girl Guide unit aims to provide girls and young women with the opportunity to grow and to lead and to empower them to develop them to their fullest potential as responsible citizens of the world.
 
-**Girl Guides at CHIJ** 
+**Girl Guides at CHIJ**&nbsp;
 
 At CHIJ 1st Coy, the Guides live up to our motto of ‘Be Prepared’. Using the World Association of Girl Guides and Girl Scouts (WAGGGS) model and Girl Guides 5-point programme as a guideline, activities are organised to maximise the potential of the Guides. These include both indoor and outdoor activities such as handicrafts, camp-craft and outdoor cooking which not only enable the Guides to acquire new skills but also to explore the many wonders of nature.
 

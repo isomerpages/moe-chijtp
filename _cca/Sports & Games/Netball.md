@@ -1,8 +1,8 @@
 ---
 title: Netball
-permalink: /cca/Sports-and-Games/netball/
+permalink: /cca/sports-and-games/netball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 # School Team
 <style type="text/css">
@@ -45,11 +45,11 @@ The CHIJ Netball School Team has distinguished itself to be a force to be reckon
 
   
 
-Competition season lasts from January to April for the "B" division and July to September for the "C" division. Of which, our intensive and rigorous training begins in the months leading up to the competitions for each division. 
+Competition season lasts from January to April for the "B" division and July to September for the "C" division. Of which, our intensive and rigorous training begins in the months leading up to the competitions for each division.&nbsp;
 
   
 
-Under the leadership and expertise of our coach Ms Kok Mun Wai, the CHIJ Netball School Team has flourished as her dedication and passion for the sport has contributed immensely to the netball legacy in CHIJ. It was her guidance, with the support of the school, which led us to claim the double championship title for both 'B' and 'C' Division in both the South Zone Inter-school Netball Championships as well as National Inter-school Netball Championships consecutively in both 2015 and 2016. In 2017, we achieved championships for South Zone Inter-school Netball Championships while achieving 1st and 2nd placing for C division and B division for Nationals respectively. Through the team's perseverance and determination to do our best, our team managed to clinch our double championships once again, both at the 2018 Zonal and National Championships. In 2019, we achieved champions for both divisions in the South Zone Inter-school Netball Championships and 2nd placing for "C" division at the National Inter-school Championships. In 2022, we achieved champions for both B & C divisions in the South Zone Inter-school Netball Championships. 
+Under the leadership and expertise of our coach Ms Kok Mun Wai, the CHIJ Netball School Team has flourished as her dedication and passion for the sport has contributed immensely to the netball legacy in CHIJ. It was her guidance, with the support of the school, which led us to claim the double championship title for both 'B' and 'C' Division in both the South Zone Inter-school Netball Championships as well as National Inter-school Netball Championships consecutively in both 2015 and 2016. In 2017, we achieved championships for South Zone Inter-school Netball Championships while achieving 1st and 2nd placing for C division and B division for Nationals respectively. Through the team's perseverance and determination to do our best, our team managed to clinch our double championships once again, both at the 2018 Zonal and National Championships. In 2019, we achieved champions for both divisions in the South Zone Inter-school Netball Championships and 2nd placing for "C" division at the National Inter-school Championships. In 2022, we achieved champions for both B &amp; C divisions in the South Zone Inter-school Netball Championships. 
 
   
 

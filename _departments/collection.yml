@@ -3,20 +3,27 @@ collections:
     output: true
     order:
       - Arts/.keep
-      - Arts/Arts.md
+      - Arts/Overview.md
       - Arts/Art.md
       - Arts/Drama.md
       - Arts/Music.md
       - CCE/.keep
-      - CCE/CCE.md
+      - CCE/Overview.md
       - CCE/National Education.md
-      - CCE/Sexuality Education @ CHIJ.md
+      - CCE/Sexuality Education.md
       - CCE/Student Leadership.md
       - CCE/Values in Action (VIA).md
       - CCE/EDUSAVE.md
       - English.md
       - Humanities.md
+      - Life Skills/.keep
+      - Life Skills/Overview.md
+      - Life Skills/Design & Technology.md
+      - Life Skills/Elements of Business Skills.md
+      - Life Skills/Food & Consumer Education.md
+      - Life Skills/Principles of Accounts.md
       - Mathematics.md
       - Mother Tongue.md
       - Physical Education.md
       - Science.md
+      - ICT.md

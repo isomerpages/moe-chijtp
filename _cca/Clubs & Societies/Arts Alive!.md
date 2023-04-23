@@ -1,8 +1,8 @@
 ---
 title: Arts Alive!
-permalink: /cca/Clubs-and-Societies/arts-alive/
+permalink: /cca/clubs-and-societies/arts-alive/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 ![](/images/Arts%20Alive.jpg)
 
@@ -48,6 +48,6 @@ Students at Arts Alive! get to express, explore and evaluate different art forms
 
 
 **Our Achievements:**
-*   Dyslexia Awareness Art Competition - (Mixed media open category) - 1st Position & 5 Top 20 Positions (2019)
+*   Dyslexia Awareness Art Competition - (Mixed media open category) - 1st Position &amp; 5 Top 20 Positions (2019)
 *   Public Transport Workers' Appreciation 2021 Colouring Contest (Shortlisted)
 *   Best of Show award for the MTC Design For Good Youth Competition 2022

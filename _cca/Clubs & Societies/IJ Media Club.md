@@ -1,8 +1,8 @@
 ---
 title: IJ Media Club
-permalink: /cca/Clubs-and-Societies/ij-media-club/
+permalink: /cca/clubs-and-societies/ij-media-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +36,7 @@ third_nav_title: Clubs & Societies
 
 ![](/images/IJ%20Media%20Club%201.jpg)
 
-IJ Media Club provides the opportunity for students to be involved in photography, videography, as well as the setting up of audio-visual systems to support school-wide events and activities. As such, members will be trained in the handling of DSLR cameras, mobile photography and videography techniques, and the post-production of their works through editing tools such as Adobe Photoshop and iMovie. Ample hands-on learning opportunities will also be provided for members with at least two outdoor field shoots organised in a year. 
+IJ Media Club provides the opportunity for students to be involved in photography, videography, as well as the setting up of audio-visual systems to support school-wide events and activities. As such, members will be trained in the handling of DSLR cameras, mobile photography and videography techniques, and the post-production of their works through editing tools such as Adobe Photoshop and iMovie. Ample hands-on learning opportunities will also be provided for members with at least two outdoor field shoots organised in a year.&nbsp;
 
   
 
@@ -49,3 +49,36 @@ IJ Media Club welcomes all who are keen to explore and deepen their interest in 
 ![](/images/IJ%20Media%20Club%20(Students-2).jpg)
 ![](/images/IJ%20Media%20Club%20(Students-3).jpg)
 ![](/images/IJ%20Media%20Club%20(Students-4).jpg)
+
+
+<h2>Automatic Slideshow</h2>
+<p>Change image every 2 seconds:</p>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 3</div>
+  <img src="/images/IJ%20Media%20Club%20(Students-2).jpg" style="width:80%">
+  <div class="text">Caption Text</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 3</div>
+  <img src="/images/IJ%20Media%20Club%20(Students-3).jpg" style="width:80%">
+  <div class="text">Caption Two</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 3</div>
+  <img src="/images/IJ%20Media%20Club%20(Students-4).jpg" style="width:80%">
+  <div class="text">Caption Three</div>
+</div>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>

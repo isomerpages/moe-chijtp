@@ -1,8 +1,8 @@
 ---
 title: Debating and Oratory Society
-permalink: /cca/Clubs-and-Societies/debating-and-oratory-society/
+permalink: /cca/clubs-and-societies/debating-and-oratory-society/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

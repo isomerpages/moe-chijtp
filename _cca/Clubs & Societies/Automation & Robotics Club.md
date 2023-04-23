@@ -1,8 +1,8 @@
 ---
-title: Automation & Robotics Club
-permalink: /cca/Clubs-and-Societies/automation-n-robotics-club/
+title: Automation &amp; Robotics Club
+permalink: /cca/clubs-and-societies/automation-n-robotics-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,11 +36,11 @@ third_nav_title: Clubs & Societies
 
 ![](/images/ARC%203.jpg)
 
-Automation and Robotics Club (ARC) strongly believes that students, especially girls, need to develop a strong passion for STEM (Science, Technology, Engineering & Mathematics) to make a difference to the world they live in. Technology has imbibed every part of our lives and the next big trend is Robotics and Artificial Intelligence (AI) solutions to automate robots to perform varied tasks. 
+Automation and Robotics Club (ARC) strongly believes that students, especially girls, need to develop a strong passion for STEM (Science, Technology, Engineering &amp; Mathematics) to make a difference to the world they live in. Technology has imbibed every part of our lives and the next big trend is Robotics and Artificial Intelligence (AI) solutions to automate robots to perform varied tasks.&nbsp;
 
   
 
-At ARC, we have incorporated Design Thinking into our CCA - designing meaningful day-to-day solutions for others through the use of robotics. Through this process, students will develop competencies in building and programming robots, as well as programming and piloting drones. Students also learn software programming which allows them to design online games and many other exciting outcomes. 
+At ARC, we have incorporated Design Thinking into our CCA - designing meaningful day-to-day solutions for others through the use of robotics. Through this process, students&nbsp;will develop competencies in building and programming robots, as well as programming and piloting drones. Students also learn software programming which allows them to design online games and many other exciting outcomes.&nbsp;
 
   
 
@@ -110,5 +110,5 @@ On top of all that, students are trained to have a growth mindset anchored by va
     <td class="tg-brl1">3rd place for Cat B1 and C1</td>
   </tr>
   <tr>
-</tbody>
+</tr></tbody>
 </table>

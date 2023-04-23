@@ -1,8 +1,8 @@
 ---
 title: iGrow@IJ (ECO Club)
-permalink: /cca/Clubs-and-Societies/igrow-at-ij-eco-club/
+permalink: /cca/clubs-and-societies/igrow-at-ij-eco-club/
 description: ""
-third_nav_title: Clubs & Societies
+third_nav_title: Clubs &amp; Societies
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

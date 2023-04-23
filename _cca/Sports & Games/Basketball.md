@@ -1,8 +1,8 @@
 ---
 title: Basketball
-permalink: /cca/Sports-and-Games/basketball/
+permalink: /cca/sports-and-games/basketball/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,7 +41,7 @@ third_nav_title: Sports & Games
 
 ![](/images/Basketball%202.jpg)
 
- IJ Basketball team requires cooperation, communication and team work. Everyone participates   enthusiastically and passionately at our training sessions. We train hard and play hard as well.
+&nbsp;IJ Basketball team requires cooperation, communication and team work. Everyone participates&nbsp; &nbsp;enthusiastically and passionately at our training sessions. We train hard and play hard as well.
 
   
 

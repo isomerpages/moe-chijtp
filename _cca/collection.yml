@@ -2,23 +2,8 @@ collections:
   cca:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Uniformed Groups/Uniformed Group.md
-      - Uniformed Groups/Red Cross Youth.md
-      - Uniformed Groups/Girl Guides.md
-      - Uniformed Groups/NCC (Sea).md
-      - Sports & Games/.keep
-      - Sports & Games/Sports & Games.md
-      - Sports & Games/Track & Field.md
-      - Sports & Games/Badminton.md
-      - Sports & Games/Basketball.md
-      - Sports & Games/Netball.md
-      - Sports & Games/Rhythmic Gymnastics.md
-      - Sports & Games/Squash.md
-      - Sports & Games/Tennis.md
-      - Sports & Games/Bowling.md
       - Clubs & Societies/.keep
-      - Clubs & Societies/Clubs & Societies.md
+      - Clubs & Societies/Overview.md
       - Clubs & Societies/Arts Alive!.md
       - Clubs & Societies/Automation & Robotics Club.md
       - Clubs & Societies/CHIJ Chinese Cultural Society.md
@@ -27,10 +12,25 @@ collections:
       - Clubs & Societies/IJ Youth Mission.md
       - Clubs & Societies/iGrow@IJ (ECO Club).md
       - Clubs & Societies/Legion of Mary.md
-      - Performing Groups/.keep
-      - Performing Groups/Performing Groups.md
-      - Performing Groups/Choir.md
-      - Performing Groups/Concert Band.md
-      - Performing Groups/IJ Dance Ensemble.md
-      - Performing Groups/Guitar Ensemble.md
-      - Performing Groups/IJ Theatre.md
+      - Performing Arts/.keep
+      - Performing Arts/Overview.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/IJ Dance Ensemble.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/IJ Theatre.md
+      - Sports & Games/.keep
+      - Sports & Games/Overview.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Sports & Games/Squash.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Track and Field.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Sea).md

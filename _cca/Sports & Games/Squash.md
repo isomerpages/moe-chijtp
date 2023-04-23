@@ -1,8 +1,8 @@
 ---
 title: Squash
-permalink: /cca/Sports-and-Games/squash/
+permalink: /cca/sports-and-games/squash/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

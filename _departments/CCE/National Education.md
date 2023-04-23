@@ -1,6 +1,6 @@
 ---
 title: National Education
-permalink: /departments/CCE/national-education/
+permalink: /departments/cce/national-education/
 description: ""
 third_nav_title: CCE
 ---

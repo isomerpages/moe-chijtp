@@ -1,8 +1,8 @@
 ---
 title: Tennis
-permalink: /cca/Sports-and-Games/tennis/
+permalink: /cca/sports-and-games/tennis/
 description: ""
-third_nav_title: Sports & Games
+third_nav_title: Sports &amp; Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -41,10 +41,10 @@ third_nav_title: Sports & Games
 </table>
 
 ![](/images/Tennis%201.jpg)
-**CHIJ Tennis** has a long and illustrious history, from the time the school was in its original site along Victoria Street where training was held in a basketball court surrounded by the Sisters’ quarters. In tennis, we strive not only to nurture each tennis girl as a fine sportswoman but also, more importantly, to become a Woman of Distinction who espouses our IJ school values. 
+**CHIJ Tennis**&nbsp;has a long and illustrious history, from the time the school was in its original site along Victoria Street where training was held in a basketball court surrounded by the Sisters’ quarters. In tennis, we strive not only to nurture each tennis girl as a fine sportswoman but also, more importantly, to become a Woman of Distinction who espouses our IJ school values.&nbsp;
 
   
 
 Our coaches, with the support of the teachers in-charge, works on improving the students’ tennis skills and fitness levels with a variety of drills and games. The teachers and coach believe that a holistic approach to CCA is imperative. Although preparation for the annual National Inter School Tennis Competition is taken very seriously, the more important core sports values of teamwork and sportsmanship are emphasized during all training sessions, and the players’ overall growth and development is considered the greatest priority.
 ![](/images/Tennis%20(Students-4).png)
-<center>Recreational girls with professional tennis player Caroline Garcia<center>
+<center>Recreational girls with professional tennis player Caroline Garcia<center></center></center>
