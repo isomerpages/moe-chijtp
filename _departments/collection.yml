@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Arts/.keep
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
