@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Arts/.keep
-      - Arts/Music.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
