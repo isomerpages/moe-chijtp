@@ -2,7 +2,7 @@
 title: Tennis
 permalink: /cca/sports-and-games/tennis/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -31,7 +31,7 @@ third_nav_title: Sports &amp; Games
   <tr>
     <td class="tg-osjb">Training Days/Time<br></td>
     <td class="tg-ujx6"><span style="color:inherit">Tuesday (3 pm - 6 pm)</span></td>
-    <td class="tg-osjb">B &amp;C Division<br>Wednesday &amp; Friday<br>(3 pm - 6 pm)</td>
+    <td class="tg-osjb">B &amp;C Division<br>Tuesday/Wednesday &amp; Friday<br>(3 pm - 6 pm)</td>
   </tr>
   <tr>
     <td class="tg-osjb">Venue<br></td>
@@ -41,10 +41,10 @@ third_nav_title: Sports &amp; Games
 </table>
 
 ![](/images/Tennis%201.jpg)
-**CHIJ Tennis**&nbsp;has a long and illustrious history, from the time the school was in its original site along Victoria Street where training was held in a basketball court surrounded by the Sisters’ quarters. In tennis, we strive not only to nurture each tennis girl as a fine sportswoman but also, more importantly, to become a Woman of Distinction who espouses our IJ school values.&nbsp;
+**CHIJ Tennis**&nbsp;has a long history from the time before our school moved to our current location at Toa Payoh. In tennis, we not only want to nurture our students to be good sportswomen and develop values such as perseverance and humility, but also to be a woman of distinction.&nbsp;
 
   
 
-Our coaches, with the support of the teachers in-charge, works on improving the students’ tennis skills and fitness levels with a variety of drills and games. The teachers and coach believe that a holistic approach to CCA is imperative. Although preparation for the annual National Inter School Tennis Competition is taken very seriously, the more important core sports values of teamwork and sportsmanship are emphasized during all training sessions, and the players’ overall growth and development is considered the greatest priority.
+The school coaches and teachers in-charge focus on nurturing the players' tennis skills and fitness levels using a multitude of drills and games as well as match play. All while upholding the belief that a holistic approach is imperative to the CCA. Preparation and training for the annual national inter school tennis competition emphasizes the core values of teamwork and sportmanship and the players' overall growth and development are held in utmost importance.
 ![](/images/Tennis%20(Students-4).png)
 <center>Recreational girls with professional tennis player Caroline Garcia<center></center></center>

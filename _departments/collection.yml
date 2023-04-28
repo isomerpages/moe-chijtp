@@ -2,11 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Arts/.keep
-      - Arts/Overview.md
-      - Arts/Art.md
-      - Arts/Drama.md
-      - Arts/Music.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
@@ -16,6 +11,7 @@ collections:
       - CCE/EDUSAVE.md
       - English.md
       - Humanities.md
+      - ICT.md
       - Life Skills/.keep
       - Life Skills/Overview.md
       - Life Skills/Design & Technology.md
@@ -26,4 +22,3 @@ collections:
       - Mother Tongue.md
       - Physical Education.md
       - Science.md
-      - ICT.md

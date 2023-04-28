@@ -1,8 +1,7 @@
 ---
 title: Art
-permalink: /departments/arts/art/
+permalink: /permalink/
 description: ""
-third_nav_title: Arts
 ---
 ![](/images/Dept/arts.jpeg)
 **Mission Statement**

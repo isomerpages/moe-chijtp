@@ -15,6 +15,6 @@ contacts:
   - content:
       - phone: +65 6353 4972
       - email: chijtpss@moe.edu.sg
-      - other: "FAX : 6354 4573<br>www.chijsec.edu.sg    www.chij.edu.sg"
+      - other: "FAX : 6354 4573<br>www.chijsec.edu.sg"
     title: " "
 ---

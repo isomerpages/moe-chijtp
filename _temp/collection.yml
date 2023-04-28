@@ -1,0 +1,8 @@
+collections:
+  temp:
+    output: true
+    order:
+      - Overview.md
+      - Art.md
+      - Drama.md
+      - Music.md
