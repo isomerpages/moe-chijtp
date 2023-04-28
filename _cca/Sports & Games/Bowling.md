@@ -2,7 +2,7 @@
 title: Bowling
 permalink: /cca/sports-and-games/bowling/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -2,7 +2,7 @@
 title: Netball
 permalink: /cca/sports-and-games/netball/
 description: ""
-third_nav_title: Sports &amp; Games
+third_nav_title: Sports & Games
 ---
 # School Team
 <style type="text/css">
