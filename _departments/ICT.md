@@ -3,15 +3,10 @@ title: ICT
 permalink: /departments/ict/
 description: ""
 ---
-**National Digital Literacy Programme (NDLP)**  
+**PDLP Outcomes @ CHIJ**   
 
 ![](/images/NDLP/PDLP.png)
 
-At MOE’s Committee of Supply Debate in March 2020, MOE launched the National Digital Literacy Programme (NDLP) for our schools and Institutes of Higher Learning to help students strengthen their digital literacy.&nbsp;
-
-The Covid-19 pandemic has revealed the need for us to accelerate the National Digital Literacy Programme (NDLP). All secondary schools will thus embark on the Personalized Digital Learning Programme (PDLP).
-
-**PDLP Outcomes @ CHIJ**  
 With every student owing a PLD, teachers can leverage the affordances of ICT tools to create ICT-enriched learning experiences.&nbsp;
 
 Through the PDLP, CHIJ aims to develop students into&nbsp;
