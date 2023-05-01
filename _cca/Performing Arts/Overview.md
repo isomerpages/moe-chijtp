@@ -39,7 +39,7 @@ third_nav_title: Performing Arts
 			Distinction
 		</td>
 		<td>
-			Pending
+			Distinction
 		</td>
 	</tr>
 	<tr>
@@ -50,13 +50,13 @@ third_nav_title: Performing Arts
 			SYF Arts Presentation
 		</td>
 		<td>
-			NA
+			Distinction
 		</td>
 		<td>
 			NA
 		</td>
 		<td>
-			Pending
+			Distinction
 		</td>
 	</tr>
 	<tr>
