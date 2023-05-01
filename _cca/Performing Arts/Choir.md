@@ -16,12 +16,6 @@ third_nav_title: Performing Arts
 .tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-osjb"></th>
-    <th class="tg-1wig">Choir</th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td class="tg-osjb">Teacher-in-Charge<br></td>
