@@ -4,9 +4,10 @@ permalink: /resources/parents/dsa-application/
 description: ""
 third_nav_title: Parents
 ---
-
 # **Direct School Admission 2023**
-[CHIJ Secondary DSA information Booklet 2022](/files/DSA_Info_Sec%201%202023A.pdf)
+
+[Direct School Admission Information Sec 1](/files/Parents/dsa%20sec%201%202024.pdf)
+
 
 The school will be admitting students via these talent areas in 2023:
 

@@ -16,9 +16,6 @@ third_nav_title: Performing Arts
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-7n5n" colspan="5">Club/Recreational Team &amp; School Team</th>
-  </tr>
 </thead>
 <tbody>
   <tr>
