@@ -107,7 +107,7 @@ third_nav_title: Performing Arts
 			Accomplishment
 		</td>
 		<td>
-			Pending
+			Accomplishment
 		</td>
 	</tr>
 	<tr>
