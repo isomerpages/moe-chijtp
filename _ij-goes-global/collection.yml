@@ -2,8 +2,8 @@ collections:
   ij-goes-global:
     output: true
     order:
-      - 2023.md
       - IJ goes Global.md
+      - 2023.md
       - 2019/.keep
       - 2019/Japan Fukuoka.md
       - 2019/Japan Futaba.md
