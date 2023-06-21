@@ -2,6 +2,7 @@ collections:
   ij-goes-global:
     output: true
     order:
+      - 2023/.keep
       - IJ goes Global.md
       - Fukuoka.md
       - 2019/.keep
