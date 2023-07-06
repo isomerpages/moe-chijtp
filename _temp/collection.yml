@@ -2,6 +2,5 @@ collections:
   temp:
     output: true
     order:
-      - Art.md
       - Drama.md
       - Music.md
