@@ -4,7 +4,7 @@ permalink: /resources/students/
 description: ""
 third_nav_title: Students
 ---
-<table><tbody><tr><td><a href="https://www.chijsec.edu.sg/general/newsnevents/timetable-2022/"> 
+<table><tbody><tr><td><a href="https://www.chijsec.edu.sg/resources/students/timetable/"> 
 <img style="width:50%" src="/images/IconStu/timetable.png">
 </a>
 		</td><td><a href="https://indd.adobe.com/view/cd31b081-37c6-490f-9da3-8221a1ac3b73?mv=affiliate&amp;mv2=red">  
