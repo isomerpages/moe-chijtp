@@ -1,6 +1,6 @@
 ---
 title: Timetable 2023
-permalink: /general/newsnevents/timetable-2022/
+permalink: /resources/students/timetable/
 description: ""
 ---
 **4N Prelim Timetable 2023**
