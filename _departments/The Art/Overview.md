@@ -1,7 +1,8 @@
 ---
 title: Overview
-permalink: /permalink/
+permalink: /departments/thearts/overview/
 description: ""
+third_nav_title: The Art
 ---
 ### Our Vision
 

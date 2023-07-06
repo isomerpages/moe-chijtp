@@ -1,7 +1,8 @@
 ---
 title: Drama
-permalink: /permalink/
+permalink: /departments/thearts/drama/
 description: ""
+third_nav_title: The Art
 ---
 ![](/images/Dept/drama.jpeg)
 The CHIJ Drama programme was started in Jan 2006. CHIJ Secondary is one of 8 selected schools in that offers drama in the curriculum and drama as an Elective GCE O-Level Exam subject.
