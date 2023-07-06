@@ -1,5 +1,4 @@
 collections:
   temp:
     output: true
-    order:
-      - Music.md
+    order: []
