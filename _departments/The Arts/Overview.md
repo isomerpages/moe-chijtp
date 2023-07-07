@@ -2,7 +2,7 @@
 title: Overview
 permalink: /departments/thearts/overview/
 description: ""
-third_nav_title: The Art
+third_nav_title: The Arts
 ---
 ### Our Vision
 
