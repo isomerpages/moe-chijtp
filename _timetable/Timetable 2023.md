@@ -5,7 +5,7 @@ description: ""
 ---
 **4EN Prelim Timetable 2023**
 
-[4E5N prelim exam timetable](/files/Timetable/4e5nprelimstt2023.pdf)
+[4E5N Prelim Timetable](/files/Timetable/4e5nprelims%20tt2023a.pdf)
 
 
 **4N Prelim Timetable 2023**
