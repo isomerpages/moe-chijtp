@@ -3,7 +3,6 @@ title: Timetable 2023
 permalink: /resources/students/timetable/
 description: ""
 ---
-
 **4EN Prelim Timetable 2023**
 
 [4E5N prelim exam timetable](/files/Timetable/4e5nprelimstt2023.pdf)
