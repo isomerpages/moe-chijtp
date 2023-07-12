@@ -3,6 +3,10 @@ title: Timetable 2023
 permalink: /resources/students/timetable/
 description: ""
 ---
+**4N AA Prelim Timetable 2023**
+
+[4N AA Timetable](/files/Timetable/4naaprelims%20tt2023e.pdf)
+
 **4EN Prelim Timetable 2023**
 
 [4E5N Prelim Timetable](/files/Timetable/4e5nprelims%20tt2023a.pdf)
