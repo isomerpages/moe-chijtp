@@ -42,9 +42,9 @@ third_nav_title: CCE
 
   
 
-5. The subjects that incorporate topics on sexuality include:&nbsp;
+5. The subjects that incorporate topics on sexuality include:
 
-	a. Science&nbsp;
+	a. Science
 
 	b. Character and Citizenship Education (CCE)
 
