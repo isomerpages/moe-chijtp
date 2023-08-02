@@ -14,7 +14,8 @@ description: ""
 
 **4N Prelim Timetable 2023**
 
-[4N Prelim Timetable](/files/Timetable/4nprelimstt2023.pdf)
+[4N Prelim Timetable](/files/Timetable/4nprelimstt2023a.pdf)
+
 
 
 **Semester 2 Timetable**
