@@ -3,7 +3,7 @@ title: Timetable 2023
 permalink: /resources/students/timetable/
 description: ""
 ---
-**End of Year Exam Timetable 2023**
+**End-of-Year Exam Timetable 2023**
 
 [Sec 1 EYE 2023 Exam Timetable](/files/Timetable/sec1eye23.pdf)
 
