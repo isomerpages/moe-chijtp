@@ -9,7 +9,7 @@ description: ""
 
 [Sec 2 EYE 2023 Exam Timetable](/files/Timetable/sec2eye23.pdf)
 
-[Sec 3 EYE 2023 Exam Timetable](/files/Timetable/sec3eye23.pdf)
+[Sec 3 EYE 2023 Exam Timetable](/files/Timetable/sec3eye23a.pdf)
 
 
 **4N AA Prelim Timetable 2023**
