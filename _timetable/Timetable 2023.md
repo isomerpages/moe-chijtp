@@ -5,7 +5,7 @@ description: ""
 ---
 **End-of-Year Exam Timetable 2023**
 
-[Sec 1 EYE 2023 Exam Timetable](/files/Timetable/sec1eye23.pdf)
+[Sec 1 EYE 2023 Exam Timetable](/files/Timetable/sec1eye23a.pdf)
 
 [Sec 2 EYE 2023 Exam Timetable](/files/Timetable/sec2eye23.pdf)
 
