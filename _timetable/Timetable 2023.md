@@ -7,7 +7,7 @@ description: ""
 
 [Sec 1 EYE 2023 Exam Timetable](/files/Timetable/sec1eye23a.pdf)
 
-[Sec 2 EYE 2023 Exam Timetable](/files/Timetable/sec2eye23.pdf)
+[Sec 2 EYE 2023 Exam Timetable](/files/Timetable/sec2eye23a.pdf)
 
 [Sec 3 EYE 2023 Exam Timetable](/files/Timetable/sec3eye23b.pdf)
 
