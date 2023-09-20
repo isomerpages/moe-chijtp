@@ -4,6 +4,11 @@ permalink: /about-us/School-Organization/chij-parent-support-group/
 description: ""
 third_nav_title: School Organization
 ---
+
+# [**Appeal for Graduation Nite 2022**](/files/graduationnite23.pdf)
+
+
+
 <img style="width:25%" src="/images/Audra%20Chuah.jpg">
 
 
@@ -25,8 +30,7 @@ Audra
 
 ***“We Serve With Faith, Hope and Love…”***
 
-<img src="/images/lordspeech.png" 
-     style="width:60%">
+<img src="/images/lordspeech.png" style="width:60%">
 
 ![](/images/QR.jpg)
 Please contact any of our Exco members
@@ -47,7 +51,7 @@ psg.chijsec@gmail.com
 
 
 
-<p><img style=" float:left;width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
+<p><img style="float:left;width:60px;height:80px;margin-left:15px;" src="/images/Audra%20Chuah.jpg">
 </p><center>Mrs Audra Chuah<br>
 	Chairperson</center><p></p>
 
