@@ -4,7 +4,7 @@ permalink: /about-us/School-Organization/chij-parent-support-group/
 description: ""
 third_nav_title: School Organization
 ---
-# [**Appeal for Graduation Nite 2022**](/files/graduationnite23.pdf)
+# [**Appeal for Graduation Nite 2023**](/files/graduationnite23.pdf)
 
 
 
