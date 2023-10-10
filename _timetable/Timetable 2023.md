@@ -3,32 +3,9 @@ title: Timetable 2023
 permalink: /resources/students/timetable/
 description: ""
 ---
-**End-of-Year Exam Timetable 2023**
-
-[Sec 1 EYE 2023 Exam Timetable](/files/Timetable/sec1eye23b.pdf)
-
-[Sec 2 EYE 2023 Exam Timetable](/files/Timetable/sec2eye23b.pdf)
-
-[Sec 3 EYE 2023 Exam Timetable](/files/Timetable/sec3eye23b.pdf)
-
-
-**4N AA Prelim Timetable 2023**
-
-[4N AA Timetable](/files/Timetable/4naaprelims%20tt2023e.pdf)
-
-**4EN Prelim Timetable 2023**
-
-[4E5N Prelim Timetable](/files/Timetable/4e5nprelims%20tt2023d.pdf)
-
-[4E5N AA Prelim Timetable](/files/Timetable/4e5naaprelimstt2023a.pdf)
-
-
-
-**4N Prelim Timetable 2023**
-
-[4N Prelim Timetable](/files/Timetable/4nprelimstt2023a.pdf)
-
-
+**Post-Exam Timetable 2023**
+* [Script-checking 2023](/files/Timetable/script%20checking%20schedule%20(11%20oct%20to%2013%20oct%202023).pdf)
+* [Post-Exam Activities 2023](/files/Timetable/pea%202023.pdf)
 
 **Semester 2 Timetable**
 * [Secondary 1](/files/Timetable/secondary%201s2.pdf)
