@@ -4,7 +4,8 @@ permalink: /resources/students/timetable/
 description: ""
 ---
 **Post-Exam Timetable 2023**
-* [Script-checking 2023](/files/Timetable/script%20checking%20schedule%20(11%20oct%20to%2013%20oct%202023).pdf)
+
+* [Script-checking 2023](/files/Timetable/scriptcheckb.pdf)
 * [Post-Exam Activities 2023](/files/Timetable/pea%202023.pdf)
 
 **Semester 2 Timetable**
