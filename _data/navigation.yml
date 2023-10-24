@@ -8,5 +8,7 @@ links:
     collection: departments
   - title: Resources
     collection: resources
+  - title: Admission
+    url: /permalink
   - title: Open House
     url: https://sites.google.com/chijsec.edu.sg/virtualopenhouse/
