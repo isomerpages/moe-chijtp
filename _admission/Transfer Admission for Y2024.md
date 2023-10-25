@@ -6,6 +6,7 @@ description: ""
 **School Transfer for Secondary Two and Three Only**
 
 Please note that the school does not have any vacancy in 2024.
+
 Students who are studying in MOE secondary schools and wish to be considered for admission to CHIJ
 Secondary in the event that a vacancy becomes available may submit a transfer application to the school
 for consideration. Please complete the application by **30 November 2023.**
