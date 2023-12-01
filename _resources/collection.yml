@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Parents/Financial Assistance.md
       - Parents/.keep
       - Parents/Secondary 1 Matters.md
       - Parents/IJ Quarterly.md
@@ -10,6 +9,7 @@ collections:
       - Parents/DSA Application.md
       - Parents/Booklist.md
       - Parents/Uniform.md
+      - Parents/Financial Assistance.md
       - Teachers.md
       - Students/.keep
       - Students/Links.md
