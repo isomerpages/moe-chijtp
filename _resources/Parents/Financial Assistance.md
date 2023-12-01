@@ -11,11 +11,11 @@ The 2024 MOE Financial Assistance (FAS) Application is open for application.
 
 Please note the following:
 
-* **Eligibility Criteria of MOE FAS scheme** (Ref: MOE FAS Pamphlet here) This pamphlet provides information such as income criterion and benefits.
+* **Eligibility Criteria of MOE FAS scheme** (Ref: [MOE FAS Pamphlet](/files/Parents/MOE_FAS_pamphet.pdf)) This pamphlet provides information such as income criterion and benefits.
 
 * **ComCare Beneficiaries** MOE FAS will be auto-granted to ComCare Beneficiaries. No FAS application for ComCare recipient is required for MOE FAS.
 
-* **Checklist - Supporting Documents Needed** (Ref: Document here) Please use this checklist to ensure you have the necessary supporting documents in softcopy before the application. You may upload scanned documents or pictures of the documents for the application.
+* **Checklist - Supporting Documents Needed** (Ref: [Supporting Documents Checklist](/files/Parents/Check_list___Supporting_Documents_Needed.pdf)) Please use this checklist to ensure you have the necessary supporting documents in softcopy before the application. You may upload scanned documents or pictures of the documents for the application.
 
 Please contact the General Office (Tel: 6353 4972) for assistance if your family has:
 
