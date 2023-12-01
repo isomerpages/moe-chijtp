@@ -29,8 +29,8 @@ Please contact the General Office (Tel: 6353 4972) for assistance if your family
 
 For assistance, please contact the school at 6353 4972.
 
-###### MOE eFAS Application
+**MOE eFAS Application**
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
-###### Eligibility calculator by MOE
+**Eligibility calculator by MOE**
 [https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
