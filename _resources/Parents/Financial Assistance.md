@@ -7,8 +7,6 @@ third_nav_title: Parents
 ---
 The 2024 MOE Financial Assistance (FAS) Application is open for application. 
 
-
-
 Please note the following:
 
 * **Eligibility Criteria of MOE FAS scheme** (Ref: [MOE FAS Pamphlet](/files/Parents/MOE_FAS_pamphet.pdf)) This pamphlet provides information such as income criterion and benefits.
@@ -27,7 +25,7 @@ Please contact the General Office (Tel: 6353 4972) for assistance if your family
 
 * more than 3 grand parents
 
-For assistance, please contact the school at 6353 4972.
+For assistance, please contact the school at **6353 4972**.
 
 **MOE eFAS Application**
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
