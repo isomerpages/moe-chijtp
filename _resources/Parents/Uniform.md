@@ -29,5 +29,6 @@ For the purchase of school uniforms from the vendor, there are several options a
 5000 Ang Mo Kio Ave 5
 Techplace 2 #05-09
 Singapore 569870
-Tel: 6293 5840
-HP: 8638 0499
+Tel: 6293 5840 
+HP: 8638 0499 (**Whatsapp Only**)
+
