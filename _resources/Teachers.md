@@ -2,6 +2,7 @@
 title: Teachers
 permalink: /resources/teachers/
 description: ""
+variant: markdown
 ---
 ## CHIJ Links
 <table>
