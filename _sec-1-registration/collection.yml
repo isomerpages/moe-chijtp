@@ -2,5 +2,5 @@ collections:
   sec-1-registration:
     output: true
     order:
-      - Appeal Management.md
       - Sec 1 Registration 2024.md
+      - Appeal Management.md
