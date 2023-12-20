@@ -2,9 +2,9 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
-
-![](/images/Dept/eng.jpeg)
+![](/images/Dept/04_English.jpg)
 
 ### Mission Statement:
 
