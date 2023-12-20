@@ -3,6 +3,7 @@ title: NCC (Sea)
 permalink: /cca/uniformed-groups/ncc/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -43,6 +44,25 @@ In CHIJ National Cadet Corps (NCC) (Sea), we aim to nurture a community of Resil
 
 Being NCC cadets, they experience the joy of overcoming challenges through annual camps and courses which are held at the NCC Headquarters (HQ) campus. Some of these camps include Camp FORGE for Secondary Ones, Cap STEEL for Secondary Twos, Specialist Course for all Secondary Threes, Senior Specialist Leadership Course for the top 5 Secondary Three Specialists. Our cadets will be continuously challenged to be the best that they can be through meaningful and adventurous military-related and sea activities.&nbsp;
 
-CHIJ NCC (Sea) would be an avenue for them to not only be future-ready citizens, ready to serve and give back to the community, but more importantly, develop a sense of unforgettable camaraderie that they would cherish throughout their journey in CHIJ Secondary.&nbsp;
+CHIJ NCC (Sea) would be an avenue for them to not only be future-ready citizens, ready to serve and give back to the community, but more importantly, develop a sense of unforgettable camaraderie that they would cherish throughout their journey in CHIJ Secondary.
 
 To serve with Pride and Dedication!
+
+**2022**: 
+
+Dragonboat Championship (Girls) (1st and 2nd runner up)
+Kayaking Championship 200m Doubles (Girls) (1st and 2nd runner up) 
+NCC Sports Championship Captain's Ball (Junior Cadets - Girls) (District Champion and NCC Overall 1st runner up) 
+NCC Sports Championship Frisbee (Senior Cadets - Girls) (District 1st runner up) 
+NCC Sports Championship (Soccer (Cadet Leaders - Girls) (District and NCC Overall Champion) 
+
+
+**2023**: 
+
+Dragonboat Championship (Girls) (Champion and 2nd runner up)
+Kayaking Championship (Girls) (Champion)  
+NCC Sports Championship Captain's Ball (Junior Cadets - Girls) (District Champion) 
+NCC Sports Championship (Soccer (Cadet Leaders - Girls) (District 1st runner up)
+NCC Fitness Challenge (Senior Cadets - Girls individual category) (5th Placing)
+Mini-Kayaking Expedition (Overall 6th placing) 
+SAR21 Package - 65% Marksmanship
