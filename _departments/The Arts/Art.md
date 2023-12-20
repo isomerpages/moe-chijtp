@@ -3,8 +3,9 @@ title: Art
 permalink: /departments/thearts/art/
 description: ""
 third_nav_title: The Arts
+variant: markdown
 ---
-![](/images/Dept/arts.jpeg)
+![](/images/Dept/02_Art.jpg)
 **Mission Statement**
 
 To nurture inquiring and engaged art learners who display curiosity, resourcefulness, cultural awareness and discernment, to communicate, collaborate and innovate in the increasingly complex world  

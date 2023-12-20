@@ -3,8 +3,9 @@ title: Music
 permalink: /departments/thearts/music/
 description: ""
 third_nav_title: The Arts
+variant: markdown
 ---
-![](/images/Dept/music.jpeg)
+![](/images/Dept/03b_Music.jpg)
 Students are at the centre of the Music Programme in CHIJ Secondary. We believe that all students have the ability to respond to and express themselves through music. We therefore aim to not only develop students’ musical skills and concepts, but also inculcate important values that will enrich and empower them to grow holistically in their educational journey at CHIJ Secondary.  
 
 **Aims of Lower Secondary Music Programme** **in CHIJ Secondary**

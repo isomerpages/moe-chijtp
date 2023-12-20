@@ -2,8 +2,9 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
-![](/images/Dept/maths.jpeg)
+![](/images/Dept/07_Mathematics.jpg)
 ### MISSION STATEMENT
 
   
