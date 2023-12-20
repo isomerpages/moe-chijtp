@@ -2,9 +2,10 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
-![](/images/Dept/sic.jpeg)
 
+![](/images/Dept/10_Science.jpg)
 ### MISSION & GOALS
 
 * * *
