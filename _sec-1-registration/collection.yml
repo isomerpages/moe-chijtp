@@ -2,5 +2,6 @@ collections:
   sec-1-registration:
     output: true
     order:
+      - AEP Selection Exercise.md
       - Sec 1 Registration 2024.md
       - Appeal Management.md
