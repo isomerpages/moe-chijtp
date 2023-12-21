@@ -32,6 +32,6 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 * Note: the latest model for purchase is Apple iPad (10th Gen)*
 
 **Resources**  
-Parents Handbook on Learning with PLD ([Book 1 ](/files/ICT/ParentHB1.pdf) &amp; [Book 2](/files/ICT/ParentHB2.pdf))  
+Parents Handbook on Learning with PLD [BOOK1](/files/ICT/ParentHb124_.pdf) &amp; [BOOK2](/files/ICT/ParentHb224_.pdf)
+
 Cyberwellness Resources for Parents [Parents' Toolkit](/files/ICT/cybwellness4uchild.pdf)  
-Parents' Briefing [slides](/files/ICT/NDLPslide.pdf)
