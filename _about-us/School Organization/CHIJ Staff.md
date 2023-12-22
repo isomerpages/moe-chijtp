@@ -5,5 +5,5 @@ description: ""
 third_nav_title: School Organization
 variant: markdown
 ---
-![](/images/Staff_Chart_2024.jpg)
-[[Staff Chart](/files/Staff_Chart_2024.pdf)]
+![](/images/StaffC2024.jpg)
+[Staff Chart](/files/StaffC2024.pdf)
