@@ -38,15 +38,15 @@ variant: markdown
 </tbody>
 </table>
 
-In CHIJ National Cadet Corps (NCC) (Sea), we aim to nurture a community of Resilient, Responsible, and Resourceful student leaders.
-
-  
-
-Being NCC cadets, they experience the joy of overcoming challenges through annual camps and courses which are held at the NCC Headquarters (HQ) campus. Some of these camps include Camp FORGE for Secondary Ones, Cap STEEL for Secondary Twos, Specialist Course for all Secondary Threes, Senior Specialist Leadership Course for the top 5 Secondary Three Specialists. Our cadets will be continuously challenged to be the best that they can be through meaningful and adventurous military-related and sea activities.&nbsp;
-
-CHIJ NCC (Sea) would be an avenue for them to not only be future-ready citizens, ready to serve and give back to the community, but more importantly, develop a sense of unforgettable camaraderie that they would cherish throughout their journey in CHIJ Secondary.
-
-To serve with Pride and Dedication!
+In the CHIJ National Cadet Corps (NCC) (Sea), we aim to nurture a community of Resilient, Responsible, and Relevant student leaders. Being NCC cadets, they experience the joy of overcoming challenges through annual camps and courses which are held at the NCC Headquarters (HQ) campus. They will be continuously challenged to be the best that they can be, and their holistic education and sense of belonging to both the school and NCC community are developed through meaningful and adventurous military-related and sea activities. CHIJ NCC (Sea) would be an avenue for them to not only be future-ready citizens, ready to serve and give back to the community, but more importantly, develop a sense of unforgettable camaraderie that they would cherish throughout their journey in CHIJ Secondary. To serve with Pride and Dedication!
+ 
+Highlights:
+- Land training (Drills and regimentation, Bends &amp; Hitches, Map navigation, Bonding games, Physical training, Sea and Cadet Proficiency assessments)
+- ⁠*Water training* (Kayaking and Dragon Boating, 1-Star &amp; 2-Star Kayaking)
+- ⁠Camp FORGE (Sec 1s), Camp STEEL (Sec 2s), Sea Specialist Course &amp; Senior Specialist Leadership Course (Sec 3s), Cadet Officer Course (Selected Sec 4s&amp;5s) 
+- ⁠*Unit Initiatives* (Leadership Camp, Unit Camp, National Education (NE) Learning Journey
+- ⁠*HQ NCC Sports and Service-related Competitions*
+- ⁠*HQ NCC programmes* such as the Affirmation Ceremony at Changi Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course,  International Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir Expedition, and more!
 
 **2022**: 
 
