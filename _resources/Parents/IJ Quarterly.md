@@ -3,10 +3,6 @@ title: IJ Quarterly
 permalink: /resources/parents/ij-quarterly/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
-# IJ Quarterly 2023
-
-* [IJ Quarterly T1](/files/IJ%20Quarterly%202023-T1.pdf)
-* [IJ Quarterly T2](/files/IJ%20Quarterly%202023-T2.pdf)
-* [IJ Quarterly T3](/files/ij%20quarterly%202023-t3.pdf)
-* [IJ Quarterly T4](/files/ij%20quarterly%202023-t4.pdf)
+<h1>IJ Quarterly 2023</h1><ul data-tight="true" class="tight"><li><p><a href="/files/IJ_Quarterly_2024_T1.pdf" rel="noopener noreferrer nofollow" target="_blank">IJ Quarterly T1</a></p></li></ul><p></p>
