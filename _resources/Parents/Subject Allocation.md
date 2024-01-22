@@ -3,10 +3,6 @@ title: Subject Allocation
 permalink: /resources/parents/subject-allocation/
 description: ""
 third_nav_title: Parents
-variant: markdown
+variant: tiptap
 ---
-* [Appeal Form for Sec 2 - 2024  Subject Allocation](https://docs.google.com/forms/d/e/1FAIpQLSegn9JMML8IUQAr8rsh2WZE7DLMsyi-2gZekNAmm6gklMToxQ/viewform)
-*  [S2E Subject Allocation Briefing Slides](/files/Parents/S2E%20Subject%20Allocation%20Briefing%20Slides.pdf)
-*  [S2NA_NT Subject Allocation Briefing Slides](/files/Parents/S2NA_NT%20Subject%20Allocation%20Briefing%20Slides.pdf)
-*  [S2NA_NT SBB Briefing](/files/Parents/S2NA_NT%20SBB%20Briefing%20.pdf)
-*  [ECG Sharing for Sec 2 Parents](/files/Parents/ECG%20Sharing%20for%20Sec%202%20Parents.pdf)
+<p></p><ul data-tight="true" class="tight"><li><p><a href="/files/Parents/Sec_2_Parent_Webinar_Presentation_Slides_Gp1_2__19Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Webinar Presentation Slides Gp 3 (19Jan)</a></p></li><li><p><a href="/files/Parents/Sec_2_Parent_Webinar_Presentation_Slides_Gp_3__18Jan_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Parent Webinar Presentation Slides Gp 3 (18Jan)</a></p><p></p></li></ul><p></p>
