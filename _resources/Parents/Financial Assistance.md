@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance
-permalink: /resources/parents/permalink/
+permalink: /resources/parents/financial-assistance/
 variant: markdown
 description: ""
 third_nav_title: Parents
