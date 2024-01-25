@@ -1,0 +1,35 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Overview.md
+      - Clubs & Societies/Arts Alive!.md
+      - Clubs & Societies/Automation & Robotics Club.md
+      - Clubs & Societies/CHIJ Chinese Cultural Society.md
+      - Clubs & Societies/Debating and Oratory Society.md
+      - Clubs & Societies/IJ Media Club.md
+      - Clubs & Societies/IJ Youth Mission.md
+      - Clubs & Societies/iGrow@IJ (ECO Club).md
+      - Clubs & Societies/Legion of Mary.md
+      - Performing Arts/.keep
+      - Performing Arts/Overview.md
+      - Performing Arts/Choir.md
+      - Performing Arts/Concert Band.md
+      - Performing Arts/IJ Dance Ensemble.md
+      - Performing Arts/Guitar Ensemble.md
+      - Performing Arts/IJ Theatre.md
+      - Sports & Games/Overview.md
+      - Sports & Games/Badminton.md
+      - Sports & Games/Basketball.md
+      - Sports & Games/Bowling.md
+      - Sports & Games/Netball.md
+      - Sports & Games/Rhythmic Gymnastics.md
+      - Sports & Games/Tennis.md
+      - Sports & Games/Track and Field.md
+      - Sports & Games/.keep
+      - Uniformed Groups/.keep
+      - Uniformed Groups/Overview.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/NCC (Sea).md

@@ -1,0 +1,12 @@
+logo: /images/IJ170.jpeg
+links:
+  - title: About Us
+    collection: about-us
+  - title: CCA
+    collection: cca
+  - title: Departments
+    collection: departments
+  - title: Resources
+    collection: resources
+  - title: Open House
+    url: https://sites.google.com/chijsec.edu.sg/virtualopenhouse/
