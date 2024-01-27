@@ -35,8 +35,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Legion%20of%20Mary%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Legion of Mary 1.jpg">
 </div>
 <p>The Legion of Mary was founded in Dublin, Ireland, on 7 September 1921,
 by Frank Duff. It is a lay Catholic organisation whose members give service
