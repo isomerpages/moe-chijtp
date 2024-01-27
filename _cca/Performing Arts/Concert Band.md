@@ -66,8 +66,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Concert%20Band%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band 1.jpg">
 </div>
 <p>The Convent of the Holy Infant Jesus (CHIJ) Concert Band has distinguished
 itself as one of the most promising Secondary School Bands in Singapore
@@ -95,4 +96,8 @@ the band values commitment, diligence and continuous hard work above musical
 talent in its never-ending pursuit for musical excellence.</p>
 <p><strong><em>"One heart, One mind, One band, One sound".</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-3).jpg">
+</div>
 <p></p>
