@@ -72,6 +72,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Dance Ensemble 3.jpg">
+</div>
 <p>IJ Dance Ensemble (IJDE) is a versatile dance group whose signature style
 is contemporary with a strong Asian flavour. Our dancers are highly disciplined
 and committed to the art form with all dancers going through a rigorous
@@ -93,7 +97,4 @@ shared their experience with peers through a dance presentation.</p>
 <p>In 2021 and 2023, IJDE once again achieved Distinction for their SYF performances.
 The 2023 item, A Hymn to Spring, was a portrayal of the spirit of spring,
 invoking the light and refreshing quality of a spring breeze.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dance%20Ensemble%203.jpg">
-</div>
 <p></p>
