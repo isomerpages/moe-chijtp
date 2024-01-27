@@ -38,8 +38,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ARC%203.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/ARC 3.jpg">
 </div>
 <p>Automation and Robotics Club (ARC) strongly believes that students, especially
 girls, need to develop a strong passion for STEM (Science, Technology,
