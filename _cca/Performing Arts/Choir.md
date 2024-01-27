@@ -42,10 +42,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir%201.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Choir 1.jpg">
+</div>
 <p>The award-winning CHIJ Choir is well known for its high standards both
 locally and abroad.</p>
 <p>As an established Performing Arts group, the CCA continues to nurture
@@ -71,7 +71,8 @@ the lead at the Convent’s 170th grand anniversary.</p>
 <p>We inspire Choir girls to give of their best at every local and international
 competition.</p>
 <hr>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Choir%20(Students-3)%20at%20SYF%202013.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Choir (Students-3) at SYF 2013.jpg">
 </div>
 <p></p>
