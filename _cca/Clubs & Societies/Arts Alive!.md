@@ -40,8 +40,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts%20Alive%203.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Arts Alive 3.jpg">
 </div>
 <p>Arts Alive! provides its member's opportunities to engage in the arts,
 through a range of platforms and group activities where they learn skills
