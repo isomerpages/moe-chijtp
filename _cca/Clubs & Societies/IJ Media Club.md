@@ -35,8 +35,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club (Students-3).jpg">
 </div>
 <p>IJ Media Club provides the opportunity for students to be involved in
 photography, videography, as well as the setting up and operating of audio-visual
@@ -53,34 +54,15 @@ in previously include the “Our Schools, Our Stories” photography and videogr
 competition and the “SYFgoesOnline! Pixel Perfect” competition.</p>
 <p>IJ Media Club welcomes all who are keen to explore and deepen their interest
 in photography and videography!</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-2).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club (Students-4).jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-3).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club 1.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-4).jpg">
-</div>
-<h2>Automatic Slideshow</h2>
-<p>Change image every 2 seconds:</p>
-<p>1 / 3</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-2).jpg">
-</div>
-<p>Caption Text</p>
-<p>2 / 3</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-3).jpg">
-</div>
-<p>Caption Two</p>
-<p>3 / 3</p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-4).jpg">
-</div>
-<p>Caption Three</p>
+<h2></h2>
 <p>
 <br>
 </p>
