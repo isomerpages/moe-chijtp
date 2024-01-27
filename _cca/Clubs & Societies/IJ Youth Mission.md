@@ -30,13 +30,14 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Room (Pascal Cafe)</p>
+<p>CCA Room (Pascal Café)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Youth%20Mission%202.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission 2.jpg">
 </div>
 <p>IJ Youth Mission provides an enabling environment for girls to recognize
 and promote the dignity of human persons, especially the disadvantaged.
@@ -58,19 +59,17 @@ Home Visits, Camps and Development of Personal Skills through craft works
 and other activities.</p>
 <p>Join the IJ Youth Mission to acquire inner strength and character as well
 as to discover the meaning and purpose of serving the community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Youth%20Mission%20(Students-2).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-2).jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-4).jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Youth%20Mission%20(Students-3).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Youth%20Mission%20(Students-4).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Youth%20Mission%20(Students-5).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-5).jpg">
 </div>
 <p></p>
