@@ -8,14 +8,12 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Ms Joanne Tan, Mr Adrian Moh and Ms Sim Hoon Kuan
-<br>
-</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Joanne Tan, Mr Adrian Moh and Ms Sim Hoon Kuan</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
