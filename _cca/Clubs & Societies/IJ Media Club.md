@@ -2,83 +2,85 @@
 title: IJ Media Club
 permalink: /cca/clubs-and-societies/ij-media-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ujx6{color:#333;text-align:left;vertical-align:top}
-.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
-.tg .tg-h0uh{color:#333;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-h0uh"><span style="color:inherit;background-color:transparent">Teacher-in-Charge</span></th>
-    <th class="tg-ujx6"><span style="font-weight:normal">Ms Loon Jia Bernice (ic), Ms Sandra Yam &amp; Ms Nur Ain Ghaffar</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-osjb">Training Day/Time<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Wednesdays (3 pm – 5.30 pm)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Venue</td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">CHIJ Secondary - Library Computer Lab</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Loon Jia Bernice &amp; Ms Sandra Yam</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Day/Time
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wednesdays (3 pm – 5.30 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Secondary - Library Computer Lab</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/IJ%20Media%20Club%201.jpg)
-
-IJ Media Club provides the opportunity for students to be involved in photography, videography, as well as the setting up of audio-visual systems to support school-wide events and activities. As such, members will be trained in the handling of DSLR cameras, mobile photography and videography techniques, and the post-production of their works through editing tools such as Adobe Photoshop and iMovie. Ample hands-on learning opportunities will also be provided for members with at least two outdoor field shoots organised in a year.&nbsp;
-
-  
-
-In addition, all IJ Media Club members are encouraged to participate in national and international photography and videography competitions to gain greater exposure. Some competitions that our Media Club members participated in 2022 include the N.E.mation! 2022 storyboarding competition and the SYFgoesOnline! 2022 Pixel Perfect. 
-
-  
-
-IJ Media Club welcomes all who are keen to explore and deepen their interest in photography and videography.
-
-![](/images/IJ%20Media%20Club%20(Students-2).jpg)
-![](/images/IJ%20Media%20Club%20(Students-3).jpg)
-![](/images/IJ%20Media%20Club%20(Students-4).jpg)
-
-
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%201.jpg">
+</div>
+<p>IJ Media Club provides the opportunity for students to be involved in
+photography, videography, as well as the setting up and operating of audio-visual
+systems to support school-wide events and activities. Members will have
+the opportunity to learn 1) basic functions and use of DSLR cameras, 2)
+techniques for mobile phone photography and videography, and 3) post-production
+skills through editing tools such as Snapseed and Capcut. Hands-on learning
+opportunities will also be provided for members with outdoor field shoots
+organised whenever possible.</p>
+<p>All IJ Media Club members are encouraged to participate in national and
+international photography and videography competitions to gain greater
+exposure. Some competitions that our Media Club members have participated
+in previously include the “Our Schools, Our Stories” photography and videography
+competition and the “SYFgoesOnline! Pixel Perfect” competition.</p>
+<p>IJ Media Club welcomes all who are keen to explore and deepen their interest
+in photography and videography!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-2).jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-3).jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ%20Media%20Club%20(Students-4).jpg">
+</div>
 <h2>Automatic Slideshow</h2>
 <p>Change image every 2 seconds:</p>
-
-<div class="slideshow-container">
-
-<div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-2).jpg" style="width:80%">
-  <div class="text">Caption Text</div>
+<p>1 / 3</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-2).jpg">
 </div>
-
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-3).jpg" style="width:80%">
-  <div class="text">Caption Two</div>
+<p>Caption Text</p>
+<p>2 / 3</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-3).jpg">
 </div>
-
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="/images/IJ%20Media%20Club%20(Students-4).jpg" style="width:80%">
-  <div class="text">Caption Three</div>
+<p>Caption Two</p>
+<p>3 / 3</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/IJ%20Media%20Club%20(Students-4).jpg">
 </div>
-
-</div>
+<p>Caption Three</p>
+<p>
 <br>
-
-<div style="text-align:center">
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-  <span class="dot"></span> 
-</div>
+</p>
