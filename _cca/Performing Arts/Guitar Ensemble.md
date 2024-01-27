@@ -38,8 +38,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Guitar%20Ensemble%204.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar_2022_Honours_Day.jpg">
 </div>
 <p><strong>CHIJ Guitar Ensemble</strong> is an established ensemble that adopts
 the Niibori guitar system which exposes students to greater flexibility
@@ -66,3 +67,8 @@ be given the opportunity to perform together as a Junior Ensemble in school
 concerts.</p>
 <p>If you are a committed individual who enjoys music, join us in bringing
 beautiful melodies to comfort the souls of all people.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar_2022_TPY_Mural.jpg">
+</div>
+<p></p>
