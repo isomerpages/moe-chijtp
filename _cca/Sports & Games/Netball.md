@@ -77,7 +77,7 @@ both B &amp; C divisions in the South Zone and National Inter-school Netball
 Championships.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_SZ_Champion.JPG">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_SZ_Champion.JPG">
 </div>
 <p>However, the CHIJ Netball School Team is not only about winning competitions.
 Besides the annual championships, CHIJ Netball also plays friendly matches
