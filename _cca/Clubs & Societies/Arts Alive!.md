@@ -5,8 +5,13 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
+<table>
+<tbody>
+<tr></tr>
+</tbody>
+</table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Arts%20Alive.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Arts Alive.jpg">
 </div>
 <table>
 <tbody>
