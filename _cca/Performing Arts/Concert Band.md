@@ -65,16 +65,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band 1.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg">
-</div>
 <p>The Convent of the Holy Infant Jesus (CHIJ) Concert Band has distinguished
 itself as one of the most promising Secondary School Bands in Singapore
 and has staged numerous well-received performances. An established performing
 arts group in CHIJ Secondary, the Band was awarded the Certificate of Distinction
 at the 2015, 2017, 2019, 2021 and 2023 Singapore Youth Festival Arts Presentation
 for Concert Bands.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg">
+</div>
+<p></p>
 <p>&nbsp;In 2014, 2016 and 2018, the Band was given the opportunity to perform
 at the Esplanade Concert Hall as part of the ‘Limelight’ series. In November
 2018, the Band had the privilege of being invited to perform at the Istana
