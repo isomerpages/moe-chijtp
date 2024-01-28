@@ -59,8 +59,10 @@ developed through meaningful and adventurous military-related and sea activities
 citizens, ready to serve and give back to the community, but more importantly,
 develop a sense of unforgettable camaraderie that they would cherish throughout
 their journey in CHIJ Secondary.</p>
-<p><strong><em>To serve with Pride and Dedication!</em></strong>
+<blockquote>
+<p><em>To serve with Pride and Dedication!</em>
 </p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_3.jpg">
