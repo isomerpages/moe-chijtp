@@ -62,7 +62,9 @@ in photography and videography!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club 1.jpg">
 </div>
-<h2></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ_Media.PNG">
+</div>
 <p>
 <br>
 </p>
