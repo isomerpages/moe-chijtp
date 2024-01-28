@@ -42,10 +42,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar_2022_Honours_Day.jpg">
 </div>
-<p><strong>CHIJ Guitar Ensemble</strong> is an established ensemble that adopts
-the Niibori guitar system which exposes students to greater flexibility
-in music making. The Main Ensemble comprises of the Secondary 2s to 5s,
-and the Junior Ensemble comprises of the Secondary 1s.</p>
+<p>CHIJ Guitar Ensemble is an established ensemble that adopts the Niibori
+guitar system which exposes students to greater flexibility in music making.
+The Main Ensemble comprises of the Secondary 2s to 5s, and the Junior Ensemble
+comprises of the Secondary 1s.</p>
 <p>Under the baton of Mr Frankie Shi and his team of dedicated instructors,
 CHIJ Guitar Ensemble clinched Certificates of Distinction in the Singapore
 Youth Festival Arts Presentation for Instrumental Ensemble in 2015, 2017,
