@@ -9,11 +9,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Teacher-in-Charge </strong>
+<p><strong>Teacher-in-Charge</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ma Lei &amp; Mr Li Zheng Jun </strong>
+<p><strong>Ms Ma Lei &amp; Mr Li Zheng Jun</strong>
 </p>
 </td>
 </tr>
@@ -34,14 +34,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary, Celestial (Dance Studio)</p>
+<p>E-Studio for Tuesday， Celestial (Dance Studio) for Friday</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>CHIJ CHINESE CULTURE SOCIETY engages itself enthusiastically in Chinese
 culture largely through activities such as Chinese dance, Chinese Drama,
-Chinese Wushu, Chinese calligraphy, Chinese culinary arts etc.</p>
+Chinese Wushu, Chinese calligraphy, Chinese culinary arts etc.&nbsp;</p>
 <p>Students will also gradually gain more confidence in their knowledge and
 skills and serve as ambassadors of Chinese culture in CHIJ, where they
 have the opportunity to helm activities, such as during Chinese New Year,
