@@ -52,7 +52,7 @@ Hall (Mon)</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022a.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022a.jpg">
 </div>
 <p>&nbsp;IJ Basketball team requires cooperation, communication and team
 work. Everyone participates&nbsp; &nbsp;enthusiastically and passionately
@@ -64,6 +64,6 @@ Schools Basketball Championships, has friendly matches with various schools
 and competitions organized by external organizations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022b.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022b.jpg">
 </div>
 <p></p>
