@@ -35,7 +35,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club (Students-3).jpg">
 </div>
@@ -47,6 +46,10 @@ techniques for mobile phone photography and videography, and 3) post-production
 skills through editing tools such as Snapseed and Capcut. Hands-on learning
 opportunities will also be provided for members with outdoor field shoots
 organised whenever possible.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ_Media.PNG">
+</div>
 <p>All IJ Media Club members are encouraged to participate in national and
 international photography and videography competitions to gain greater
 exposure. Some competitions that our Media Club members have participated
@@ -61,9 +64,6 @@ in photography and videography!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club 1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ_Media.PNG">
 </div>
 <p>
 <br>
