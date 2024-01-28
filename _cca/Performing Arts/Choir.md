@@ -9,13 +9,11 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge
-<br>
+<p><strong>Teacher-in-Charge <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Magdalen Low, Mrs Seah-Tay Hwee Kheng &amp; Mr Titus Chang
-<br>
+<p><strong>Mrs Magdalen Low, Mrs Seah-Tay Hwee Kheng &amp; Mr Titus Chang <br></strong>
 </p>
 </td>
 </tr>
