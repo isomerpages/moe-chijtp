@@ -8,21 +8,13 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>School Team</strong>
-</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
+<p><strong>Teacher-in-Charge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Audrey Teng, Ms Hemavathy Anbalagan, Mdm Cheng Ai Hoon &amp; Ms Joanne
-Tham</p>
+<p><strong>Mrs Audrey Teng, Ms Hemavathy Anbalagan, Mdm Cheng Ai Hoon &amp; Ms Joanne Tham</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -49,8 +41,9 @@ Tham</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl_Guides.JPG">
 </div>
 <p><strong>The Aims of Guiding</strong>
 </p>
@@ -74,23 +67,27 @@ Guides can look forward to organising and executing the annual Secondary
 One orientation campfire, attending overnight camps where they will be
 sleeping under tents and collaborating with Guides and Scouts from other
 schools.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%20(Students-2).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-2).png">
 </div>
 <p>Firepit and backdrop for Sec 1 orientation Campfire</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%20(Students-3).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-3).png">
 </div>
 <p>Sec 1 participants walking across the structure build</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%20(Students-4).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-4).png">
 </div>
 <p>Lighting of the Campfire</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%20(Students-5).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-5).png">
 </div>
 <p>National Day March Past</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Girl%20Guides%20(Students-6).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-6).png">
 </div>
 <p>Outdoor cooking</p>
