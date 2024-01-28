@@ -9,7 +9,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>Badminton School Team &amp; Recreational Team</strong>
+<p><strong>School Team &amp; Recreational Team</strong>
 </p>
 </th>
 </tr>
