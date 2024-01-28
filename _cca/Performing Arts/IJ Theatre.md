@@ -44,12 +44,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/IJ Theatre 3.jpg">
 </div>
-<p><strong>IJ Theatre</strong>&nbsp;trains its members in the multi-faceted
-aspects of theatre production. Our students are exposed to an array of
-aspects from acting to stage managing, costume making, lighting, sound
-and props production. We believe that&nbsp;a theatre&nbsp;production is
-a playground for learning, where passionate members build their knowledge
-of theatre and performance and grow their love for the craft.</p>
+<p>IJ Theatre&nbsp;trains its members in the multi-faceted aspects of theatre
+production. Our students are exposed to an array of aspects from acting
+to stage managing, costume making, lighting, sound and props production.
+We believe that&nbsp;a theatre&nbsp;production is a playground for learning,
+where passionate members build their knowledge of theatre and performance
+and grow their love for the craft.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/IJ_Theatre_1.JPG">
