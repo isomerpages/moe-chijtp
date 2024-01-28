@@ -20,13 +20,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge
-<br>
+<p><strong>Teacher-in-Charge <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Agnes Leong, Mr Teo Wen Jie &amp; Mr Augustine Khoo
-<br>
+<p><strong>Ms Agnes Leong, Mr Teo Wen Jie &amp; Mr Augustine Khoo <br></strong>
 </p>
 </td>
 </tr>
@@ -58,8 +56,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis%201.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_2.jpg">
 </div>
 <p>CHIJ Tennis has a long and illustrious history, from the time the school
 was at its original site at Victoria Street where training was held in
@@ -67,6 +66,10 @@ a tennis court surrounded by the Sisters’ quarters. In Tennis, we strive
 not only to nurture each Tennis girl as a fine sportswoman but also, more
 importantly, to become A Woman of Distinction who espouses our IJ school
 values.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_3.jpg">
+</div>
 <p>Our coaches, with the support of the teachers in-charge, work on improving
 the students’ tennis skills and fitness levels with a variety of drills
 and games. The teachers and coaches believe that a holistic approach to
@@ -75,7 +78,8 @@ Tennis Competition is taken very seriously, the more important core sports
 values of teamwork and sportsmanship are emphasised during all training
 sessions, and the players’ overall growth and development is considered
 the greatest priority.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis%20(Students-4).png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis (Students-4).png">
 </div>
 <p>Recreational girls with professional tennis player Caroline Garcia</p>
