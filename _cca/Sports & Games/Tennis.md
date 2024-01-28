@@ -8,14 +8,8 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Recreational Team</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School Team</p>
+<th rowspan="1" colspan="3">
+<p>Recreational Team &amp; School Team</p>
 </th>
 </tr>
 <tr>
