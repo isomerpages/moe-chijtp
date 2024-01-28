@@ -93,8 +93,10 @@ well-rounded young women who are both smart and cultured.</p>
 <p>In line with the school's motto ‘Simple in Virtue, Steadfast in Duty’,
 the band values commitment, diligence and continuous hard work above musical
 talent in its never-ending pursuit for musical excellence.</p>
-<p><strong><em>"One heart, One mind, One band, One sound".</em></strong>
+<blockquote>
+<p><em>"One heart, One mind, One band, One sound".</em>
 </p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-3).jpg">
