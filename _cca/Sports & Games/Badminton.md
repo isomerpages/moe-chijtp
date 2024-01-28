@@ -8,24 +8,18 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p><strong>Badminton School Team &amp; Recreational Team</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge
-<br>
+<p><strong>Teacher-in-Charge <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Miss Mastura Senin, Ms Kim Purushothaman, Mr Eraja Rajan and Mr Kenneth
-Ho
-<br>
+<p><strong>Miss Mastura Senin, Ms Kim Purushothaman, Mr Eraja Rajan and Mr Kenneth Ho <br></strong>
 </p>
 </td>
 </tr>
@@ -50,8 +44,9 @@ Ho
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton%201.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/Badminton 1.jpg">
 </div>
 <p>CHIJ Badminton trains hard and plays hard. Members strive to do their
 best in every tournament to bring pride, glory and honour to the school.
