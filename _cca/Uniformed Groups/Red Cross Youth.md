@@ -8,22 +8,12 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School Team</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge
-<br>
+<p><strong>Teacher-in-Charge <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foong Sheng Hui Lionel, Ms Linda Cruz &amp; Ms Janice Yong
-<br>
+<p><strong>Mr Foong Sheng Hui Lionel, Ms Linda Cruz &amp; Ms Janice Yong <br></strong>
 </p>
 </td>
 </tr>
@@ -50,13 +40,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Red%20Cross%20Youth%204.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RCY.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Red Cross Youth 4.jpg">
 </div>
+<p></p>
 <p>In CHIJ Red Cross Youth, we aim to build a community of young leaders
 who are achievers, socially responsible and who embrace humanitarian values.
 The activities will encourage members to acquire lifesaving skills and
@@ -65,7 +53,7 @@ citizenship. CHIJ Red Cross Youth will thus be an avenue for members to
 make a difference through their activities, in helping to save lives at
 home and in the community.</p>
 <p>The activities of Red Cross Youth will focus on the following:</p>
-<ol>
+<ol data-tight="true" class="tight">
 <li>
 <p>First Aid Skills;</p>
 </li>
@@ -95,6 +83,10 @@ events;</p>
 <p>Fund Raising</p>
 </li>
 </ol>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/RCY.png">
+</div>
 <p>Apart from training activities, CHIJ Red Cross Youth also organises recreational
 activities like bonding games and camps, heritage trails and outings for
 our cadets. Members are given the opportunity to develop their organisational
