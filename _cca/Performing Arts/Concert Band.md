@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Teresa Francis <br><br>Mr Chan Yew Choong <br><br>Ms Balvinder Kaur</strong>
+<p><strong>Mrs Teresa Francis, Mr Chan Yew Choong &amp; Ms Balvinder Kaur</strong>
 </p>
 </td>
 </tr>
