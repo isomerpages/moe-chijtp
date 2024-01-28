@@ -23,7 +23,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays &amp; Wednesdays
-<br>CCA hours: (3:00 pm - 5:00 pm) ;
+<br>CCA hours: (3:00 pm - 5:30 pm) ;
 <br>
 </p>
 </td>
