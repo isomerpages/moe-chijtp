@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Joanne Tan, Mr Adrian Moh and Ms Sim Hoon Kuan</strong>
+<p><strong>Ms Joanne Tan, Mr Adrian Moh &amp; Ms Sim Hoon Kuan</strong>
 </p>
 </td>
 </tr>
