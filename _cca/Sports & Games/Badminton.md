@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Mastura Senin, Ms Kim Purushothaman, Mr Eraja Rajan and Mr Kenneth Ho <br></strong>
+<p><strong>Miss Mastura Senin, Ms Kim Purushothaman, Mr Eraja Rajan &amp; Mr Kenneth Ho <br></strong>
 </p>
 </td>
 </tr>
