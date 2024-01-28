@@ -67,7 +67,7 @@ variant: tiptap
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg">
 </div>
 <p>The Convent of the Holy Infant Jesus (CHIJ) Concert Band has distinguished
 itself as one of the most promising Secondary School Bands in Singapore
