@@ -42,12 +42,12 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/ARC 3.jpg">
 </div>
-<p>Automation and Robotics Club (ARC) strongly believes that students, especially
-girls, need to develop a strong passion for STEM (Science, Technology,
-Engineering &amp; Mathematics) to make a difference to the world they live
-in. Technology has imbibed every part of our lives and the next big trend
-is Robotics and Artificial Intelligence (AI) solutions to automate robots
-to perform varied tasks.&nbsp;</p>
+<p>Automation and Robotics Club (ARC) provides opportunities for students
+to pursue their passion in STEM (Science, Technology, Engineering &amp;
+Mathematics) and make a difference to the world they live in. Technology
+has imbibed every part of our lives and the next big trend is Robotics
+and Artificial Intelligence (AI) solutions to automate robots to perform
+varied tasks.</p>
 <p>At ARC, we have incorporated Design Thinking into our CCA - designing
 meaningful day-to-day solutions for others through the use of robotics.
 Through this process, students&nbsp;will develop competencies in building
