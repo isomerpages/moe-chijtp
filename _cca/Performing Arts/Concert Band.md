@@ -21,21 +21,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Teacher-in-Charge
-<br>
+<p><strong>Teacher-in-Charge <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>
-<br>
-<br>Ms Samantha Chan</p>
+<p><strong><br><br>Ms Samantha Chan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teresa Francis
-<br>
-<br>Mr Chan Yew Choong
-<br>
-<br>Ms Balvinder Kaur</p>
+<p><strong>Mrs Teresa Francis <br><br>Mr Chan Yew Choong <br><br>Ms Balvinder Kaur</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,6 +64,10 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band 1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg">
 </div>
 <p>The Convent of the Holy Infant Jesus (CHIJ) Concert Band has distinguished
 itself as one of the most promising Secondary School Bands in Singapore
