@@ -130,14 +130,20 @@ off the court.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Rec.JPG">
 </div>
-<p>The Netball Recreational Club is a Co-Curricular Activity that not only
-allows students to learn Netball skills and tactics under the tutelage
-of a full-time experienced coach, it also emphasizes the importance of
-teamwork and sportsmanship. To help us achieve these aims, the club participates
-in both competitive and friendly games.</p>
-<p>Each year, every level gets to represent the school in at least one netball
-competition. We participate in various age-group netball carnivals such
-as the Daisy Tan Netball Carnival, T-Net Netball Carnival and Sneakers
-Netball Carnival. In 2021, we organised an in-house games carnival to promote
-the same camaraderie and team spirit. We will always look for opportunities
-to enable our members to grow holistically.</p>
+<p>The Netball Recreational Club is a Co-Curricular Activity that allows
+students to learn Netball skills and tactics under the tutelage of a full-time
+experienced coach while emphasizing the importance of teamwork and sportsmanship.
+To help us achieve these aims, the club participates in both competitive
+and friendly games.</p>
+<p>Each year, we aim to have every level represent the school in at least
+one netball competition. We have participated in various age-group netball
+competitions such as the&nbsp;Daisy Tan Netball Carnival and The Kids’
+Network Carnival. Our members have gained much from participating in such
+competitions.</p>
+<p>For the past 3 years, we have organised an in-house games carnival to
+promote the same camaraderie and team spirit. We want our members to enjoy
+learning the skill as well as playing as a CCA. We are always looking for
+opportunities to enable our members to grow holistically.&nbsp;</p>
+<p>
+<br>
+</p>
