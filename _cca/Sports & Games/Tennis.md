@@ -54,7 +54,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_2.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_1.jpg">
 </div>
 <p>CHIJ Tennis has a long and illustrious history, from the time the school
 was at its original site at Victoria Street where training was held in
@@ -74,8 +74,4 @@ Tennis Competition is taken very seriously, the more important core sports
 values of teamwork and sportsmanship are emphasised during all training
 sessions, and the players’ overall growth and development is considered
 the greatest priority.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis (Students-4).png">
-</div>
-<p>Recreational girls with professional tennis player Caroline Garcia</p>
+<p>Garcia</p>
