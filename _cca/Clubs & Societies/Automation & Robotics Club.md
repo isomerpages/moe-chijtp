@@ -88,7 +88,7 @@ to clinch several awards over the past few years at various competitions.</p>
 <p>2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IDE Competition</p>
+<p>IDE Series</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Overall for IDE Maker and Best Engineering Award</p>
