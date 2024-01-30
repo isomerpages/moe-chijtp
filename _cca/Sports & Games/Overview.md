@@ -3,8 +3,9 @@ title: Overview
 permalink: /cca/sports-and-games/overview/
 description: ""
 third_nav_title: Sports & Games
-variant: markdown
+variant: tiptap
 ---
-<iframe allowfullscreen="true" height="400" width="600" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vREDkUiMVp96GgeHyUCwsjbV-FCGUOPdJmb9I_upS7MSxpVc9uF-L1HVo8PDNYYXr5aAM_c4qDbjx5e/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-
-![](/images/CCA/awardssportsii.jpg)
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/awardssportsii.jpg">
+</div>
+<p></p>

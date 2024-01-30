@@ -3,48 +3,75 @@ title: Tennis
 permalink: /cca/sports-and-games/tennis/
 description: ""
 third_nav_title: Sports & Games
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ujx6{color:#333;text-align:left;vertical-align:top}
-.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
-.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-osjb"></th>
-    <th class="tg-osjb">Recreational Team</th>
-    <th class="tg-1wig">School Team</th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6" colspan="2"><span style="color:inherit;background-color:transparent">Ms Agnes Leong, Ms Nicole Teo, Mr Teo Wen Jie &amp; Mr Augustine Khoo </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Training Days/Time<br></td>
-    <td class="tg-ujx6"><span style="color:inherit">Tuesday (3 pm - 6 pm)</span></td>
-    <td class="tg-osjb">B &amp;C Division<br>Tuesday/Wednesday &amp; Friday<br>(3 pm - 6 pm)</td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Venue<br></td>
-    <td class="tg-pvk6" colspan="2"><span style="color:inherit;background-color:transparent">MOE Evans Rd Tennis Court </span><br><span style="color:inherit;background-color:transparent">Yio Chu Kang Tennis Centre</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="3">
+<p>School Team &amp; Recreational Team</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-Charge <br></strong>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p><strong>Ms Agnes Leong, Mr Teo Wen Jie &amp; Mr Augustine Khoo <br></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Days/Time
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Recreational Team</p>
+<p>Tuesday (3 pm - 6 pm)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Team</p>
+<p>B &amp;C Division
+<br>Tuesday/Wednesday &amp; Friday
+<br>(3 pm - 6 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>MOE Evans Rd Tennis Court
+<br>Yio Chu Kang Tennis Centre</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/Tennis%201.jpg)
-**CHIJ Tennis**&nbsp;has a long history from the time before our school moved to our current location at Toa Payoh. In tennis, we not only want to nurture our students to be good sportswomen and develop values such as perseverance and humility, but also to be a woman of distinction.&nbsp;
-
-  
-
-The school coaches and teachers in-charge focus on nurturing the players' tennis skills and fitness levels using a multitude of drills and games as well as match play. All while upholding the belief that a holistic approach is imperative to the CCA. Preparation and training for the annual national inter school tennis competition emphasizes the core values of teamwork and sportmanship and the players' overall growth and development are held in utmost importance.
-![](/images/Tennis%20(Students-4).png)
-<center>Recreational girls with professional tennis player Caroline Garcia<center></center></center>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_1.jpg">
+</div>
+<p>CHIJ Tennis has a long and illustrious history, from the time the school
+was at its original site at Victoria Street where training was held in
+a tennis court surrounded by the Sisters’ quarters. In Tennis, we strive
+not only to nurture each Tennis girl as a fine sportswoman but also, more
+importantly, to become A Woman of Distinction who espouses our IJ school
+values.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_3.jpg">
+</div>
+<p>Our coaches, with the support of the teachers in-charge, work on improving
+the students’ tennis skills and fitness levels with a variety of drills
+and games. The teachers and coaches believe that a holistic approach to
+CCA is imperative. Although preparation for the annual National Inter School
+Tennis Competition is taken very seriously, the more important core sports
+values of teamwork and sportsmanship are emphasised during all training
+sessions, and the players’ overall growth and development is considered
+the greatest priority.</p>
+<p>Garcia</p>

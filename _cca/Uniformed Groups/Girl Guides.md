@@ -3,68 +3,91 @@ title: Girl Guides
 permalink: /cca/uniformed-groups/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
-.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-osjb"></th>
-    <th class="tg-0lax"><span style="font-weight:bold">School Team</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-osjb">Teacher-in-Charge</td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mrs Audrey Teng, Ms Hemavathy Anbalagan &amp; Mdm Cheng Ai Hoon</span></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Training Day/Time<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Alternate Mondays (3:00 pm - 5:00 pm)</span><br><span style="color:inherit;background-color:transparent">Wednesdays (3:00 pm - 6:00 pm)</span><br><span style="color:inherit;background-color:transparent">Ad-hoc Saturdays for activities</span></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Venue<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Parade Square / Canteen / Field / Classroom / Quadrangle</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Audrey Teng, Ms Hemavathy Anbalagan, Mdm Cheng Ai Hoon &amp; Ms Joanne Tham</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Day/Time
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alternate Mondays (3:00 pm - 5:00 pm)
+<br>Wednesdays (3:00 pm - 6:00 pm)
+<br>Ad-hoc Saturdays for activities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parade Square / Canteen / Field / Classroom / Quadrangle</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/Girl%20Guides%201.jpg)
-**The Aims of Guiding**
-
-Our Girl Guide unit aims to provide girls and young women with the opportunity to grow and to lead and to empower them to develop them to their fullest potential as responsible citizens of the world.
-
-**Girl Guides at CHIJ**&nbsp;
-
-At CHIJ 1st Coy, the Guides live up to our motto of ‘Be Prepared’. Using the World Association of Girl Guides and Girl Scouts (WAGGGS) model and Girl Guides 5-point programme as a guideline, activities are organised to maximise the potential of the Guides. These include both indoor and outdoor activities such as handicrafts, camp-craft and outdoor cooking which not only enable the Guides to acquire new skills but also to explore the many wonders of nature.
-
-  
-
-With a serving heart and mind, the Guides also render their services in the numerous community service projects within and outside of school. Our community service projects include raising funds for the Girl Guide Association though Thinking Day Pennies and through the selling of Girl Guides cookies.
-
-  
-
-Depending on the national posture and prevailing safe-management measures, Guides can look forward to organising and executing the annual Secondary One orientation campfire, attending overnight camps where they will be sleeping under tents and collaborating with Guides and Scouts from other schools.
-
-![](/images/Girl%20Guides%20(Students-2).png)
-<center>Firepit and backdrop for Sec 1 orientation Campfire</center>
-
-![](/images/Girl%20Guides%20(Students-3).png)
-<center>Sec 1 participants walking across the structure build</center>
-
-![](/images/Girl%20Guides%20(Students-4).png)
-<center>Lighting of the Campfire</center>
-
-![](/images/Girl%20Guides%20(Students-5).png)
-<center>National Day March Past</center>
-
-![](/images/Girl%20Guides%20(Students-6).png)
-<center>Outdoor cooking</center>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl_Guides.JPG">
+</div>
+<p><strong>The Aims of Guiding</strong>
+</p>
+<p>Our Girl Guide unit aims to provide girls and young women with the opportunity
+to grow and to lead and to empower them to develop them to their fullest
+potential as responsible citizens of the world.</p>
+<p><strong>Girl Guides at CHIJ</strong>&nbsp;</p>
+<p>At CHIJ 1st Coy, the Guides live up to our motto of ‘Be Prepared’. Using
+the World Association of Girl Guides and Girl Scouts (WAGGGS) model and
+Girl Guides 5-point programme as a guideline, activities are organised
+to maximise the potential of the Guides. These include both indoor and
+outdoor activities such as handicrafts, camp-craft and outdoor cooking
+which not only enable the Guides to acquire new skills but also to explore
+the many wonders of nature.</p>
+<p>With a serving heart and mind, the Guides also render their services in
+the numerous community service projects within and outside of school. Our
+community service projects include raising funds for the Girl Guide Association
+though Thinking Day Pennies and through the selling of Girl Guides cookies.</p>
+<p>Depending on the national posture and prevailing safe-management measures,
+Guides can look forward to organising and executing the annual Secondary
+One orientation campfire, attending overnight camps where they will be
+sleeping under tents and collaborating with Guides and Scouts from other
+schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-2).png">
+</div>
+<p>Firepit and backdrop for Sec 1 orientation Campfire</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-3).png">
+</div>
+<p>Sec 1 participants walking across the structure build</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-4).png">
+</div>
+<p>Lighting of the Campfire</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-5).png">
+</div>
+<p>National Day March Past</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Girl Guides (Students-6).png">
+</div>
+<p>Outdoor cooking</p>

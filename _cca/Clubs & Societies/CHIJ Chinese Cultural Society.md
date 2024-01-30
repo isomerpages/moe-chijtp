@@ -2,47 +2,55 @@
 title: CHIJ Chinese Cultural Society
 permalink: /cca/clubs-and-societies/chij-chinese-cultural-society/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
-.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-osjb"></th>
-    <th class="tg-0lax"><span style="font-weight:bold">School Team</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-osjb">Teacher-in-Charge<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Ms Ma Lei &amp; Mr Li Zheng Jun</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Training Day/Time<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Friday (3.00 pm – 6.00 pm)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Venue<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">CHIJ Secondary, Celestial (Dance Studio)</span></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Teacher-in-Charge</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Ma Lei &amp; Mr Li Zheng Jun</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Day/Time
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday (3.00 pm – 6.00 pm)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>E-Studio for Tuesday， Celestial (Dance Studio) for Friday</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-CHIJ CHINESE CULTURE CLUB engages itself enthusiastically in Chinese culture largely through activities such as Wushu, Chinese Drama, Chinese calligraphy, Chinese culinary arts, Tea appreciation, Chinese dance, etc.&nbsp;&nbsp;
-
-  
-
-Students will also gradually gain more confidence in their knowledge and skills and serve as ambassadors of Chinese culture in CHIJ, where they can help to helm activities, such as during Chinese New Year, the Mid-Autumn Festival, etc.&nbsp;
-
-In the biennial Singapore Youth Festival Arts Presentation for Chinese Drama, CHIJ CHINESE CULTURE CLUB successfully obtained a Gold with Honours in the year 2011 and obtained a Certificate of Distinction in 2013 and 2017, and obtained Accomplishment in 2019 and 2021.&nbsp;
-
-The CHIJ CHINESE CULTURE CLUB experience provides an avenue in which the girls learn the true meaning of ‘perseverance’, one of five important school values, which help shape a Woman of Distinction.
+<p>CHIJ CHINESE CULTURE SOCIETY engages itself enthusiastically in Chinese
+culture largely through activities such as Chinese dance, Chinese Drama,
+Chinese Wushu, Chinese calligraphy, Chinese culinary arts etc.&nbsp;</p>
+<p>Students will also gradually gain more confidence in their knowledge and
+skills and serve as ambassadors of Chinese culture in CHIJ, where they
+have the opportunity to helm activities, such as during Chinese New Year,
+the Mid-Autumn Festival, etc.</p>
+<p>In the biennial Singapore Youth Festival Arts Presentation for Chinese
+Drama, CHIJ CHINESE CULTURE SOCIETY successfully obtained a Gold with Honours
+in the year 2011 and obtained a Certificate of Distinction in 2013 and
+2017, and obtained Accomplishment in 2019. In 2021 and 2023 SYF Arts Presentation
+for Chinese Dance, we achieved the Certificate of Accomplishment.</p>
+<p>The CHIJ CHINESE CULTURE SOCIETY experience provides an avenue in which
+the girls learn the true meaning of ‘perseverance’, one of five important
+school values, which help shape a Woman of Distinction.</p>

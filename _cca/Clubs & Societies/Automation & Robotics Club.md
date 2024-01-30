@@ -1,114 +1,143 @@
 ---
-title: Automation &amp; Robotics Club
+title: Automation & Robotics Club
 permalink: /cca/clubs-and-societies/automation-n-robotics-club/
 description: ""
-third_nav_title: Clubs &amp; Societies
+third_nav_title: Clubs & Societies
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ujx6{color:#333;text-align:left;vertical-align:top}
-.tg .tg-pvk6{color:#333;text-align:left;vertical-align:middle}
-.tg .tg-h0uh{color:#333;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-osjb{color:#333;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-h0uh"><span style="color:inherit;background-color:transparent">Teacher-in-Charge</span></th>
-    <th class="tg-ujx6"><span style="font-weight:normal">Mr Ang Hoot Woon, Mr Jason Ng &amp; Ms Afiqah Be Jamaludin</span></th>
-  </tr>
-</thead>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-osjb">Training Days/Time<br></td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">Mondays &amp; Wednesdays</span><br><span style="color:inherit;background-color:transparent">CCA hours: (3:00 pm - 5:00 pm) ; </span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-osjb">Venue</td>
-    <td class="tg-pvk6"><span style="color:inherit;background-color:transparent">CHIJ Secondary - Computer Lab 2</span></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teacher-in-Charge</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Ms Afiqah Be Jamaludin &amp; Mr Jason Ng</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Days/Time
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mondays &amp; Wednesdays
+<br>CCA hours: (3:00 pm - 5:30 pm) ;
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Secondary - Computer Lab 2</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-![](/images/ARC%203.jpg)
-
-Automation and Robotics Club (ARC) strongly believes that students, especially girls, need to develop a strong passion for STEM (Science, Technology, Engineering &amp; Mathematics) to make a difference to the world they live in. Technology has imbibed every part of our lives and the next big trend is Robotics and Artificial Intelligence (AI) solutions to automate robots to perform varied tasks.&nbsp;
-
-  
-
-At ARC, we have incorporated Design Thinking into our CCA - designing meaningful day-to-day solutions for others through the use of robotics. Through this process, students&nbsp;will develop competencies in building and programming robots, as well as programming and piloting drones. Students also learn software programming which allows them to design online games and many other exciting outcomes.&nbsp;
-
-  
-
-On top of all that, students are trained to have a growth mindset anchored by values such as entrepreneurial dare, grit and teamwork. We have managed to clinch several awards over the past few years at various competitions.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-v41i{color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-v41i">Year</th>
-    <th class="tg-v41i">Name of Competition/Category</th>
-    <th class="tg-v41i">Award</th>
-  </tr>
-</thead>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/ARC 3.jpg">
+</div>
+<p>Automation and Robotics Club (ARC) provides opportunities for students
+to pursue their passion in STEM (Science, Technology, Engineering &amp;
+Mathematics) and make a difference to the world they live in. Technology
+has imbibed every part of our lives and the next big trend is Robotics
+and Artificial Intelligence (AI) solutions to automate robots to perform
+varied tasks.</p>
+<p>At ARC, we have incorporated Design Thinking into our CCA - designing
+meaningful day-to-day solutions for others through the use of robotics.
+Through this process, students&nbsp;will develop competencies in building
+and programming robots, as well as programming and piloting drones. Students
+also learn software programming which allows them to design online games
+and many other exciting outcomes.&nbsp;</p>
+<p>On top of all that, students are trained to have a growth mindset anchored
+by values such as entrepreneurial dare, grit and teamwork. We have managed
+to clinch several awards over the past few years at various competitions.</p>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-brl1">2019</td>
-    <td class="tg-brl1">ITE Robotics Challenge - Line Tracing</td>
-    <td class="tg-brl1">Merit Award</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2019</td>
-    <td class="tg-brl1">ITE Robotics Challenge - Creative Challenge</td>
-    <td class="tg-brl1">Best Presentation Award</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2019</td>
-    <td class="tg-brl1">Drone Odyssey Challenge</td>
-    <td class="tg-brl1">Best Project Presentation Award</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2020</td>
-    <td class="tg-brl1">ITE Robotics Challenge - Creative Challenge</td>
-    <td class="tg-brl1">2nd Placed Overall &amp; Merit</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2020</td>
-    <td class="tg-brl1">ITE Robotics Challenge - Obstacle Avoidance</td>
-    <td class="tg-brl1">3rd Placed Overall</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2020</td>
-    <td class="tg-brl1">Drone Odyssey Challenge - Coding Challenge</td>
-    <td class="tg-brl1">4 Students with Distinction (Cash Prize), 10 Students with Distinction Certificates</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2021</td>
-    <td class="tg-brl1">Greenwave Challenge by Sembcorp </td>
-    <td class="tg-brl1">Certificate of Participation</td>
-		 </tr>
-  <tr>
-    <td class="tg-brl1">2022</td>
-    <td class="tg-brl1">IDE Competition </td>
-    <td class="tg-brl1">2nd Overall for IDE Maker and Best Engineering Award</td>
-  </tr>
-  <tr>
-    <td class="tg-brl1">2022</td>
-    <td class="tg-brl1">Drone Odyssey</td>
-    <td class="tg-brl1">3rd place for Cat B1 and C1</td>
-  </tr>
-  <tr>
-</tr></tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Year</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Name of Competition/Category</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Award</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2021</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Greenwave Challenge by Sembcorp</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Overall for IDE Maker and Best Engineering Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd place for Cat B1 and C1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Runner Up for Cat B Obstacle Challenge Best Startegy Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st and 3rd place for IDE Maker Judges' Award for IDE Maker</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
