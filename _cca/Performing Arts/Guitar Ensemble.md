@@ -27,7 +27,8 @@ variant: tiptap
 <p>Monday &amp; Wednesday (3.00 pm – 6.00 pm)
 <br>
 </p>
-<p>Tues, Thurs or Fri (3pm - 6 pm) (only when necessary for SYF or performances)</p>
+<p>Tues, Thurs or Fri (3.00 pm - 6.00 pm) (only when necessary for SYF or
+performances)</p>
 </td>
 </tr>
 <tr>
