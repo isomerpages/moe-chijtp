@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Friday (3.00 pm – 6.00 pm)</p>
+<p>Fridays (3.00 pm – 6.00 pm)</p>
 </td>
 </tr>
 <tr>
