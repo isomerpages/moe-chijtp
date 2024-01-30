@@ -103,16 +103,16 @@ variant: tiptap
 <br>Oratory Society</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Interschool Debate Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Top 3 speakers in the Oldham Cup competition (org by ACJC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Top 10 speakers in the Illuminate competition (org by SJI)</p>
 </td>
 </tr>
 <tr>
@@ -120,10 +120,10 @@ variant: tiptap
 <p>Arts Alive!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Public Transport Workers' Appreciation Colouring Contest (Shortlisted)</p>
