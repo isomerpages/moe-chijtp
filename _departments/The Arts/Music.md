@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dept/03b_Music.jpg">
 </div>
-<p>Mr Titus Chang . Ms Samantha Chan</p>
+<p><strong>ALL from left</strong>: Mr Titus Chang . Ms Samantha Chan</p>
 <p>Students are at the centre of the Music Programme in CHIJ Secondary. We
 believe that all students have the ability to respond to and express themselves
 through music. We therefore aim to not only develop students’ musical skills
