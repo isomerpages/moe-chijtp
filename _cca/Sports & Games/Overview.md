@@ -57,25 +57,25 @@ variant: tiptap
 <p>Badminton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>South Zone Inter-School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2nd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -83,25 +83,25 @@ variant: tiptap
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>South Zone Inter-School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3rd</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -182,28 +182,55 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Inter-School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>-</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>5th</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>4th</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ten-Pin Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Inter-School
+<br>- Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th</p>
 </td>
 </tr>
 </tbody>
