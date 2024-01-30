@@ -19,7 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day/Time
+<p>Training Days/Time
 <br>
 </p>
 </td>
