@@ -6,7 +6,7 @@ third_nav_title: The Arts
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/03a_Drama.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dept/03a_Drama.jpg">
 </div>
 <p>ALL from left: Mr Gary Tang | Ms Raquel Lim | Ms Angela Lim | Mr Marcus
 Liang | Ms Tivona Low | Ms Sum Kar Mun</p>
