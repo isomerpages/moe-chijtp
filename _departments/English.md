@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dept/04_English.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Dept/04_English.jpg">
 </div>
 <p><strong>BACK from left</strong>: Ms Sum Kar Mun . Ms Stephanie Song .
 Mr Ragulan Pakirisamy . Ms Angela Lim . Ms Chelza Chong . Ms Tivona Low
