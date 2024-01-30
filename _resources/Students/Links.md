@@ -55,6 +55,12 @@ variant: tiptap
 </p>
 </li>
 <li>
+<p><a href="https://go.gov.sg/vgtvja" rel="noopener noreferrer nofollow" target="_blank">School Based Assessment for Term 1</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/9iod7w" rel="noopener noreferrer nofollow" target="_blank">School Based Assessment for Term 2</a>
+</p>
 <p></p>
 </li>
 </ul>
