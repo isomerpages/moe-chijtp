@@ -12,7 +12,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Claudia ng &amp; Ms Angeline Heng</p>
+<p>Ms Claudia Ng &amp; Ms Angeline Heng</p>
 </th>
 </tr>
 <tr>
