@@ -33,14 +33,14 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Automation and Robotics Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drone Odyssey Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd Place for Category B Obstacle Challenge</p>
@@ -52,13 +52,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>IDE Series</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>NA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd place for IDE Maker Category
@@ -67,6 +64,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1st place, 3rd place
 <br>Judges' Award for IDE Maker Category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ignITE Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st Place</p>
 </td>
 </tr>
 <tr>
