@@ -30,13 +30,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Recreational Team</p>
-<p>Tuesday (3 pm - 6 pm)</p>
+<p>Tuesday (3.00 pm - 6.00 pm)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Team</p>
 <p>B &amp;C Division
 <br>Tuesday/Wednesday &amp; Friday
-<br>(3 pm - 6 pm)</p>
+<br>(3.00 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>
