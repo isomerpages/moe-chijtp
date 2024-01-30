@@ -26,7 +26,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Competition season - subject to change:
-<br>Tuesday, Thursday &amp; Friday (3.00 pm – 6.30 pm),</p>
+<br>Tuesday, Thursday &amp; Friday (3.00 pm – 6.30 pm)</p>
 </td>
 </tr>
 <tr>

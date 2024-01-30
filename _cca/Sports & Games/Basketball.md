@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday &amp; Wednesday (3:00 pm - 6:00 pm)
+<p>Monday &amp; Wednesday (3.00 pm - 6.00 pm)
 <br>Monday, Wednesday and Friday during Mar, Jun &amp; Nov holidays</p>
 </td>
 </tr>

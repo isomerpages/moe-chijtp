@@ -19,12 +19,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day/Time
+<p>Training Days/Time
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays, 3:00 pm – 6:00 pm
+<p>Wednesday (3.00 pm – 6.00 pm)
 <br>Ad hoc Saturdays for competitions and training by Red cross Youth (HQ)</p>
 </td>
 </tr>

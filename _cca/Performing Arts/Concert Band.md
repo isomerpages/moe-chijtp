@@ -46,7 +46,7 @@ variant: tiptap
 <br>*Sec 1s will join the Main Band in July after Sec 1 Recital</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mondays ( 3.00 pm – 6.00 pm)
+<p>Monday ( 3.00 pm – 6.00 pm)
 <br>Wednesday ( 3.00 pm – 6.00 pm)
 <br>Friday (3.00 pm - 6.00 pm)</p>
 </td>

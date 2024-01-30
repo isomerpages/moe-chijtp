@@ -19,13 +19,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day/Time
+<p>Training Days/Time
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesdays (3.00 pm – 6.00 pm)
-<br>Ad hoc Fridays for sea activities</p>
+<p>Wednesday (3.00 pm – 6.00 pm)
+<br>Ad hoc Friday for sea activities</p>
 </td>
 </tr>
 <tr>

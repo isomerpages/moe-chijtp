@@ -30,8 +30,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advance Team: Monday, Wednesday &amp; Friday (3:00 pm-6:00 pm)
-<br>Intermediate team - Tuesday and Friday (3:00 pm - 6:00 pm)</p>
+<p>Advance Team: Monday, Wednesday &amp; Friday (3.00 pm-6.00 pm)
+<br>Intermediate team - Tuesday and Friday (3.00 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>

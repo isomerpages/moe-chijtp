@@ -12,7 +12,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Claudia ng &amp; Ms Angeline Heng</p>
+<p>Ms Claudia Ng &amp; Ms Angeline Heng</p>
 </th>
 </tr>
 <tr>
@@ -22,9 +22,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Training Days:
-<br>Wednesday (3:00 pm - 6:00 pm)
-<br>Friday (3:30 pm - 6:30 pm)</p>
+<p>Wednesday (3.00 pm - 6.00 pm)
+<br>Friday (3.30 pm - 6.30 pm)</p>
 </td>
 </tr>
 <tr>

@@ -29,8 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday (4:00 pm - 6:00 pm)
-<br>Friday (4:00 pm - 6:00 pm)
+<p>Wednesday (4.00 pm - 6.00 pm)
+<br>Friday (4.00 pm - 6.00 pm)
 <br>(During competitive period, training may be extended to other days)</p>
 </td>
 </tr>

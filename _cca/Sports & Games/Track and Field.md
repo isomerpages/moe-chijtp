@@ -30,7 +30,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday &amp; Friday (3:30 pm to 5:30 pm)
+<p>Monday, Wednesday &amp; Friday (3.30 pm to 5.30 pm)
 <br>
 </p>
 </td>
