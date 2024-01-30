@@ -50,23 +50,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,6 +60,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -101,7 +101,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Ensemble</p>
+<p>IJ Dance Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF Arts Presentation</p>
@@ -131,23 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guitar Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 </tbody>
