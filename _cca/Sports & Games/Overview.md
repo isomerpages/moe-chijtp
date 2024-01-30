@@ -31,22 +31,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C Div</p>
+<p><strong>C Div</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div</p>
+<p><strong>B Div</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Div</p>
+<p><strong>C Div</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div</p>
+<p><strong>B Div</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>C Div</p>
+<p><strong>C Div</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Div</p>
+<p><strong>B Div</strong>
+</p>
 </td>
 </tr>
 <tr>
