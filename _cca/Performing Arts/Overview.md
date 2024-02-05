@@ -5,6 +5,31 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/performing-arts/concert-band/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/Concert Band (Students-2).jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Concert Band</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/performing-arts/choir/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/Choir 1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Choir</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/performing-arts/ij-dance-ensemble/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/Dance Ensemble 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Dance Ensemble</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/performing-arts/guitar-ensemble/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/Guitar_2022_Honours_Day.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Guitar Ensemble</div>
+<div class="isomer-card-description">SYF Arts Presentation Distinction 2019, 2021, 2023</div>
+<div class="isomer-card-link">Readmore</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/performing-arts/ij-theatre/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/IJ Theatre 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Theatre</div><div class="isomer-card-link">Read more</div></div></a>
+</div>
 <table>
 <tbody>
 <tr>
@@ -26,23 +51,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Choir</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -53,6 +61,23 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>NA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -77,7 +102,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dance Ensemble</p>
+<p>IJ Dance Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SYF Arts Presentation</p>
@@ -107,23 +149,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Guitar Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SYF Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
 </td>
 </tr>
 </tbody>
