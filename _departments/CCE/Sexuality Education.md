@@ -606,46 +606,17 @@ decision-making</p>
 </table>
 <p><strong>INFORMATION FOR PARENTS</strong>
 </p>
-<ol>
-<li>
-<p>Parents may opt their children out of Sexuality Education CCE Lessons,
-eTeens and/or supplementary sexuality education programmes by MOE-approved
-external providers.&nbsp;</p>
-</li>
-</ol>
+<p>1. Parents may opt their children out of the Sexuality Education lessons, <em>eTeens</em> and/or
+supplementary sexuality education programmes by MOE-approved external providers.</p>
+<p>2. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable on the letter found on
+Parents Gateway. Please refer to the PG for more information.&nbsp;</p>
+<p>3. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and&nbsp;is also downloadable on the letter found
+on Parents Gateway. Please refer to the PG for more information.&nbsp;</p>
+<p>4. Parents can contact the school at <strong>63534972</strong>&nbsp;for
+discussion or to seek clarification about the school’s Sexuality Education
+programme.</p>
 <p></p>
-<ol start="2">
-<li>
-<p>Parents who wish to opt their children out of the Sexuality Education
-CCE Lessons need to complete an opt-out form. This form is included in
-the Parents Gateway acknowledgement form.</p>
-</li>
-</ol>
-<p></p>
-<ol start="3">
-<li>
-<p>Parents who wish to opt their children out of the eTeens programme need
-to complete an opt-out form. This form is included in the Parents Gateway
-acknowledgement form.&nbsp;&nbsp;</p>
-</li>
-</ol>
-<p></p>
-<ol start="4">
-<li>
-<p>Parents can contact the school at 63534972 (Attn: Ms Sum Kar Mun/ Mrs
-Priscilla Lim) or email&nbsp;<a href="https://www.moe.gov.sg/programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">sum_kar_mun@moe.edu.sg</a>&nbsp;or&nbsp;
-<a href="https://www.moe.gov.sg/programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">priscilla_lim_a@moe.edu.sg</a>&nbsp;for discussion or to seek clarification
-about the school’s Sexuality Education programme.</p>
-</li>
-</ol>
-<p></p>
-<ol start="5">
-<li>
-<p>Parents who wish to attend the school’s Sexuality Education programme
-should contact the school to make the necessary arrangements.</p>
-</li>
-</ol>
-<p>
-<br>
-<br>
-</p>
