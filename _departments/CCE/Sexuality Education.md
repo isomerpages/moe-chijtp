@@ -542,26 +542,17 @@ alignment with our beliefs.</p>
 <p>
 <br><strong><u>eTeens Programme</u></strong>
 </p>
-<ol>
-<li>
-<p>eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, for Secondary 3 students to provide them
-with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme.</p>
-</li>
-</ol>
-<p></p>
-<ol start="2">
-<li>
-<p>Students are taught skills such as decision-making, assertiveness and
+<p>1.&nbsp;<em>eTeens</em> is a programme developed by Health Promotion Board,
+in collaboration with the Ministry of Education, to provide Secondary 3
+students with accurate information on STIs, HIV and protection from a health
+perspective. <em>eTeens</em> is conducted in two segments – a mass talk segment
+and a classroom-based programme. The desired outcome of the <em>eTeens</em> programme
+is that students are empowered to make wise, informed and sensible decisions.</p>
+<p>2. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
-family. Abstinence and upholding family values are the key messages. The
-desired outcome of the eTeens programme is that students are empowered
-to make wise, informed and sensible decisions.</p>
-</li>
-</ol>
+family, and the importance of responsible decision-making and seeking help.
+Abstinence and upholding family values are the key messages.&nbsp;</p>
 <p>
 <br>
 </p>
