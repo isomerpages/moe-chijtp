@@ -107,7 +107,7 @@ related to sexuality, which are of prime concern at this age.
 </p>
 </li>
 </ol>
-<p><strong><u>Secondary 1</u></strong>
+<p><strong><u>Secondary 1</u></strong> 
 <br>
 </p>
 <table>
@@ -223,7 +223,8 @@ etc).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 1</p>
+<p>Respectful Relationships Safety Lesson 1: <strong>A Role for Everyone</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -246,7 +247,8 @@ as a male or female.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 2</p>
+<p>Respectful Relationships Safety Lesson 2: <strong>Online Safety Challenge</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -263,7 +265,8 @@ both online and offline.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 3</p>
+<p>Respectful Relationships Safety Lesson 3: <strong>Do I or Don't I</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -306,7 +309,8 @@ both offline and online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 1</p>
+<p>Respectful Relationships Safety Lesson 1: <strong>Love Yourself, Love Others</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -347,7 +351,8 @@ and friends are important pillars of support.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 2</p>
+<p>Respectful Relationships Safety Lesson 2: <strong>Mending a Broken Heart, When Respect Takes Centre Stage</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -391,7 +396,8 @@ alignment with our beliefs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 1</p>
+<p>Respectful Relationships Safety Lesson 1: <strong>Levelling the Ground</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -416,7 +422,8 @@ and should be avoided.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 2</p>
+<p>Respectful Relationships Safety Lesson 2: <strong>When Love Hurts</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -447,7 +454,8 @@ relationship.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 3</p>
+<p>Respectful Relationships Safety Lesson 3: <strong>For Better or For Worse</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -468,7 +476,8 @@ love, trust, commitment, and requires mutual effort.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 4</p>
+<p>Respectful Relationships Safety Lesson 4: <strong>There's Always More to a Story</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -512,7 +521,8 @@ alignment with our beliefs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Respectful Relationships Safety Lesson 1</p>
+<p>Respectful Relationships Safety Lesson 1: <strong>This is Where I Draw the Line</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
