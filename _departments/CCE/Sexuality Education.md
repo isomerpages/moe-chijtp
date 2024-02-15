@@ -552,45 +552,37 @@ is that students are empowered to make wise, informed and sensible decisions.</p
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages.&nbsp;</p>
-<p>
+Abstinence and upholding family values are the key messages.&nbsp;
 <br>
 </p>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT/LESSON</strong>
+<p><strong>Topics/Lessons</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>eTEENS LEARNING OBJECTIVES</strong>
+<p><strong>Programme Learning Objectives</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TERM/ WEEK</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB Vendor</p>
+<p>Mass Talk by HPB appointed vendor</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Awareness of the different STIs and HIV/AIDS</p>
-</li>
-<li>
-<p>Awareness of modes of transmission</p>
-</li>
-<li>
-<p>Awareness of modes of protection, specifically on how the condom is used</p>
-</li>
-<li>
-<p>Awareness of consequences and impact of STIs/HIV</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raise awareness and provide knowledge
+on:</p>
+<p>a)&nbsp;&nbsp;&nbsp; Infectious diseases (STIs and HIV): what it is, how
+it spreads, how to prevent infection mainly through ABC (abstinence, being
+faithful, correct, and consistent condom use).</p>
+<p>b)&nbsp;&nbsp;&nbsp; Managing relationships and risky situations in a
+healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>T2W6</p>
@@ -598,15 +590,13 @@ Abstinence and upholding family values are the key messages.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Class-based Discussion</p>
+<p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
-</li>
-</ul>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to negotiate their way out
+of a risky situation by applying skills of assertiveness and responsible
+decision-making</p>
+<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>T2W7</p>
