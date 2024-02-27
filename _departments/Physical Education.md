@@ -5,6 +5,10 @@ description: ""
 variant: markdown
 ---
 ![](/images/Dept/09_PE.jpg)
+
+**ALL from left:** Mr Harry Goh . Mrs Tan Yan Ping . Mr Daryl Chan .
+Mr Daniel Kuan . Ms Stephanie Lim . Ms Fiona Tan . Ms Agnes Leong . Mr Kenneth Ho
+
 ### The PE-CCA Programme
 
 * * *
