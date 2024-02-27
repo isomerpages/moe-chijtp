@@ -29,8 +29,7 @@ variant: tiptap
 <div class="isomer-card-description">SYF Arts Presentation Distinction 2019, 2021, 2023</div>
 <div class="isomer-card-link">Readmore</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/performing-arts/ij-theatre/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/IJ Theatre 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Theatre</div><div class="isomer-card-description">SYF Arts Presentation Distinction 2019,  
-SYF Arts Presentation Accomplishment 2021, 2023</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/performing-arts/ij-theatre/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Performing Arts/IJ Theatre 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Theatre</div><div class="isomer-card-description">SYF Arts Presentation Distinction 2019 / SYF Arts Presentation Accomplishment 2021, 2023</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
 <p></p>
