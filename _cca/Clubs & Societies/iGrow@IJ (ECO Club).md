@@ -37,6 +37,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/iGrow_IJ.jpg">
+</div>
 <p>Pioneering in 2022, iGrow@IJ is a new CCA at IJ which aims to bring awareness
 of the need to nurture sustainability practices among students as inhabitants
 of our planet. Through various activities and workshops, students will
