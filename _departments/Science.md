@@ -4,8 +4,14 @@ permalink: /departments/science/
 description: ""
 variant: markdown
 ---
-
 ![](/images/Dept/10_Science.jpg)
+
+**STANDING from left:** Mrs Lois Law . Mdm Faridah Misdi . Ms Shirley Fang . Mrs Wendy Tay .
+Ms Christine Koh . Ms Nur Ain Abdul Ghaffar . Mrs Audrey Teng
+
+**SEATED from left:** Mr Ang Hoot Woon . Mr Lionel Foong . Mr Francis Yap. Mrs Chia Yee Hwee . Mr Alvin Tang . Ms Tan Boon Chui. Mdm Kamariah Sajat . Mrs Tay Yit Ming . Mr Chan Yew Choong
+
+**NOT IN PHOTO:** Mrs Chaiw Kit Wai . Mrs So Yirong . Ms Janet Wong
 ### MISSION & GOALS
 
 * * *
