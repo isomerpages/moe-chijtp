@@ -56,33 +56,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Gym
-<br>(Rhythmics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Inter-School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3rd</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
-<tr>
 <td rowspan="2" colspan="1">
 <p>Netball</p>
 </td>
@@ -131,59 +104,6 @@ variant: tiptap
 <p>1st</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tennis</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Inter-School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ten-Pin Bowling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National Inter-School
-<br>- Overall</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>7th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
@@ -200,5 +120,30 @@ variant: tiptap
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/cca/sports-and-games/rhythmic-gymnastics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Sports/Rhythmic Gym 2.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gym (Rhythmics)</div><div class="isomer-card-description">National Inter-School B Div 2022 (3rd), 2023 (4th) / National Inter-School C Div 2022 (4th), 2023 (3rd)</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/sports-and-games/bowling/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Sports/Tenpin Bowling 1.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ten-Pin Bowling</div>
+<div class="isomer-card-description">National Inter-School B Div 2022 (8th), 2023 (4th) / National Inter-School
+C Div 2022 (7th), 2023 (4th)</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="/cca/sports-and-games/tennis/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Sports/Tennis_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tennis</div><div class="isomer-card-description">National Inter-School B Div 2022 (4th), 2023 (4th) / National Inter-School C Div 2022 (5th)</div><div class="isomer-card-link">Read more</div></div></a>
+<a rel="noopener noreferrer nofollow" href="/cca/sports-and-games/track-n-field/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Sports/Athletics 2.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Track and Field</div>
+<div class="isomer-card-description">National Track and Field Championships B Div 2023 (14th), C Div 2023 (9th)</div>
+<div class="isomer-card-link">Read more</div>
+</div>
+</a>
 </div>
 <p></p>
