@@ -39,6 +39,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Chinese_Cultural.jpg">
+</div>
 <p>CHIJ CHINESE CULTURE SOCIETY engages itself enthusiastically in Chinese
 culture largely through activities such as Chinese dance, Chinese Drama,
 Chinese Wushu, Chinese calligraphy, Chinese culinary arts etc.&nbsp;</p>
