@@ -11,11 +11,11 @@ variant: tiptap
 Mr Ragulan Pakirisamy . Ms Angela Lim . Ms Chelza Chong . Ms Tivona Low
 . Mrs Teresa Francis</p>
 <p><strong>FRONT from left</strong>: Mr Geraint Wong . Ms Jey Sundari . Ms
-Nicole Teo . Mrs Angeline Yeo Senior Teacher/English Language . Ms Margaret
+Nicole Teo . Mrs Angeline Yeo (Senior Teacher/English Language) . Ms Margaret
 Teo . Ms Claudia Ng . Mrs Magdalen Low . Mrs Wendy Lee . Ms Michelle Tay
 . Mrs Geralyn Vincent</p>
 <p><strong>NOT IN PHOTO</strong>: Mdm Cheng Ai Hoon . Ms Puja Dada . Mr Eugene
-Lim . Ms Madhu Sakhrani Lead Teacher/Literature in English</p>
+Lim . Ms Madhu Sakhrani (Lead Teacher/Literature in English)</p>
 <h3>Mission Statement:</h3>
 <p>To nurture critical thinkers who display the ability to negotiate a diverse
 array of multimodal texts to communicate effectively in a complex world.</p>
