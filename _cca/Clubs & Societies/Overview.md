@@ -49,7 +49,7 @@ speakers in the Illuminate competition 2023 (org by SJI)</div>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/legion-of-mary/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Legion of Mary 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Legion_of_Mary__2023_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
