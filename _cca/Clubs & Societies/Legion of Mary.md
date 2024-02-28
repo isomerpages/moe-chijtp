@@ -12,7 +12,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Geraint Wong &amp; Ms Linda Cruz</p>
+<p>Mr Geraint Wong</p>
 </th>
 </tr>
 <tr>
@@ -52,8 +52,6 @@ regular contact work in the form of outreach. They also assist in all the
 School Masses and conduct the Daily Chapel Morning Prayer. The Praesidium
 also participates in the Monthly Curia Meetings, the Acies, and Fellowship
 Programmes with Praesidiums of other Catholic Schools in Singapore.</p>
-<p>The CHIJ Legion of Mary members organise their own annual camp, community
-services, and visiting of churches on Maundy Thursday.</p>
 <p>The Legion of Mary invites students who are interested in praying together
 and serving the school in its various spiritual activities Join the Legion
 of Mary to have an enriched spiritual and prayer life and discover what
