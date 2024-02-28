@@ -12,7 +12,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Geraint Wong &amp; Ms Linda Cruz</p>
+<p>Mr Geraint Wong</p>
 </th>
 </tr>
 <tr>
@@ -35,9 +35,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Legion of Mary 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Legion_of_Mary__2023_.jpg">
 </div>
 <p>The Legion of Mary was founded in Dublin, Ireland, on 7 September 1921,
 by Frank Duff. It is a lay Catholic organisation whose members give service
@@ -53,8 +52,6 @@ regular contact work in the form of outreach. They also assist in all the
 School Masses and conduct the Daily Chapel Morning Prayer. The Praesidium
 also participates in the Monthly Curia Meetings, the Acies, and Fellowship
 Programmes with Praesidiums of other Catholic Schools in Singapore.</p>
-<p>The CHIJ Legion of Mary members organise their own annual camp, community
-services, and visiting of churches on Maundy Thursday.</p>
 <p>The Legion of Mary invites students who are interested in praying together
 and serving the school in its various spiritual activities Join the Legion
 of Mary to have an enriched spiritual and prayer life and discover what
