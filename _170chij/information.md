@@ -4,6 +4,10 @@ permalink: /170chij/info/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ170.jpeg">
+</div>
 <p>CHIJ commemorates our 170th anniversary at the Singapore Sports Hub on
 Monday 20th May 2024 (9am – 12pm). CHIJ Secondary alumni, past students
 and former staff who wish to join in the celebration may put in your request
