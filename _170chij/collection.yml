@@ -1,4 +1,5 @@
 collections:
   170chij:
     output: true
-    order: []
+    order:
+      - info.md
