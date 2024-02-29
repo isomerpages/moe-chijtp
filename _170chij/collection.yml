@@ -2,4 +2,4 @@ collections:
   170chij:
     output: true
     order:
-      - information.md
+      - Information.md
