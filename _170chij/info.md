@@ -29,4 +29,5 @@ and we will then update you on the collection date and time.</p>
 <p>For parents of current students who wish to join in the celebration, the
 request will be via a different platform. You can make your request via
 this email: <a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a>.
-&nbsp; &nbsp;</p>
+&nbsp; &nbsp;<a href="https://form.gov.sg/65c036b77fa9d4d6d790c11c" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+</p>
