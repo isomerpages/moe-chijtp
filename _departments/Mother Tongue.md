@@ -51,12 +51,7 @@ through hands-on activities and programmes. Some examples of activities
 are paper-cutting, Chinese calligraphy, Chinese riddles competition.</p>
 <p>The department verified believes in the importance of keeping the language
 alive and complements classroom learning with experiential learning approaches
-and learning journeys.&nbsp;</p>
-<p><strong>Teaching resources</strong>
-</p>
-<p>IMTL Login:
-<br><a href="https://imtl.sg/wp-login.php" rel="noopener noreferrer nofollow" target="_blank">Https://imtl.sg/login/index.php</a>
-</p>
+and learning journeys.</p>
 <h3>Tamil Language</h3>
 <p><strong>Overview</strong>
 </p>
