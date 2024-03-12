@@ -96,9 +96,6 @@ in the process.</p>
 <p>Tamil Touch-typing Practice
 <br><a href="http://wk.w3tamil.com/tamil99/" rel="noopener noreferrer nofollow" target="_blank">http://wk.w3tamil.com/tamil99/</a>
 </p>
-<p>IMTL Login:
-<br><a href="https://imtl.sg/login/index.php" rel="noopener noreferrer nofollow" target="_blank">https://imtl.sg/login/index.php</a>
-</p>
 <h3>Malay Language</h3>
 <p><strong>Overview</strong>
 </p>
