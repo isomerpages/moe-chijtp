@@ -2,44 +2,27 @@
 title: IJ goes Global
 permalink: /ij-goes-global/
 description: ""
+variant: markdown
 ---
-![](/images/IJ%20global.png)
 
-<html>
-<head>
-<style>
-img {
-  float: left;
-}
-</style>
-</head>
-<body>
+
+
 
 <p><img src="/images/IJ_Goes_Global.png" style="width:170px;height:170px;margin-left:15px;">
-IJ Goes Global is a programme which provides opportunities for students to experience learning outside the classroom and Singapore. The school believes that our students need to develop the skills that will see them cope with the many challenges in the future. The students will be working in a globalized community whether it is here in Singapore or elsewhere as the national boundaries disappear as travelling across continents become a norm.</p>
+	Overseas partnerships prepare our students to be part of a globalized community through cross-cultural exposure. The IJ Goes Global Programme includes cultural exchanges through hosting
+students from other countries as well as travelling overseas, which help our students’ global
+awareness and rootedness.
+As the global IJ community includes sister schools in other countries, partnership programmes
+with these schools (chiefly the Yokohama, Shizuoka, Denenchofu and Fukuoka Futaba schools
+in Japan) foster an inclusive IJ community and strengthen the IJ identity.
+	
+Overseas programmes also give teachers the opportunity to engage in professional dialogue
+when students are attending lessons, as is the case with the twinning programmes with St Paul’s
+Co-Educational College and Diocesan Girls’ School in Hong Kong, and with Trung Vuong
+School in Vietnam. Besides enabling our students to gain insights into the cultures of the
+ASEAN region, the IJ BEACON programme provides our students with the opportunity to use
+their talents and skills to serve those who are disadvantaged and develop important qualities such
+as empathy and resilience.
 
-</body>
-</html>
 
-
-
-<html>
-<head>
-<style>
-img {
-  float: left;
-}
-</style>
-</head>
-<body>
-
-<p><img src="/images/ij_goes_global_1.png" style="width:170px;height:170px;margin-left:15px;">
-We have twinning programmes with 5 schools in Hong Kong and 4 in Japan. The school also hosts schools from Indonesia and Vietnam under this programme. We have plans to extend this programme to countries further afield. Students learn communication skills, understand cultural differences and learn to appreciate the differences.
-
-Subject-based and CCA-based learning journeys are also an integral part of IJ Goes Global. Besides that, the IJ Beacon, the overseas mission programme, creates opportunities for students to share their talents and to develop empathy for those less fortunate than themselves. At present, the school has three overseas mission trips a year, with plans to extend the programme.
 </p>
-
-</body>
-</html>
-
-![](/images/IJ%20global%202.png)
