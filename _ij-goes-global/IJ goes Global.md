@@ -4,8 +4,8 @@ permalink: /ij-goes-global/
 description: ""
 variant: markdown
 ---
-<p><img src="/images/IJ_Goes_Global.png" style="width:170px;height:170px;margin-left:15px;">
-	Overseas partnerships prepare our students to be part of a globalized community through cross-cultural exposure. The IJ Goes Global Programme includes cultural exchanges through hosting
+
+Overseas partnerships prepare our students to be part of a globalized community through cross-cultural exposure. The IJ Goes Global Programme includes cultural exchanges through hosting
 students from other countries as well as travelling overseas, which help our students’ global
 awareness and rootedness.
 As the global IJ community includes sister schools in other countries, partnership programmes
@@ -19,6 +19,3 @@ School in Vietnam. Besides enabling our students to gain insights into the cultu
 ASEAN region, the IJ BEACON programme provides our students with the opportunity to use
 their talents and skills to serve those who are disadvantaged and develop important qualities such
 as empathy and resilience.
-
-
-</p>
