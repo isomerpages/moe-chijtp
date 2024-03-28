@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - IJ Goes Global.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
