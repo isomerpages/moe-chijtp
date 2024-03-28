@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Programme/.keep
-      - Programme/Fukuoka.md
       - Programme/Futaba.md
