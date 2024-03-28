@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 
+![](/images/IJglobal/glbanner.png)
+
 Overseas partnerships prepare our students to be part of a globalized community through cross-cultural exposure. The IJ Goes Global Programme includes cultural exchanges through hosting
 students from other countries as well as travelling overseas, which help our students’ global
 awareness and rootedness.
