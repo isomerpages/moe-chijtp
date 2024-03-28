@@ -2,5 +2,6 @@ collections:
   ij-goes-global:
     output: true
     order:
+      - Programme/Chiang Mai.md
       - Programme/.keep
       - IJ goes Global.md
