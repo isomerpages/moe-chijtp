@@ -2,4 +2,5 @@ collections:
   ij-goes-global:
     output: true
     order:
+      - Chiang Mai.md
       - IJ goes Global.md
