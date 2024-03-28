@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - IJ Goes Global.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
@@ -28,3 +27,4 @@ collections:
       - The Arts/Art.md
       - The Arts/Drama.md
       - The Arts/Music.md
+      - IJ Goes Global.md
