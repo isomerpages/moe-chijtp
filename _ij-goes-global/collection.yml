@@ -2,9 +2,4 @@ collections:
   ij-goes-global:
     output: true
     order:
-      - Programme/Futaba.md
-      - Programme/Hong Kong.md
-      - Programme/Fukuoka.md
-      - Programme/Chiang Mai.md
       - Programme/.keep
-      - IJ goes Global.md
