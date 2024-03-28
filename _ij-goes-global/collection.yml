@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Chiang Mai.md
-      - Chiang Mai/.keep
+      - Programme/.keep
       - IJ goes Global.md
