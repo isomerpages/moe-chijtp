@@ -4,5 +4,4 @@ collections:
     order:
       - Programme/.keep
       - Programme/Fukuoka.md
-      - Programme/Hong Kong.md
       - Programme/Futaba.md
