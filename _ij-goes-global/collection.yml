@@ -2,7 +2,6 @@ collections:
   ij-goes-global:
     output: true
     order:
-      - IJ goes Global.md
       - Programme/.keep
       - Programme/Chiang Mai.md
       - Programme/Fukuoka.md
