@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Programme/.keep
-      - Programme/Chiang Mai.md
       - Programme/Fukuoka.md
       - Programme/Hong Kong.md
       - Programme/Futaba.md
