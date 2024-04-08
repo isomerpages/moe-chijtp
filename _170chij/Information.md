@@ -13,7 +13,7 @@ Monday 20th May 2024 (9am – 12pm). CHIJ Secondary alumni, past students
 and former staff who wish to join in the celebration may put in your request
 via the<strong><u> </u><a href="https://form.gov.sg/65c036b77fa9d4d6d790c11c" rel="noopener noreferrer nofollow" target="_blank">FormSG .</a></strong>
 </p>
-<p><strong><em>Kindly note that all requests&nbsp;after 5 April 2024 will now be on the waiting list as all tickets have been allocated.</em></strong>
+<p><strong><em>Kindly note that all requests&nbsp;after 4 April 2024 will now be on the waiting list as all tickets have been allocated.</em></strong>
 </p>
 <p>Please submit your request by 08 April 2024. Kindly note that as there
 are limited number of tickets, the school reserves the rights to do the
