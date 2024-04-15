@@ -2,14 +2,14 @@ collections:
   departments:
     output: true
     order:
-      - Learning@IJ/Science.md
+      - Learning@IJ/.keep
+      - Learning@IJ/English.md
+      - Learning@IJ/Humanities.md
+      - Learning@IJ/ICT.md
       - Learning@IJ/Mathematics.md
       - Learning@IJ/Mother Tongue.md
       - Learning@IJ/Physical Education.md
-      - Learning@IJ/ICT.md
-      - Learning@IJ/Humanities.md
-      - Learning@IJ/English.md
-      - Learning@IJ/.keep
+      - Learning@IJ/Science.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
