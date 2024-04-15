@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - IJ Spirit Day & Fiesta.md
       - Learning@IJ/.keep
       - Learning@IJ/English.md
       - Learning@IJ/Humanities.md
@@ -29,6 +28,7 @@ collections:
       - The Arts/Art.md
       - The Arts/Drama.md
       - The Arts/Music.md
+      - IJ Spirit Day & Fiesta.md
       - IJ Goes Global/.keep
       - IJ Goes Global/IJ goes Global.md
       - IJ Goes Global/Chiang Mai.md
