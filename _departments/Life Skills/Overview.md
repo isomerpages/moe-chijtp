@@ -87,3 +87,4 @@ in these industries. In CHIJ, students embark on a series of Learning Journeys
 such as the Hippo Hop-on-hop-off tour and factory tours and workshops which
 in the airline services industry to&nbsp; apply their conceptual, analytical
 and evaluative skills to make sound justifiable decisions.</p>
+<p></p>
