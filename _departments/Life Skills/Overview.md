@@ -54,14 +54,14 @@ process and they use the design process to design and make products.</p>
 <p>They are also taught theory on processes, such as sawing, filing, drilling,
 surface finishing and joining.</p>
 <p>Secondary 2 Express pupils are taught Isometric Drawing to enable them
-to be able to sketch 3-dimensional design ideas.</p>
+to be able to sketch 3dimensional design ideas.</p>
 <p>Secondary 2 Normal Academic pupils are taught Oblique Drawing to enable
 them to be able to sketch 3-dimensional design ideas.</p>
 <p>In&nbsp;<strong>Interior Design</strong>, pupils learnt the basic theory
 such as, Materials, Lighting, Colour, Furniture, Accessories used in Interior
-Design.</p>
-<p>Secondary 1 pupils are taught to design rooms using Goggle Sketch-up.</p>
-<p>Secondary 2 pupils designed and made scale-down cardboard models of rooms.</p>
+Design.
+<br>Secondary 1 pupils are taught to design rooms using Goggle Sketch-up.
+<br>Secondary 2 pupils designed and made scale-down cardboard models of rooms.</p>
 <p># <strong>Secondary One</strong>
 </p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 1E pupils designed and
