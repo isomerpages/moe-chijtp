@@ -66,14 +66,10 @@ Design.</p>
 <p># Secondary One</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 1E pupils designed and
 made Wooden Torchlight Keychains</p>
-<p>![](/images/1E%20DNT.png)</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 1NA pupils designed and
 made Wooden Keychains</p>
-<p>![](/images/1NA.png)</p>
 <p><strong>Interior Design</strong>&nbsp;–&nbsp; Secondary 1 pupils designed
 their own bedrooms with the Goggle Sketch-up.</p>
-<p>![](/images/Google%20Sketch-Up%201.jpg)</p>
-<p>![](/images/Google%20Sketch-Up%202.jpg)</p>
 <p># Secondary Two</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 2E pupils designed and
 made Wooden and Acrylic products.</p>
