@@ -3,6 +3,7 @@ title: ICT
 permalink: /departments/ict/
 description: ""
 variant: markdown
+third_nav_title: Learning@IJ
 ---
 **PDLP Outcomes @ CHIJ**   
 
@@ -34,4 +35,4 @@ The iPad bundle which includes a warranty and insurance for purchase is as shown
 **Resources**  
 Parents Handbook on Learning with PLD [BOOK1](/files/ICT/ParentHb124_.pdf) &amp; [BOOK2](/files/ICT/ParentHb224_.pdf)
 
-Cyberwellness Resources for Parents [Parents' Toolkit](/files/ICT/cybwellness4uchild.pdf)  
+Cyberwellness Resources for Parents [Parents' Toolkit](/files/ICT/cybwellness4uchild.pdf)

@@ -3,6 +3,7 @@ title: Science
 permalink: /departments/science/
 description: ""
 variant: markdown
+third_nav_title: Learning@IJ
 ---
 ![](/images/Dept/10_Science.jpg)
 

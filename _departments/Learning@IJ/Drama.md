@@ -2,7 +2,7 @@
 title: Drama
 permalink: /departments/thearts/drama/
 description: ""
-third_nav_title: The Arts
+third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">

@@ -2,6 +2,18 @@ collections:
   departments:
     output: true
     order:
+      - Learning@IJ/.keep
+      - Learning@IJ/Art.md
+      - Learning@IJ/Drama.md
+      - Learning@IJ/English.md
+      - Learning@IJ/Humanities.md
+      - Learning@IJ/ICT.md
+      - Learning@IJ/Life Skills.md
+      - Learning@IJ/Mathematics.md
+      - Learning@IJ/Mother Tongue.md
+      - Learning@IJ/Music.md
+      - Learning@IJ/Physical Education.md
+      - Learning@IJ/Science.md
       - CCE/.keep
       - CCE/Overview.md
       - CCE/National Education.md
@@ -9,24 +21,7 @@ collections:
       - CCE/Student Leadership.md
       - CCE/Values in Action (VIA).md
       - CCE/EDUSAVE.md
-      - English.md
-      - Humanities.md
-      - ICT.md
-      - Life Skills/.keep
-      - Life Skills/Overview.md
-      - Life Skills/Design & Technology.md
-      - Life Skills/Elements of Business Skills.md
-      - Life Skills/Food & Consumer Education.md
-      - Life Skills/Principles of Accounts.md
-      - Mathematics.md
-      - Mother Tongue.md
-      - Physical Education.md
-      - Science.md
-      - The Arts/.keep
-      - The Arts/Overview.md
-      - The Arts/Art.md
-      - The Arts/Drama.md
-      - The Arts/Music.md
+      - IJ Spirit Day & Fiesta.md
       - IJ Goes Global/.keep
       - IJ Goes Global/IJ goes Global.md
       - IJ Goes Global/Chiang Mai.md

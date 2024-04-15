@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /departments/physical-education/
 description: ""
 variant: tiptap
+third_nav_title: Learning@IJ
 ---
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/09_PE.jpg">
