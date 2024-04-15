@@ -24,7 +24,6 @@ choices which will develop them into a Woman of Distinction.</p>
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
 and design process.</p>
-<p></p>
 <p>The lower secondary Design and Technology syllabus aims to enable pupils
 to:</p>
 <ul data-tight="true" class="tight">
@@ -63,21 +62,22 @@ such as, Materials, Lighting, Colour, Furniture, Accessories used in Interior
 Design.</p>
 <p>Secondary 1 pupils are taught to design rooms using Goggle Sketch-up.</p>
 <p>Secondary 2 pupils designed and made scale-down cardboard models of rooms.</p>
-<p># Secondary One</p>
+<p># <strong>Secondary One</strong>
+</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 1E pupils designed and
 made Wooden Torchlight Keychains</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 1NA pupils designed and
 made Wooden Keychains</p>
 <p><strong>Interior Design</strong>&nbsp;–&nbsp; Secondary 1 pupils designed
 their own bedrooms with the Goggle Sketch-up.</p>
-<p># Secondary Two</p>
+<p># <strong>Secondary Two</strong>
+</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 2E pupils designed and
 made Wooden and Acrylic products.</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 2 NA pupils designed
 and made Acrylic Clocks</p>
 <p><strong>Interior Design</strong>&nbsp;– Secondary 2E and 2 NA pupils designed
 and made cardboard models of rooms with allocated Interior Design Styles.</p>
-<p></p>
 <h4>Elements of Business Skills</h4>
 <p>In Elements of Business Skills, students are taught to develop basic understanding
 of the business activities in three main industries – travel and tourism,
@@ -107,4 +107,9 @@ the students where they learn to demonstrate critical thinking skills in
 comparing and applying prior knowledge learnt and this will enable them
 to see the interconnectedness of ideas resulting in a more meaningful learning
 experience.</p>
-<p></p>
+<h4>Principles of Accounts</h4>
+<p>The main objective of the department is to develop the knowledge and analytical
+skills of the students and to inculcate values and attitudes to enable
+them to succeed as competent, ethical individuals in the practice of accounting
+and make financial decision for themselves, in business, government and
+non-profit making organisations.</p>
