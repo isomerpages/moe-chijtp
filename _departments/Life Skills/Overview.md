@@ -27,17 +27,23 @@ and design process.</p>
 <p></p>
 <p>The lower secondary Design and Technology syllabus aims to enable pupils
 to:</p>
-<p></p>
-<p>* develop an awareness of design in the made-world;</p>
-<p></p>
-<p>* &nbsp; develop an appreciation of function, aesthetics and technology
-in design;</p>
-<p></p>
-<p>* develop basic design thinking and communication skills;</p>
-<p></p>
-<p>* experience the process of realising design through making and</p>
-<p></p>
-<p>* think creatively to become autonomous decision makers.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>develop an awareness of design in the made-world;</p>
+</li>
+<li>
+<p>develop an appreciation of function, aesthetics and technology in design;</p>
+</li>
+<li>
+<p>develop basic design thinking and communication skills;</p>
+</li>
+<li>
+<p>experience the process of realising design through making and</p>
+</li>
+<li>
+<p>think creatively to become autonomous decision makers.</p>
+</li>
+</ul>
 <p>Pupils are engaged in design-and-make activities. Designs are adapted
 to their abilities, interest and design context. Pupils will then make
 use of wood and plastics to make the products that they have designed and
@@ -71,12 +77,17 @@ their own bedrooms with the Goggle Sketch-up.</p>
 <p># Secondary Two</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 2E pupils designed and
 made Wooden and Acrylic products.</p>
-<p>![](/images/2E.png)</p>
 <p><strong>Product Design</strong>&nbsp;– Secondary 2 NA pupils designed
 and made Acrylic Clocks</p>
-<p>![](/images/2NA.png)</p>
 <p><strong>Interior Design</strong>&nbsp;– Secondary 2E and 2 NA pupils designed
 and made cardboard models of rooms with allocated Interior Design Styles.</p>
-<p>![](/images/Cardboard%20Models%20of%20Rooms%201.jpg)</p>
-<p>![](/images/Cardboard%20Models%20of%20Rooms%202.jpg)</p>
-<p>![](/images/Cardboard%20Models%20of%20Rooms%203.jpg)</p>
+<p></p>
+<h4>Elements of Business Skills</h4>
+<p>In Elements of Business Skills, students are taught to develop basic understanding
+of the business activities in three main industries – travel and tourism,
+hospitality and retail. They will be equipped with basic marketing concepts
+and customer relations skills and explore the employability for working
+in these industries. In CHIJ, students embark on a series of Learning Journeys
+such as the Hippo Hop-on-hop-off tour and factory tours and workshops which
+in the airline services industry to&nbsp; apply their conceptual, analytical
+and evaluative skills to make sound justifiable decisions.</p>
