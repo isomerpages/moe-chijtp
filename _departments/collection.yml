@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Learning@IJ/Music.md
       - Learning@IJ/Drama.md
       - Learning@IJ/Art.md
       - Learning@IJ/.keep
