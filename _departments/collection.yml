@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - IJ Spirit Day & Fiesta.md
       - Learning@IJ/.keep
       - Learning@IJ/English.md
       - Learning@IJ/Humanities.md
