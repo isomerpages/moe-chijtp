@@ -44,29 +44,14 @@ to be</p>
 <p>If you are our IJ girl, know that you are among a Christ-centred community
 that seeks to care for and nurture you. If you are not yet a part of the
 IJ family, we invite you to be a part of the legacy.</p>
-<p>
-<br>
-</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/mslee.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mslee.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>Blessings,&nbsp;
 <br>Mrs Rachel Lee
-<br>Principal
+<br>Principal</p>
+<p></p>
+<p>
 <br>
 </p>
