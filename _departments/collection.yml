@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Learning@IJ/Physical Education.md
       - Learning@IJ/ICT.md
       - Learning@IJ/Humanities.md
       - Learning@IJ/English.md
