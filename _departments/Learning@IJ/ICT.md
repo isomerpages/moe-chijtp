@@ -5,6 +5,14 @@ description: ""
 variant: markdown
 third_nav_title: Learning@IJ
 ---
+
+![](/images/Dept/ict.jpg)
+
+
+
+
+
+
 **PDLP Outcomes @ CHIJ**   
 
 ![](/images/NDLP/PDLP.png)
