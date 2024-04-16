@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Self Awareness Camp.md
       - Learning@IJ/.keep
       - Learning@IJ/Art.md
       - Learning@IJ/Drama.md
@@ -22,6 +21,7 @@ collections:
       - CCE/Student Leadership.md
       - CCE/Values in Action (VIA).md
       - CCE/EDUSAVE.md
+      - Self Awareness Camp.md
       - IJ Spirit Day & Fiesta.md
       - IJ Goes Global/.keep
       - IJ Goes Global/IJ goes Global.md
