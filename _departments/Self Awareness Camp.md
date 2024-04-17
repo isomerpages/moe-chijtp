@@ -4,6 +4,10 @@ permalink: /self-awareness-camp/
 variant: tiptap
 description: ""
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sacamp.jpg">
+</div>
 <p>A key student development experience for our graduating cohort, the annual
 Self-Awareness Camp is an opportunity&nbsp;for our girls and teachers to
 come together to prepare for the year ahead. A time of self-discovery,
@@ -20,50 +24,4 @@ through writing and reflection before setting class goals. An integral
 part of the distinctive IJ experience we offer, this camp is a longstanding
 tradition that equips our girls with the skills and competencies necessary
 to become Women of Distinction.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sa4.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Sa/sa3.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sa5.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sa6.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sa1.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/sa2.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
