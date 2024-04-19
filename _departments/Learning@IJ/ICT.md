@@ -5,10 +5,9 @@ description: ""
 variant: markdown
 third_nav_title: Learning@IJ
 ---
-
 ![](/images/Dept/ict.jpg)
 
-
+ALL from left: Mr Adrian Moh&nbsp;_SH/ICT._&nbsp;Mrs Lois Law&nbsp;_HoD/ICT_. Mr Mike Pyia Phyo&nbsp;_ICT Manager_. Mr Muhammad Fikri Bin Zulkefili&nbsp;_Desktop Engineer_. Mr Muhammad Naim Bin Muhamed&nbsp;_AVA Executive_. Mr Muhammad Rusydi Aman.&nbsp;_Desktop Engineer_
 
 
 
