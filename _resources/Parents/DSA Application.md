@@ -3,8 +3,9 @@ title: DSA Application
 permalink: /resources/parents/dsa-application/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
-# **Direct School Admission 2023**
+# **Direct School Admission 2024**
 
 [Direct School Admission Information Sec 1](/files/Parents/dsa%20sec%201%202024.pdf)
 
