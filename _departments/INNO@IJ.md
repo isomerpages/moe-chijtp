@@ -16,3 +16,11 @@ competencies. Through our Talent Development Programme, students are exposed
 to content beyond the formal curriculum and extend the Joy of Learning
 beyond the classroom. We hope to empower our students to be innovative
 thinkers, lifelong learners, and active contributors to their communities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Sa/INNO_IJ_Experience_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Sa/INNO_IJ_Experience_1.jpg">
+</div>
+<p></p>
