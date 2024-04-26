@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - INNO@IJ.md
       - Learning@IJ/.keep
       - Learning@IJ/Art.md
       - Learning@IJ/Drama.md
@@ -23,6 +22,7 @@ collections:
       - CCE/Values in Action (VIA).md
       - CCE/EDUSAVE.md
       - Self Awareness Camp.md
+      - INNO@IJ.md
       - IJ Spirit Day & Fiesta.md
       - IJ Goes Global/.keep
       - IJ Goes Global/IJ goes Global.md
