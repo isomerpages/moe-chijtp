@@ -31,8 +31,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconStu/HWB.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/file/ICT/iconguide"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/iconguide.png"></a>
 </td>
