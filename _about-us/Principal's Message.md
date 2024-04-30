@@ -4,6 +4,11 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ms_lee.jpg">
+</div>
 <p>The oldest Catholic girls’ school and the mother school of all the CHIJ
 schools in Singapore, CHIJ Secondary was first established in Victoria
 Street (where CHIJMES now stands) before moving to its present Toa Payoh
@@ -45,9 +50,6 @@ to be</p>
 that seeks to care for and nurture you. If you are not yet a part of the
 IJ family, we invite you to be a part of the legacy.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/mslee.jpg">
-</div>
 <p>Blessings,&nbsp;
 <br>Mrs Rachel Lee
 <br>Principal</p>
