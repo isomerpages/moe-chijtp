@@ -6,7 +6,7 @@ third_nav_title: Parents
 variant: tiptap
 ---
 <h1><strong>Direct School Admission 2024</strong></h1>
-<p><a href="/files/Parents/dsa%20sec%201%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission Information Sec 1</a>
+<p><a href="/files/DSA_info_Sec_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission Information Sec 1</a>
 </p>
 <p>The school will be admitting students via these talent areas in 2024:</p>
 <ul data-tight="true" class="tight">
