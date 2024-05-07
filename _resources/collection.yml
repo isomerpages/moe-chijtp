@@ -6,7 +6,6 @@ collections:
       - Parents/Secondary 1 Matters.md
       - Parents/Subject Allocation.md
       - Parents/Upper Sec Parents' Talks.md
-      - Parents/DSA Application.md
       - Parents/IJ Quarterly.md
       - Parents/Booklist.md
       - Parents/Uniform.md
@@ -15,5 +14,6 @@ collections:
       - Students/.keep
       - Students/Links.md
       - Students/Helpdesk.md
+      - DSA Application.md
       - Announcements.md
       - IJ Calendar.md
