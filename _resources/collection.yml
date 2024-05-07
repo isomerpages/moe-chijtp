@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - DSA Application.md
       - Parents/.keep
       - Parents/Secondary 1 Matters.md
       - Parents/Subject Allocation.md
@@ -15,5 +14,6 @@ collections:
       - Students/.keep
       - Students/Links.md
       - Students/Helpdesk.md
+      - DSA Application.md
       - Announcements.md
       - IJ Calendar.md
