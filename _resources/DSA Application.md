@@ -7,7 +7,7 @@ variant: tiptap
 <h1><strong>Direct School Admission 2024</strong></h1>
 <p></p><a class="isomer-image-wrapper" href="https://moe-singapore.zoom.us/webinar/register/WN_VMXOiWYDSpqnkxtDKpp7VQ#/registration"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_And_Yellow__Minimalist_International_Podcast_Day_Banner.png"></a>
 <p></p>
-<p><a href="/files/DSA_info_Sec_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission Infor</a>
+<p><a href="/files/DSA_info_Sec_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission Infor</a> 
 <a href="/files/DSA_info_Sec_1_2025b.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a><a href="/files/DSA_info_Sec_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">mation Sec 1</a>
 </p>
 <p>The school will be admitting students via these talent areas in 2024:</p>
