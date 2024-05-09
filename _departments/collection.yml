@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - IJ FLAIR.md
       - Learning@IJ/.keep
       - Learning@IJ/Art.md
       - Learning@IJ/Drama.md
@@ -25,6 +24,7 @@ collections:
       - Self Awareness Camp.md
       - INNO@IJ.md
       - IJ Spirit Day & Fiesta.md
+      - IJ FLAIR.md
       - IJ Goes Global/.keep
       - IJ Goes Global/IJ goes Global.md
       - IJ Goes Global/Chiang Mai.md
