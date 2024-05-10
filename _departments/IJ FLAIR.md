@@ -6,8 +6,9 @@ description: ""
 ---
 <h4><strong>IJ FLAIR- Festival of Language and the Arts in Rhythm</strong></h4>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ijflair.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6.png">
 </div>
 <p>Anchored by the English Language and Literature department, the annual
 IJ Flair Festival presents a vibrant tapestry of language and the arts.
