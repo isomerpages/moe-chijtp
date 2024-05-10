@@ -128,7 +128,7 @@ enquiries.</p>
 <div class="isomer-card-title">Mrs Lorene Lim</div>
 <div class="isomer-card-description">Member</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mrs Veronica Silvester</div><div class="isomer-card-description">Member</div><div class="isomer-card-link"> </div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mrs Veronica Silvester</div><div class="isomer-card-description">Member</div><div class="isomer-card-link"></div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
