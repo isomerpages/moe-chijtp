@@ -39,10 +39,10 @@ he will continue to lead, guide and inspire us for a long time to come!</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/2Ee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/3Ee.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/3Ee.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/2Ee.png">
 </div>
 <p></p>
