@@ -33,3 +33,16 @@ to have 20,000 voices singing together!</p>
 <p>It was truly a beautiful, wonderful celebration of our IJ Spirit. We thank
 God for his blessings over our school these past 170 years, and pray that
 he will continue to lead, guide and inspire us for a long time to come!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/1Ee.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/2Ee.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/170/3Ee.png">
+</div>
+<p></p>
