@@ -8,30 +8,33 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IJ170.jpeg">
 </div>
-<p>CHIJ commemorates our 170th anniversary at the Singapore Sports Hub on
-Monday 20th May 2024 (9am – 12pm). CHIJ Secondary alumni, past students
-and former staff who wish to join in the celebration may put in your request
-via the<strong><u> </u><a href="https://form.gov.sg/65c036b77fa9d4d6d790c11c" rel="noopener noreferrer nofollow" target="_blank">FormSG .</a></strong>
+<p>The National Stadium was a sea of blue on 20 May as an estimated 20,000
+of us – students, staff, alumni, parents and friends of all 11 IJ schools
+– came together to celebrate 170 years of CHIJ in Singapore.</p>
+<p></p>
+<p>The highlight before Mass was the launch of our song album, 'Hold On To
+Our IJ Dream', on Apple Music and Spotify.</p>
+<p></p>
+<p>To download our album, click on either of these links:</p>
+<p></p>
+<p><a href="https://music.apple.com/us/album/hold-on-to-our-ij-dream/1742259531" rel="noopener noreferrer nofollow" target="_blank">Apple Music</a>
 </p>
-<p><strong><em>Kindly note that all requests on 4 April 2024 and thereafter will now be on the waiting list as all tickets have been allocated.</em></strong>
+<p><a href="https://open.spotify.com/album/0Lkx5ttB6xYJ0pz9tnMppR" rel="noopener noreferrer nofollow" target="_blank">Spotify</a>
 </p>
-<p>Please submit your request by 08 April 2024. Kindly note that as there
-are limited number of tickets, the school reserves the rights to do the
-necessary allocation.</p>
-<p>Note:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>You will be informed by 12 April 2024 if your application is successful,
-and we will then update you on the collection date and time.</p>
-</li>
-<li>
-<p>All allocated tickets to be collected from CHIJ Secondary School.Address:
-626 Lorong 1 Toa Payoh S(319764)</p>
-<p>
-<br>
+<p></p>
+<p>To watch the album playlist on YouTube, including the music videos, click <strong><a href="https://www.youtube.com/playlist?list=PL0co6909fswsVpbNTwbpjKLkZgS2-6Mis" rel="noopener noreferrer nofollow" target="_blank">Here</a></strong>
 </p>
-</li>
-</ul>
-<p>For parents of current students who wish to join in the celebration, the
-request will be via a different platform. You can make your request via
-this email: <a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a>.</p>
+<p></p>
+<p>In his homily at Mass, William Cardinal Goh,&nbsp;noting that it was the
+feast of Mary, Mother of the Church, said that Mary was filled with the
+virtues that IJ aspires to: humility, justice, compassion, simplicity,
+love for the poor.&nbsp;In order to fulfil our IJ Dream and our motto of
+being Simple in Virtue, Steadfast in Duty, there is no-one better than
+Mary who can inspire us.</p>
+<p></p>
+<p>Finally, international jazz artiste and our alumna Alemay Fernandez&nbsp;led
+us in the new version of Hold On To Our Dream – it was truly heart-warming
+to have 20,000 voices singing together!</p>
+<p>It was truly a beautiful, wonderful celebration of our IJ Spirit. We thank
+God for his blessings over our school these past 170 years, and pray that
+he will continue to lead, guide and inspire us for a long time to come!</p>
