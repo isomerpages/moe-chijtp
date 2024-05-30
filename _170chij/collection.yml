@@ -2,5 +2,5 @@ collections:
   170chij:
     output: true
     order:
-      - Information.md
+      - Highlights.md
       - IJ Merchandise.md
