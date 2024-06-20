@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Students
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/resources/students/timetable/"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/timetable.png"></a>
@@ -53,14 +59,7 @@ variant: tiptap
 <li>
 <p><a href="/files/CCA/Student_CCA_Info_Booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Student CCA Info Booklet 2024</a>
 </p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/vgtvja" rel="noopener noreferrer nofollow" target="_blank">School Based Assessment for Term 1</a>
-</p>
-</li>
-<li>
-<p><a href="https://go.gov.sg/9iod7w" rel="noopener noreferrer nofollow" target="_blank">School Based Assessment for Term 2</a>
-</p>
+<p></p>
 <p></p>
 </li>
 </ul>
