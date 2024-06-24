@@ -4,7 +4,7 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Semester 1 Timetable</strong></h4>
+<h4><strong>Semester 2 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable/S1CTTS2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
