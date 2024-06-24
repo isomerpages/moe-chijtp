@@ -12,7 +12,6 @@ Character and Citizenship Education (CCE) is a key aspect of the distinctive IJ 
 
 CCE@IJ adopts the Awareness-Action-Reflection approach where students gain awareness of the CCE Competencies through CCE experiences. Students can then apply what they have learnt in subsequent experiences, including cocurricular activities, Values-in-Action projects, and Student Leadership programmes. This cycle reinforces student learning of values as well as the relevant knowledge and skills to develop themselves, build meaningful relationships with others and make responsible decisions. Reflection is also a key component of the CCE experience to enable students to process what they have gone through, evaluate their actions, and seek ways to improve themselves. 
 
-  
 
 Key CCE experiences include:
 
