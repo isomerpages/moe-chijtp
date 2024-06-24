@@ -9,7 +9,6 @@ using this Web Site, you</p>
 Use. If you do</p>
 <p>not agree to these Terms of Use, please do not use this Web Site.</p>
 <h4>General</h4>
-<p></p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
 posted on</p>
 <p>this page and your use of this Web Site after such changes have been posted
@@ -17,7 +16,6 @@ will</p>
 <p>constitute your agreement to the modified Terms of Use and all of the
 changes.</p>
 <h4>Proprietary Rights</h4>
-<p></p>
 <p>3. This Web Site is maintained by CHIJ Secondary School (Tao Payoh). It
 is owned by</p>
 <p>CHIJ Secondary School (Tao Payoh).</p>
@@ -28,13 +26,9 @@ forms of</p>
 <p>proprietary rights. All rights, title and interest in the Contents are
 owned by, licensed to</p>
 <p>or controlled by CHIJ Secondary School (Tao Payoh).</p>
-<p></p>
 <h4>Privacy Policy</h4>
-<p></p>
 <p>5. Click here to review this Web Site Privacy Statement.</p>
-<p></p>
 <h4>Restrictions on Use of Materials</h4>
-<p></p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced,</p>
 <p>republished, uploaded, posted, transmitted or otherwise distributed in
@@ -63,11 +57,9 @@ access to</p>
 <p>this Web Site to any particular person, or to block access from a particular
 external</p>
 <p>address to this Web Site, at any time, without ascribing any reasons whatsoever.</p>
-<p></p>
 <h4>Disclaimer of Warranties and Liability</h4>
-<p></p>
-<p>9. The Contents of this Web Site are provided on an &amp;quot;as is&amp;quot;
-basis without warranties of</p>
+<p>9. The Contents of this Web Site are provided on an " as is " basis without
+warranties of</p>
 <p>any kind. To the fullest extent permitted by law, CHIJ Secondary School
 (Tao Payoh)</p>
 <p>does not warrant and hereby disclaims any warranty:</p>
