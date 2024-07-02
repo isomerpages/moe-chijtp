@@ -4,6 +4,9 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h4><strong>Prelim Timetable</strong></h4>
+<p></p>
 <h4><strong>Semester 2 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
