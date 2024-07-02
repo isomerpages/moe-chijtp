@@ -6,6 +6,8 @@ variant: tiptap
 ---
 <p></p>
 <h4><strong>Prelim Timetable</strong></h4>
+<p>4N Prelim Timetable</p>
+<p>4N AA Prelim Timetable</p>
 <p></p>
 <h4><strong>Semester 2 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
