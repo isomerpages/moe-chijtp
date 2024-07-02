@@ -6,7 +6,8 @@ variant: tiptap
 ---
 <p></p>
 <h4><strong>Prelim Timetable</strong></h4>
-<p>4N Prelim Timetable</p>
+<p><a href="/files/Timetable/4NPrelimsTT24.pdf" rel="noopener noreferrer nofollow" target="_blank">4N Prelim Timetable</a>
+</p>
 <p>4N AA Prelim Timetable</p>
 <p></p>
 <h4><strong>Semester 2 Timetable</strong></h4>
