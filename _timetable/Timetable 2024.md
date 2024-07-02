@@ -4,6 +4,13 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<p></p>
+<h4><strong>Prelim Timetable</strong></h4>
+<p><a href="/files/Timetable/4NPrelimsTT24.pdf" rel="noopener noreferrer nofollow" target="_blank">4N Prelim Timetable</a>
+</p>
+<p><a href="/files/Timetable/AA4NPrelimsTT24.pdf" rel="noopener noreferrer nofollow" target="_blank">4N AA Prelim Timetable</a>
+</p>
+<p></p>
 <h4><strong>Semester 2 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
