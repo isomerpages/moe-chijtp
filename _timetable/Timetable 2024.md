@@ -4,7 +4,9 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
-<p></p>
+<h4><strong>Semester 2 WAs Schedule</strong></h4>
+<p><a href="https://docs.google.com/spreadsheets/d/1Vms5eYFuCjC0jfoiVE82VI4oBhSPZXADPw1Hj021lEc/edit?gid=815072488#gid=815072488" rel="noopener noreferrer nofollow" target="_blank">Semester 2 WAs Schedule</a>
+</p>
 <h4><strong>Prelim Timetable</strong></h4>
 <p><a href="/files/Timetable/4NPrelimsTT24.pdf" rel="noopener noreferrer nofollow" target="_blank">4N Prelim Timetable</a>
 </p>
