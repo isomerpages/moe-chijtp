@@ -16,6 +16,8 @@ variant: tiptap
 </p>
 <p><a href="/files/Timetable/4E5NPreExam24b.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelim Timetable</a>
 </p>
+<p><a href="/files/Timetable/4E5NPrelimETTAA.pdf" rel="noopener noreferrer nofollow" target="_blank">4E5N Prelim Exam (AA)</a>
+</p>
 <p></p>
 <h4><strong>Semester 2 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
