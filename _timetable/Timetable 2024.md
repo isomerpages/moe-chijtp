@@ -9,9 +9,9 @@ variant: tiptap
 </p>
 <p><a href="/files/Timetable/S2EYE2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 EYE timetable</a>
 </p>
-<p><a href="/files/Timetable/S3EYE2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EYE timetable</a>
+<p><a href="/files/Timetable/S3EYE2024b.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 EYE timetable</a>
 </p>
-<h4><strong>Semester 2 WAs Schedule</strong></h4>
+<h4><strong>As Schedule</strong></h4>
 <p><a href="https://docs.google.com/spreadsheets/d/1Vms5eYFuCjC0jfoiVE82VI4oBhSPZXADPw1Hj021lEc/edit?gid=815072488#gid=815072488" rel="noopener noreferrer nofollow" target="_blank">Semester 2 WAs Schedule</a>
 </p>
 <h4><strong>Prelim Timetable</strong></h4>
