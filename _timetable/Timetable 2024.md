@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>End of Year Examination Timetable</strong></h4>
 <p><a href="/files/Timetable/S1EYE2024b.pdf" rel="noopener nofollow" target="_blank">Sec 1 EYE timetable</a>
 </p>
-<p><a href="/files/Timetable/S2EYE2024b.pdf" rel="noopener nofollow" target="_blank">Sec 2 EYE timetable</a>
+<p><a href="/files/Timetable/S2EYE2024c.pdf" rel="noopener nofollow" target="_blank">Sec 2 EYE timetable</a>
 </p>
 <p><a href="/files/Timetable/S3EYE2024c.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE timetable</a>
 </p>
