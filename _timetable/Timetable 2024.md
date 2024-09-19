@@ -11,7 +11,16 @@ variant: tiptap
 </p>
 <p><a href="/files/Timetable/S3EYE2024c.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE timetable</a>
 </p>
-<h4><strong>As Schedule</strong></h4>
+<p></p>
+<h4><strong>Sec 1 - 3 AA timetables</strong></h4>
+<p><a href="/files/Timetable/AAS1EYE2024.pdf" rel="noopener nofollow" target="_blank">(AA) SEC 1 EYE TIMETABLE 2024</a>
+</p>
+<p><a href="/files/Timetable/AAS2EYE2024.pdf" rel="noopener nofollow" target="_blank">(AA) SEC 2 EYE TIMETABLE 2024</a>
+</p>
+<p><a href="/files/Timetable/AAS3EYE2024.pdf" rel="noopener nofollow" target="_blank">(AA) SEC 3 EYE TIMETABLE 2024</a>
+</p>
+<p></p>
+<h4><strong>WAs Schedule</strong></h4>
 <p><a href="https://docs.google.com/spreadsheets/d/1Vms5eYFuCjC0jfoiVE82VI4oBhSPZXADPw1Hj021lEc/edit?gid=815072488#gid=815072488" rel="noopener noreferrer nofollow" target="_blank">Semester 2 WAs Schedule</a>
 </p>
 <h4><strong>Prelim Timetable</strong></h4>
