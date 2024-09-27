@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Drama Programme.md
       - Learning@IJ/.keep
       - Learning@IJ/Art.md
       - Learning@IJ/Drama.md
