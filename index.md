@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openhouse24b.gif
+      background: /images/openhouse24c.gif
       key_highlights:
         - title: Open House
           description: "2024"
