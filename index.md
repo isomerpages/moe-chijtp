@@ -7,10 +7,10 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/openhouse24b.gif
+      background: /images/openhouse24c.gif
       key_highlights:
-        - title: Announcements
-          description: Read More
+        - title: Open House
+          description: "2024"
           url: /resources/announcements
         - title: Calendar of Events
           description: View All
