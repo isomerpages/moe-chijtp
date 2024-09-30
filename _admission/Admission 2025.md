@@ -7,11 +7,7 @@ variant: tiptap
 <h3>Transfer/Admission Request</h3>
 <p>Period of Application: <strong>7 Oct 2024 – 25 Oct 2024</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>For local students transferring from another local school</p>
-</li>
-</ul>
+<h4>For local students transferring from another local school</h4>
 <p>CHIJ Secondary welcomes Secondary 1 SC/SPR students who are studying in
 an MOE secondary school to apply for admission to CHIJ Secondary for Secondary
 2 in 2025.</p>
@@ -28,11 +24,7 @@ at CHIJ Secondary between <strong>8 Oct – 8 Nov 2024.</strong>
 <p>We do not accept any transfer of students into Secondary 3 as we do not
 have any vacancy.</p>
 <hr>
-<ul data-tight="true" class="tight">
-<li>
-<p>Returning Singaporeans</p>
-</li>
-</ul>
+<h4>Returning Singaporeans</h4>
 <p>Returning Singaporean girls who would like to join us at Secondary 2 at
 the beginning of the next academic year are to register for the MOE&nbsp;
 <a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener noreferrer nofollow" target="_blank">School Placement Exercise for Returning Singaporeans (SPERS)</a>.</p>
@@ -52,12 +44,7 @@ by the school.</p>
 more information.</p>
 <p>If you are considering a Catholic education for your daughter, visit the
 following links for more information on alternative Catholic schools:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Other Catholic schools</a>
-</p>
-</li>
-</ul>
+<h4><a href="https://accs.sg/directory/" rel="noopener noreferrer nofollow" target="_blank">Other Catholic schools</a></h4>
 <p>For clarification
 <br>Should you have any general queries, please contact the General Office
 at Tel: 63534972 between 8am - 4pm or email the school:&nbsp;<a href="mailto:chijtpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtpss@moe.edu.sg</a>&nbsp;(indicate
