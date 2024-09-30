@@ -2,4 +2,4 @@ collections:
   admission:
     output: true
     order:
-      - Transfer Admission for Y2024.md
+      - Admission 2025.md
