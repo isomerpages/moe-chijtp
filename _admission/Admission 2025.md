@@ -21,8 +21,8 @@ hear from the school by 1 Nov 2024.</p>
 <p>Shortlisted applicants will be invited for an interview with school personnel
 at CHIJ Secondary between <strong>8 Oct – 8 Nov 2024.</strong>
 </p>
-<p>We do not accept any transfer of students into Secondary 3 as we do not
-have any vacancy.</p>
+<p><strong>We do not accept any transfer of students into Secondary 3 as we do not have any vacancy.</strong>
+</p>
 <hr>
 <h4>Returning Singaporeans</h4>
 <p>Returning Singaporean girls who would like to join us at Secondary 2 at
