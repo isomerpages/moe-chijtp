@@ -22,8 +22,7 @@ prior to your visit.</p>
 event is as follows :</p>
 </li>
 </ol>
-<p>These are the year-end sales dates for Uniform Supplier to be updated
-in school website:</p>
+<p></p>
 <p><strong>12, 13, 19, 20 Dec 2024 : </strong>All Level</p>
 <p><strong>23, 26, 27, 28 Dec 2024 : </strong>Strictly for Sec 1s only</p>
 <p><strong>Mon-Fri: 9am to 3 pm, Sat: 9am to 12noon</strong>
