@@ -3,25 +3,23 @@ title: Booklist
 permalink: /resources/parents/booklist/
 description: ""
 third_nav_title: Parents
+variant: tiptap
 ---
-**Secondary 1**
-
-* [SECONDARY 1 BOOKLIST](/files/Booklist/s12024.pdf)
-
-**Secondary 2**
-* [SECONDARY 2 (EXP) BOOKLIST](/files/Booklist/s2exp2024.pdf)
-* [SECONDARY 2 (NA) BOOKLIST](/files/Booklist/s2na2024.pdf)
-* [SECONDARY 2 (NT) BOOKLIST](/files/Booklist/s2nt2024.pdf)
-
-**Secondary 3**
-* [SECONDARY 3 (EXP) BOOKLIST](/files/Booklist/s3exp2024.pdf)
-* [SECONDARY 3 (NA) BOOKLIST](/files/Booklist/s3na2024.pdf)
-* [SECONDARY 3 (NT) BOOKLIST](/files/Booklist/s3nt2024.pdf)
-
-**Secondary 4**
-* [SECONDARY 4 (EXP) BOOKLIST](/files/Booklist/s4exp2024.pdf)
-* [SECONDARY 4 (NA) BOOKLIST](/files/Booklist/s4na2024.pdf)
-* [SECONDARY 4 (NT) BOOKLIST](/files/Booklist/s4nt2024.pdf)
-
-**Secondary 5**
-* [SECONDARY 5 (NA) BOOKLIST](/files/Booklist/s5na2024.pdf)
+<p><strong>Secondary 1</strong>
+</p>
+<p>SECONDARY 1 BOOKLIST</p>
+<p><strong>Secondary 2</strong>
+</p>
+<p><a href="/files/Booklist/Sec2bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 2 BOOKLIST</a>
+</p>
+<p><strong>Secondary 3</strong>
+</p>
+<p><a href="/files/Booklist/Sec3bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 3 BOOKLIST</a>
+</p>
+<p><strong>Secondary 4 &amp; 5</strong>
+</p>
+<p><a href="/files/Booklist/Sec45bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 4 &amp; 5 BOOKLIST</a>
+</p>
+<p></p>
+<p></p>
+<p></p>
