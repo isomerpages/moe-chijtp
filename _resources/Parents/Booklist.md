@@ -14,7 +14,7 @@ variant: tiptap
 </p>
 <p><strong>Secondary 3</strong>
 </p>
-<p><a href="/files/Booklist/Sec3bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 3 (EXP) BOOKLIST</a>
+<p><a href="/files/Booklist/Sec3bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 3  BOOKLIST</a>
 </p>
 <p><strong>Secondary 4 &amp; 5</strong>
 </p>
