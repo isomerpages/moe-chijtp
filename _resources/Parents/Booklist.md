@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><strong>Secondary 1</strong>
 </p>
-<p>SECONDARY 1 BOOKLIST ((To be updated on 16 Dec)</p>
+<p>SECONDARY 1 BOOKLIST (To be updated on 16 Dec)</p>
 <p><strong>Secondary 2</strong>
 </p>
 <p><a href="/files/Booklist/Sec2bk2025.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 2 BOOKLIST</a>
