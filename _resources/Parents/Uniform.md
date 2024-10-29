@@ -23,12 +23,15 @@ event is as follows :</p>
 </li>
 </ol>
 <p></p>
-<p><strong>12, 13, 19, 20 Dec 2024 : </strong>All Level</p>
-<p><strong>23, 26, 27, 28 Dec 2024 : </strong>Strictly for Sec 1s only</p>
-<p><strong>Mon-Fri: 9am to 3 pm, Sat: 9am to 12noon</strong>
+<p><strong>12, 13, 19, 20 Dec 2024 : All Level</strong>
 </p>
-<p><strong>2 - 3 Jan 2025 : 9am to 2pm</strong>
+<p><strong>23, 26, 27, 28, 30 Dec 2024, 2-3 Jan 2025 : </strong><em>Strictly for Sec 1s only</em>
 </p>
+<p><strong>(2024) Mon-Fri: 9am to 3 pm, Sat: 9am to 12noon</strong>
+</p>
+<p><strong>(2 - 3 Jan 2025) Thu - Fri : 9am to 2pm</strong>
+</p>
+<p></p>
 <p><strong>Magdalene Sewing Centre Pte Ltd</strong>
 </p>
 <p>5000 Ang Mo Kio Ave 5 Techplace 2 #05-09 Singapore 569870 Tel: 6293 5840
