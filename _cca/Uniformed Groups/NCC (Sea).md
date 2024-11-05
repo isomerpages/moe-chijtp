@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ong Yee Hwee , Mr Tan Yee Ping &amp; Mr Joel Chen<br></strong>
+<p>Mr Tan Yee Ping (<a href="mailto:tan_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_ping@moe.edu.sg</a>),</p>
+<p>Mr Joel Chen, Mrs Chia-Ong Yee Hwee, Ms Hemavathy Anbalagan<strong><br></strong>
 </p>
 </td>
 </tr>
@@ -24,8 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday (3.00 pm – 6.00 pm)
-<br>Ad hoc Friday for sea activities</p>
+<p>Wednesdays (3.00 pm – 6.00 pm)</p>
+<p>Ad-hoc Tuesdays/Fridays for water training activities</p>
 </td>
 </tr>
 <tr>
@@ -35,7 +40,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary; Classrooms/Quadrangle</p>
+<p>CHIJ Secondary, Classrooms/Quadrangle, Kallang Water Sports Centre (water
+training activities)</p>
 </td>
 </tr>
 </tbody>
@@ -44,79 +50,87 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_5.jpg">
 </div>
-<p>In the CHIJ National Cadet Corps (NCC) (Sea), we aim to nurture a community
-of Resilient, Responsible, and Relevant student leaders. Being NCC cadets,
-they experience the joy of overcoming challenges through annual camps and
-courses which are held at the NCC Headquarters (HQ) campus. They will be
-continuously challenged to be the best that they can be, and their holistic
-education and sense of belonging to both the school and NCC community are
-developed through meaningful and adventurous military-related and sea activities.</p>
+<p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
+nurture a community of Resilient, Responsible, and Relevant student leaders.
+Being NCC cadets, they experience the joy of overcoming challenges through
+annual camps and courses which are held at the NCC Headquarters (HQ) campus.
+They will be continuously challenged to be the best that they can be, and
+their holistic education and sense of belonging to both the school and
+NCC community are developed through meaningful and adventurous military-related
+and sea activities. CHIJ NCC (Sea) would be an avenue for them to not only
+be future-ready citizens, ready to serve and give back to the community,
+but more importantly, develop a sense of unforgettable camaraderie that
+they would cherish throughout their journey in CHIJ Secondary. To serve
+with Pride and Dedication!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_4.jpg">
 </div>
-<p>CHIJ NCC (Sea) would be an avenue for them to not only be future-ready
-citizens, ready to serve and give back to the community, but more importantly,
-develop a sense of unforgettable camaraderie that they would cherish throughout
-their journey in CHIJ Secondary.</p>
-<blockquote>
-<p><em>To serve with Pride and Dedication!</em>
+<p><strong>Highlights:</strong>
 </p>
-</blockquote>
+<ul>
+<li>
+<p><strong>Land training</strong>: Drills and regimentation, Bends &amp;
+Hitches, Map navigation, Bonding games, Physical training, Sea and Cadet
+Proficiency assessments</p>
+</li>
+<li>
+<p><strong>Water training</strong>: Kayaking and Dragon Boating, 1-Star &amp;
+2-Star Kayaking</p>
+</li>
+<li>
+<p>Camp FORGE (Sec 1s), Camp STEEL (Sec 2s), Sea Specialist Course &amp;
+Senior Specialist Leadership Course (Sec 3s), Cadet Officer Course (Selected
+Sec 4s&amp;5s)&nbsp;</p>
+</li>
+<li>
+<p><strong>Unit Initiatives</strong>: Leadership Camp, Unit Camp, National
+Education (NE) Learning Journey</p>
+</li>
+<li>
+<p><strong>HQ NCC Sports and Service-related Competitions&nbsp;</strong>
+</p>
+</li>
+</ul>
+<p><strong>HQ NCC programmes</strong> such as the Affirmation Ceremony at
+Changi Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course,&nbsp;
+International Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir
+Expedition, Ship visits, and more!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_3.jpg">
 </div>
-<p>Highlights:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Land training (Drills and regimentation, Bends &amp; Hitches, Map navigation,
-Bonding games, Physical training, Sea and Cadet Proficiency assessments)</p>
-</li>
-<li>
-<p>⁠<em>Water training</em> (Kayaking and Dragon Boating, 1-Star &amp; 2-Star
-Kayaking)</p>
-</li>
-<li>
-<p>⁠Camp FORGE (Sec 1s), Camp STEEL (Sec 2s), Sea Specialist Course &amp;
-Senior Specialist Leadership Course (Sec 3s), Cadet Officer Course (Selected
-Sec 4s&amp;5s)</p>
-</li>
-<li>
-<p>⁠<em>Unit Initiatives</em> (Leadership Camp, Unit Camp, National Education
-(NE) Learning Journey</p>
-</li>
-<li>
-<p>⁠<em>HQ NCC Sports and Service-related Competitions</em>
-</p>
-</li>
-<li>
-<p>⁠<em>HQ NCC programmes</em> such as the Affirmation Ceremony at Changi
-Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course, International
-Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir Expedition,
-and more!</p>
-</li>
-</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_7.jpg">
 </div>
-<p><strong>2022</strong>:</p>
-<p>Dragonboat Championship (Girls) (1st and 2nd runner up) Kayaking Championship
-200m Doubles (Girls) (1st and 2nd runner up) NCC Sports Championship Captain's
-Ball (Junior Cadets - Girls) (District Champion and NCC Overall 1st runner
-up) NCC Sports Championship Frisbee (Senior Cadets - Girls) (District 1st
-runner up) NCC Sports Championship (Soccer (Cadet Leaders - Girls) (District
-and NCC Overall Champion)</p>
+<p><strong>2024</strong>  <strong>Achievements:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Unit Recognition Award: Distinction (Since 2021)&nbsp;</p>
+</li>
+<li>
+<p>Dragon Boat Championship (Girls) (Champion and 1st Runner up)</p>
+</li>
+<li>
+<p>Mini Kayaking Expedition Finals (Girls) (5th placing)&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>NCC Sports Championship Soccer (Girls) (District and Overall NCC Champion)</p>
+</li>
+<li>
+<p>NCC Sports Championship Captain's Ball (Girls) (District Champion)&nbsp;</p>
+</li>
+<li>
+<p>NCC Sports Championship Frisbee (Girls) (District 2nd Runner up)</p>
+</li>
+<li>
+<p>SAR21 Package - 75% Marksmanship</p>
 <p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_1.jpg">
 </div>
-<p><strong>2023</strong>:</p>
-<p>Dragonboat Championship (Girls) (Champion and 2nd runner up) Kayaking
-Championship (Girls) (Champion)
-<br>NCC Sports Championship Captain's Ball (Junior Cadets - Girls) (District
-Champion) NCC Sports Championship (Soccer (Cadet Leaders - Girls) (District
-1st runner up) NCC Fitness Challenge (Senior Cadets - Girls individual
-category) (5th Placing) Mini-Kayaking Expedition (Overall 6th placing)
-SAR21 Package - 65% Marksmanship</p>
+<p></p>
