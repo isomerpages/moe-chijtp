@@ -106,22 +106,31 @@ Expedition, Ship visits, and more!</p>
 </div>
 <p><strong>2024</strong>  <strong>Achievements:</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Unit Recognition Award: Distinction (Since 2021)&nbsp;</p>
+</li>
+<li>
 <p>Dragon Boat Championship (Girls) (Champion and 1st Runner up)</p>
+</li>
+<li>
 <p>Mini Kayaking Expedition Finals (Girls) (5th placing)&nbsp;&nbsp;</p>
+</li>
+<li>
 <p>NCC Sports Championship Soccer (Girls) (District and Overall NCC Champion)</p>
+</li>
+<li>
 <p>NCC Sports Championship Captain's Ball (Girls) (District Champion)&nbsp;</p>
+</li>
+<li>
 <p>NCC Sports Championship Frisbee (Girls) (District 2nd Runner up)</p>
+</li>
+<li>
 <p>SAR21 Package - 75% Marksmanship</p>
 <p></p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_1.jpg">
 </div>
-<p><strong>2023</strong>:</p>
-<p>Dragonboat Championship (Girls) (Champion and 2nd runner up) Kayaking
-Championship (Girls) (Champion)
-<br>NCC Sports Championship Captain's Ball (Junior Cadets - Girls) (District
-Champion) NCC Sports Championship (Soccer (Cadet Leaders - Girls) (District
-1st runner up) NCC Fitness Challenge (Senior Cadets - Girls individual
-category) (5th Placing) Mini-Kayaking Expedition (Overall 6th placing)
-SAR21 Package - 65% Marksmanship</p>
+<p></p>
