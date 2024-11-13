@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama_banner.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Drama.png">
 </div>
 <p>The lower secondary&nbsp;Drama&nbsp;programme aims to deepen students’
 understanding of cultural and social constructs via activity-based collaborative
