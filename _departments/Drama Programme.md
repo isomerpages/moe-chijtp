@@ -17,5 +17,4 @@ through a short performance, drawing on their personal experiences, observations
 and interpretation of the stimulus provided.</p>
 <p>
 <br>The foundations of performance-making and theatre are laid here in lower
-secondary so that interested and eligible students can audition to pursue&nbsp;Drama&nbsp;as
-an O Level subject at upper secondary.</p>
+secondary.</p>
