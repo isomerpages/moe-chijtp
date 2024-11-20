@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Geraint Wong</p>
+<p>Ms Margaret Teo</p>
 </th>
 </tr>
 <tr>
@@ -22,7 +26,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday (3:00 pm - 4:00 pm)</p>
+<p>Thursday (3:10 pm - 4:10 pm)</p>
 </td>
 </tr>
 <tr>
