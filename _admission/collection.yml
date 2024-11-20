@@ -1,5 +1,0 @@
-collections:
-  admission:
-    output: true
-    order:
-      - Admission 2025.md
