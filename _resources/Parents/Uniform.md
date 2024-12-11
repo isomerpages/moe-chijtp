@@ -25,7 +25,7 @@ event is as follows :</p>
 <p></p>
 <p><strong>12, 13, 19, 20 Dec 2024 : All Level</strong>
 </p>
-<p><strong>23, 26, 27, 28, 30 Dec 2024, 2-3 Jan 2025 : </strong><em>Strictly for Sec 1s only</em>
+<p><strong>18,23, 26, 27, 28, 30 Dec 2024, 2-3 Jan 2025 : </strong><em>Strictly for Sec 1s only</em>
 </p>
 <p><strong>(2024) Mon-Fri: 9am to 3 pm, Sat: 9am to 12noon</strong>
 </p>
