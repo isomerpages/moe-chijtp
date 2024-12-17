@@ -26,6 +26,6 @@ will be directed to the test venue.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="sec 1 AEP selection 2025" src="/images/Parents/2025ijaepselection.png">
+<img style="width: 40%;" height="auto" width="100%" alt="AEP selection 2025" src="/images/Admission/2025ijaepselection.png">
 </div>
 <p></p>
