@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Admission
 ---
-<h4>CHIJ SEC AEP Selection Exercise 2025</h4>
+<h4><strong>AEP Selection Exercise 2025</strong></h4>
 <p><strong>Date</strong>: Thursday, 26 December 2024</p>
 <p><strong>Time</strong>: 9.00 am to 10.30 am</p>
 <p><strong>Materials required</strong>:</p>
