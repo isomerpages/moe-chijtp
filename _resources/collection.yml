@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Sec 1 Matters/Welcome Note.md
       - Sec 1 Matters/.keep
       - Parents/.keep
       - Parents/Secondary 1 Matters.md
