@@ -11,7 +11,7 @@ scan the QR code below to access it online by Saturday, 21 December 2024,
 12 noon. If you have any questions, please feel free to reach out to us.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="sec1 registration 2025" src="/images/Parents/chijsec1reg2025.png">
+<img style="width: 50%;" height="auto" width="100%" alt="sec1 registration 2025" src="/images/Parents/chijsec1reg2025.png">
 </div>
 <p>For students intending to appeal to another school, you will still need
 to complete the form above and inform the CHIJ General Office at 6353 4972
