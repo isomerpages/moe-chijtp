@@ -2,8 +2,16 @@ collections:
   resources:
     output: true
     order:
+      - Sec 1 Admission/.keep
+      - Sec 1 Admission/Welcome Note.md
+      - Sec 1 Admission/eRegistration.md
+      - Sec 1 Admission/Online briefing.md
+      - Sec 1 Admission/Textbooks and Uniform.md
+      - Sec 1 Admission/Smart Card, Health Screening, PDPA.md
+      - Sec 1 Admission/Appeal Management.md
+      - Sec 1 Admission/SBB Information.md
+      - Sec 1 Admission/AEP Selection Exercise.md
       - Parents/.keep
-      - Parents/Secondary 1 Matters.md
       - Parents/Subject Allocation.md
       - Parents/Upper Sec Parents' Talks.md
       - Parents/IJ Quarterly.md

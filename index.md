@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero banner 3.gif
+      background: /images/Banner/S1Registration2025.gif
       key_highlights:
         - title: Announcements
           description: View All
@@ -15,4 +15,7 @@ sections:
         - title: Calendar of Events
           description: View All
           url: /resources/ij-calender
+        - title: Sec 1 Admission
+          description: View All
+          url: /resources/sec-1-admission/welcome-note/
 ---
