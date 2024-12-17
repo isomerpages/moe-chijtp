@@ -15,16 +15,12 @@ please consider opting for the delivery services online.</p>
 <p>For students under the MOE Financial Assistance Scheme or IJ Bursary for
 2025, the instructions for placing your order would be stated in the approval
 letters.</p>
-<p><strong>School Textbooks</strong>
-</p>
-<p>Pacific Bookstores
+<p><strong>School Textbooks: Pacific Bookstores </strong>
 <br>Tel:&nbsp; 6559 2269
 <br>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
 <br>Website: <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://ww.pacificbookstores.com</a>
 </p>
-<p><strong>School Uniforms</strong>
-</p>
-<p>Magdalene Sewing Centre Pte Ltd
+<p><strong>School Uniforms: Magdalene Sewing Centre Pte Ltd </strong>
 <br>Enquiry: 62935840 or (WhatsApp): 8638 0499
 <br>(available only on weekdays 8.30am-4pm)
 <br>Email: <a href="mailto:info@magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
@@ -59,11 +55,19 @@ letters.</p>
 </li>
 <li>
 <p>03/01/2025, Fri</p>
+<p></p>
 </li>
 </ul>
 <p><strong>Operating Hours:</strong> 
-<br>Mon-Fri: 9am to 3pm, Sat: 9am to 11am</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Mon-Fri: 9am to 3pm, Sat: 9am to 11am</p>
+</li>
+<li>
 <p>2 - 3 Jan 2025: (Uniform Operating Hours: 10am to 2pm)</p>
+</li>
+</ul>
 <p>Sale of School Uniform by E-Appointment is also available at their shop
-at:</p>
-<p>Tech Place II, 5000 Ang Mo Kio Ave 5, #05-09, S(569870)</p>
+at: <strong>Tech Place II, 5000 Ang Mo Kio Ave 5, #05-09, S(569870)</strong>
+</p>
