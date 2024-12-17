@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Admission
 ---
-<h4>SBB ELIGIBILITY AND INFORMATION</h4>
+<h4><strong>SBB ELIGIBILITY AND INFORMATION</strong></h4>
 <p>If your child is eligible to take a subject at a more demanding level,
 a consent form will be sent to you via Parents’ Gateway (PG) for your consent
 by 24 Dec 2024, 5pm.</p>
