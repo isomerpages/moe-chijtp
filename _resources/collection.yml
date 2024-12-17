@@ -2,6 +2,15 @@ collections:
   resources:
     output: true
     order:
+      - Sec 1 Matters/.keep
+      - Sec 1 Matters/Welcome Note.md
+      - Sec 1 Matters/Registration.md
+      - Sec 1 Matters/Online briefing.md
+      - Sec 1 Matters/Textbooks and Uniform.md
+      - Sec 1 Matters/Smart Card, Health Screening, PDPA.md
+      - Sec 1 Matters/Appeal Management.md
+      - Sec 1 Matters/SBB Information.md
+      - Sec 1 Matters/AEP Selection Exercise.md
       - Parents/.keep
       - Parents/Subject Allocation.md
       - Parents/Upper Sec Parents' Talks.md
@@ -13,15 +22,6 @@ collections:
       - Students/.keep
       - Students/Links.md
       - Students/Helpdesk.md
-      - Sec 1 Matters/.keep
-      - Sec 1 Matters/Welcome Note.md
-      - Sec 1 Matters/Registration.md
-      - Sec 1 Matters/Online briefing.md
-      - Sec 1 Matters/Textbooks and Uniform.md
-      - Sec 1 Matters/Smart Card, Health Screening, PDPA.md
-      - Sec 1 Matters/Appeal Management.md
-      - Sec 1 Matters/SBB Information.md
-      - Sec 1 Matters/AEP Selection Exercise.md
       - DSA Application.md
       - Announcements.md
       - IJ Calendar.md
