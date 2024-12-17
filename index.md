@@ -17,5 +17,5 @@ sections:
           url: /resources/ij-calender
         - title: Sec 1 Admission
           description: View All
-          url: /resources/sec-1-matters/welcome-note/
+          url: /resources/sec-1-admission/welcome-note/
 ---
