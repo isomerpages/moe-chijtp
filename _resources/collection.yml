@@ -2,15 +2,15 @@ collections:
   resources:
     output: true
     order:
-      - Sec 1 Matters/.keep
-      - Sec 1 Matters/Welcome Note.md
-      - Sec 1 Matters/eRegistration.md
-      - Sec 1 Matters/Online briefing.md
-      - Sec 1 Matters/Textbooks and Uniform.md
-      - Sec 1 Matters/Smart Card, Health Screening, PDPA.md
-      - Sec 1 Matters/Appeal Management.md
-      - Sec 1 Matters/SBB Information.md
-      - Sec 1 Matters/AEP Selection Exercise.md
+      - Sec 1 Admission/.keep
+      - Sec 1 Admission/Welcome Note.md
+      - Sec 1 Admission/eRegistration.md
+      - Sec 1 Admission/Online briefing.md
+      - Sec 1 Admission/Textbooks and Uniform.md
+      - Sec 1 Admission/Smart Card, Health Screening, PDPA.md
+      - Sec 1 Admission/Appeal Management.md
+      - Sec 1 Admission/SBB Information.md
+      - Sec 1 Admission/AEP Selection Exercise.md
       - Parents/.keep
       - Parents/Subject Allocation.md
       - Parents/Upper Sec Parents' Talks.md
