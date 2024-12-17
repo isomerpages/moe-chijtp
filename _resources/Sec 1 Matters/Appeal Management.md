@@ -16,16 +16,29 @@ as a Posting Group 2 student.</p>
 criteria.</p>
 <p><strong>Notes:</strong>
 </p>
-<p>1. The personal information provided in this form will be solely used
-for the purpose of appealing for secondary school transfer based on non-medical
+<ol data-tight="true" class="tight">
+<li>
+<p>The personal information provided in this form will be solely used for
+the purpose of appealing for secondary school transfer based on non-medical
 reasons. For appeals based on medical reasons (serious medical conditions
 or severe physical impairments), please request through the posted school <strong>before 12 noon on 19 December 2024</strong>.</p>
-<p>2. The deadline for the submission of appeals for non-medical reasons
-is on <strong>27 December 2024, 12 noon</strong>. Late submission will not
+</li>
+<li>
+<p>The deadline for the submission of appeals for non-medical reasons is
+on <strong>27 December 2024, 12 noon</strong>. Late submission will not
 be allowed.</p>
-<p>3. The School does not disclose reasons for selection / non-selection
-of students.</p>
-<p>4. Students should still report to the posted secondary school on 2 January
+</li>
+<li>
+<p>The School does not disclose reasons for selection / non-selection of
+students.</p>
+</li>
+<li>
+<p>Students should still report to the posted secondary school on 2 January
 2025.</p>
-<p>5. The application is deemed to be unsuccessful if you do not hear from
-the school.</p>
+</li>
+<li>
+<p>The application is deemed to be unsuccessful if you do not hear from the
+school.</p>
+</li>
+</ol>
+<p></p>
