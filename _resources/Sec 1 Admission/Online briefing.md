@@ -9,7 +9,7 @@ third_nav_title: Sec 1 Admission
 <p>Please join us for an online briefing over Zoom on<strong> Friday, 20 Dec 2024 at 9 am.</strong> This
 webinar is optional as most of the information is already on the school
 website. The link to access the Webinar will be sent to the email address
-registered above in the e-registration link.</p>
+registered at the <a href="/resources/sec-1-admission/registration/" rel="noopener nofollow" target="_blank">e-registration</a> link.</p>
 <p>For identification purposes, please use the following naming convention
 when logging into the webinar:</p>
 <ul data-tight="true" class="tight">
