@@ -9,6 +9,10 @@ collections:
       - Parents/Booklist.md
       - Parents/Uniform.md
       - Parents/Financial Assistance.md
+      - Teachers.md
+      - Students/.keep
+      - Students/Links.md
+      - Students/Helpdesk.md
       - Sec 1 Matters/.keep
       - Sec 1 Matters/Welcome Note.md
       - Sec 1 Matters/Registration.md
@@ -18,10 +22,6 @@ collections:
       - Sec 1 Matters/Appeal Management.md
       - Sec 1 Matters/SBB Information.md
       - Sec 1 Matters/AEP Selection Exercise.md
-      - Teachers.md
-      - Students/.keep
-      - Students/Links.md
-      - Students/Helpdesk.md
       - DSA Application.md
       - Announcements.md
       - IJ Calendar.md
