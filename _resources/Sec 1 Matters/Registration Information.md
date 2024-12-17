@@ -11,5 +11,5 @@ scan the QR code below to access it online by Saturday, 21 December 2024,
 <p></p>
 <p>For students intending to appeal to another school, you will still need
 to complete the form above and inform the CHIJ General Office at 6353 4972
-or <a href="chijtpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtpss@moe.edu.sg</a> if
+or <a href="mailto:chijtpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtpss@moe.edu.sg</a> if
 your appeal is successful.</p>
