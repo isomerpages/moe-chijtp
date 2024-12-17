@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Matters
 ---
+<h4><strong>ONLINE BRIEFING</strong></h4>
 <p>Please join us for an online briefing over Zoom on<strong> Friday, 20 Dec 2024 at 9 am.</strong> This
 webinar is optional as most of the information is already on the school
 website. The link to access the Webinar will be sent to the email address
