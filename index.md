@@ -15,7 +15,7 @@ sections:
         - title: Calendar of Events
           description: View All
           url: /resources/ij-calender
-        - title: Admission
+        - title: Sec 1 Admission
           description: View All
           url: /resources/sec-1-matters/welcome-note/
 ---
