@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Parents/.keep
-      - Parents/Secondary 1 Matters.md
       - Parents/Subject Allocation.md
       - Parents/Upper Sec Parents' Talks.md
       - Parents/IJ Quarterly.md
