@@ -20,7 +20,7 @@ letters.</p>
 <p>Pacific Bookstores
 <br>Tel:&nbsp; 6559 2269
 <br>Email: <a href="mailto:sales@pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-<br>Website: <a href="www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website: <a href="https://www.pacificbookstores.com" rel="noopener noreferrer nofollow" target="_blank">https://ww.pacificbookstores.com</a>
 </p>
 <p><strong>School Uniforms</strong>
 </p>
@@ -28,7 +28,7 @@ letters.</p>
 <br>Enquiry: 62935840 or (WhatsApp): 8638 0499
 <br>(available only on weekdays 8.30am-4pm)
 <br>Email: <a href="mailto:info@magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
-<br>Website: <a href="https://www.magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/</a>
+<br>Website: <a href="https://www.magdalene.com.sg" rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a>
 </p>
 <p><strong>Sale Window of School Textbooks &amp; Uniforms for Sec 1s:&nbsp;</strong>
 </p>
