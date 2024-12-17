@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Matters
 ---
+<h4>REGISTRATION INFORMATION</h4>
 <p>As part of the e-registration process, please complete <a href="https://form.gov.sg/67203fd1a8cd3e2fc1c96ff1" rel="noopener noreferrer nofollow" target="_blank">this form</a> or
 scan the QR code below to access it online by Saturday, 21 December 2024,
 12 noon. If you have any questions, please feel free to reach out to us.</p>
