@@ -13,11 +13,11 @@ registered above in the e-registration link.</p>
 when logging into the webinar:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Students: Use the student's name (e.g., Angela Lee)</p>
+<p><strong>Students</strong>: Use the student's name (e.g. <strong>Angela Lee</strong>)</p>
 </li>
 <li>
-<p>Parents/Guardians: Use the student’s name followed by the parent’s/guardian’s
-name (e.g., Angela Lee_Bruce Lee)</p>
+<p><strong>Parents/Guardians</strong>: Use the student’s name followed by
+the parent’s/guardian’s name (e.g. <strong>Angela Lee_Bruce Lee</strong>)</p>
 </li>
 </ul>
 <p></p>
