@@ -30,6 +30,9 @@ letters.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
+<p>18/12/2024, Wed</p>
+</li>
+<li>
 <p>19/12/2024, Thu</p>
 </li>
 <li>
@@ -58,7 +61,7 @@ letters.</p>
 <p></p>
 </li>
 </ul>
-<p><strong>Operating Hours:</strong> 
+<p><strong>Operating Hours:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
