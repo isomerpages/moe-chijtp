@@ -6,9 +6,12 @@ description: ""
 third_nav_title: Sec 1 Admission
 ---
 <h4><strong>APPEAL TO TRANSFER INTO CHIJ SECONDARY (Non-Medical Reasons)</strong></h4>
-<p>Their PSLE score should meet the school's cut-off point of the posting
-year, based on the appropriate posting group, i.e. Posting Group 3 students
-are not able to request to join CHIJ Secondary as a Posting Group 2 student.</p>
+<p>Primary 6 students who have just received their secondary school posting
+in December 2024 may use <a href="https://form.gov.sg/675a9b89fd07c46356cd36ef" rel="noopener noreferrer nofollow" target="_blank">this form</a> to appeal
+for transfer to CHIJ Secondary School.</p>
+<p>Their PSLE score <strong>should meet the school's cut-off point of the posting year, based on the appropriate posting group</strong>,
+i.e. Posting Group 3 students are not able to request to join CHIJ Secondary
+as a Posting Group 2 student.</p>
 <p>The cut-off points for the various posting groups are as follows:</p>
 <ul data-tight="true" class="tight">
 <li>
