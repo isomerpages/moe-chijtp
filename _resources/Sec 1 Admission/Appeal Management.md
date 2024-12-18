@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Admission
 ---
-<h4><strong>Appeal to transfer into CHIJ Secondary (Non-Medical Reasons)</strong></h4>
+<h4><strong>APPEAL TO TRANSFER INTO CHIJ SECONDARY (Non-Medical Reasons)</strong></h4>
 <p>Primary 6 students who have just received their secondary school posting
 in December 2024 may use <a href="https://form.gov.sg/675a9b89fd07c46356cd36ef" rel="noopener noreferrer nofollow" target="_blank">this form</a> to appeal
 for transfer to CHIJ Secondary School.</p>
