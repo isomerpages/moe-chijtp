@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Sec 1 Admission
 ---
-<h4><strong>Welcome to the IJ family!</strong></h4>
+<h4><strong>WELCOME TO THE IJ FAMILY!</strong></h4>
 <p>On behalf of the staff and students at CHIJ Secondary, we extend a warm
 welcome to you, our new Secondary 1 students, and your parents and guardians.</p>
 <p>From today, you join a sisterhood of CHIJ Secondary girls who live by
