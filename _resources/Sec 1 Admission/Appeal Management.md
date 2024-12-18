@@ -10,9 +10,17 @@ third_nav_title: Sec 1 Admission
 year, based on the appropriate posting group, i.e. Posting Group 3 students
 are not able to request to join CHIJ Secondary as a Posting Group 2 student.</p>
 <p>The cut-off points for the various posting groups are as follows:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>PG3: 9</p>
+</li>
+<li>
 <p>PG2: 22</p>
+</li>
+<li>
 <p>PG1: 28</p>
+</li>
+</ul>
 <p>Transfer will be subject to available vacancies and the school’s admission
 criteria.</p>
 <p><strong>Notes:</strong>
