@@ -6,6 +6,8 @@ description: ""
 third_nav_title: Sec 1 Admission
 ---
 <h4><strong>ONLINE BRIEFING</strong></h4>
+<p><a href="/resources/parents/sec-1-briefing-slides/" rel="noopener nofollow" target="_blank">Briefing slides</a>
+</p>
 <p>Please join us for an online briefing over Zoom on<strong> Friday, 20 Dec 2024 at 9 am.</strong> This
 webinar is optional as most of the information is already on the school
 website. The link to access the Webinar will be sent to the email address
