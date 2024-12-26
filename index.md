@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Banner/S1Registration2025.gif
+      background: /images/Banner/Mbanner.gif
       key_highlights:
         - title: Announcements
           description: View All
