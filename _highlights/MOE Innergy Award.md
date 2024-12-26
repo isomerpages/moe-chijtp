@@ -12,16 +12,9 @@ has won the <strong>Commendation Award</strong> in the <strong>Teaching &amp; Le
 <p>Mr. Ng showcased his creativity by leveraging an AR device and coding
 it to enhance student engagement and improve their ability to visualize
 concepts. The innovative applications he developed include:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Question Visualizer via Google Sheets (Educator Co-pilot)</strong>
+<p><strong><em>. Question Visualizer via Google Sheets (Educator Co-pilot)</em></strong>
+<br><strong><em>. AR Geometry Visualizer (Student Visualization Tool)</em></strong>
 </p>
-</li>
-<li>
-<p><strong>AR Geometry Visualizer (Student Visualization Tool)</strong>
-</p>
-</li>
-</ol>
 <p>Congratulations to <strong>Mr. Ng</strong> for his inspiring work in revolutionizing
 teaching and learning!</p>
 <p></p>
