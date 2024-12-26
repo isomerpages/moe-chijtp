@@ -59,10 +59,11 @@ and engaging.&nbsp;</p>
 </div>
 <p>The iPad bundle which includes a warranty and insurance for purchase is
 as shown below:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/NDLP/NDLP4.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NDLP/pdlp25.png">
 </div>
-<p>* Note: the latest model for purchase is Apple iPad (10th Gen)*</p>
+<p></p>
 <p><strong>Resources</strong>
 <br>Parents Handbook on Learning with PLD <a href="/files/ICT/ParentHb124_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK1</a> &amp; <a href="/files/ICT/ParentHb224_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK2</a>
 </p>
