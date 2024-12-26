@@ -22,8 +22,8 @@ concepts. The innovative applications he developed include:</p>
 </p>
 </li>
 </ol>
-<p>Congratulations to Mr. Ng for his inspiring work in revolutionizing teaching
-and learning!</p>
+<p>Congratulations to <strong>Mr. Ng</strong> for his inspiring work in revolutionizing
+teaching and learning!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Highlight/jason.jpg">
