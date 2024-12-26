@@ -10,7 +10,7 @@ in schools who go beyond the call of duty, nurturing the holistic development
 of their students and ensuring their charges grow up to be confident, independent
 and resilient learner for our nation. We are thrilled to celebrate the
 outstanding teachers in our school who have been honored with the prestigious
-biennial <em>“The Caring Teacher Award”</em>!</p>
+biennial <em>“</em><strong><em>The Caring Teacher Award</em></strong><em>”</em>!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Highlight/group.jpg">
@@ -24,6 +24,29 @@ the wonderful connections we have made with our students and their parents
 for they have enhanced the purpose of our profession and roles in school.
 The saying 'no one is here by chance' is apt in supporting the mission
 that we hold dear to our hearts as we carry on the good work of our predecessors
-who worked together to promote our enduring IJ values.”
+who worked together to promote our enduring IJ values.”</p>
+<p>With thankfulness for your nominations,&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Mrs Audrey Teng&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Mrs Angeline Yeo</strong>
+</p>
+</li>
+<li>
+<p><strong>Miss Hemavathy</strong>
+</p>
+</li>
+<li>
+<p><strong>Ms Tivona Low&nbsp;</strong>
+</p>
+</li>
+<li>
+<p><strong>Mr Tristan Fernandez</strong>
 <br>
 </p>
+</li>
+</ul>
+<p></p>
