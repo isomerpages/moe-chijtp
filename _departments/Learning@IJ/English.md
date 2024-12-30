@@ -16,8 +16,7 @@ Vincent . Ms Chelza Chong . Ms Nicole Teo . Ms Angela Lim . Ms Tivona Low</p>
 <p>&nbsp;<strong>FRONT from left: </strong>&nbsp;Mrs Angeline Yeo <em>senior teacher/english language</em>&nbsp;.
 Mrs Magdalen Low . Mdm Cheng Ai Hoon . Mrs Wendy Lee . Ms Claudia Ng .
 Ms Margaret Teo . Ms Michelle Tay . Ms Jey Sundari</p>
-<p><strong>NOT IN PHOTO</strong>: Mdm Cheng Ai Hoon . Ms Puja Dada . Mr Eugene
-Lim . Ms Madhu Sakhrani (Lead Teacher/Literature in English)</p>
+<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Junaina Binte Amran</p>
 <h3>Mission Statement:</h3>
 <p>To nurture critical thinkers who display the ability to negotiate a diverse
 array of multimodal texts to communicate effectively in a complex world.</p>
