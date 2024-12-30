@@ -12,7 +12,8 @@ third_nav_title: Learning@IJ
 <p><strong>BACK from left</strong>: &nbsp;Mr Eugene Lim . Mrs Teresa Francis
 . Ms Puja Dada. Ms Stephanie Song . Mr Ragulan Pakirisamy</p>
 <p><strong>MIDDLE from left</strong>: &nbsp;Ms Sum Kar Mun . Mrs Geralyn
-Vincent . Ms Chelza Chong . Ms Nicole Teo . Ms Angela Lim . Ms Tivona Low</p>
+Vincent . Ms Chelza Chong . Ms Nicole Teo . Ms Angela Lim . Mrs Tivona
+Chelliah</p>
 <p>&nbsp;<strong>FRONT from left: </strong>&nbsp;Mrs Angeline Yeo <em>senior teacher/english language</em>&nbsp;.
 Mrs Magdalen Low . Mdm Cheng Ai Hoon . Mrs Wendy Lee . Ms Claudia Ng .
 Ms Margaret Teo . Ms Michelle Tay . Ms Jey Sundari</p>
