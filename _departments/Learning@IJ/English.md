@@ -9,13 +9,13 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/eng.jpg">
 </div>
-<p><strong>BACK from left</strong>: Ms Sum Kar Mun . Ms Stephanie Song .
-Mr Ragulan Pakirisamy . Ms Angela Lim . Ms Chelza Chong . Ms Tivona Low
-. Mrs Teresa Francis</p>
-<p><strong>FRONT from left</strong>: Mr Geraint Wong . Ms Jey Sundari . Ms
-Nicole Teo . Mrs Angeline Yeo (Senior Teacher/English Language) . Ms Margaret
-Teo . Ms Claudia Ng . Mrs Magdalen Low . Mrs Wendy Lee . Ms Michelle Tay
-. Mrs Geralyn Vincent</p>
+<p><strong>BACK from left</strong>: &nbsp;Mr Eugene Lim . Mrs Teresa Francis
+. Ms Puja Dada. Ms Stephanie Song . Mr Ragulan Pakirisamy</p>
+<p><strong>MIDDLE from left</strong>: &nbsp;Ms Sum Kar Mun . Mrs Geralyn
+Vincent . Ms Chelza Chong . Ms Nicole Teo . Ms Angela Lim . Ms Tivona Low</p>
+<p>&nbsp;<strong>FRONT from left: </strong>&nbsp;Mrs Angeline Yeo <em>senior teacher/english language</em>&nbsp;.
+Mrs Magdalen Low . Mdm Cheng Ai Hoon . Mrs Wendy Lee . Ms Claudia Ng .
+Ms Margaret Teo . Ms Michelle Tay . Ms Jey Sundari</p>
 <p><strong>NOT IN PHOTO</strong>: Mdm Cheng Ai Hoon . Ms Puja Dada . Mr Eugene
 Lim . Ms Madhu Sakhrani (Lead Teacher/Literature in English)</p>
 <h3>Mission Statement:</h3>
