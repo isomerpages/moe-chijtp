@@ -5,18 +5,17 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/05_Humanities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/hum.jpg">
 </div>
-<p><strong>BACK from left: </strong>Ms Bernice Loon . Mr Titus Chang . Mdm
-Cheng Ai Hoon . Mr Brian Ho . Ms Karina Sheri . Mrs Tan Kai Ling . Mr Joel
-Chen . Ms Linda Cruz</p>
-<p><strong>FRONT from left: </strong>Ms Balvinder Kaur . Mr Tan Yee Ping
-. Mr Tristan Fernandez . Mrs Teresa Francis . Ms Hemavathy Anbalagan .
-Ms Chelza Chong . Mr Ernest Leong . Ms Sandra Y<strong>am</strong>
-</p>
-<p><strong>NOT IN PHOTO:</strong> Ms Norshidah Abdul Rahim</p>
-<h3>Mission Statement</h3>
+<p><strong>BACK from left</strong>: Mr Tan Yee Ping. Mr Joen Chen. Mr Ernest
+Leong. Ms Balvinder Kaur. Mrs Tan Kai Ling. Ms Bernice Loon. Mdm Cheng
+Ai Hoon. Mr Brian Ho. Mrs Teresa Francis. Mr Tristan Fernandez</p>
+<p><strong>FRONT from left</strong>: Mr Titus Chang. Ms Alvina Chua. Ms Hemavathy
+Anbalagan. Ms Karina Sheri</p>
+<p><strong>NOT IN PHOTO</strong>: Ms Linda Cruz. Ms Chelza Chong, Mr Joseph
+ThamMission Statement</p>
 <hr>
 <p><strong>History, Geography &amp; Social Studies</strong>
 </p>
