@@ -5,17 +5,16 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/08_Mother_Tongue.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/mtl.jpg">
 </div>
-<p><strong>BACK clockwise from top left:</strong> Mdm Lay Woon Ting . Mdm
-Zhang Shujuan Senior Teacher/Chinese Language . Ms Joan Gan . Mdm Seng
+<p>&nbsp;<strong>STANDING from left: </strong>Ms Mai Lei . Mdm Zhang Shujuan <em>senior teacher/chinese language . </em>Ms
+Joanne Tan . Ms Lim Fang Teng . Ms Mastura Senin . Mr Li Zhengjun</p>
+<p>&nbsp;<strong>SEATED from left: </strong>Mrs Mythily Ezhilmani . Ms Shirley
+Ong . Ms I Nandhini . Mdm Sim Hoon Kuan . Ms Siti Zainab Zainal Mdm Seng
 Wee Pheng</p>
-<p><strong>MIDDLE from left:</strong> Mdm Cheng Wenli . Ms Ma Lei . Ms Lim
-Fang Teng . Ms Shirley Ong . Mr Li Zhengjun . Ms Mastura Senin</p>
-<p><strong>FRONT from left: </strong>Mdm Sim Hoon Kuan . Mrs Mythily Ezhilmani
-. Ms Siti Zainab Zainal . Ms Joanne Tan</p>
-<p><strong>NOT IN PHOTO</strong> Ms Chen Lanqing</p>
+<p>&nbsp;<strong>NOT PICTURED: </strong>Ms Joan Gan Mdm Lay Woon Ting</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture bilingual learners who are proud to share their heritage and
