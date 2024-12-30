@@ -5,12 +5,13 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/09_PE.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/pe.jpg">
 </div>
-<p><strong>ALL from left:</strong> Mr Harry Goh . Mrs Tan Yan Ping . Mr Daryl
-Chan . Mr Daniel Kuan . Ms Stephanie Lim . Ms Fiona Tan . Ms Agnes Leong
-. Mr Kenneth Ho</p>
+<p><strong>ALL from left:</strong> &nbsp;Ms Agnes Leong . Mr Harry Goh . Mrs
+Tan Yan Ping . Mr Kenneth Ho . Mr Daniel Kuan . Mr Daryl Chan . Ms Stephanie
+Lim . Ms Fiona Tan</p>
 <h3>The PE-CCA Programme</h3>
 <hr>
 <p>The CHIJ PE Programme has the importance objectives of:</p>

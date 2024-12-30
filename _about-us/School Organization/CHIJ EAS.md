@@ -5,16 +5,16 @@ description: ""
 third_nav_title: School Organization
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/11_Admin___Operations.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/eas.jpg">
 </div>
-<p><strong>BACK from left: </strong>Mr Cheng Hang Boon . Mdm Unice Teo .
-Ms Paula Kesavan . Mr Edwin Neo . Mrs Philise Kwan . Mr Muhammad Rusydi
-Aman</p>
-<p><strong>MIDDLE from left: </strong>Mr Muhammad Naim Mohamed Noor . Mr
-Tan Eng Whay <em>Operations Manager </em>. Mdm Fatimah Mohamed . Mrs Florance
-Chia . Mdm Wong Yin Ping . Mrs Wendy Tay . Mdm Chia Siong Lang . Ms Hannah
-Lupsa . Ms Ida Nursanti . Ms Janet Wong</p>
-<p><strong>FRONT from left:</strong> Mr Mike Pyia Phyo . Mr Rashid Jeffery
-. Mr Hamdan Leman . Mr Muhammad Fikri Zulkefili . Ms Karen Pang . Ms Shirley
-Fang . Mdm Faridah Misdi</p>
+<p><strong>BACK from left:</strong> Ms Karen Pang. Ms Shirley Fang. Mrs Philise
+Kwan. Mrs Wendy Tay. Mdm Unice Teo. Mr Cheng Hang Boon. Mr Khairul Syamal.
+Ms&nbsp; Ida Nursanti. Ms Janet Wong. Mr Edwin Neo. Mr Rashid Jeffery.
+Mr Ady Aieman. Mr Muhammad Fikri. Mr Muhammad Rusydi Aman. Mr Mike Pyia
+Phyo</p>
+<p><strong>FRONT from left</strong>: Ms Hannah Lupsa. Mdm Wong Yin Ping.
+Mdm Chia Siong Lang. Ms Paula Kesavan. Mdm Fatimah Mohamed. Mrs Florance
+Chia. Mr Tan Eng Whay&nbsp;</p>
+<p><strong>NOT IN PHOTO</strong>: Mr Hamdan Leman. Mdm Faridah Misdi</p>
