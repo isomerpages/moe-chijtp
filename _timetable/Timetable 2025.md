@@ -5,7 +5,9 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h4><strong>Semester 2 Timetable</strong></h4>
+<h4><strong>IJCE Breaker Schedule</strong></h4>
+<p></p>
+<h4><strong>Semester 1 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="/files/Timetable/Sec1S1TT25.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a>
