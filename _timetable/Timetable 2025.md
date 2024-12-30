@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h4><strong>IJCE Breaker Schedule</strong></h4>
+<h4><strong>IJCE Breaker Schedule 2025</strong></h4>
 <p><a href="/files/Timetable/S1IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 1 IJCE Breaker Schedule</a>
 </p>
 <p><a href="/files/Timetable/S2IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2 IJCE Breaker Schedule</a>
