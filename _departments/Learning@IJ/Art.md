@@ -5,12 +5,13 @@ description: ""
 third_nav_title: Learning@IJ
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dept/02_Art.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/art.jpg">
 </div>
-<p><strong>ALL from left</strong>: Ms Raquel Lim . Mrs Yeoh Ting Ting (Lead
-Teacher/Art) . Mr Marcus Liang . Mr Brian Ho . Ms Kong Mei Sing . Ms Jey
-Sundari</p>
+<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang Ms Jey Sundari Mrs
+Yeoh Ting Ting <em>lead teacher/art</em> Ms Kong Mei Sing Ms Raquel Lim ag <em>senior teacher/educational support</em>&nbsp;
+Mr Brian Ho</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture inquiring and engaged art learners who display curiosity, resourcefulness,
