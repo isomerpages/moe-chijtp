@@ -6,7 +6,17 @@ variant: tiptap
 ---
 <p></p>
 <h4><strong>IJCE Breaker Schedule</strong></h4>
-<p></p>
+<p><a href="/files/Timetable/S1IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 1 IJCE Breaker Schedule</a>
+</p>
+<p><a href="/files/Timetable/S2IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2 IJCE Breaker Schedule</a>
+</p>
+<p><a href="/files/Timetable/S3IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 IJCE Breaker Schedule</a>
+</p>
+<p><a href="/files/Timetable/S4IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 4 IJCE Breaker Schedule</a>
+</p>
+<p><a href="/files/Timetable/S5IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 5 IJCE Breaker Schedule</a>
+</p>
+<h4></h4>
 <h4><strong>Semester 1 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
