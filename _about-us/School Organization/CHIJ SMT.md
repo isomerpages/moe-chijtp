@@ -6,8 +6,9 @@ third_nav_title: School Organization
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/SMTe.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/SMTe.jpg">
 </div>
 <p><strong>BACK from left:</strong> Mrs Gladys Hoy <em>HoD/Mathematics</em> .
 Mrs Tan Yan Ping <em>HoD/Educational Support </em>. Ms Sum Kar Mun<em> HoD/CCE</em> .
@@ -29,7 +30,8 @@ Ms Shirley Ong<em> HoD/Mother Tongue Languages</em> . Mrs Wendy Lee <em>HoD/Engl
 Koh <em>Year Head/Upper Sec</em> . Ms Lim Fang Teng <em>School Staff Developer </em>.
 Mr Francis Yap <em>Year Head/Lower Sec</em>
 </p>
-<p><strong>NOT IN PHOTO: </strong>Mr Titus Chang <em>SH/CCE</em> . Mr Eraja
-Rajan Narayanasamy <em>Asst Year Head/Upper Sec</em> . Mrs So Yirong <em>HoD/Student Management</em> .
-Mr Alvin Tang <em>HoD/Science </em>. Ms Sandra Yam <em>SH/Social Studies</em>
+<p>NOT IN PHOTO: Mr Titus Chang&nbsp;<em>SH/CCE</em>&nbsp;. Mr Eraja Rajan
+Narayanasamy&nbsp;<em>Asst Year Head/Upper Sec</em>&nbsp;. Mrs So Yirong&nbsp;<em>HoD/Student Management</em>&nbsp;.
+Mr Alvin Tang&nbsp;<em>HoD/Science&nbsp;</em>. Mr Koh Bing <em>Qin SH/Chemistry</em>.
+Mr Marcus Liang <em>SH/Student Well-Being</em>. Mrs Tivona Chelliah <em>Acting Asst Year Head</em>
 </p>
