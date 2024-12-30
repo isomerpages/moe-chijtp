@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Learning@IJ
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/06_Life_Skills.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dept/2025/lifeskille.jpg">
 </div>
-<p><strong>STANDING from left:</strong> Mr Leon Yeo . Mrs Seah-Tay Hwee Kheng
-. Ms Joanne Tham . Ms Norshidah Abdul Rahim . Ms Ida Nursanti . Mr Wong
-Wei Keong . Ms Natalie Chung . Mdm Laura Goh . Mrs Eugenia Tan . Mr Hamdan
-Leman</p>
-<p><strong>SEATED from left:</strong> Mr Teo Wen Jie . Ms Jesslyn Winata .
-Mr Eugene Lim . Mr Rashid Jeffery</p>
+<p><strong>BACK from left</strong>: Mrs Seah-Tay Hwee Kheng. Mr Teo Wen Jie</p>
+<p><strong>MIDDLE from left</strong>: Ms Ida Nursanti. Mrs Eugenia Tan. Ms
+Norshidah Abdul Rahim. Ms Jesslyn Winata. Mr Rashid Jeffery</p>
+<p><strong>FRONT from left</strong>: Ms Natalie Chung. Mdm Laura Goh</p>
+<p><strong>SEATED</strong>: Mr Leon Yeo</p>
 <p><strong>Vision Statement</strong>
 </p>
 <p>The Lifeskills&nbsp; Department aims to inculcate knowledge and skills
