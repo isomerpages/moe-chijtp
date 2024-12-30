@@ -5,11 +5,12 @@ description: ""
 third_nav_title: Learning@IJ
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Dept/03a_Drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/Drama.jpg">
 </div>
-<p><strong>ALL from left</strong>: Mr Gary Tang . Ms Raquel Lim . Ms Angela
-Lim . Mr Marcus Liang . Ms Tivona Low . Ms Sum Kar Mun</p>
+<p>&nbsp;<strong>MAIN from left</strong> Mr Gary Tang. Ms Sum Kar . Mun Ms
+Tivona Low . Mr Marcus Liang . Ms Angela Lim . Ms Raquel Lim</p>
 <p>The CHIJ Drama programme was started in Jan 2006. CHIJ Secondary is one
 of 8 selected schools in that offers drama in the curriculum and drama
 as an Elective GCE O-Level Exam subject.</p>
