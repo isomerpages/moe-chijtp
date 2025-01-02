@@ -5,38 +5,41 @@ description: ""
 third_nav_title: School Organization
 variant: tiptap
 ---
-<h4><a href="/files/Parents/PSGGradletter.pdf" rel="noopener noreferrer nofollow" target="_blank">GRADUATION NITE 2024 PSG LETTER</a></h4>
+<h4></h4>
 <p></p>
-<hr>
-<p></p>
-<p>18th January 2024</p>
-<p>&nbsp;Dear Parents/ Guardians,</p>
-<p>&nbsp;Happy New Year!&nbsp; A warm welcome to our new Secondary 1 students
-and parents!</p>
-<p>As the pandemic years have become a distant memory, and the new normal
-has become the “norm” for us today, this school year – IJ’s 170th anniversary!
-– PSG will resume full activities which will include – just to name a few
-– the Valentine’s Day Fair, Easter Monday Egg Hunt, Bake Sale, and especially
-the much awaited and anticipated IJ Fiesta 2024!&nbsp;</p>
-<p>We are grateful for the support of all parents as we actively explore
-different ways that the PSG could support the school and our girls.&nbsp;Many
-parents have helped out in different events as Parent Volunteers, giving
-of your invaluable time and energy, or have given generously to support
-the different events, for example, providing treats and door gifts for
-various school celebrations. We also deeply appreciate the parents who
-regularly uphold the school and our girls in prayers.&nbsp;</p>
-<p>We look forward to an exciting year for our girls, and we are excited
-about working with all parents of our IJ girls. Should you have any further
-queries please do not hesitate to email us at <a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a>
+<p>3 rd January 2025</p>
+<p>Dear Parents/ Guardians,</p>
+<p>Happy New Year!&nbsp; A warm welcome to our new Secondary 1 students and
+parents!</p>
+<p>IJ Secondary’s PSG is a team of parents working together with the school
+to create a warm and nurturing environment for our daughters as they journey
+towards being ladies and leaders of the future, while following the school’s
+motto of being</p>
+<p><strong>Simple in Virtue, Steadfast in Duty.</strong>
 </p>
-<p>On behalf of the PSG Exco and CHIJ Secondary, we thank you in advance
-for your support and gift of love.</p>
+<p>We work very closely with the school to support a myriad of their activities
+that strive to build enriching relationships between the school, students
+and parents. The PSG is grateful to have their members whose commitment,
+generosity and enthusiasm have made organising events an enjoyable and
+rewarding experience.</p>
+<p>Likewise, we are also grateful for the support of parents who have helped
+out in different events as Parent Volunteers, giving of their invaluable
+time and energy, or have given generously to support the different events.
+And being in a Catholic school and environment, we deeply appreciate the
+parents who regularly uphold the school and our girls in prayers.</p>
+<p>We will continue to support activities for the girls this school year
+– including the Valentine’s Day Fair, Easter Monday Egg Hunt, Bake Sale,
+and the yearly favourite – the IJ Fiesta 2025 – just to name a few!&nbsp;</p>
+<p>And we are excited about working with parents of our IJ girls. Should
+you have any further queries on how to be a part of it, please do not hesitate
+to email us at&nbsp;<a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a> On behalf
+of the PSG Exco and IJ Secondary, we thank you in advance for your support
+and gift of love.</p>
 <p>We looking forward to working with you in serving the school.</p>
 <p>God’s blessing always,</p>
-<p>Audra</p>
+<p>Angelia</p>
 <p>Chairperson PSG, CHIJ Secondary&nbsp;</p>
-<p><strong><em>“We Serve With Faith, Hope and Love…”</em></strong>
-</p>
+<h4><strong><em>“We Serve With Faith, Hope and Love…”</em></strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/lordspeech.png">
 </div>
@@ -48,7 +51,7 @@ for your support and gift of love.</p>
 enquiries.</p>
 <p></p>
 <p>psg.chijsec@gmail.com</p>
-<h3>PSG@IJ Sec EXCO 2024</h3>
+<h3>PSG@IJ Sec EXCO 2025</h3>
 <p></p>
 <div class="isomer-card-grid">
 <div class="isomer-card">
@@ -127,7 +130,18 @@ enquiries.</p>
 <div class="isomer-card-title">Mrs Lorene Lim</div>
 <div class="isomer-card-description">Member</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mrs Veronica Silvester</div><div class="isomer-card-description">Member</div><div class="isomer-card-link"></div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mrs Veronica Silvester</div>
+<div class="isomer-card-description">Member</div>
+</div>
+</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
