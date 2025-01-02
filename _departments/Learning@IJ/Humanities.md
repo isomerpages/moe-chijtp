@@ -19,6 +19,7 @@ Tham</p>
 <hr>
 <p><strong>History, Geography &amp; Social Studies</strong>
 </p>
+<h3>Mission Statement</h3>
 <p>To nurture curious individuals who:</p>
 <ol>
 <li>
