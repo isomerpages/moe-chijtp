@@ -14,7 +14,7 @@ Law. Mr Chan Yeo Chong</p>
 <p><strong>SEATED from left</strong>: Mrs So Yirong. Mr Francis Yap. Mr Alvin
 Tang. Mr Lionel Foong. Ms Christine Koh</p>
 <p><strong>NOT IN PHOTO</strong>: Mrs Chaiw Kit Wai. Ms Janet Wong. Mdm Faridah
-Misdi. Ms Shirley Fang, Mr Brian Thian Wen Yao, Mr Koh Bing Qin</p>
+Misdi. Ms Shirley Fang. Mr Brian Thian Wen Yao. Mr Koh Bing Qin</p>
 <h3>MISSION &amp; GOALS</h3>
 <hr>
 <p>To nurture excited inquirers with a deep understanding of scientific principles
