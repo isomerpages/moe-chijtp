@@ -53,118 +53,77 @@ enquiries.</p>
 <p>psg.chijsec@gmail.com</p>
 <h3>PSG@IJ Sec EXCO 2025</h3>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Audra Chuah" src="/images/PSG/Audra_Chuah.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Audra Chuah</div>
-<div class="isomer-card-description">Chairperson</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Angelia Lai" src="/images/PSG/Angelia_Lai.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Angelia Lai</div>
-<div class="isomer-card-description">Vice Chairperson</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Joyce Chong" src="/images/PSG/Joyce_Chong.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Joyce Chong</div>
-<div class="isomer-card-description">Vice Chairperson/ Treasurer</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Jenevieve Chua" src="/images/PSG/Jenevieve_Chua.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Jenevieve Chua</div>
-<div class="isomer-card-description">PV database/ Secretary</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Christian Huber" src="/images/PSG/Christian_Huber.JPG">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Christian Huber</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Adrianne Wong" src="/images/PSG/Adrienne_Wong.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Adrianne Wong</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lorene Lim" src="/images/PSG/Lorene_Lim.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Lorene Lim</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Veronica Silvester</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Sabrina" src="/images/PSG/Sabrina.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Sabrina</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Charmaine" src="/images/PSG/Charmaine.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Charmaine</div>
-<div class="isomer-card-description">Member</div>
-</div>
-</div>
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Angelia Yeo&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Charmaine Ong</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Chairman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Christian Huber</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pastoral</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Jenevieve Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Communications</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Joyce Tan</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Treasurer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Sabrina Heng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pastoral</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Veronica Silvester&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
