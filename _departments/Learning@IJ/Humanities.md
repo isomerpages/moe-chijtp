@@ -15,7 +15,7 @@ Ai Hoon. Mr Brian Ho. Mrs Teresa Francis. Mr Tristan Fernandez</p>
 <p><strong>FRONT from left</strong>: Mr Titus Chang. Ms Alvina Chua. Ms Hemavathy
 Anbalagan. Ms Karina Sheri</p>
 <p><strong>NOT IN PHOTO</strong>: Ms Linda Cruz. Ms Chelza Chong, Mr Joseph
-ThamMission Statement</p>
+Tham</p>
 <hr>
 <p><strong>History, Geography &amp; Social Studies</strong>
 </p>
