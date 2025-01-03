@@ -5,8 +5,6 @@ description: ""
 third_nav_title: School Organization
 variant: markdown
 ---
-![](/images/IJBOM20240909.jpg)
-
-For enquiries, please email to
+![](/images/IJBOM202501.jpg)For enquiries, please email to
 
 [ij\_secretariat@yahoo.com](mailto:ij_secretariat@yahoo.com)
