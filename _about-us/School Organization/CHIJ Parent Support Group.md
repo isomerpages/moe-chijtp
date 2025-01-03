@@ -46,11 +46,11 @@ and gift of love.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR.jpg">
 </div>
-<p>Please contact any of our Exco members</p>
-<p>if you are able to contribute in any way to any event or if you have any
+<p>Please contact any of our Exco members
+<br>if you are able to contribute in any way to any event or if you have any
 enquiries.</p>
-<p></p>
-<p>psg.chijsec@gmail.com</p>
+<p><strong>psg.chijsec@gmail.com</strong>
+</p>
 <h3>PSG@IJ Sec EXCO 2025</h3>
 <p></p>
 <table style="minWidth: 50px">
