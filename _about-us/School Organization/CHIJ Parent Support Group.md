@@ -49,98 +49,90 @@ and gift of love.</p>
 <p>Please contact any of our Exco members
 <br>if you are able to contribute in any way to any event or if you have any
 enquiries.</p>
-<p><strong>psg.chijsec@gmail.com</strong>
+<p><a href="psg.chijsec@gmail.com" rel="noopener nofollow" target="_blank">psg.chijsec@gmail.com</a>
 </p>
 <h3>PSG@IJ Sec EXCO 2025</h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid">
+<div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/PSG/Angelia_Lai.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Ms Angelia Yeo</div>
+<div class="isomer-card-description">Chairman</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Angelia Yeo&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Charmaine Ong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Christian Huber</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Jenevieve Tan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Communications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Joyce Tan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Sabrina Heng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Veronica Silvester&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Charmaine Ong" src="/images/PSG/Charmaine.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Charmaine Ong</div>
+<div class="isomer-card-description">Vice-Chairman</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Christian Huber" src="/images/PSG/Christian_Huber.JPG">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Christian Huber</div>
+<div class="isomer-card-description">Pastoral</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Jenevieve Tan" src="/images/PSG/Jenevieve_Chua.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Jenevieve Tan</div>
+<div class="isomer-card-description">Communications</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Joyce Tan" src="/images/PSG/Joyce_Chong.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Joyce Tan</div>
+<div class="isomer-card-description">Treasurer</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Sabrina Heng" src="/images/PSG/Sabrina.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Sabrina Heng</div>
+<div class="isomer-card-description">Pastoral</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Veronica Silvester" src="/images/PSG/Veronica_Silvester.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Veronica Silvester</div>
+<div class="isomer-card-description">Member</div>
+</div>
+</div>
+</div>
+<p></p>
 <p><strong>BLESSING &amp; LIGHTING OF CANDLES VIDEO&nbsp;<a href="https://sites.google.com/chijsec.edu.sg/chijblessings/home" rel="noopener noreferrer nofollow" target="_blank">HERE</a>&nbsp;!</strong>
 </p>
 <div class="iframe-wrapper">
