@@ -49,7 +49,7 @@ and gift of love.</p>
 <p>Please contact any of our Exco members
 <br>if you are able to contribute in any way to any event or if you have any
 enquiries.</p>
-<p><strong>psg.chijsec@gmail.com</strong>
+<p><a href="psg.chijsec@gmail.com" rel="noopener nofollow" target="_blank">psg.chijsec@gmail.com</a>
 </p>
 <h3>PSG@IJ Sec EXCO 2025</h3>
 <p></p>
@@ -132,80 +132,7 @@ enquiries.</p>
 </div>
 </div>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Angelia Yeo&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Charmaine Ong</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice-Chairman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Mr Christian Huber</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Jenevieve Tan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Communications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Joyce Tan</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Treasurer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Sabrina Heng</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Pastoral</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Ms Veronica Silvester&nbsp;</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
+<p></p>
 <p><strong>BLESSING &amp; LIGHTING OF CANDLES VIDEO&nbsp;<a href="https://sites.google.com/chijsec.edu.sg/chijblessings/home" rel="noopener noreferrer nofollow" target="_blank">HERE</a>&nbsp;!</strong>
 </p>
 <div class="iframe-wrapper">
