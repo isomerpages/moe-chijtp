@@ -133,8 +133,6 @@ enquiries.</p>
 </div>
 </div>
 <p></p>
-<p><strong>BLESSING &amp; LIGHTING OF CANDLES VIDEO&nbsp;<a href="https://sites.google.com/chijsec.edu.sg/chijblessings/home" rel="noopener noreferrer nofollow" target="_blank">HERE</a>&nbsp;!</strong>
-</p>
 <div class="iframe-wrapper">
 <iframe height="500" width="500" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQszUoaELEQ3U5E1xAq0Y4WKo-9ktERzAHrOnwVJhCGMAvA6GHkrlS-_fGKjpkD8qHte30hCxpamNHF/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
