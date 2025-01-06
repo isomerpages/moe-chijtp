@@ -43,8 +43,9 @@ and gift of love.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/lordspeech.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/QR.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG.jpg">
 </div>
 <p>Please contact any of our Exco members
 <br>if you are able to contribute in any way to any event or if you have any
