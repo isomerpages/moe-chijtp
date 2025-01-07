@@ -43,7 +43,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_iGrowIJ_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_1.jpg">
 </div>
 <p>Pioneering in 2022, iGrow@IJ is a new CCA at IJ which aims to bring awareness
 of the need to nurture sustainability practices among students as inhabitants
@@ -63,9 +63,8 @@ club will also have opportunities to explore the biodiversity in and around
 the school and conduct regular data collection, playing a part in contributing
 to a larger pool of information about urban biodiversity in Singapore.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_iGrowIJ_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_3.jpg">
 </div>
 <p>iGrow@IJ welcomes all students with a passion and interest for environmental
 stewardship and provides an opportunity for students to deepen their own
