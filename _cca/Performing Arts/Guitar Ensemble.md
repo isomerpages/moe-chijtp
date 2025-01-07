@@ -82,8 +82,3 @@ be given the opportunity to perform together as a Junior Ensemble in school
 concerts.</p>
 <p>If you are a committed individual who enjoys music, join us in bringing
 beautiful melodies to comfort the souls of all people.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar_2022_TPY_Mural.jpg">
-</div>
-<p></p>
