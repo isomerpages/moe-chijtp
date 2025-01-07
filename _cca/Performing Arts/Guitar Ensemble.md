@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,7 +47,7 @@ performances)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar_2022_Honours_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Guitar_1.jpg">
 </div>
 <p>CHIJ Guitar Ensemble is an established ensemble that adopts the Niibori
 guitar system which exposes students to greater flexibility in music making.
@@ -53,6 +57,10 @@ comprises of the Secondary 1s.</p>
 CHIJ Guitar Ensemble clinched Certificates of Distinction in the Singapore
 Youth Festival Arts Presentation for Instrumental Ensemble in 2015, 2017,
 2019, 2021 and 2023.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Guitar_2.jpg">
+</div>
 <p>Besides participating in competitions, the Ensemble also performs at guitar
 concerts biennially.&nbsp; In 2012 and 2014, we partnered with our sister
 school CHIJ St. Joseph’s Convent for the “<em>Une Famille</em>” concert.
@@ -61,6 +69,10 @@ to present an evening of dance and music.&nbsp;</p>
 <p>2022 saw the Guitar Ensemble doing a video production of the “<em>Une Famille</em>”
 concert with the Concert Band, Choir and Dance Ensemble. The final production
 was showcased during the school assembly.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Guitar_3.jpg">
+</div>
 <p>All girls are welcome to join the Guitar Ensemble, as having a music background
 is not a prerequisite. If you play a musical instrument like the piano
 or violin, come join us and enrich your music experience through playing
