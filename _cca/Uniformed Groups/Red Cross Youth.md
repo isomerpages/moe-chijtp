@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,7 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Foong Sheng Hui Lionel, Ms Linda Cruz &amp; Ms Janice Yong <br></strong>
+<p><strong>Ms Linda Cruz, Mr Lionel Foong, Ms Janice Yong<br></strong>
 </p>
 </td>
 </tr>
@@ -41,10 +45,10 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/Red Cross Youth 4.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_1.jpg">
+</div>
 <p>In CHIJ Red Cross Youth, we aim to build a community of young leaders
 who are achievers, socially responsible and who embrace humanitarian values.
 The activities will encourage members to acquire lifesaving skills and
@@ -52,6 +56,10 @@ habits, be socially responsible citizens and also instill a sense of global
 citizenship. CHIJ Red Cross Youth will thus be an avenue for members to
 make a difference through their activities, in helping to save lives at
 home and in the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_2.jpg">
+</div>
 <p>The activities of Red Cross Youth will focus on the following:</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -85,7 +93,7 @@ events;</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/RCY.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_3.jpg">
 </div>
 <p>Apart from training activities, CHIJ Red Cross Youth also organises recreational
 activities like bonding games and camps, heritage trails and outings for
