@@ -6,7 +6,7 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/arts-alive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_Arts_Alive3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arts Alive!</div><div class="isomer-card-description">2023 MTC Design for Good Youth Competition - Best of Show Award</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/arts-alive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_arts_alive_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arts Alive!</div><div class="isomer-card-description">2023 MTC Design for Good Youth Competition - Best of Show Award</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/automation-n-robotics-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
