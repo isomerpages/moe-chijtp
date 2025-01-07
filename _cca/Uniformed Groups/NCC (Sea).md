@@ -48,7 +48,7 @@ training activities)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_1.jpg">
 </div>
 <p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
 nurture a community of Resilient, Responsible, and Relevant student leaders.
@@ -64,7 +64,7 @@ they would cherish throughout their journey in CHIJ Secondary. To serve
 with Pride and Dedication!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_2.jpg">
 </div>
 <p><strong>Highlights:</strong>
 </p>
@@ -98,11 +98,7 @@ International Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir
 Expedition, Ship visits, and more!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_3.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_3.jpg">
 </div>
 <p><strong>2024</strong>  <strong>Achievements:</strong>
 </p>
@@ -130,7 +126,4 @@ Expedition, Ship visits, and more!</p>
 <p></p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/UGs/NCC_SEA_Pic_1.jpg">
-</div>
 <p></p>
