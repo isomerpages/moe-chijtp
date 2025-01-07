@@ -49,7 +49,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Arts_Alive1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_1.jpg">
 </div>
 <p>Arts Alive! provides its member's opportunities to engage in the arts,
 through a range of platforms and group activities where they learn skills
@@ -57,7 +57,7 @@ like creativity, self-expression, discipline, perseverance, risk-taking,
 open-mindedness and collaboration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Arts_Alive3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_2.jpg">
 </div>
 <p>Students at Arts Alive! get to express, explore and evaluate different
 art forms while applying various materials and mediums. There would be
@@ -73,7 +73,7 @@ CCA VIA (Values-in Action) to share their knowledge and love for the arts.</p>
 Paper Twirling</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Arts_Alive2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_3.jpg">
 </div>
 <p>Our Achievements:</p>
 <ul data-tight="true" class="tight">
