@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Karina Lalchand Sheri &amp; Ms Natalie Chung</p>
+<p>Ms Natalie Chung, Mr Brian Thian</p>
 </th>
 </tr>
 <tr>
@@ -37,10 +41,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/iGrow_IJ.jpg">
-</div>
 <p>Pioneering in 2022, iGrow@IJ is a new CCA at IJ which aims to bring awareness
 of the need to nurture sustainability practices among students as inhabitants
 of our planet. Through various activities and workshops, students will
