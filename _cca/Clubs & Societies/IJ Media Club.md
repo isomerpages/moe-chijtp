@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Loon Jia Bernice &amp; Ms Sandra Yam</p>
+<p>Mr Teo Wen Jie, Mr Koh Bing Qin</p>
 </th>
 </tr>
 <tr>
@@ -35,8 +39,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club (Students-3).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_1.jpg">
 </div>
 <p>IJ Media Club provides the opportunity for students to be involved in
 photography, videography, as well as the setting up and operating of audio-visual
@@ -48,23 +53,18 @@ opportunities will also be provided for members with outdoor field shoots
 organised whenever possible.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ_Media.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_2.jpg">
 </div>
 <p>All IJ Media Club members are encouraged to participate in national and
 international photography and videography competitions to gain greater
 exposure. Some competitions that our Media Club members have participated
 in previously include the “Our Schools, Our Stories” photography and videography
 competition and the “SYFgoesOnline! Pixel Perfect” competition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_3.jpg">
+</div>
 <p>IJ Media Club welcomes all who are keen to explore and deepen their interest
-in photography and videography!</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club (Students-4).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Media Club 1.jpg">
-</div>
-<p>
+in photography and videography!
 <br>
 </p>
