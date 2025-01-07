@@ -5,7 +5,14 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -74,17 +81,20 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Dance Ensemble 3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_1.jpg">
 </div>
-<p>IJ Dance Ensemble (IJDE) is a versatile dance group whose signature style
-is contemporary with a strong Asian flavour. Our dancers are highly disciplined
-and committed to the art form with all dancers going through a rigorous
-training programme with strong emphasis on technique. Held to high standards,
-dancers audition for a chance to perform for most performances. Besides
-actively participating in the biennial Singapore Youth Festival (SYF) Arts
-Presentation for Dance, IJDE has also been invited to perform at the Asian
-Youth Games (2009), Youth Olympics Games (2010) and National Day Parade
-(2012).</p>
+<p>The IJ Dance Ensemble (IJDE) is a dynamic and versatile group recognised
+for our contemporary dance style infused with a distinctive Asian influence.
+Dancers are highly disciplined, undergoing a rigorous training program
+with a strong emphasis on technique and artistry. Held to high standards,
+members audition for most performances, reflecting their dedication and
+skill. IJDE has consistently captivates audiences with our performances
+which are highly anticipated and well-loved, showcasing our commitment
+to excellence and artistic expression.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_2.jpg">
+</div>
 <p>In 2017 and 2019, IJDE was awarded a Certificate of Distinction at the
 SYF Arts Presentation for Dance in the International category for its Japanese-inspired
 piece, Pastoral Charm and The Simplest of Joys respectively. In 2019, the
@@ -94,6 +104,10 @@ by Republic Polytechnic, and Phenomenon TWO held at library@esplanade.</p>
 and Cultural Programme in Fukuoka, Japan. Dancers attended dance workshops
 that broadened their knowledge of Japanese culture and dance forms, and
 shared their experience with peers through a dance presentation.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_3.jpg">
+</div>
 <p>In 2021 and 2023, IJDE once again achieved Distinction for their SYF performances.
 The 2023 item, A Hymn to Spring, was a portrayal of the spirit of spring,
 invoking the light and refreshing quality of a spring breeze.</p>
