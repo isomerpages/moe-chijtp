@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -37,7 +41,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission 2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_IJYM_1.jpg">
 </div>
 <p>IJ Youth Mission provides an enabling environment for girls to recognize
 and promote the dignity of human persons, especially the disadvantaged.
@@ -48,6 +52,10 @@ physical and spiritual well-being of youths.</p>
 work together with four other IJ Schools, CHIJ St. Nicholas, CHIJ St. Teresa's,
 CHIJ St Joseph's and CHIJ Katong. The bond that this CCA shares is the
 IJ mission that belongs to all the IJ schools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_IJYM_2.jpg">
+</div>
 <p>All members participate in the annual IJ Youth Mission Inter-school Competition
 to showcase their community service and programme for the year. The IJ
 Youth Mission (CHIJ Secondary) has attained the Certificate of Distinction
@@ -57,19 +65,9 @@ competitions from 2020 to 2021 due to Covid restrictions).</p>
 Community Service, Reflection on Talk or Videos, Fundraising for the Needy,
 Home Visits, Camps and Development of Personal Skills through craft works
 and other activities.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_IJYM_3.jpg">
+</div>
 <p>Join the IJ Youth Mission to acquire inner strength and character as well
 as to discover the meaning and purpose of serving the community.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-2).jpg">
-</div>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-4).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Clubs/IJ Youth Mission (Students-5).jpg">
-</div>
-<p></p>
