@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -18,25 +23,27 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Agnes Leong, Mr Teo Wen Jie &amp; Mr Augustine Khoo <br></strong>
+<p><strong>Ms Agnes Leong, Mr Augustine Khoo, Ms Nandhini and Ms Nicole Teo</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
-</p>
+<p>Training Days/Time</p>
+<p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Recreational Team</p>
-<p>Tuesday (3.00 pm - 6.00 pm)</p>
+<td rowspan="1" colspan="2">
+<p>Recreational &amp; C Div Training Team</p>
+<p>Tuesday (3.15 pm - 6.00 pm)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>School Team</p>
-<p>B &amp;C Division
-<br>Tuesday/Wednesday &amp; Friday
-<br>(3.00 pm - 6.00 pm)</p>
+<p>Training Days/Time</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>School Team B &amp; C Division</p>
+<p>Wednesday &amp; Friday (3.15 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>
@@ -56,22 +63,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_1.jpg">
 </div>
-<p>CHIJ Tennis has a long and illustrious history, from the time the school
-was at its original site at Victoria Street where training was held in
-a tennis court surrounded by the Sisters’ quarters. In Tennis, we strive
-not only to nurture each Tennis girl as a fine sportswoman but also, more
-importantly, to become A Woman of Distinction who espouses our IJ school
-values.</p>
+<p>CHIJ Tennis welcomes students of all skill levels, whether you're a seasoned
+player or just starting out. Through our cca trainings led by experienced
+coaches, you’ll develop your tennis skills, improve your fitness, and learn
+values that will help you along your secondary school journey. As part
+of our supportive community, you'll enjoy friendly competitions to gear
+up for our annual inter school competition – National Schools Games. Tennis
+is a sport you can enjoy for a lifetime, and we’re excited to help you
+embark on this journey. We can’t wait to see you on the court.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_3.jpg">
 </div>
-<p>Our coaches, with the support of the teachers in-charge, work on improving
-the students’ tennis skills and fitness levels with a variety of drills
-and games. The teachers and coaches believe that a holistic approach to
-CCA is imperative. Although preparation for the annual National Inter School
-Tennis Competition is taken very seriously, the more important core sports
-values of teamwork and sportsmanship are emphasised during all training
-sessions, and the players’ overall growth and development is considered
-the greatest priority.</p>
-<p>Garcia</p>
+<p></p>
