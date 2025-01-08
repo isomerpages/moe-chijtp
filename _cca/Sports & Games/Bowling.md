@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -18,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Pakirisamy Ragulan, Mr Tristan Fernandez, &amp; Ms Jey Sundari<br></strong>
+<p><strong>Mr Tristan Fernandez, Ms Jey Sundari, Mr Pakirisamy Ragulan<br></strong>
 </p>
 </td>
 </tr>
