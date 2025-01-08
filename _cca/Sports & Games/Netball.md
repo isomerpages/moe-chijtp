@@ -6,7 +6,11 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h1>School Team</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -14,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Seng Wee Pheng, Ms Margaret Teo, Mr Wong Wei Keong &amp; Mr Eng Wee Keng <br></strong>
+<p><strong>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua <br></strong>
 </p>
 </td>
 </tr>
@@ -25,8 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition season - subject to change:
-<br>Tuesday, Thursday &amp; Friday (3.00 pm – 6.30 pm)</p>
+<p>(National School Games period- subject to change) Tuesday, Thursday &amp;
+Friday: 3.00 pm – 6.30 pm</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary Netball Court (Indoor Sports Hall) / Parade Square</p>
+<p>Tue &amp; Fri: Parade Square; Thu: Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
@@ -87,7 +91,11 @@ off the court.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_TEAM_Parents_Supporters.JPG">
 </div>
 <h1>Recreational Team</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
