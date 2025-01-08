@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -19,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fiona Tan, Mrs Tay Yit Ming &amp; Ms Stephanie Song<br></strong>
+<p><strong>Ms Fiona Tan, Ms Stephanie Song, Ms Jesslyn Winata<br></strong>
 </p>
 </td>
 </tr>
