@@ -39,8 +39,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Legion_of_Mary__2023_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_1.jpg">
 </div>
 <p>The Legion of Mary was founded in Dublin, Ireland, on 7 September 1921,
 by Frank Duff. It is a lay Catholic organisation whose members give service
@@ -48,6 +49,10 @@ to the Church on a voluntary basis in almost every country.&nbsp; The objective
 of the Legion of Mary is to glorify God through the holiness of its members
 developed by prayer and active co-operation in Mary’s and the Church’s
 work.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_2.jpg">
+</div>
 <p>CHIJ Legion of Mary is named Our Lady of Graces Junior Praesidium. The
 members begin meetings with Opening Prayers and the Rosary. Every session
 include components such as spiritual readings and sharing. Legionaries
@@ -56,6 +61,10 @@ regular contact work in the form of outreach. They also assist in all the
 School Masses and conduct the Daily Chapel Morning Prayer. The Praesidium
 also participates in the Monthly Curia Meetings, the Acies, and Fellowship
 Programmes with Praesidiums of other Catholic Schools in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_3.jpg">
+</div>
 <p>The Legion of Mary invites students who are interested in praying together
 and serving the school in its various spiritual activities Join the Legion
 of Mary to have an enriched spiritual and prayer life and discover what

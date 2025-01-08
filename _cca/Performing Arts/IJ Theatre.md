@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Siti Zainah, Mrs Raquel Koh &amp; Ms Tivona Low
+<p>Ms Raquel Lim, Ms Tivona Low, Ms Siti Zainab, Ms Junainah
 <br>
 </p>
 </th>
@@ -37,24 +41,56 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/IJ Theatre 3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJ_Theatre_1.jpg">
 </div>
-<p>IJ Theatre&nbsp;trains its members in the multi-faceted aspects of theatre
-production. Our students are exposed to an array of aspects from acting
-to stage managing, costume making, lighting, sound and props production.
-We believe that&nbsp;a theatre&nbsp;production is a playground for learning,
-where passionate members build their knowledge of theatre and performance
-and grow their love for the craft.</p>
-<p></p>
+<p>IJ Theatre trains its members in the multi-faceted aspects of theatre
+production. Our students are exposed to an array of theatre disciplines
+from acting to stage managing and from costume making to lighting design.
+We believe that a theatre production is a playground for learning, where
+passionate members build their knowledge of theatre and performance and
+grow their love for the craft.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/IJ_Theatre_1.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJ_Theatre_2.jpg">
 </div>
-<p>We believe that there's a performer in all of us. A burning passion to
-express ourselves beyond the confinement of the common every day. IJ Theatre
-embodies a creative space which pushes students to discover and rediscover
-their true inner strides. Our most recent public productions include 'The
-Silly Little Girl and The Funny Old Tree' (SYF Accomplishment, 2021), 'Cats,
-lost and found' (SYF Accomplishment, 2021), 'Jack and Jill' (SYF Distinction,
-2019), 'Red Hill' (2016) and 'Fished"(2015).</p>
+<p>There's a performer in all of us, a burning passion to express ourselves
+beyond the confinement of the common every day. IJ Theatre embodies a creative
+space which pushes students to discover and rediscover their true inner
+strides.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJ_Theatre_3.jpg">
+</div>
+<p>Our most recent productions include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>‘Over a Glass of Water Graduation show’ (2024)</p>
+</li>
+<li>
+<p>‘Tokoyo’ (SYF Accomplishment, 2023)</p>
+</li>
+<li>
+<p>‘UNDEFINED Graduation Showcase’ (2022)</p>
+</li>
+<li>
+<p>‘The Silly Little Girl and The Funny Old Tree’ (SYF Accomplishment, 2021)</p>
+</li>
+<li>
+<p>‘Cats, Lost and Found’ (SYF Accomplishment, 2021)</p>
+</li>
+<li>
+<p>‘Jack and Jill’ (SYF Distinction, 2019)</p>
+</li>
+<li>
+<p>‘Between the Devil and the Deep Blue Sea’ (2018)</p>
+</li>
+<li>
+<p>‘Top Girls’ (SYF Accomplishment, 2017)</p>
+</li>
+<li>
+<p>‘Red Hill’ (2016)</p>
+</li>
+<li>
+<p>‘Fished’ (2015)</p>
+</li>
+</ul>
+<p></p>

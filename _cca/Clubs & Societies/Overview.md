@@ -6,11 +6,11 @@ third_nav_title: Clubs & Societies
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/arts-alive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Arts Alive 3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arts Alive!</div><div class="isomer-card-description">2023 MTC Design for Good Youth Competition - Best of Show Award</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/arts-alive/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_arts_alive_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Arts Alive!</div><div class="isomer-card-description">2023 MTC Design for Good Youth Competition - Best of Show Award</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/automation-n-robotics-club/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/ARC 3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_ARC_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -24,7 +24,7 @@ Best Strategy Award (2nd)</div>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/debating-and-oratory-society/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Debating _ Oratory 2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_Debate_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -33,11 +33,11 @@ Best Strategy Award (2nd)</div>
 speakers in the Illuminate competition 2023 (org by SJI)</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/ij-media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/IJ Media Club (Students-3).jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Media Club</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/ij-media-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_Media_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">IJ Media Club</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/ij-youth-mission/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/IJ Youth Mission 2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_IJYM_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -45,11 +45,11 @@ speakers in the Illuminate competition 2023 (org by SJI)</div>
 <div class="isomer-card-description">IJ Youth Mission Interschool Competition 2022 (Distinction) , 2023 (Accomplishment)</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/igrow-at-ij-eco-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/iGrow_IJ.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">iGrow@IJ (ECO Club)</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/igrow-at-ij-eco-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_igrowij_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">iGrow@IJ (ECO Club)</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/legion-of-mary/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Legion_of_Mary__2023_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_Legion_of_Mary_1.jpg">
 </div>
 </div>
 <div class="isomer-card-body">

@@ -5,14 +5,18 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Karina Lalchand Sheri &amp; Ms Natalie Chung</p>
+<p>Ms Natalie Chung, Mr Brian Thian</p>
 </th>
 </tr>
 <tr>
@@ -39,13 +43,17 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/iGrow_IJ.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_1.jpg">
 </div>
 <p>Pioneering in 2022, iGrow@IJ is a new CCA at IJ which aims to bring awareness
 of the need to nurture sustainability practices among students as inhabitants
 of our planet. Through various activities and workshops, students will
 foster an understanding of how to champion environmental causes and thereafter
 become stewards among their peers, influencing them to do the same.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_iGrowIJ_2.jpg">
+</div>
 <p>iGrow@IJ offers a wide range of hands-on activities for students to participate
 in, such as mending designated plots of the school garden and subsequently
 a hydroponics farm, learning how to manage composting processes as well
@@ -54,6 +62,10 @@ participate in and subsequently lead within the school. Members of this
 club will also have opportunities to explore the biodiversity in and around
 the school and conduct regular data collection, playing a part in contributing
 to a larger pool of information about urban biodiversity in Singapore.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_3.jpg">
+</div>
 <p>iGrow@IJ welcomes all students with a passion and interest for environmental
 stewardship and provides an opportunity for students to deepen their own
 knowledge, understanding and appreciation for the natural world and it's
