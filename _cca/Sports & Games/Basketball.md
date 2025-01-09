@@ -56,7 +56,7 @@ Hall (Mon)</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_1.jpg">
 </div>
 <p>&nbsp;The CHIJ Basketball team exemplifies dedication, perseverance, and
 teamwork. Through countless hours of practice, we’ve built a strong foundation
@@ -68,6 +68,10 @@ greatest asset. Together, we rise, striving for victory while building
 lasting friendships along the way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_3.jpg">
 </div>
 <p></p>
