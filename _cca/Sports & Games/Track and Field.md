@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -45,12 +49,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Athletics%202.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Athletics 2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_1.jpg">
 </div>
 <p>The Athletics CCA is a CCA where girls are given the opportunity to participate
 in a variety of track and field events, ranging from the fast and furious
@@ -60,6 +61,10 @@ also have the chance to participate in the cross country events, where
 runners compete to complete a course over open terrain, i.e. gravel, grass,
 mud, and hills. Not for the faint-hearted, Athletics is a CCA that demands
 a high level of mental and physical toughness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_2.jpg">
+</div>
 <p>The Athletics team trains under the experienced hands of our coaches and
 our strong team camaraderie enables us to do well each year during the
 Singapore Press Holdings Schools Relay Championships, the Singapore Youth
@@ -69,6 +74,10 @@ where our girls display their talents and skills in the competition arena.
 Each year, we strive to go beyond our personal best and bring glory to
 the school by not just training hard physically, but also honing our skills
 and tactical awareness.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_3.jpg">
+</div>
 <p>Ultimately, the goal for our CCA is not just to win medals, but rather
 we aim to inculcate discipline within our girls and create opportunities
 for character and leadership building. We believe it is these values that
