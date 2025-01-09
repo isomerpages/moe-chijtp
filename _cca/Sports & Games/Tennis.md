@@ -61,7 +61,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_1.jpg">
 </div>
 <p>CHIJ Tennis welcomes students of all skill levels, whether you're a seasoned
 player or just starting out. Through our cca trainings led by experienced
@@ -73,6 +73,10 @@ is a sport you can enjoy for a lifetime, and we’re excited to help you
 embark on this journey. We can’t wait to see you on the court.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tennis_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_3.jpg">
 </div>
 <p></p>
