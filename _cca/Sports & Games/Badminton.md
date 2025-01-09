@@ -49,7 +49,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/Badminton 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_1.jpg">
 </div>
 <p>The CHIJ Badminton team is dedicated to both rigorous training and competitive
 play. Our members are committed to excel in every tournament, bringing
@@ -58,3 +58,11 @@ competitions and friendly matches, players gain valuable exposure to diverse
 playing styles. This experience, combined with the unwavering support and
 guidance from our teachers and coach, contributes to the players' development
 into skilled athletes</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_3.jpg">
+</div>
+<p></p>
