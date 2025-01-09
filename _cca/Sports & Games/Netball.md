@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua </strong>
+<p><strong>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua</strong>
 </p>
 </td>
 </tr>
@@ -43,7 +43,6 @@ Friday: 3.00 pm – 6.30 pm</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_1.jpg">
 </div>
@@ -76,7 +75,6 @@ placing for ‘C’ division at the National Inter-school Championships. In
 Inter-school Netball Championships. In 2023, we achieved champions for
 both B &amp; C divisions in the South Zone and National Inter-school Netball
 Championships.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_3.jpg">
 </div>
@@ -128,7 +126,6 @@ off the court.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_1.jpg">
 </div>
@@ -142,7 +139,6 @@ one netball competition. We have participated in various age-group netball
 competitions such as the&nbsp;Daisy Tan Netball Carnival and The Kids’
 Network Carnival. Our members have gained much from participating in such
 competitions.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_2.jpg">
 </div>
@@ -150,10 +146,7 @@ competitions.</p>
 promote the same camaraderie and team spirit. We want our members to enjoy
 learning the skill as well as playing as a CCA. We are always looking for
 opportunities to enable our members to grow holistically.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_3.jpg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
