@@ -6,7 +6,11 @@ third_nav_title: Sports & Games
 variant: tiptap
 ---
 <h1>School Team</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -14,7 +18,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Seng Wee Pheng, Ms Margaret Teo, Mr Wong Wei Keong &amp; Mr Eng Wee Keng <br></strong>
+<p><strong>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua</strong>
 </p>
 </td>
 </tr>
@@ -25,25 +29,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Competition season - subject to change:
-<br>Tuesday, Thursday &amp; Friday (3.00 pm – 6.30 pm)</p>
+<p>(National School Games period- subject to change) Tuesday, Thursday &amp;
+Friday: 3.00 pm – 6.30 pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
-<br>
-</p>
+<p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary Netball Court (Indoor Sports Hall) / Parade Square</p>
+<p>Tue &amp; Fri: Parade Square; Thu: Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_Team_Supporters.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_1.jpg">
 </div>
 <p>The CHIJ Netball School Team has won the ‘B’ and ’C’ Division titles many
 times over the years. This is a strong tradition that we are proud to uphold
@@ -53,9 +54,8 @@ Championships. Competition season lasts from January to April for the ‘B’
 division and July to August for the ‘C’ division. Of which, our intensive
 and rigorous training begins in the months leading up to the competitions
 for each division.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_Player.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_2.jpg">
 </div>
 <p>Under the leadership and expertise of our coach Ms Kok Mun Wai, the CHIJ
 Netball School Team has flourished as her dedication and passion for the
@@ -75,7 +75,9 @@ placing for ‘C’ division at the National Inter-school Championships. In
 Inter-school Netball Championships. In 2023, we achieved champions for
 both B &amp; C divisions in the South Zone and National Inter-school Netball
 Championships.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_3.jpg">
+</div>
 <p>However, the CHIJ Netball School Team is not only about winning competitions.
 Besides the annual championships, CHIJ Netball also plays friendly matches
 with many different schools and teams. Annually, the team also organises
@@ -83,11 +85,12 @@ a team bonding retreat and beach training at Sentosa. This helps us to
 learn from the other players and allows us to gain more experience on and
 off the court.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Sch_TEAM_Parents_Supporters.JPG">
-</div>
 <h1>Recreational Team</h1>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -123,9 +126,8 @@ off the court.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Netball_Rec.JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_1.jpg">
 </div>
 <p>The Netball Recreational Club is a Co-Curricular Activity that allows
 students to learn Netball skills and tactics under the tutelage of a full-time
@@ -137,10 +139,14 @@ one netball competition. We have participated in various age-group netball
 competitions such as the&nbsp;Daisy Tan Netball Carnival and The Kids’
 Network Carnival. Our members have gained much from participating in such
 competitions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_2.jpg">
+</div>
 <p>For the past 3 years, we have organised an in-house games carnival to
 promote the same camaraderie and team spirit. We want our members to enjoy
 learning the skill as well as playing as a CCA. We are always looking for
 opportunities to enable our members to grow holistically.&nbsp;</p>
-<p>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Netball_Rec_3.jpg">
+</div>
+<p></p>

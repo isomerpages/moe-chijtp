@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -19,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Miss Mastura Senin, Ms Kim Purushothaman, Mr Eraja Rajan &amp; Mr Kenneth Ho <br></strong>
+<p><strong>Ms Mastura Senin, Mr Kenneth Ho, Ms Kim Purushothaman, Mr Eraja Rajan<br></strong>
 </p>
 </td>
 </tr>
@@ -30,8 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Advance Team: Monday, Wednesday &amp; Friday (3.00 pm-6.00 pm)
-<br>Intermediate team - Tuesday and Friday (3.00 pm - 6.00 pm)</p>
+<p>Mon, Wed, Fri</p>
 </td>
 </tr>
 <tr>
@@ -39,25 +42,27 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary: Hall of Faith / Indoor Sports Hall/ Toa Payoh West CC</p>
+<p>Hall of Faith / Indoor Sports Hall</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/Badminton 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_1.jpg">
 </div>
-<p>CHIJ Badminton trains hard and plays hard. Members strive to do their
-best in every tournament to bring pride, glory and honour to the school.
-Under the guidance of our very dedicated and talented coach, Mr. Stanley
-Chay, our players train twice or thrice a week at the CHIJ Hall of Faith
-or Indoor Sports Hall.</p>
-<p>The team participates in the National Inter-School Badminton Championships,
-Wee Kim Wee Challenge Trophy and various other inter-school tournaments
-organized by Community Centres, Clubs or Organizations. With the local
-tournaments and biennial camp or overseas training trip, the players are
-exposed to various training styles. This exposure contributes to the success
-of the students in becoming a skillful player, together with the support
-and encouragement of the teachers and coach. So come for the School Team
-selections and keep the IJ Badminton spirit burning!</p>
+<p>The CHIJ Badminton team is dedicated to both rigorous training and competitive
+play. Our members are committed to excel in every tournament, bringing
+pride, honor, and recognition to the school. Through participation in local
+competitions and friendly matches, players gain valuable exposure to diverse
+playing styles. This experience, combined with the unwavering support and
+guidance from our teachers and coach, contributes to the players' development
+into skilled athletes</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_3.jpg">
+</div>
+<p></p>

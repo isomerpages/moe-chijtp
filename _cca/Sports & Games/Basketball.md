@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -18,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhang Shujuan, Ms Kong Mei Sing &amp; Mr Leon Yeo<br><br></strong>
+<p><strong>Mdm Zhang Shujuan, Ms Kong Mei Sing &amp; Mr Leon Yeo<br></strong>
 </p>
 </td>
 </tr>
@@ -52,18 +56,22 @@ Hall (Mon)</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022a.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_1.jpg">
 </div>
-<p>&nbsp;IJ Basketball team requires cooperation, communication and team
-work. Everyone participates&nbsp; &nbsp;enthusiastically and passionately
-at our training sessions. We train hard and play hard as well.</p>
-<p>“Feel the passion, love the game” This is exactly how the IJ Basketball
-team feels about the game. With such dedication, those who join us are
-bound to feel it too. The team participates in the South Zone Secondary
-Schools Basketball Championships, has friendly matches with various schools
-and competitions organized by external organizations.</p>
+<p>&nbsp;The CHIJ Basketball team exemplifies dedication, perseverance, and
+teamwork. Through countless hours of practice, we’ve built a strong foundation
+rooted in trust and collaboration. Every challenge on and off the court
+has only strengthened our resolve. Our girls support each other, pushing
+one another to achieve personal and collective goals. With each game, we
+showcase our commitment to excellence, demonstrating that teamwork is our
+greatest asset. Together, we rise, striving for victory while building
+lasting friendships along the way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Basketball_2022b.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_3.jpg">
 </div>
 <p></p>

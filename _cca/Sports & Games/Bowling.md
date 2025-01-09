@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Sports & Games
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -18,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Pakirisamy Ragulan, Mr Tristan Fernandez, &amp; Ms Jey Sundari<br></strong>
+<p><strong>Mr Tristan Fernandez, Ms Jey Sundari, Mr Pakirisamy Ragulan</strong>
 </p>
 </td>
 </tr>
@@ -46,13 +50,17 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCA/Sports/Tenpin Bowling 1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_1.jpg">
 </div>
 <p>The CHIJ Tenpin Bowling team started in 2001 with a small number of members.
 Over the years, however, the team has grown and enrolment now stands at
 more than 50 members. Every year, we participate in competitions like the
 National Inter-School Tenpin Bowling Championships and the National Age
 Group Competition.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_2.jpg">
+</div>
 <p>A team that believes in both playing and working hard, the CHIJ Tenpin
 Bowling Team is one that promises an enjoyable experience like no other.
 We train hard in our bowling to produce the perfect hit that results in
@@ -61,3 +69,8 @@ knowledge of your equipment and the lane conditions which our bowling team
 will be trained in. At the same time, we organise various other activities
 to foster and build not only our team spirit but also the camaraderie among
 the team mates at the same time.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_3.jpg">
+</div>
+<p></p>
