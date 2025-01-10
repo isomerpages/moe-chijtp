@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
+<h4>NDLP</h4>
+<p><a href="/files/Students/NDLP_Parents_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">NDLP Parents Briefing Slides</a>
+</p>
 <h4>Orientation</h4>
 <p><a href="/files/Parents/2025 S1/2_2_Letter_for_Orientation__Sec_1_2025_.pdf" rel="noopener nofollow" target="_blank">Sec1 Orientation Programme</a>
 </p>
