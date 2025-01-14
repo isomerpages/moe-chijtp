@@ -19,7 +19,8 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Parents/2024JAECourses.pdf" rel="noopener nofollow" target="_blank">2024 JAE Courses</a>
+</p>
 </li>
 </ul>
 <p></p>
