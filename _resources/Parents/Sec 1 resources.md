@@ -5,11 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
+<p></p>
+<p><a href="/files/Parents/SBBS1_Parent_s_Talk.pdf" rel="noopener nofollow" target="_blank">Full SBB Sec1 Parent's Talk</a>
+</p>
+<p><a href="/files/Parents/YHAddress.pdf" rel="noopener nofollow" target="_blank">Year Head Address</a>
+</p>
+<p><a href="/files/Parents/2025CCASlides.pdf" rel="noopener nofollow" target="_blank">2025 CCA Briefing Slides</a>
+</p>
 <h4>NDLP</h4>
 <p><a href="/files/Students/NDLP_Parents_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">NDLP Parents Briefing Slides</a>
-</p>
-<h4>Orientation</h4>
-<p><a href="/files/Parents/2025 S1/2_2_Letter_for_Orientation__Sec_1_2025_.pdf" rel="noopener nofollow" target="_blank">Sec1 Orientation Programme</a>
 </p>
 <h4>Webinar Slides</h4>
 <p><a href="/files/Parents/2025 S1/3_1_Slides_for_Sec_1_Registration_20_Dec.pdf" rel="noopener nofollow" target="_blank">Sec1-registration-20-Dec-2024</a>
