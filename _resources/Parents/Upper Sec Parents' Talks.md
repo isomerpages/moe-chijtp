@@ -15,6 +15,10 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
+<p><a href="/files/Parents/ITEadmission2025.pdf" rel="noopener nofollow" target="_blank">ITE Admission and Course Information Brochure</a>
+</p>
+</li>
+<li>
 <p></p>
 </li>
 </ul>
