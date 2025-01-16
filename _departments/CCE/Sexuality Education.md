@@ -733,8 +733,6 @@ alignment with our beliefs</p>
 <th rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
 </p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
-</p>
 </th>
 </tr>
 <tr>
