@@ -45,7 +45,6 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 1</strong>
-<br>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -201,7 +200,6 @@ etc.)</p>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -351,7 +349,6 @@ both offline and online</p>
 </p>
 <p><strong>Secondary 3&nbsp;</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -702,7 +699,6 @@ alignment with our beliefs</p>
 </p>
 <p><strong>Secondary 5</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
