@@ -860,7 +860,7 @@ at the start of the year and is also downloadable <strong><u>here</u></strong>.
 The completed form is to be submitted by 23/01/2025.&nbsp;</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year.&nbsp;</p>
+at the start of the year and is also downloadable here.&nbsp;</p>
 <p>13. Parents can contact the school at 6353 4972 or Mrs Priscilla Lim at
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>priscilla_lim_a@moe.edu.sg</u>
 </a>for discussion or to seek clarification about the school’s Sexuality Education
