@@ -45,7 +45,6 @@ issues related to sexuality, which are of prime concern at this age.&nbsp;</p>
 <p><strong>2025 Sexuality Education Lessons in CCE</strong>
 </p>
 <p><strong>Secondary 1</strong>
-<br>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -201,7 +200,6 @@ etc.)</p>
 </p>
 <p><strong>Secondary 2</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -351,7 +349,6 @@ both offline and online</p>
 </p>
 <p><strong>Secondary 3&nbsp;</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -702,7 +699,6 @@ alignment with our beliefs</p>
 </p>
 <p><strong>Secondary 5</strong>
 </p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -732,8 +728,6 @@ alignment with our beliefs</p>
 </th>
 <th rowspan="1" colspan="1">
 <p><strong>Time Period</strong>
-</p>
-<p><strong>(e.g.Term 1 Week 2)</strong>
 </p>
 </th>
 </tr>
@@ -858,11 +852,11 @@ of assertiveness and responsible decision-making</p>
 supplementary sexuality education programmes by MOE-approved external providers.&nbsp;</p>
 <p>11. Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <strong><u>here</u></strong>.
+at the start of the year and is also downloadable <a href="/files/CCE/2025_SEd_Acknowledgement_and_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The completed form is to be submitted by 23/01/2025.&nbsp;</p>
 <p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
-at the start of the year.&nbsp;</p>
+at the start of the year and is also downloadable <a href="/files/CCE/ETeens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>13. Parents can contact the school at 6353 4972 or Mrs Priscilla Lim at
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>priscilla_lim_a@moe.edu.sg</u>
 </a>for discussion or to seek clarification about the school’s Sexuality Education
