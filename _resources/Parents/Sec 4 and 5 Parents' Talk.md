@@ -7,7 +7,7 @@ third_nav_title: Parents
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Parents/Sec45PT2025a.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Start-of-Year Parents Talk</a>
+<p><a href="/files/Parents/Sec45PT2025c.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Start-of-Year Parents Talk</a>
 </p>
 </li>
 <li>
