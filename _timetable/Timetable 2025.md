@@ -5,18 +5,17 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<h4><strong>IJCE Breaker Schedule 2025</strong></h4>
-<p><a href="/files/Timetable/S1IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 1 IJCE Breaker Schedule</a>
+<h4><strong>School Based Assessment For Sec 1 to 5</strong></h4>
+<p><a href="https://docs.google.com/spreadsheets/d/1vNFenBuLHtKl1XnagwmxfBD8fyDErAc3KT_YxacWomU/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 1 School Based Assessments for Semeter 1</a>
 </p>
-<p><a href="/files/Timetable/S2IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 2 IJCE Breaker Schedule</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1U7DGYtoIrYCUwadCEDyf6n-ynXa6r5Z6MPyObrp18mE/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 2 School Based Assessments for Semeter 1</a>
 </p>
-<p><a href="/files/Timetable/S3IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 3 IJCE Breaker Schedule</a>
+<p><a href="https://docs.google.com/spreadsheets/d/162jbWakuElXGYgQl3ZvnSyF3_jGfHjAuC5tf3qRto7w/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 3 School Based Assessments for Semeter 1</a>
 </p>
-<p><a href="/files/Timetable/S4IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 4 IJCE Breaker Schedule</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1m6eTZkn_Aq8Msm2ZBO62K0OJk20PriJPHGm60qOWVfw/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 4 School Based Assessments for Semeter 1</a>
 </p>
-<p><a href="/files/Timetable/S5IJCEBreaker25.pdf" rel="noopener noreferrer nofollow" target="_blank">SEC 5 IJCE Breaker Schedule</a>
+<p><a href="https://docs.google.com/spreadsheets/d/1WbqR5MS8kGFxPRny43SAhH9Agq72aFeKHN1AHtUe0XE/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 5 School Based Assessments for Semeter 1</a>
 </p>
-<h4></h4>
 <h4><strong>Semester 1 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
