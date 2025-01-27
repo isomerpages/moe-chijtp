@@ -3,16 +3,24 @@ title: Values in Action (VIA)
 permalink: /departments/cce/values-in-action-via/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
-<img src="/images/IJ_Cares.png" style="width:50%">
-
-VALUES IN ACTION (VIA) at CHIJ Secondary aims to create awareness of social and environmental issues and inspire our students to take initiative to make a positive influence to the community. Values-centric programmes provide our students with opportunities to espouse the school values of compassion, humility, integrity, perseverance and faith, and to apply the knowledge and skills learnt through the formal and non-formal curriculum to their outreach. At the end of each programme, students undertake a systematic reflection which inculcates in them the habit of looking inwards, so that their bedrock of values and skills will continue to manifest itself outwardly.
-
-<img src="/images/KayStages.png" style="width:70%">
-VIA OPPORTUNITIES AT CHIJ SECONDARY:&nbsp;
-
-* Class VIA projects&nbsp;
-* CCA VIA projects&nbsp;
-* School recycling initiatives&nbsp;
-* Student-initiated service-learning projects&nbsp;
-* Key Club
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture1.jpg">
+</div>
+<p>Values in Action (VIA) at CHIJ Secondary adopts a tiered approach that
+empowers students to become active, responsible citizens through hands-on
+experiences. These experiences are designed to enable students to contribute
+meaningfully to the broader community, while aligning with their developmental
+needs and capabilities at each stage. The VIA programme also fosters students’
+autonomy by encouraging them to make informed choices about the causes
+they wish to support. This process not only deepens their understanding
+of societal and environmental needs but also encourages them to apply their
+values, knowledge, and skills in real-world contexts. Through these meaningful
+engagements, we aim to nurture every IJ girl to think critically and empathetically,
+recognising the importance of addressing the needs of others while continuing
+to grow as responsible individuals.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Picture2.png">
+</div>
+<p></p>
