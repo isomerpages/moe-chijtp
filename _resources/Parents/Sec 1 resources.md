@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Parents
 ---
-<p></p>
 <p><a href="/files/Parents/SBBS1_Parent_s_Talk.pdf" rel="noopener nofollow" target="_blank">Full SBB Sec1 Parent's Talk</a>
 </p>
 <p><a href="/files/Parents/YHAddress.pdf" rel="noopener nofollow" target="_blank">Year Head Address</a>
