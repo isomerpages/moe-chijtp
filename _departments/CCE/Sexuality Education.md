@@ -886,9 +886,9 @@ supplementary sexuality education programmes by MOE-approved external providers.
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/CCE/2025_SEd_Acknowledgement_and_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The completed form is to be submitted by 23/01/2025.&nbsp;</p>
-<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/CCE/ETeens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>12. Parents who wish to opt their children out of the eTeens programme
+need to complete an opt-out form. This form will be communicated to parents
+at the start of the year<em> and is also downloadable</em>&nbsp;<a href="https://drive.google.com/file/d/14azX9r3PKIbWk4lxKiFQJVSYM8yCIuDg/view" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>13. Parents can contact the school at 6353 4972 or Mrs Priscilla Lim at
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>priscilla_lim_a@moe.edu.sg</u>
 </a>for discussion or to seek clarification about the school’s Sexuality Education
