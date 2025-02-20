@@ -5,6 +5,38 @@ description: ""
 third_nav_title: CCE
 variant: tiptap
 ---
+<p><strong>MOE SEXUALITY EDUCATION IN SCHOOLS</strong>
+</p>
+<p>1. Sexuality Education (SEd) in schools aims to enable students to understand
+the physiological, social and emotional changes they experience as they
+mature, develop healthy and rewarding relationships with others, including
+those with members of the opposite sex, and make wise, informed and responsible
+decisions on sexuality matters.</p>
+<p>SEd is premised on the importance of the family as the basic unit of society.
+This means encouraging healthy, heterosexual marriages and stable nuclear
+family units with extended family support. The teaching and learning of
+SEd is based on respect for the values and beliefs of the different ethnic
+and religious communities in Singapore on sexuality issues.</p>
+<p>2. The Goals of Sexuality Education are to:</p>
+<p>(a) Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and</p>
+<p>others by having positive mainstream values and attitudes about sexuality
+that are premised on the family as the basic unit of society.</p>
+<p>3. The Key Messages of Sexuality Education are:</p>
+<p>(a) Love and respect yourself as you love and respect others;</p>
+<p>(b) Build positive relationships based on love and respect (which are
+the foundation for strong families);</p>
+<p>(c) Make responsible decisions for yourself, your family and society;
+and</p>
+<p>(d) Abstinence before marriage is the best protection against STIs/HIV
+and</p>
+<p>unintended pregnancies. Casual sex can harm and hurt you and your loved
+ones.</p>
+<p>You may click here (please insert hyperlink: <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> )
+for more information on MOE Sexuality Education.</p>
 <p><strong>Overview of CHIJ Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
@@ -854,9 +886,9 @@ supplementary sexuality education programmes by MOE-approved external providers.
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/CCE/2025_SEd_Acknowledgement_and_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 The completed form is to be submitted by 23/01/2025.&nbsp;</p>
-<p>12. Parents who wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/CCE/ETeens_Opt_Out_Form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.&nbsp;</p>
+<p>12. Parents who wish to opt their children out of the eTeens programme
+need to complete an opt-out form. This form will be communicated to parents
+at the start of the year<em> and is also downloadable</em>&nbsp;<a href="https://drive.google.com/file/d/14azX9r3PKIbWk4lxKiFQJVSYM8yCIuDg/view" rel="noopener nofollow" target="_blank">here</a>.&nbsp;</p>
 <p>13. Parents can contact the school at 6353 4972 or Mrs Priscilla Lim at
 <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>priscilla_lim_a@moe.edu.sg</u>
 </a>for discussion or to seek clarification about the school’s Sexuality Education
