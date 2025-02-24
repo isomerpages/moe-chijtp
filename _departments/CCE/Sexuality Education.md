@@ -35,7 +35,8 @@ and</p>
 and</p>
 <p>unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
-<p>You may click <strong>here </strong>  <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> )
+<p>You may click <strong>here <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank">here</a></strong>
+<a href="https://go.gov.sg/moe-sexuality-education" rel="noopener nofollow" target="_blank"></a><strong> </strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education</a> )
 for more information on MOE Sexuality Education.</p>
 <p><strong>Overview of CHIJ Secondary School’s Sexuality Education Programme for 2025</strong>
 </p>
