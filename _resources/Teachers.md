@@ -69,10 +69,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/MIMS.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/MIMS.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -91,10 +88,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/iExams.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://iexams.seab.gov.sg/login"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/iExams.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -113,10 +107,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/hrp.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg/hrp/#/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/hrp.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -135,10 +126,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" src="/images/IconTr/Pair.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://pair.gov.sg/login"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/IconTr/Pair.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
