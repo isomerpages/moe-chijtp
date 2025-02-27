@@ -71,10 +71,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/MIMS.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/iconemail_ver2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/iconemail_ver2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
