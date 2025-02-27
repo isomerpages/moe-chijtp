@@ -88,7 +88,7 @@ variant: markdown
 </a></td>
 		 </tr><tr>
 <td><a href="https://pair.gov.sg/login"> 
-<img style="width:50%" src="/images/IconTr/hrp.png">  
+<img style="width:50%" src="/images/IconTr/Pair.png">  
 </a></td>
 
 
