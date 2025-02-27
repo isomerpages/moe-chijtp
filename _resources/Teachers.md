@@ -87,10 +87,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://iexams.seab.gov.sg/login"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/iExams.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/AIhub.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/AIhub.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -106,10 +103,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.hrp.gov.sg/hrp/#/"><img style="width: 40%;" height="auto" width="100%" alt="" src="/images/IconTr/hrp.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/HROnline.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://intranet.moe.gov.sg/hr_online/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/HROnline.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
