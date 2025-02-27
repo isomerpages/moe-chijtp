@@ -71,74 +71,75 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/IconTr/MIMS.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/MIMS.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/iconemail_ver2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/iconemail_ver2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/SchoolCockpit.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/SchoolCockpit.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/sccsr.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/IconTr/iExams.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/AIhub.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/opal2.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/PG2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/sccsr.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/IconTr/hrp.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/iExams.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/HROnline.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/AIhub.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/ibens_ver2.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/opal2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/IconTr/MOEIntranet.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/PG2.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/IconTr/Pair.png">
+<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/hrp.png">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/HROnline.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ibens_ver2.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/MOEIntranet.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" src="/images/IconTr/Pair.png">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,4 +153,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p></p>
