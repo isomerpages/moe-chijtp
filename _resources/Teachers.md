@@ -14,23 +14,23 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ijStaffPortal.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ij-staff-portal/home"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/ijStaffPortal.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://scmobile.moe.edu.sg/login"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/SCMobileAttendance.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://scmobile.moe.edu.sg/login"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/SCMobileAttendance.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/iconemail_ver2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/iconemail_ver2.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://rbs.avero-tech.com/login.html"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/VenueBooking.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://rbs.avero-tech.com/login.html"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/VenueBooking.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ictjitpage/home"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ICTJIT.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ictjitpage/home"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/ICTJIT.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/safetyPortal_ver2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/a/chijsec.edu.sg/school-safety-portal-1/?pli=1"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/safetyPortal_ver2.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/SLS.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/SLS.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSd3VsQl8O-qV128WlTsLVWDGX2HKLHDHF81HQfCvdNk3m6nkQ/viewform"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ITEquipment_ver2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSd3VsQl8O-qV128WlTsLVWDGX2HKLHDHF81HQfCvdNk3m6nkQ/viewform"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/ITEquipment_ver2.png"></a>
 </td>
 </tr>
 </tbody>
