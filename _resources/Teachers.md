@@ -86,5 +86,11 @@ variant: markdown
 <td><a href="https://intranet.moe.gov.sg/"> 
 <img style="width:50%" src="/images/IconTr/MOEIntranet.png">  
 </a></td>
+		 </tr><tr>
+<td><a href="https://pair.gov.sg/login"> 
+<img style="width:50%" src="/images/IconTr/hrp.png">  
+</a></td>
+
+
   </tr>
 </tbody></table>
