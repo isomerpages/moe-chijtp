@@ -71,7 +71,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/MIMS.png">
+<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/MIMS.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/iExams.png">
+<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/iExams.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,7 +115,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" src="/images/IconTr/hrp.png">
+<img style="width: 35%;" height="auto" width="100%" src="/images/IconTr/hrp.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,7 +137,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" src="/images/IconTr/Pair.png">
+<img style="width: 25%;" height="auto" width="100%" src="/images/IconTr/Pair.png">
 </div>
 <p></p>
 </td>
