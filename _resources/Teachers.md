@@ -73,15 +73,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/iconemail_ver2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/SchoolCockpit.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolcockpit.moe.gov.sg/"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/SchoolCockpit.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/sccsr.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolcockpit.moe.gov.sg/academic/"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/sccsr.png"></a>
 </td>
 </tr>
 <tr>
@@ -89,15 +83,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://launchpad.gov.sg/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/AIhub.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/opal2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://idm.opal2.moe.edu.sg/Account/Login?ReturnUrl=%2F"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/opal2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/PG2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://pg.moe.edu.sg/"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/PG2.png"></a>
 </td>
 </tr>
 <tr>
@@ -105,15 +93,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://intranet.moe.gov.sg/hr_online/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/IconTr/HROnline.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ibens_ver2.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://ibens.moe.gov.sg/rm/"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/ibens_ver2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/MOEIntranet.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://intranet.moe.gov.sg/"><img style="width: 100%;" height="auto" width="100%" src="/images/IconTr/MOEIntranet.png"></a>
 </td>
 </tr>
 <tr>
