@@ -4,7 +4,7 @@ permalink: /resources/parents/dsa-application/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Direct School Admission 2024</strong></h1>
+<h1><strong>Direct School Admission 2025</strong></h1>
 <p></p>
 <p></p>
 <p><a href="/files/DSA_info_Sec_1_2025b.pdf" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission Infor filemation Sec 1</a>
