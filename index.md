@@ -15,7 +15,7 @@ sections:
         - title: Calendar of Events
           description: View All
           url: /resources/ij-calender
-        - title: Sec 1 Admission
+        - title: DSA Admission
           description: View All
-          url: /resources/sec-1-admission/welcome-note/
+          url: https://www.chijsec.edu.sg/resources/parents/dsa-application/
 ---
