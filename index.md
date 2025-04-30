@@ -17,5 +17,5 @@ sections:
           url: /resources/ij-calender
         - title: DSA Admission
           description: View All
-          url: https://www.chijsec.edu.sg/resources/parents/dsa-application/
+          url: /resources/parents/dsa-application/
 ---
