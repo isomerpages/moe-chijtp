@@ -52,7 +52,9 @@ that cares deeply for you and is committed to nurturing your growth. And
 if you are not yet part of the IJ family, we warmly invite you to join
 this legacy — one built on faith, love, and a deep belief in the potential
 of every girl.</p>
-<p>Blessings, Mrs Rachel Lee Principal</p>
+<p>Blessings,</p>
+<p>Mrs Rachel Lee</p>
+<p>Principal</p>
 <p></p>
 <p></p>
 <p>
