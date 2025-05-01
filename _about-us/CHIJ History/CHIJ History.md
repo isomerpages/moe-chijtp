@@ -3,13 +3,12 @@ title: CHIJ History
 permalink: /about-us/chij-history/
 description: ""
 third_nav_title: CHIJ History
+variant: markdown
 ---
-
 <center><p> <a href="https://www.infantjesussisters.org/">click to visit the "Infant Jesus Sisters' Website"
 </a></p></center>
 
-<img src="/images/Nicolas%20Barre.jpg" 
-     style="width:20%">
+<img src="/images/Nicolas%20Barre.jpg" style="width:20%">
 		 
 <center>*"The darkness of this night, wherein <br>
 one sees nothing, yet sees everything, <br>
@@ -30,22 +29,21 @@ On 7 March 1999, Nicolas Barré was beatified in Rome by Pope John Paul II at a 
 **1854**
 
 * * *		
-<html>
-<head>
+
+
 <style>
 img {
   float: right;
 }
 </style>
-</head>
-<body>
 
-<p><img src="/images/CHIJ%20History%20(1).jpg" 
-style="width:170px;height:170px;margin-left:15px;">
+
+
+<p><img src="/images/CHIJ%20History%20(1).jpg" style="width:170px;height:170px;margin-left:15px;">
 Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogly. The four Sisters were Mother St Mathilde, Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly. CHIJ is established at the corner of Bras Basah Road and Victoria Street. Classes start for fee-paying students and orphans.</p>
 
-</body>
-</html>
+
+
 
 **1862**
 * * *
@@ -53,22 +51,21 @@ More land is acquired. Enrolment reaches 145, of which 82 receive free education
 
 **1881**  
 * * *
-<html>
-<head>
+
+
 <style>
 img {
   float: right;
 }
 </style>
-</head>
-<body>
 
-<p><img src="/images/CHIJ%20History%20(2).jpg" 
-style="width:170px;height:170px;margin-left:15px;">
+
+
+<p><img src="/images/CHIJ%20History%20(2).jpg" style="width:170px;height:170px;margin-left:15px;">
 CHIJ is declared a Government-Aided School..</p>
 
-</body>
-</html>
+
+
 
 **1902**  
 * * *
@@ -91,22 +88,21 @@ Commercial classes are introduced, the first of their kind in Singapore, with an
 
 * * *
 
-<html>
-<head>
+
+
 <style>
 img {
   float: right;
 }
 </style>
-</head>
-<body>
 
-<p><img src="/images/CHIJ%20History%20(3).jpg" 
-style="width:170px;height:170px;margin-left:15px;">
+
+
+<p><img src="/images/CHIJ%20History%20(3).jpg" style="width:170px;height:170px;margin-left:15px;">
 The Registration of School Ordinance comes into being. CHIJ is registered on 1 August.</p>
 
-</body>
-</html>
+
+
 
 **1931**  
 * * *
@@ -174,20 +170,25 @@ The CHIJ community marks the 350th anniversary of its founding in 1662: as part 
 
 **2014**  
 * * *
-<html>
-<head>
+
+
 <style>
 img {
   float: right;
 }
 </style>
-</head>
-<body>
 
-<p><img src="/images/CHIJ%20History%20(4).png" 
-style="width:170px;height:170px;margin-left:15px;">
+
+
+<p><img src="/images/CHIJ%20History%20(4).png" style="width:170px;height:170px;margin-left:15px;">
 CHIJ girls past and present gathered on 9 Nov (Sun) to celebrate the 160th anniversary of their alma mater.About 400 students, teachers and alumni formed a human chain around the original Convent of the Holy Infant Jesus building, along Victoria Street, now known as Chijmes, while singing the school song.
 </p>
 
-</body>
-</html>
+**2014**  
+* * *
+On 28 May, the school commemorated her 165th anniversary at the National Stadium. The celebration brought together 18,000 students from the CHIJ family of schools, staff, alumnae, and religious sisters, alongside members of the clergy, including Archbishop William Goh.
+
+**2024**  
+* * *
+CHIJ Secondary marked its 170th anniversary with a grand celebration at the National Stadium, themed “Hold On to Our Dream.” As part of the occasion, an anniversary album of the same name was launched, featuring 12 original songs written by students, alumnae, and teachers — a tribute to the enduring IJ spirit and the legacy of Blessed Nicolas Barré and the pioneering IJ Sisters.
+In September, with strong support from the alumnae, the school also unveiled the Tapestry of Time — a commemorative time capsule created to preserve cherished memories for future generations of IJ girls.
