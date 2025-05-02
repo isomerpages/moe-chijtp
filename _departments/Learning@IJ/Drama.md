@@ -18,6 +18,8 @@ their communication skills and think critically about the issue or task
 at hand. At the end of each weekly lesson, they showcase their learning
 through a short performance, drawing on their personal experiences, observations,
 and interpretation of the stimulus provided.</p>
+<p>The foundations of performance-making and theatre are laid here in lower
+secondary.</p>
 <h4>AIMS OF DRAMA</h4>
 <hr>
 <p>During the course of study students in CHIJ Secondary will:</p>
