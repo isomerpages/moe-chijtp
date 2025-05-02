@@ -11,7 +11,13 @@ variant: tiptap
 </div>
 <p>&nbsp;<strong>MAIN from left</strong> Mr Gary Tang. Ms Sum Kar Mun . Mrs
 Tivona Chelliah. Mr Marcus Liang . Ms Angela Lim . Ms Raquel Lim</p>
-<p></p>
+<p>The lower secondary&nbsp;Drama&nbsp;programme aims to deepen students’
+understanding of cultural and social constructs via activity-based collaborative
+learning. Every lesson is therefore an opportunity for students to hone
+their communication skills and think critically about the issue or task
+at hand. At the end of each weekly lesson, they showcase their learning
+through a short performance, drawing on their personal experiences, observations,
+and interpretation of the stimulus provided.</p>
 <h4>AIMS OF DRAMA</h4>
 <hr>
 <p>During the course of study students in CHIJ Secondary will:</p>
