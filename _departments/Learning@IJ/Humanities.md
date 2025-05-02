@@ -17,33 +17,19 @@ Anbalagan. Ms Karina Sheri</p>
 <p><strong>NOT IN PHOTO</strong>: Ms Linda Cruz. Ms Chelza Chong, Mr Joseph
 Tham</p>
 <hr>
-<p><strong>History, Geography &amp; Social Studies</strong>
-</p>
-<h3>Mission Statement</h3>
-<p>To nurture curious individuals who:</p>
-<ol>
-<li>
-<p>harness critical thinking, creativity and social intelligence to solve
-societal problems;</p>
-</li>
-<li>
-<p>empathise with others while exercising integrity and</p>
-</li>
-<li>
-<p>possess a strong sense of citizenry while adapting to global demands and
-challenges.</p>
-</li>
-</ol>
-<h3>Highlights:</h3>
-<ol>
-<li>
-<p>Archaeological Dig (History)</p>
-</li>
-<li>
-<p>Creating a Mini Rain Garden (Geography)</p>
-</li>
-<li>
-<p>Model United Nations (Social Studies)</p>
-</li>
-</ol>
+<p>The Humanities curriculum seeks to develop curious learners who are critical
+thinkers and responsible global citizens. These attributes are developed
+by exposing students to learning through inquiry.</p>
+<h4>Geography and History</h4>
+<p>
+<br>In Geographical and Historical Investigation, for instance, students investigate
+geographical issues between human beings and the environment and study
+a range of historical sources to make sense of the past.</p>
+<h4>Social Studies&nbsp;</h4>
+<p>
+<br>In Social Studies lessons, students critically examine societal issues
+such as an ageing population, discrimination and globalization. They also
+conduct research to understand the impact of these issues on Singapore
+and how citizens can play an active role in mitigating the problems they
+bring.</p>
 <p></p>
