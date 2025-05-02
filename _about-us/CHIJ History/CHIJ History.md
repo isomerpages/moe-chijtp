@@ -42,7 +42,7 @@ Four Sisters (three French and one Irish) arrive in Singapore on board the Hoogl
 
 
 * * *
-**1862**
+**1862**  
 More land is acquired. Enrolment reaches 145, of which 82 receive free education.
 
 * * *
@@ -67,15 +67,15 @@ CHIJ is declared a Government-Aided School..</p>
 Enrolment reaches 300. The junior Cambridge Examination begins.
 
 * * *
-**1905** 
+**1905**  
 Secondary Education starts.
 
 * * *
-**1909**
+**1909**  
 The well-known Victoria Street chapel is erected.
 
 * * *
-**1920**
+**1920**  
 Commercial classes are introduced, the first of their kind in Singapore, with an average class size of 15 to 20 students. Domestic Science and Needlework are introduced into the curriculum.
 
 * * *
@@ -162,14 +162,11 @@ The CHIJ community marks the 350th anniversary of its founding in 1662: as part 
 
 * * *
 **2014**  
-
 <style>
 img {
   float: right;
 }
 </style>
-
-
 
 <p><img src="/images/CHIJ%20History%20(4).png" style="width:170px;height:170px;margin-left:15px;">
 CHIJ girls past and present gathered on 9 Nov (Sun) to celebrate the 160th anniversary of their alma mater.About 400 students, teachers and alumni formed a human chain around the original Convent of the Holy Infant Jesus building, along Victoria Street, now known as Chijmes, while singing the school song.
