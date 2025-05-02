@@ -17,10 +17,11 @@ Chelliah</p>
 <p>&nbsp;<strong>FRONT from left: </strong>&nbsp;Mrs Angeline Yeo <em>senior teacher/english language</em>&nbsp;.
 Mrs Magdalen Low . Mdm Cheng Ai Hoon . Mrs Wendy Lee . Ms Claudia Ng .
 Ms Margaret Teo . Ms Michelle Tay . Ms Jey Sundari</p>
-<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Junaina Binte Amran</p>
+<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Junainah Binte Amran</p>
 <h3>Mission Statement:</h3>
 <p>To nurture critical thinkers who display the ability to negotiate a diverse
 array of multimodal texts to communicate effectively in a complex world.</p>
+<p></p>
 <h3>Highlights:</h3>
 <p>1. IJ FLAIR - IJ Festival of Language and Arts in Rhythm</p>
 <p>2. Learning Journeys</p>
