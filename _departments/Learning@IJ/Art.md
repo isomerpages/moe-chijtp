@@ -43,7 +43,6 @@ for our students, such as through museum visits, artist talks and our signature
 Twinning Programme with schools and museums in Japan.</p>
 <p>Students will offer the GCE ‘O’ Level Higher Art examination at the end
 of 4 years.</p>
-<p>For a glimpse of the AEP curriculum, please refer to the&nbsp;Little Book
-of Art Lessons.</p>
+<p>For a glimpse of the AEP curriculum, please refer to <a href="/files/littlebook2025_compressed.pdf" rel="noopener nofollow" target="_blank">the&nbsp;Little Book of Art Lessons</a>.</p>
 <p>Further details about the AEP can be found in the&nbsp;<a href="https://staging.dqs7klbatxhen.amplifyapp.com/files/MOE_AEP_ebrochure(2021).pdf" rel="noopener noreferrer nofollow" target="_blank">AEP Brochure</a>&nbsp;and
-the&nbsp;MOE website.</p>
+the&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/aep-sec" rel="noopener nofollow" target="_blank">MOE website</a>.</p>

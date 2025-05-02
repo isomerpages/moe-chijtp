@@ -11,20 +11,13 @@ variant: tiptap
 </div>
 <p>&nbsp;<strong>MAIN from left</strong> Mr Gary Tang. Ms Sum Kar Mun . Mrs
 Tivona Chelliah. Mr Marcus Liang . Ms Angela Lim . Ms Raquel Lim</p>
-<p>The CHIJ Drama programme was started in Jan 2006. CHIJ Secondary is one
-of 8 selected schools in that offers drama in the curriculum and drama
-as an Elective GCE O-Level Exam subject.</p>
-<p>Benefits of learning through drama include developing interpersonal and
-intrapersonal skills in students which are so necessary to effective social
-and working lives. Students learn through this collaborative art form ,
-to work with each other, developing skills of negotiation, teamwork and
-harmonious relationships as they recognise qualities individuals contribute
-to a shared experience. At the end of their course in drama, it is hoped
-that they become more self-confident as they develop language and communication
-skills.</p>
-<p>Drama provides a safe place for experimentation where students learn that
-failure is only a part of the journey of experimentation and discovery,
-not the destination.</p>
+<p>The lower secondary&nbsp;Drama&nbsp;programme aims to deepen students’
+understanding of cultural and social constructs via activity-based collaborative
+learning. Every lesson is therefore an opportunity for students to hone
+their communication skills and think critically about the issue or task
+at hand. At the end of each weekly lesson, they showcase their learning
+through a short performance, drawing on their personal experiences, observations,
+and interpretation of the stimulus provided.</p>
 <h4>AIMS OF DRAMA</h4>
 <hr>
 <p>During the course of study students in CHIJ Secondary will:</p>
@@ -82,22 +75,7 @@ to communicate in written and oral forms.</p>
 </li>
 </ul>
 <h4>ASSESSMENT IN DRAMA</h4>
-<hr>
-<p>Objectives of assessment will incorporate the following:</p>
-<p><strong>Understanding</strong>
-</p>
 <p>Students should be able to demonstrate understanding of the performance
 possibilities of text and other stimuli and the differing roles of actor,
 director, stage manager and technician in their realisation.</p>
-<p><strong>Devising</strong>
-</p>
-<p>Students should be able to demonstrate the ability to devise dramatic
-material and reflect on its effectiveness.</p>
-<p><strong>Performing Skills</strong>
-</p>
-<p>Students should be able to demonstrate performing skills in drama The
-above is based on the assessment requirement as stipulated in the IGCSE
-Examination. However, at lower secondary levels, expectations will be adjusted
-to suit the capabilities and objectives of the respective levels. However,
-the IGCSE assessment objectives should be adhered to in when students commence
-their 2 year IGCSE Drama course in Secondary 3.</p>
+<p></p>
