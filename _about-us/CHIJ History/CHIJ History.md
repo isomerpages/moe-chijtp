@@ -179,4 +179,5 @@ On 28 May, the school commemorated her 165th anniversary at the National Stadium
 * * *
 **2024**  
 CHIJ Secondary marked its 170th anniversary with a grand celebration at the National Stadium, themed “Hold On to Our Dream.” As part of the occasion, an anniversary album of the same name was launched, featuring 12 original songs written by students, alumnae, and teachers — a tribute to the enduring IJ spirit and the legacy of Blessed Nicolas Barré and the pioneering IJ Sisters.
+
 In September, with strong support from the alumnae, the school also unveiled the Tapestry of Time — a commemorative time capsule created to preserve cherished memories for future generations of IJ girls.
