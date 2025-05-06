@@ -15,13 +15,12 @@ Law. Mr Chan Yeo Chong</p>
 Tang. Mr Lionel Foong. Ms Christine Koh</p>
 <p><strong>NOT IN PHOTO</strong>: Mrs Chaiw Kit Wai. Ms Janet Wong. Mdm Faridah
 Misdi. Ms Shirley Fang. Mr Brian Thian Wen Yao. Mr Koh Bing Qin</p>
-<h3>Mission Statement </h3>
-<hr>
+<h3>Mission Statement</h3>
 <p>We aim to nurture excited inquirers with a deep understanding of scientific
 principles, empowering them to navigate a rapidly changing world. Through
 student-centred and investigative learning, we develop creative thinkers
 and curious minds who grow into independent, life-long learners.</p>
-<h4>Our Curriculum<strong> </strong></h4>
+<h4>Our Curriculum</h4>
 <p><strong>Inspiring Inquiry, Discovery &amp; Innovation</strong>
 </p>
 <p>At CHIJ, our Science Department offers a <strong>rigorous</strong>, <strong>inquiry-based curriculum</strong> designed
@@ -39,7 +38,7 @@ students develop:</p>
 </li>
 </ul>
 <hr>
-<h4>Integrated &amp; STEM-Focused Learning </h4>
+<h4>Integrated &amp; STEM-Focused Learning</h4>
 <p>We believe in connecting learning across disciplines. Our approach blends
 classroom knowledge with enrichment opportunities to nurture real-world
 problem solvers. In our STEM-based lessons and competitions, students apply:</p>
@@ -55,7 +54,7 @@ problem solvers. In our STEM-based lessons and competitions, students apply:</p>
 </li>
 </ul>
 <hr>
-<h4>Beyond the Classroom </h4>
+<h4>Beyond the Classroom</h4>
 <p>CHIJ students actively participate in interschool science competitions,
 where they are <strong>frequently commended</strong> for:</p>
 <ul data-tight="true" class="tight">
