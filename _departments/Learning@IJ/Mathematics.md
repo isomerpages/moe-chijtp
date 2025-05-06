@@ -64,7 +64,7 @@ and real-life problem solving.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gardens by the Bay" src="/images/Sa/Mathsdept/Picture2.png">
+<img style="width: 90%;" height="auto" width="100%" alt="Gardens by the Bay" src="/images/Sa/Mathsdept/Picture2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
