@@ -15,25 +15,54 @@ Law. Mr Chan Yeo Chong</p>
 Tang. Mr Lionel Foong. Ms Christine Koh</p>
 <p><strong>NOT IN PHOTO</strong>: Mrs Chaiw Kit Wai. Ms Janet Wong. Mdm Faridah
 Misdi. Ms Shirley Fang. Mr Brian Thian Wen Yao. Mr Koh Bing Qin</p>
-<h3>MISSION &amp; GOALS</h3>
-<hr>
-<p>To nurture excited inquirers with a deep understanding of scientific principles
-to navigate through a changing world.</p>
-<p>To develop creative-thinking skills and enquiring minds in our students
-so that they become independent thinkers and life-long learners through
-student-centred and investigative methods.</p>
-<p>Further differentiating our Life Science Programme to provide our lower-band
-students with a good understanding of basic life sciences in their everyday
-living, and challenging the upper-band students with more advanced topics
-and interests in careers in the life sciences.</p>
-<p><strong>Strategies</strong>
+<h3>Mission Statement</h3>
+<p>We aim to nurture excited inquirers with a deep understanding of scientific
+principles, empowering them to navigate a rapidly changing world. Through
+student-centred and investigative learning, we develop creative thinkers
+and curious minds who grow into independent, life-long learners.</p>
+<h4>Our Curriculum</h4>
+<p><strong>Inspiring Inquiry, Discovery &amp; Innovation</strong>
 </p>
-<p>The department conducts a rigorous curriculum in practical work for all
-classes so as to develop important investigative, analytical skills and
-a life-long attitude in discovery learning.</p>
-<p>The department promotes an integrated learning approach by incorporating
-skills that students have acquired through the enrichment and classroom
-learning programmes. All Project Work emphasizes the application of technology
-tools and communication skills. Organizers of interschool science competitions
-have highly commended CHIJ participants for their excellent communication
-skills.</p>
+<p>At CHIJ, our Science Department offers a <strong>rigorous</strong>, <strong>inquiry-based curriculum</strong> designed
+to spark curiosity and foster deep understanding. Through a balance of <strong>theoretical concepts and hands-on experiments</strong>,
+students develop:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Investigative and analytical thinking skills</p>
+</li>
+<li>
+<p>Confidence in scientific exploration</p>
+</li>
+<li>
+<p>A lifelong passion for learning through discovery</p>
+</li>
+</ul>
+<hr>
+<h4>Integrated &amp; STEM-Focused Learning</h4>
+<p>We believe in connecting learning across disciplines. Our approach blends
+classroom knowledge with enrichment opportunities to nurture real-world
+problem solvers. In our STEM-based lessons and competitions, students apply:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Scientific and mathematical concepts</p>
+</li>
+<li>
+<p>Technology tools and digital literacy</p>
+</li>
+<li>
+<p>Communication and collaboration skills</p>
+</li>
+</ul>
+<hr>
+<h4>Beyond the Classroom</h4>
+<p>CHIJ students actively participate in interschool science competitions,
+where they are <strong>frequently commended</strong> for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Outstanding communication skills</p>
+</li>
+<li>
+<p>Innovative and creative solutions to real-world problems</p>
+</li>
+</ul>
+<p></p>
