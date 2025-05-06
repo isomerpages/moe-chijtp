@@ -76,21 +76,21 @@ students.</p>
 </ol>
 <p><strong>Tamil Language Competitions</strong>
 </p>
-<p>We focus on the individual learning needs of our students and apply differentiated
-teaching strategies to cater to each student. We also send our students
-for external competitions organised by community centres and expose them
-to the community outside, boosting their self-esteem and confidence.</p>
-<p>Our Tamil Language students are encouraged to speak in Tamil increasing
-their vocabulary content and using them effectively. Proper intonation,
-expression and pronunciation are emphasised for reading at all levels.
-To help the students to sharpen their listening skills, they are exposed
-to various recordings of different genres like advertisement, conversation
-and news reading in class</p>
-<p>Focused revision on each examination component is given to students for
-all levels. This exposes them to various question types, thus giving them
-confidence to tackle such questions. Students are also given revision papers
-to help them prepare for examination and time-management is emphasised
-in the process.</p>
+<p>To nurture a love for the Mother Tongue languages and deepen students’
+appreciation of their cultural heritage, our MTL department actively encourages
+participation in various language-related competitions at the school, zonal,
+and national levels.</p>
+<p>Students are given opportunities to showcase their language proficiency,
+creativity, and confidence through essay writing, speech competitions,
+cultural quizzes, and video creation contests. These competitions not only
+strengthen language skills but also develop essential 21st-century competencies
+such as presentation skills, collaboration, and digital literacy.</p>
+<p>In particular, the video competitions empower students to script, direct,
+and present ideas in their Mother Tongue, enhancing both their linguistic
+and communication abilities in engaging, real-world contexts.</p>
+<p>Our students have consistently done us proud by achieving commendable
+results, reflecting their enthusiasm, dedication, and the strong support
+from our teachers.</p>
 <p><strong>Teaching Resources</strong>
 </p>
 <p>Tamil Touch-typing Practice
