@@ -86,7 +86,7 @@ and real-life problem solving.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Admiring the beauty of the underwater world" src="/images/Sa/Mathsdept/Picture4.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Admiring the beauty of the underwater world" src="/images/Sa/Mathsdept/Picture4.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -108,13 +108,13 @@ and real-life problem solving.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Admiring the beauty of the underwater world" src="/images/Sa/Mathsdept/Picture6.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Admiring the beauty of the underwater world" src="/images/Sa/Mathsdept/Picture6.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Harnessing the affordances when discussing and solving problems in real-world contexts" src="/images/Sa/Mathsdept/Picture9.png">
+<img style="width: 55%;" height="auto" width="100%" alt="Harnessing the affordances when discussing and solving problems in real-world contexts" src="/images/Sa/Mathsdept/Picture9.png">
 </div>
 </td>
 </tr>
@@ -129,5 +129,32 @@ contexts</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture7.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture8.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Up close and personal with the dolphins and their trainers at Dolphin
+Cove</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
