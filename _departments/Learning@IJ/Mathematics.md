@@ -51,7 +51,7 @@ forward to the following programs and opportunities to have an enriching
 Mathematics learning experience.&nbsp;
 <br>
 </p>
-<p><strong>STEM Day and Learning Journeys</strong>: These activities introduce
+<p><strong>1.STEM Day and Learning Journeys</strong>: These activities introduce
 students to STEM-related fields through hands-on activities, engaging experiences
 and real-life problem solving.</p>
 <table style="minWidth: 50px">
@@ -157,4 +157,77 @@ Cove</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>2.Mathematics Competitions</strong>&nbsp;</p>
+<ol>
+<li>
+<p>Singapore Mathematics Olympiad (SMO)</p>
+</li>
+<li>
+<p>Singapore and Asian Schools Math Olympiad (SASMO)</p>
+</li>
+<li>
+<p>Australian Mathematics Competition (AMC)</p>
+</li>
+<li>
+<p>National competitions (see Instagram post)</p>
+</li>
+</ol>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture10.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture11.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>3.Code for Fun Modules</strong>: a collaboration with the Infocomm
+Media Development Authority (IMDA), where all students have the opportunity
+to learn coding and develop prototypes.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Sharing their coding knowledge and prototypes with the public" src="/images/Sa/Mathsdept/Picture12.png">
+</div>
+<p>Sharing their coding knowledge and prototypes with the public&nbsp;</p>
+<p><strong>4.STEP-UP</strong>: An after-school support programme to bridge
+students’ learning</p>
+<p>
+<br>
+</p>
+<p><strong>USEFUL LINKS</strong>
+</p>
+<ul>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/maths/2020-express_na-maths_syllabuses.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G3 and G2 Mathematics Syllabus (4052)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/maths/2020-nt-maths_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G1 Mathematics Syllabus (4046)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/maths/2020-express_na-add-maths_syllabuses.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G3 and G2 Additional Mathematics Syllabus (4049)</u></a>
+</p>
+</li>
+<li>
+<p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of approved calculators</u></a> (by
+the Singapore Examinations and Assessment Board)</p>
+</li>
+</ul>
 <p></p>
