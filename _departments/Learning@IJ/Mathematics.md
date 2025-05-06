@@ -139,7 +139,7 @@ contexts</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture7.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Sa/Mathsdept/Picture7.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
