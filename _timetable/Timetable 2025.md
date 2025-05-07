@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/2025_Timed_Practice_Schedule__School_.pdf" rel="noopener noreferrer nofollow" target="_blank">Timed Practice</a>
+<p><a href="/files/Timetable/2025_Timed_Practice_Schedule__School_.pdf" rel="noopener noreferrer nofollow" target="_blank">Timed Practice for Sec 4 and 5</a>
 </p>
 </li>
 </ul>
