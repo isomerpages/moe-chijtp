@@ -27,6 +27,10 @@ variant: tiptap
 <p><a href="https://docs.google.com/spreadsheets/d/1WbqR5MS8kGFxPRny43SAhH9Agq72aFeKHN1AHtUe0XE/edit?usp=sharing" rel="noopener nofollow" target="_blank">Sec 5 School Based Assessments for Semeter 1</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Timetable/2025_Timed_Practice_Schedule__School_.pdf" rel="noopener noreferrer nofollow" target="_blank">Timed Practice</a>
+</p>
+</li>
 </ul>
 <h4><strong>Semester 1 Timetable</strong></h4>
 <ul data-tight="true" class="tight">
