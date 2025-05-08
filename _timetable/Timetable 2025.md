@@ -4,6 +4,9 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<h4><strong>TIMED PRACTICE FOR SECONDARY 4 AND 5 </strong></h4>
+<p><a href="/files/Timetable/2025TPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Timed Practice for Sec 4&amp;5</a>
+</p>
 <p></p>
 <h4><strong>School Based Assessment For Sec 1 to 5</strong></h4>
 <ul data-tight="true" class="tight">
