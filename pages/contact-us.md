@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: CHIJ Toa Payoh
+agency_name: CHIJ Secondary
 locations:
   - address:
       - 626 Lorong 1 Toa Payoh
