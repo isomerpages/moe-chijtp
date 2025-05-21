@@ -11,7 +11,7 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener nofollow" target="_blank">2024 JAE Courses</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener nofollow" target="_blank">2025 JAE Courses</a>
 </p>
 </li>
 <li>
