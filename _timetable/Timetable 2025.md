@@ -4,10 +4,26 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
-<h4><strong>TIMED PRACTICE FOR SECONDARY 4 AND 5</strong></h4>
-<p><a href="/files/Timetable/2025TPS.pdf" rel="noopener noreferrer nofollow" target="_blank">Timed Practice for Sec 4&amp;5</a>
+<h4><strong>Semester 2 Timetable</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/S2S1Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
 </p>
-<p></p>
+</li>
+<li>
+<p><a href="/files/Timetable/S2S2Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/S2S3Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/S2S45Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5</a>
+</p>
+<h4></h4>
+</li>
+</ul>
 <h4><strong>School Based Assessment For Sec 1 to 5</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -49,8 +65,6 @@ variant: tiptap
 <li>
 <p><a href="/files/Timetable/Sec45S1TT25.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5</a>
 </p>
-</li>
-<li>
 <p></p>
 </li>
 </ul>
