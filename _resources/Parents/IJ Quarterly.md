@@ -10,3 +10,5 @@ variant: tiptap
 </p>
 <p><a href="/files/Parents/IJ_Quarterly_2025_T2.pdf" rel="noopener nofollow" target="_blank">IJ Quarterly T2</a>
 </p>
+<p><a href="/files/Parents/IJQuarterly2025T3.pdf" rel="noopener nofollow" target="_blank">IJ Quarterly T3</a>
+</p>
