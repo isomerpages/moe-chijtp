@@ -4,6 +4,13 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<h4><strong>Schedule for Term 3 WA</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/2025Term3WA.pdf" rel="noopener noreferrer nofollow" target="_blank">Schedule for Term 3 WA</a>
+</p>
+</li>
+</ul>
 <h4><strong>Prelim Exam Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
