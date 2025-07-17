@@ -33,6 +33,19 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSd3VsQl8O-qV128WlTsLVWDGX2HKLHDHF81HQfCvdNk3m6nkQ/viewform"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/ITEquipment_ver2.png"></a>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chijtpss-adm/home"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IconTr/IJform.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>MOE Links</h2>
