@@ -7,7 +7,7 @@ variant: tiptap
 <h4><strong>Schedule for Term 3 WA</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/2025Term3WA3.pdf" rel="noopener nofollow" target="_blank">Schedule for Term 3 WA</a>
+<p><a href="/files/Timetable/2025Term3WA4.pdf" rel="noopener nofollow" target="_blank">Schedule for Term 3 WA</a>
 </p>
 </li>
 </ul>
