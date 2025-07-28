@@ -3,7 +3,6 @@ title: SBB Information
 permalink: /resources/sec-1-admission/sbb-information/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>SBB ELIGIBILITY AND INFORMATION</strong></h4>
 <p>If your child is eligible to take a subject at a more demanding level,

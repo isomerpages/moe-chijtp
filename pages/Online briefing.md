@@ -3,7 +3,6 @@ title: Online briefing
 permalink: /resources/sec-1-admission/online-briefing/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>ONLINE BRIEFING</strong></h4>
 <p><a href="/resources/parents/sec-1-briefing-slides/" rel="noopener nofollow" target="_blank">Briefing slides</a>

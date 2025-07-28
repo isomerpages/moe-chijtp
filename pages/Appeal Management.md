@@ -3,7 +3,6 @@ title: Appeal Management
 permalink: /resources/sec-1-admission/appeal-management/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>APPEAL TO TRANSFER INTO CHIJ SECONDARY (Non-Medical Reasons)</strong></h4>
 <p>Primary 6 students who have just received their secondary school posting

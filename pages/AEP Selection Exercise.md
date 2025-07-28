@@ -3,7 +3,6 @@ title: AEP Selection Exercise
 permalink: /resources/sec-1-admission/aep-selection-exercise/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>AEP SELECTION EXERCISE 2025</strong></h4>
 <p><strong>Date</strong>: Thursday, 26 December 2024</p>

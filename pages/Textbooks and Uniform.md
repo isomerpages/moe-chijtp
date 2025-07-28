@@ -3,7 +3,6 @@ title: Textbooks and Uniform
 permalink: /resources/sec-1-admission/textbooks-and-uniform/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>SALES OF SCHOOL TEXTBOOKS AND SCHOOL UNIFORMS</strong></h4>
 <p>Please click on this <a href="https://www.chijsec.edu.sg/resources/parents/booklist/" rel="noopener noreferrer nofollow" target="_blank">link</a> for

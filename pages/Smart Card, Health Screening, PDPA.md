@@ -3,7 +3,6 @@ title: Smart Card, Health Screening, PDPA
 permalink: /resources/sec-1-admission/smart-card-health-screening-pdpa/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>SCHOOL SMART CARDS</strong></h4>
 <p>Please note that all students entering Secondary 1 in Jan 2025 will be

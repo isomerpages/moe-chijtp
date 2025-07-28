@@ -3,7 +3,6 @@ title: eRegistration
 permalink: /resources/sec-1-admission/registration/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
 ---
 <h4><strong>REGISTRATION INFORMATION</strong></h4>
 <p>As part of the e-registration process, please complete <a href="https://form.gov.sg/67203fd1a8cd3e2fc1c96ff1" rel="noopener noreferrer nofollow" target="_blank">this form</a> or
