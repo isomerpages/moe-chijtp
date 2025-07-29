@@ -34,7 +34,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chijtpss-adm/home"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IconTr/IJform.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chijtpss-adm/home"><img style="width: 100%" height="auto" width="100%" alt="ijform" src="/images/IconTr/IJform2.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
