@@ -14,11 +14,11 @@ variant: tiptap
 <h4><strong>Prelim Exam Timetable</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/OLevelPExamTT.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable</a>
+<p><a href="/files/Timetable/OLevelPExamTTb.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/OLevelPExamTTAA.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable (AA)</a>
+<p><a href="/files/Timetable/OLevelPExamTTAAb.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable (AA)</a>
 </p>
 </li>
 <li>
