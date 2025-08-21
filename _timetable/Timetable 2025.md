@@ -4,6 +4,21 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<h4><strong>EYE Timetable 2025</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Timetable/Sec1EYE2025a.pdf" rel="noopener nofollow" target="_blank">Sec 1 EYE Timetable 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/Sec2EYE2025a.pdf" rel="noopener nofollow" target="_blank">Sec 2 EYE Timetable 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Timetable/Sec3EYE2025a.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE Timetable 2025</a>
+</p>
+</li>
+</ul>
 <h4><strong>Schedule for Term 3 WA</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
