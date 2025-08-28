@@ -92,8 +92,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://myexamduty.seab.gov.sg/auth/login"><img style="width: 100%" height="auto" width="100%" alt="seab" src="/images/IconTr/seab2.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://forms.moe.edu.sg/"><img style="width: 100%" height="auto" width="100%" alt="all ears" src="/images/IconTr/allears.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
