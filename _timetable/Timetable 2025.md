@@ -15,8 +15,8 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec3EYE2025c.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE Timetable 2025 </a>
-</p>
+<p><a href="/files/Timetable/Sec3EYE2025c.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE Timetable 2025 </a>(Updated
+18 Sep'2025)</p>
 </li>
 </ul>
 <h4><strong>Schedule for Term 3 WA</strong></h4>
@@ -61,4 +61,4 @@ variant: tiptap
 <h4></h4>
 </li>
 </ul>
-<p></p>
+<p>(Updated 18 Sep'2025)</p>
