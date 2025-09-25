@@ -10,8 +10,7 @@ third_nav_title: Learning@IJ
 </div>
 <p>ALL from left: Mr Adrian Moh&nbsp;<em>SH/ICT.</em>&nbsp;Mrs Lois Law&nbsp;<em>HoD/ICT</em>.
 Mr Mike Pyia Phyo&nbsp;<em>ICT Manager</em>. Mr Muhammad Fikri Bin Zulkefili&nbsp;<em>Desktop Engineer</em>.
-Mr Muhammad Naim Bin Muhamed&nbsp;<em>AVA Executive</em>. Mr Muhammad Rusydi
-Aman.&nbsp;<em>Desktop Engineer</em>
+Mr Muhammad Rusydi Aman.&nbsp;<em>ICT Associate.</em>
 </p>
 <p><strong>PDLP Outcomes @ CHIJ</strong>
 </p>
