@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Open House.md
       - Sec 1 Admission/.keep
       - Sec 1 Admission/Welcome Note.md
       - Parents/Forms for Parents.md
