@@ -20,5 +20,5 @@ sections:
           url: /resources/parents/dsa-application/
         - title: Open House
           description: View All
-          url: https://www.chijsec.edu.sg/open-house/
+          url: /open-house/
 ---
