@@ -5,13 +5,13 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/ict.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/ictdept.jpg">
 </div>
 <p>ALL from left: Mr Adrian Moh&nbsp;<em>SH/ICT.</em>&nbsp;Mrs Lois Law&nbsp;<em>HoD/ICT</em>.
 Mr Mike Pyia Phyo&nbsp;<em>ICT Manager</em>. Mr Muhammad Fikri Bin Zulkefili&nbsp;<em>Desktop Engineer</em>.
-Mr Muhammad Naim Bin Muhamed&nbsp;<em>AVA Executive</em>. Mr Muhammad Rusydi
-Aman.&nbsp;<em>Desktop Engineer</em>
+Mr Muhammad Rusydi Aman.&nbsp;<em>ICT Associate.</em>
 </p>
 <p><strong>PDLP Outcomes @ CHIJ</strong>
 </p>
