@@ -3,7 +3,7 @@ title: Transfer Admission Request 2025
 permalink: /transfer-admission-request-2025/
 variant: tiptap
 description: ""
-third_nav_title: Sec 1 Admission
+third_nav_title: Admission
 ---
 <h4><strong>Period of Application: 6 Oct 2025 – 24 Oct 2025</strong></h4>
 <ul data-tight="true" class="tight">
