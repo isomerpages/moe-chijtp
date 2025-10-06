@@ -33,8 +33,8 @@ at CHIJ Secondary between 7 Oct – 7 Nov 2025.</p>
 </li>
 </ul>
 <p>Returning Singaporean girls who would like to join us at Secondary 2 at
-the beginning of the</p>
-<p>next academic year are to register for the MOE&nbsp;<a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener nofollow" target="_blank">School Placement Exercise for Returning Singaporeans (SPERS)</a>.</p>
+the beginning of the next academic year are to register for the MOE&nbsp;
+<a href="https://www.moe.gov.sg/returning-singaporeans" rel="noopener nofollow" target="_blank">School Placement Exercise for Returning Singaporeans (SPERS)</a>.</p>
 <p>SPERS-Sec is a centralised posting exercise conducted at the end of the
 year, usually sometime in October, for Returning Singaporeans who wish
 to join secondary schools at Sec 2 at the beginning of the next academic
