@@ -3,7 +3,6 @@ title: Welcome Note
 permalink: /resources/sec-1-admission/welcome-note/
 variant: tiptap
 description: ""
-third_nav_title: Admission
 ---
 <h4><strong>WELCOME TO THE IJ FAMILY!</strong></h4>
 <p>On behalf of the staff and students at CHIJ Secondary, we extend a warm
