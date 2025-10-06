@@ -53,7 +53,7 @@ more information.</p>
 following links for more information on alternative Catholic schools:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Other Catholic schools</strong>
+<p><a href="https://www.accs.sg/directory/" rel="noopener nofollow" target="_blank">Other Catholic schools</a>
 </p>
 </li>
 </ul>
