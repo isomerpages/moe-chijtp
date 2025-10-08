@@ -10,9 +10,9 @@ third_nav_title: Learning@IJ
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/ictdept_low.jpg">
 </div>
 <p>First row from left: Mr Adry Aieman <em>Desktop Engineer.</em> Mr Adrian
-Moh&nbsp;. Mr Mike Pyia Phyo&nbsp;<em>ICT Manager</em>. Mr Muhammad Fikri
-Bin Zulkefili&nbsp;<em>Desktop Engineer</em>.</p>
-<p>Second row from left: Mrs Lois Law&nbsp;<em>HoD/ICT. </em>Ms Nur Liyana <em>AV Executive. </em> Mr
+Moh <em>SH/ICT</em>&nbsp;. Mr Mike Pyia Phyo&nbsp;<em>ICT Manager</em>.
+Mr Muhammad Fikri Bin Zulkefili&nbsp;<em>Desktop Engineer</em>.</p>
+<p>Second row from left: Mrs Lois Law&nbsp;<em>HoD/ICT. </em>Ms Nur Liyana <em>AV Executive. </em>Mr
 Muhammad Rusydi Aman.&nbsp;<em>ICT Associate.</em>
 </p>
 <p><strong>PDLP Outcomes @ CHIJ</strong>
