@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><a href="https://docs.google.com/spreadsheets/d/15wjq8PSAvlXDlSSbumqHNzuRCbHuyvIgRrhTSneW59M/edit?usp=sharing" rel="noopener nofollow" target="_blank">End of Year Exam Script checking Schedule 2025</a></h4>
+<h4><a href="/files/Timetable/PEAS25.pdf" rel="noopener noreferrer nofollow" target="_blank">PEA Schedule 2025</a></h4>
 <h4><strong>EYE Timetable 2025</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
