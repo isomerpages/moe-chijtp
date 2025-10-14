@@ -19,13 +19,13 @@ prior to your visit.</p>
 </li>
 <li>
 <p>If you wish to buy uniforms directly at the school, the uniform sales
-event is as follows : <strong>TBF</strong>
+event is as follows : <strong>TBC</strong>
 </p>
 </li>
 </ol>
 <p></p>
 <p></p>
-<p><a href="/files/SECTPYPLv2.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Spec </a>
+<p><a href="/files/SECTPYPLv2.pdf" rel="noopener noreferrer nofollow" target="_blank">Uniform Size Spec</a>
 </p>
 <p><strong>Magdalene Sewing Centre Pte Ltd</strong>
 </p>
