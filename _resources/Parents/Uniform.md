@@ -19,8 +19,11 @@ prior to your visit.</p>
 </li>
 <li>
 <p>If you wish to buy uniforms directly at the school, the uniform sales
-event is as follows : <strong>TBC</strong>
-</p>
+event is as follows :</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/uniform.jpg">
+</div>
 </li>
 </ol>
 <p></p>
