@@ -9,17 +9,15 @@ variant: tiptap
 </p>
 <p>SECONDARY 1 BOOKLIST (Mid DEC)</p>
 <p><strong>Secondary 2</strong>
-</p>
-<p><a href="/files/Booklist/2026bk/S2.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 2 BOOKLIST </a>
+<br><a href="/files/Booklist/2026bk/S2.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 2 BOOKLIST</a>
 </p>
 <p><strong>Secondary 3</strong>
-</p>
-<p><a href="/files/Booklist/2026bk/S3.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 3 BOOKLIST</a>
+<br><a href="/files/Booklist/2026bk/S3.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 3 BOOKLIST</a>
 </p>
 <p><strong>Secondary 4 &amp; 5</strong>
+<br><a href="/files/Booklist/2026bk/S4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 4 &amp; 5 BOOKLIST</a>
 </p>
-<p><a href="/files/Booklist/2026bk/S4_5.pdf" rel="noopener noreferrer nofollow" target="_blank">SECONDARY 4 &amp; 5 BOOKLIST</a> 
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
