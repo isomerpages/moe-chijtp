@@ -26,8 +26,9 @@ variant: tiptap
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Netball</div>
-<div class="isomer-card-description">South Zone Inter-School B Div 2022 (1st), 2023 (1st), C Div 2022 (1st),
-2023 (1st) / National Inter-School B Div 2023 (1st), C Div 2023 (1st)</div>
+<div class="isomer-card-description">South Zone Inter-School B Div 2022 (1st), 2023 (1st) 2024 (1st), C Div
+2022 (1st), 2023 (1st), 2024 (League 1 2nd) / National Inter-School B Div
+2023 (1st) 2024 (3rd), C Div 2023 (1st) 2024 (2nd)</div>
 <div class="isomer-card-link">Read more</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="/cca/sports-and-games/rhythmic-gymnastics/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Sports/2024_Rgym_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Gym (Rhythmics)</div><div class="isomer-card-description">National Inter-School B Div 2022 (3rd), 2023 (4th) 2025 (Team Event Gold) / National Inter-School C Div 2022 (4th), 2023 (3rd), 2024 (3rd)</div><div class="isomer-card-link">Read more</div></div></a>
