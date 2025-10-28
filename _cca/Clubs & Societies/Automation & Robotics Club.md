@@ -190,6 +190,28 @@ to clinch several awards over the past few years at various competitions.</p>
 <p></p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th place, Innovation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;3rd Place</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
