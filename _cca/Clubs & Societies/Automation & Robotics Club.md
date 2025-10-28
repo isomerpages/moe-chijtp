@@ -156,7 +156,7 @@ to clinch several awards over the past few years at various competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drone Odyssey</p>
@@ -168,7 +168,7 @@ to clinch several awards over the past few years at various competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drone Odyssey</p>
@@ -180,7 +180,7 @@ to clinch several awards over the past few years at various competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Drone Odyssey</p>
@@ -192,7 +192,7 @@ to clinch several awards over the past few years at various competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IDE Series</p>
@@ -203,7 +203,7 @@ to clinch several awards over the past few years at various competitions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ignITE Challenge</p>
