@@ -20,7 +20,7 @@ variant: tiptap
 Best Strategy Award (2nd)</div>
 <div class="isomer-card-link">Read me</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chij-chinese-cultural-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Chinese_Cultural.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHIJ Chinese Cultural Society</div><div class="isomer-card-description">SYF Arts Presentation (Chinese Dance) Accomplishment 2021, 2023</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chij-chinese-cultural-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Chinese_Cultural.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHIJ Chinese Cultural Society</div><div class="isomer-card-description">SYF Arts Presentation (Chinese Dance) Accomplishment 2021, 2023, 2025</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/debating-and-oratory-society/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
