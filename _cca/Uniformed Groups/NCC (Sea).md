@@ -48,7 +48,7 @@ training activities)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_1.jpg">
 </div>
 <p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
 nurture a community of Resilient, Responsible, and Relevant student leaders.
@@ -62,9 +62,8 @@ be future-ready citizens, ready to serve and give back to the community,
 but more importantly, develop a sense of unforgettable camaraderie that
 they would cherish throughout their journey in CHIJ Secondary. To serve
 with Pride and Dedication!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_2.jpg">
 </div>
 <p><strong>Highlights:</strong>
 </p>
@@ -100,7 +99,7 @@ Expedition, Ship visits, and more!</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_3.jpg">
 </div>
 <p><strong>2025</strong>&nbsp;<strong>Achievements:</strong>
 </p>
