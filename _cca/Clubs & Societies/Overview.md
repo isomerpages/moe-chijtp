@@ -20,7 +20,7 @@ variant: tiptap
 Best Strategy Award (2nd)</div>
 <div class="isomer-card-link">Read me</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chij-chinese-cultural-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Chinese_Cultural.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHIJ Chinese Cultural Society</div><div class="isomer-card-description">SYF Arts Presentation (Chinese Dance) Accomplishment 2021, 2023</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/chij-chinese-cultural-society/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/Chinese_Cultural.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CHIJ Chinese Cultural Society</div><div class="isomer-card-description">SYF Arts Presentation (Chinese Dance) Accomplishment 2021, 2023, 2025</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/debating-and-oratory-society/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -42,10 +42,11 @@ speakers in the Illuminate competition 2023 (org by SJI)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">IJ Youth Mission</div>
-<div class="isomer-card-description">IJ Youth Mission Interschool Competition 2022 (Distinction) , 2023 (Accomplishment)</div>
+<div class="isomer-card-description">IJ Youth Mission Interschool Competition 2022 (Distinction) , 2023, 2024
+(Accomplishment)</div>
 <div class="isomer-card-link">Read more</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/igrow-at-ij-eco-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_igrowij_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">iGrow@IJ (ECO Club)</div><div class="isomer-card-link">Read more</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/igrow-at-ij-eco-club/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/Clubs/2024_igrowij_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">iGrow@IJ (ECO Club)</div><div class="isomer-card-description">2025 NSS Project: 1st place for 'Highest Number of Research Grade Observations' in the Secondary School Category / 2025 NSS Annual Biodiversity Race: 3rd Place for 'Most Unique Observation' (of the Mangrove Pit Viper)</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/clubs-and-societies/legion-of-mary/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">

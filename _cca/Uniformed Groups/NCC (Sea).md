@@ -48,7 +48,7 @@ training activities)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_1.jpg">
 </div>
 <p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
 nurture a community of Resilient, Responsible, and Relevant student leaders.
@@ -62,9 +62,8 @@ be future-ready citizens, ready to serve and give back to the community,
 but more importantly, develop a sense of unforgettable camaraderie that
 they would cherish throughout their journey in CHIJ Secondary. To serve
 with Pride and Dedication!</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_2.jpg">
 </div>
 <p><strong>Highlights:</strong>
 </p>
@@ -79,9 +78,9 @@ Proficiency assessments</p>
 2-Star Kayaking</p>
 </li>
 <li>
-<p>Camp FORGE (Sec 1s), Camp STEEL (Sec 2s), Sea Specialist Course &amp;
-Senior Specialist Leadership Course (Sec 3s), Cadet Officer Course (Selected
-Sec 4s&amp;5s)&nbsp;</p>
+<p><strong>Camps and Courses</strong>:<strong> </strong>Camp FORGE (Sec 1s),
+Camp STEEL (Sec 2s), Sea Specialist Course &amp; Senior Specialist Leadership
+Course (Sec 3s), Cadet Officer Course (Selected Sec 4s&amp;5s)&nbsp;</p>
 </li>
 <li>
 <p><strong>Unit Initiatives</strong>: Leadership Camp, Unit Camp, National
@@ -91,39 +90,44 @@ Education (NE) Learning Journey</p>
 <p><strong>HQ NCC Sports and Service-related Competitions&nbsp;</strong>
 </p>
 </li>
-</ul>
-<p><strong>HQ NCC programmes</strong> such as the Affirmation Ceremony at
-Changi Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course,&nbsp;
+<li>
+<p><strong>HQ NCC programmes:&nbsp;</strong>Affirmation Ceremony at Changi
+Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course,&nbsp;
 International Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir
 Expedition, Ship visits, and more!</p>
+</li>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_NCC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_3.jpg">
 </div>
-<p><strong>2024</strong>  <strong>Achievements:</strong>
+<p><strong>2025</strong>&nbsp;<strong>Achievements:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>Unit Recognition Award: Distinction (Since 2021)&nbsp;</p>
 </li>
 <li>
-<p>Dragon Boat Championship (Girls) (Champion and 1st Runner up)</p>
+<p>NCC Dragon Boat Championship (Girls) (Champion and 2nd Runner up)</p>
 </li>
 <li>
-<p>Mini Kayaking Expedition Finals (Girls) (5th placing)&nbsp;&nbsp;</p>
+<p>'C' Division Dragon Boat Championship (Girls) (2nd Runner up)</p>
 </li>
 <li>
-<p>NCC Sports Championship Soccer (Girls) (District and Overall NCC Champion)</p>
+<p>Mini Kayaking Expedition Finals (Girls) (Champion)&nbsp;&nbsp;</p>
 </li>
 <li>
-<p>NCC Sports Championship Captain's Ball (Girls) (District Champion)&nbsp;</p>
+<p>NCC Sports Championship Soccer (Girls) (Cluster Champion)</p>
 </li>
 <li>
-<p>NCC Sports Championship Frisbee (Girls) (District 2nd Runner up)</p>
+<p>NCC Sports Championship Captain's Ball (Girls) (Cluster Champion)&nbsp;</p>
 </li>
 <li>
-<p>SAR21 Package - 75% Marksmanship</p>
-<p></p>
+<p>NCC Sports Championship Frisbee (Girls) (Cluster 1st Runner up)</p>
+</li>
+<li>
+<p>Outstanding Unit Award (OCA) awarded to Clover Low En Min and Chua Xin
+Yi Sherilyn from 4 Elizabeth</p>
 </li>
 </ul>
 <p></p>

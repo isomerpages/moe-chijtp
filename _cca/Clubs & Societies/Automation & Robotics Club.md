@@ -154,6 +154,64 @@ to clinch several awards over the past few years at various competitions.</p>
 <p>1st place</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st in Best Presentation Award</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st in Best Knowledge Award</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drone Odyssey</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd, 3rd in Best Strategy Award</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IDE Series</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5th place, Innovation Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ignITE Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;3rd Place</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
