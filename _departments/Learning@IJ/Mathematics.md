@@ -6,17 +6,18 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/maths.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/7_Math.jpg">
 </div>
-<p><strong>BACK from left:</strong>&nbsp;Mr Eng Wee Keng. Mr Augustine Augustine
-Khoo. Mr The Keng Seng. Mr Joel Chen. Mrs Audrey Teng</p>
+<p><strong>BACK from left:</strong>&nbsp;Mr Augustine Khoo . Mr Eng Wee Keng.
+Mr Derrick Ng . Mrs Priscilla Lim . Mrs Tan Yan Ping . . Mr Eraja Rajan
+Narayanasamy . Ms May Chong .</p>
 <p><strong>MIDDLE from left:</strong> Mrs Wong Lai Mun. Mrs Elaine Chia. Mrs
-Khoo Bee Siong. Ms May Chong. Mrs Tan Yan Ping</p>
-<p><strong>FRONT from left</strong>: Ms Janice Yong. Mrs Gladys Hoy. Mr Jason
-Ng. Ms Nur Afiqah Jamaludin</p>
-<p><strong>NOT IN PHOTO</strong>: Mr Eraja Rajan Narayanasamy. Mrs Priscilla
-Lim. Mr Adrian Moh. Mrs Kim Purushothaman, Ms Amanda Chua</p>
+Khoo Bee Siong. .</p>
+<p><strong>FRONT from left</strong>: Mr Adrian Moh . Ms Amanda Chua . Ms
+Janice Yong . Mr Jason Ng . Mrs Gladys Hoy . Mrs Siti Nurulhuda . Ms Nur
+Afiqah Jamaludin . Mrs Martha Praeman</p>
 <h3>VISION</h3>
 <p>To nurture&nbsp;</p>
 <ol>

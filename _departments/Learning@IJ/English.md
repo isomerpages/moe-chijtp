@@ -6,18 +6,20 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/eng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/4_EL___Lit.jpg">
 </div>
-<p><strong>BACK from left</strong>: &nbsp;Mr Eugene Lim . Mrs Teresa Francis
-. Ms Puja Dada. Ms Stephanie Song . Mr Ragulan Pakirisamy</p>
-<p><strong>MIDDLE from left</strong>: &nbsp;Ms Sum Kar Mun . Mrs Geralyn
-Vincent . Ms Chelza Chong . Ms Nicole Teo . Ms Angela Lim . Mrs Tivona
-Chelliah</p>
-<p>&nbsp;<strong>FRONT from left: </strong>&nbsp;Mrs Angeline Yeo <em>senior teacher/english language</em>&nbsp;.
-Mrs Magdalen Low . Mdm Cheng Ai Hoon . Mrs Wendy Lee . Ms Claudia Ng .
-Ms Margaret Teo . Ms Michelle Tay . Ms Jey Sundari</p>
-<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Junainah Binte Amran</p>
+<p><strong>BACK from left</strong>: Mr Ragulan Pakirisamy . Mrs Teresa Francis
+. Mrs Geralyn Vincent . Ms Sum Kar Mun . Ms Puja Dada . Mrs Tivona Chelliah
+. Mr Eugene Lim .</p>
+<p><strong>MIDDLE from left</strong>: &nbsp;Mdm Cheng Ai Hoon . Ms Michelle
+Tay . Mrs Wendy Lee. Ms Stephanie Song . Ms Chelza Chong . Ms Angela Lim
+. Ms Junainah Binte Amran . Ms Nicole Teo . Mrs Angeline Yeo <em>senior teacher/english language . </em>
+</p>
+<p><strong>FRONT from left: </strong>&nbsp;Mrs Jerilee Leong .&nbsp;Ms Margaret
+Teo . Ms Claudia Ng . Mrs Magdalen Low . Ms Lee Xiu Ping</p>
+<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Jey Sundari</p>
 <h3>Mission Statement:</h3>
 <p>To nurture critical thinkers who display the ability to negotiate a diverse
 array of multimodal texts to communicate effectively in a complex world.</p>

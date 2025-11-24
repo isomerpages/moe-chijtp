@@ -6,11 +6,13 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/Drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/3A_Drama.jpg">
 </div>
-<p>&nbsp;<strong>MAIN from left</strong> Mr Gary Tang. Ms Sum Kar Mun . Mrs
-Tivona Chelliah. Mr Marcus Liang . Ms Angela Lim . Ms Raquel Lim</p>
+<p>&nbsp;<strong>Top from left:</strong> Mr Gary Tang. Mr Marcus Liang</p>
+<p><strong>Bottom from left: </strong>Ms Sum Kar Mun. Ms Angela Lim. Mrs
+Tivona Chelliah. Ms Raquel Lim</p>
 <p>The lower secondary&nbsp;Drama&nbsp;programme aims to deepen students’
 understanding of cultural and social constructs via activity-based collaborative
 learning. Every lesson is therefore an opportunity for students to hone

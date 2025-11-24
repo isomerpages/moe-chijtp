@@ -6,20 +6,27 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
+<h4>Food and Consumer Education</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dept/2025/lifeskille.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
 </div>
-<p><strong>BACK from left</strong>: Mrs Seah-Tay Hwee Kheng. Mr Teo Wen Jie</p>
-<p><strong>MIDDLE from left</strong>: Ms Ida Nursanti. Mrs Eugenia Tan. Ms
-Norshidah Abdul Rahim. Ms Jesslyn Winata. Mr Rashid Jeffery</p>
-<p><strong>FRONT from left</strong>: Ms Natalie Chung. Mdm Laura Goh</p>
-<p><strong>SEATED</strong>: Mr Leon Yeo</p>
+<p><strong>BACK from left</strong>: Ms Natalie Chung . Mdm Laura Goh. Mrs
+Eugenia Tan .</p>
+<p><strong>Front from left</strong>: Mrs Lee Xiu Ping . Ms Ida Nursanti .
+Ms Norshidah Abdul Rahim .</p>
 <p><strong>Vision Statement</strong>
 </p>
-<p>The Lifeskills&nbsp; Department aims to inculcate knowledge and skills
+<p>The Lifeskills&nbsp;Department aims to inculcate knowledge and skills
 to every student, providing them with the opportunity to make informed
 choices which will develop them into a Woman of Distinction.</p>
 <h4>Design &amp; Technology</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___D_T.jpg">
+</div>
+<p><strong>Front from left: </strong>Mr Rashid Jeffery . Mrs Eugenia Tan
+. Mrs Seah-Tay Hwee Kheng . Mr Wong Wei Keong</p>
 <p>Design and Technology is part of a holistic broad-based education. It
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
