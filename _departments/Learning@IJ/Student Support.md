@@ -6,8 +6,9 @@ description: ""
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/stdsupport.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/12_Student_Support.jpg">
 </div>
 <p><strong>BACK from left: </strong>Ms Norshidah Abdul Rahim. Ms Tan Jia
 Hui. Ms Lau Hwee Jen. Ms Jesslyn Fong. Ms Sharon Tay</p>
