@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/mtl.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/8_Mother_Tongue.jpg">
 </div>
 <p>&nbsp;<strong>STANDING from left: </strong>Ms Mai Lei . Mdm Zhang Shujuan <em>senior teacher/chinese language . </em>Ms
 Joanne Tan . Ms Lim Fang Teng . Ms Mastura Senin . Mr Li Zhengjun</p>
