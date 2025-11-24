@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/eng.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/4_EL___Lit.jpg">
 </div>
 <p><strong>BACK from left</strong>: &nbsp;Mr Eugene Lim . Mrs Teresa Francis
 . Ms Puja Dada. Ms Stephanie Song . Mr Ragulan Pakirisamy</p>
