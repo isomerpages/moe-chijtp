@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/Science.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/10_Science.jpg">
 </div>
 <p><strong>BACK from left: </strong>Mrs Wendy Tay.<strong> </strong>Mrs Chia
 Yee Hwee.<strong> </strong>Ms Tan Boon Chui. Mrs Audrey Teng. Mrs Lois
