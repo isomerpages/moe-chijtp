@@ -6,8 +6,9 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/art.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/2_Art.jpg">
 </div>
 <p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang. Ms Jey Sundari
 . Mrs Yeoh Ting Ting <em>lead teacher/art</em> . Ms Kong Mei Sing . Ms Raquel
