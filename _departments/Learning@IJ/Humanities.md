@@ -10,13 +10,12 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/5_Humanities.jpg">
 </div>
-<p><strong>BACK from left</strong>: Mr Tan Yee Ping. Mr Joen Chen. Mr Ernest
-Leong. Ms Balvinder Kaur. Mrs Tan Kai Ling. Ms Bernice Loon. Mdm Cheng
-Ai Hoon. Mr Brian Ho. Mrs Teresa Francis. Mr Tristan Fernandez</p>
-<p><strong>FRONT from left</strong>: Mr Titus Chang. Ms Alvina Chua. Ms Hemavathy
-Anbalagan. Ms Karina Sheri</p>
-<p><strong>NOT IN PHOTO</strong>: Ms Linda Cruz. Ms Chelza Chong, Mr Joseph
-Tham</p>
+<p><strong>BACK from left</strong>: Ms Alvina Chua . Mrs Teresa Francis .
+Mr Joseph Tham . Mr Joel Chen. Mr Tan Yee Ping . Mr Titus Chang . Ms Karina
+Sheri . Mrs Tan Kai Ling . Mr Ernest Leong . Mr Tristan Fernandez . Ms
+Bernice Loon. Mdm Cheng Ai Hoon. Mr Brian Ho.</p>
+<p><strong>FRONT from left</strong>: Ms Balvinder Kaur . Ms Hemavathy D/O
+. Ms Linda Cruz</p>
 <hr>
 <p>The Humanities curriculum seeks to develop curious learners who are critical
 thinkers and responsible global citizens. These attributes are developed
