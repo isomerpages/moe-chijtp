@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Open House.md
-      - Admission/Welcome Note.md
       - Admission/.keep
       - Admission/Transfer Admission Request 2025.md
       - Parents/Forms for Parents.md
