@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/hum.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/5_Humanities.jpg">
 </div>
 <p><strong>BACK from left</strong>: Mr Tan Yee Ping. Mr Joen Chen. Mr Ernest
 Leong. Ms Balvinder Kaur. Mrs Tan Kai Ling. Ms Bernice Loon. Mdm Cheng
