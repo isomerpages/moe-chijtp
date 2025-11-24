@@ -6,8 +6,9 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/pe.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/9_PE.jpg">
 </div>
 <p><strong>ALL from left:</strong> &nbsp;Ms Agnes Leong . Mr Harry Goh . Mrs
 Tan Yan Ping . Mr Kenneth Ho . Mr Daniel Kuan . Mr Daryl Chan . Ms Stephanie
