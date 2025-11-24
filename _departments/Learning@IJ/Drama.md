@@ -6,8 +6,9 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2025/Drama.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/3A_Drama.jpg">
 </div>
 <p>&nbsp;<strong>MAIN from left</strong> Mr Gary Tang. Ms Sum Kar Mun . Mrs
 Tivona Chelliah. Mr Marcus Liang . Ms Angela Lim . Ms Raquel Lim</p>
