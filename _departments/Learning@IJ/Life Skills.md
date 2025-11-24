@@ -21,6 +21,10 @@ Norshidah Abdul Rahim. Ms Jesslyn Winata. Mr Rashid Jeffery</p>
 to every student, providing them with the opportunity to make informed
 choices which will develop them into a Woman of Distinction.</p>
 <h4>Design &amp; Technology</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___D_T.jpg">
+</div>
 <p>Design and Technology is part of a holistic broad-based education. It
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
