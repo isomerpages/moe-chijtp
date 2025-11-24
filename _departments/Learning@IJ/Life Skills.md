@@ -6,8 +6,9 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Dept/2025/lifeskille.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
 </div>
 <p><strong>BACK from left</strong>: Mrs Seah-Tay Hwee Kheng. Mr Teo Wen Jie</p>
 <p><strong>MIDDLE from left</strong>: Ms Ida Nursanti. Mrs Eugenia Tan. Ms
