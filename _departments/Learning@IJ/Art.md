@@ -10,9 +10,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/2_Art.jpg">
 </div>
-<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang. Ms Jey Sundari
-. Mrs Yeoh Ting Ting <em>lead teacher/art</em> . Ms Kong Mei Sing . Ms Raquel
-Lim ag <em>senior teacher/educational support</em>&nbsp;. Mr Brian Ho</p>
+<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang <em>lead teacher/art</em>.
+Ms Raquel Lim ag <em>senior teacher/educational support</em> . Ms Kong Mei
+Sing . Mrs Yeoh Ting Ting&nbsp;. Ms Jey Sundari . Mr Brian Ho</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture inquiring and engaged art learners who display curiosity, resourcefulness,
