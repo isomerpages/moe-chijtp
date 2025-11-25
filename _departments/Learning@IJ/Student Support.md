@@ -10,8 +10,9 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/12_Student_Support.jpg">
 </div>
-<p><strong>BACK from left: </strong>Ms Norshidah Abdul Rahim. Ms Tan Jia
-Hui. Ms Lau Hwee Jen. Ms Jesslyn Fong. Ms Sharon Tay</p>
-<p><strong>FRONT from left</strong>: Ms Mathews Shu Quo. Ms Andrea Wang.
-Ms Susan Chong</p>
-<p><strong>NOT IN PHOTO</strong>: Ms Genevieve Pang</p>
+<p><strong>BACK from left: </strong>Mrs Tan Yan Ping . Mr Marcus Liang .
+Ms Tan Jia Hui. Ms Lau Hwee Jen. Ms Jesslyn Fong.</p>
+<p><strong>FRONT from left</strong>: Ms Sharon Tay . Ms Mathews Shu Quo.
+Ms Norshidah Abdul Rahim</p>
+<p><strong>NOT IN PHOTO</strong>: Ms Genevieve Pang Ms Andrea Wang. Ms Susan
+Chong</p>
