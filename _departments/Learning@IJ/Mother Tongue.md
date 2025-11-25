@@ -10,12 +10,12 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/8_Mother_Tongue.jpg">
 </div>
-<p>&nbsp;<strong>STANDING from left: </strong>Ms Mai Lei . Mdm Zhang Shujuan <em>senior teacher/chinese language . </em>Ms
-Joanne Tan . Ms Lim Fang Teng . Ms Mastura Senin . Mr Li Zhengjun</p>
-<p>&nbsp;<strong>SEATED from left: </strong>Mrs Mythily Ezhilmani . Ms Shirley
-Ong . Ms I Nandhini . Mdm Sim Hoon Kuan . Ms Siti Zainab Zainal Mdm Seng
-Wee Pheng</p>
-<p>&nbsp;<strong>NOT PICTURED: </strong>Ms Joan Gan Mdm Lay Woon Ting</p>
+<p><strong>STANDING from left: </strong>Mdm Siti Zainab . Mdm Cheng Wenli
+. Mdm Lay Woon Ting . Mdm Zhang Shujuan <em>senior teacher/chinese language . </em>Ms
+Joanne Tan . Ms Mai Lei<em> .</em> Ms Lim Fang Teng . Ms Mastura Senin .
+Ms I Nandhini . Mr Li Zhengjun</p>
+<p><strong>SEATED from left: </strong>Mrs Mythily Ezhilmani . Mdm Seng Wee
+Pheng . Ms Shirley Ong . Ms Joan Gan . Mdm Sim Hoon Kuan</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture bilingual learners who are proud to share their heritage and
