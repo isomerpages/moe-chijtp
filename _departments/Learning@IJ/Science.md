@@ -9,13 +9,14 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/10_Science.jpg">
 </div>
-<p><strong>BACK from left: </strong>Mrs Wendy Tay.<strong> </strong>Mrs Chia
-Yee Hwee.<strong> </strong>Ms Tan Boon Chui. Mrs Audrey Teng. Mrs Lois
-Law. Mr Chan Yeo Chong</p>
-<p><strong>SEATED from left</strong>: Mrs So Yirong. Mr Francis Yap. Mr Alvin
-Tang. Mr Lionel Foong. Ms Christine Koh</p>
-<p><strong>NOT IN PHOTO</strong>: Mrs Chaiw Kit Wai. Ms Janet Wong. Mdm Faridah
-Misdi. Ms Shirley Fang. Mr Brian Thian Wen Yao. Mr Koh Bing Qin</p>
+<p><strong>1st Row from left: </strong>Mr Lionel Foong . Mrs So Yirong .
+Mr Alvin Tang . Mr Francis Yap</p>
+<p><strong>2nd Row from left</strong>: Mr Chan Yeo Chong . Mrs Lois Law .
+Ms Tan Boon Chui . Ms Christine Koh</p>
+<p><strong>3rd Row from left</strong>: Ms Nicole Lek . Mr Koh Bing Qin<strong> </strong>.
+Mrs Audrey Teng</p>
+<p><strong>4th Row from left</strong>: Mrs Chia Yee Hwee . Mr Brian Thian
+Wen Yao</p>
 <h3>Mission Statement</h3>
 <p>We aim to nurture excited inquirers with a deep understanding of scientific
 principles, empowering them to navigate a rapidly changing world. Through
