@@ -11,7 +11,7 @@ third_nav_title: Learning@IJ
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/9_PE.jpg">
 </div>
 <p><strong>ALL from left:</strong> &nbsp;Ms Agnes Leong . Mr Harry Goh . Mrs
-Tan Yan Ping . Mr Kenneth Ho . Mr Daniel Kuan . Mr Daryl Chan . Ms Stephanie
+Tan Yan Ping . Mr Kenneth Ho . Mr Daryl Chan. Mr Daniel Kuan . Ms Stephanie
 Lim . Ms Fiona Tan</p>
 <h3>The PE-CCA Programme</h3>
 <hr>
