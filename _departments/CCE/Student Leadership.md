@@ -31,9 +31,6 @@ participate actively in level-appropriate milestone experiences that serve
 as platforms for them to apply and reinforce their learning.&nbsp;</p>
 <p><strong>Leadership opportunities</strong>
 </p>
-<div class="iframe-wrapper">
-<iframe height="500" width="800" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT2-FRIAy0yrs8z_SBoDtwc6DgDntyf7tMbXCyxqMnu6r7lbhpC5SceoO-6hwwpCzve7fR7TNxsBQjM/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
-</div>
 <p>Student leadership opportunities include but are not limited to:</p>
 <table style="minWidth: 50px">
 <colgroup>
