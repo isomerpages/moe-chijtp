@@ -6,7 +6,6 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
-<h4>Life Skills</h4>
 <p><strong>Vision Statement</strong>
 </p>
 <p>The Lifeskills&nbsp;Department aims to inculcate knowledge and skills
