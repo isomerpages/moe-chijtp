@@ -11,10 +11,10 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
 </div>
-<p><strong>BACK from left</strong>: Ms Natalie Chung . Mdm Laura Goh. Mrs
-Eugenia Tan .</p>
-<p><strong>Front from left</strong>: Mrs Lee Xiu Ping . Ms Ida Nursanti .
-Ms Norshidah Abdul Rahim .</p>
+<p><strong>BACK from left</strong>: Ms Natalie Chung , Mdm Laura Goh , Mrs
+Eugenia Tan <em>- HoD / Life Skills</em>.</p>
+<p><strong>Front from left</strong>: Mrs Lee Xiu Ping , Ms Ida Nursanti ,
+Ms Norshidah Abdul Rahim.</p>
 <p><strong>Vision Statement</strong>
 </p>
 <p>The Lifeskills&nbsp;Department aims to inculcate knowledge and skills
@@ -25,8 +25,8 @@ choices which will develop them into a Woman of Distinction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___D_T.jpg">
 </div>
-<p><strong>Front from left: </strong>Mr Rashid Jeffery . Mrs Eugenia Tan
-. Mrs Seah-Tay Hwee Kheng . Mr Wong Wei Keong</p>
+<p><strong>ALL from left: </strong>Mr Rashid Jeffery , Mrs Eugenia Tan <em>-</em>  <em>HoD / Life Skills</em> ,
+Mrs Seah Tay Hwee Kheng , Mr Wong Wei Keong.</p>
 <p>Design and Technology is part of a holistic broad-based education. It
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
