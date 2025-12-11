@@ -6,15 +6,7 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
-<h4>Food and Consumer Education</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
-</div>
-<p><strong>BACK from left</strong>: Ms Natalie Chung , Mdm Laura Goh , Mrs
-Eugenia Tan <em>- HoD / Life Skills</em>.</p>
-<p><strong>Front from left</strong>: Mrs Lee Xiu Ping , Ms Ida Nursanti ,
-Ms Norshidah Abdul Rahim.</p>
+<h4>Life Skills</h4>
 <p><strong>Vision Statement</strong>
 </p>
 <p>The Lifeskills&nbsp;Department aims to inculcate knowledge and skills
@@ -95,6 +87,14 @@ such as the Hippo Hop-on-hop-off tour and factory tours and workshops which
 in the airline services industry to&nbsp; apply their conceptual, analytical
 and evaluative skills to make sound justifiable decisions.</p>
 <h4>Food &amp; Consumer Education</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
+</div>
+<p><strong>BACK from left</strong>: Ms Natalie Chung , Mdm Laura Goh , Mrs
+Eugenia Tan <em>- HoD / Life Skills</em>.</p>
+<p><strong>Front from left</strong>: Mrs Lee Xiu Ping , Ms Ida Nursanti ,
+Ms Norshidah Abdul Rahim.</p>
 <p>FCE in the 21st century is designed with the social and economic landscape
 of Singapore in mind, both current and future. We take into consideration
 new lifestyles and consumer trends, and therefore, the knowledge, skills
