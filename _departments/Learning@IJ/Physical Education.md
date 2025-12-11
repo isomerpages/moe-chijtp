@@ -10,9 +10,10 @@ third_nav_title: Learning@IJ
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/9_PE.jpg">
 </div>
-<p><strong>ALL from left:</strong> &nbsp;Ms Agnes Leong . Mr Harry Goh . Mrs
-Tan Yan Ping . Mr Kenneth Ho . Mr Daryl Chan. Mr Daniel Kuan . Ms Stephanie
-Lim . Ms Fiona Tan</p>
+<p><strong>ALL from left:</strong> Ms Agnes Leong , Mr Harry Goh <em>- SH / Physical Education</em> ,
+Mrs Tan Yan Ping <em>- HoD / Educational Support</em> , Mr Kenneth Ho , Mr
+Daryl Chan <em>- HoD / PE &amp; CCA</em> , Mr Daniel Kuan <em>- SH Student Leadership</em> ,
+Ms Stephanie Lim , Ms Fiona Tan.</p>
 <h3>The PE-CCA Programme</h3>
 <hr>
 <p>The CHIJ PE Programme has the importance objectives of:</p>
