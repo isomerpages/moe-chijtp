@@ -22,7 +22,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Seah-Tay Hwee Kheng, Ms Kong Mei Sing &amp; Mr Leon Yeo
+<p>Mrs Seah-Tay Hwee Kheng , Ms Kong Mei Sing , Mr Leon Yeo
 <br>
 </p>
 </td>
