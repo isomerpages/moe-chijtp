@@ -17,27 +17,26 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Joanne Tan, Mr Adrian Moh &amp; Ms Sim Hoon Kuan</strong>
-</p>
+<p>Ms Joanne Tan, Mr Adrian Moh &amp; Ms Sim Hoon Kuan, Ms Tan Boon Chui</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday &amp; Wednesday (3.00 pm – 6.00 pm)
 <br>
 </p>
-<p>Tues, Thurs or Fri (3.00 pm - 6.00 pm) (only when necessary for SYF or
-performances)</p>
+<p>Tuesday, Thursday or Friday (3.00 pm - 6.00 pm) (only when necessary for
+SYF or performances)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary Music Room</p>
@@ -47,7 +46,7 @@ performances)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Guitar_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14_Guitar_Ensemble___activity_1.jpg">
 </div>
 <p>CHIJ Guitar Ensemble is an established ensemble that adopts the Niibori
 guitar system which exposes students to greater flexibility in music making.
@@ -59,7 +58,7 @@ Youth Festival Arts Presentation for Instrumental Ensemble in 2015, 2017,
 2019, 2021 and 2023.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Guitar_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/14_Guitar_Ensemble___comm_photo.jpg">
 </div>
 <p>Besides participating in competitions, the Ensemble also performs at guitar
 concerts biennially.&nbsp; In 2012 and 2014, we partnered with our sister
