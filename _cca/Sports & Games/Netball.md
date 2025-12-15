@@ -100,7 +100,7 @@ off the court.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Priscilla Lim &amp; Mrs Mythily Ezhilmani <strong><br></strong>
+<p>Mrs Priscilla Lim , Mrs Mythily Ezhilmani <strong><br></strong>
 </p>
 </td>
 </tr>
