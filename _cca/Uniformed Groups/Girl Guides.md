@@ -17,7 +17,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Audrey Teng , Ms Amanda Chua , Ms Susanna Khoo Lee Kuan</p>
+<p><strong>Mrs Audrey Teng , Ms Amanda Chua , Ms Susanna Khoo Lee Kuan</strong>
+</p>
 </td>
 </tr>
 <tr>
