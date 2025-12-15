@@ -22,7 +22,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Brian Ho, Mr Marcus Liang, Mdm Laura Goh</p>
+<p>Mr Brian Ho, Mr Marcus Liang</p>
 </th>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Arts_Alive___open_house.jpg">
 </div>
 <p>Arts Alive! provides its member's opportunities to engage in the arts,
 through a range of platforms and group activities where they learn skills
@@ -73,7 +73,7 @@ CCA VIA (Values-in Action) to share their knowledge and love for the arts.</p>
 Paper Twirling</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Arts_Alive___Committee_photo.jpg">
 </div>
 <p>Our Achievements:</p>
 <ul data-tight="true" class="tight">
