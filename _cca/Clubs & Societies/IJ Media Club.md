@@ -16,7 +16,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Teo Wen Jie, Mr Koh Bing Qin</p>
+<p>Mr Teo Wen Jie, Mr Koh Bing Qin , Mdm Zhang Shujuan</p>
 </th>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_Club___Committee_photo.jpg">
 </div>
 <p>IJ Media Club provides the opportunity for students to be involved in
 photography, videography, as well as the setting up and operating of audio-visual
@@ -53,7 +53,7 @@ opportunities will also be provided for members with outdoor field shoots
 organised whenever possible.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___farewell_Photo.jpg">
 </div>
 <p>All IJ Media Club members are encouraged to participate in national and
 international photography and videography competitions to gain greater
@@ -62,7 +62,7 @@ in previously include the “Our Schools, Our Stories” photography and videogr
 competition and the “SYFgoesOnline! Pixel Perfect” competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Media_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___learning_journey.jpg">
 </div>
 <p>IJ Media Club welcomes all who are keen to explore and deepen their interest
 in photography and videography!
