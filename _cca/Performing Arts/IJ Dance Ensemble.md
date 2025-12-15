@@ -53,19 +53,19 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mondays
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>When necessary
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 </tr>
 <tr>
