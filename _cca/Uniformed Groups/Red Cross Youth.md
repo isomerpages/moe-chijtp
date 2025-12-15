@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Linda Cruz , Mr Lionel Foong , Ms Janice Yong
+<p><strong>Ms Linda Cruz , Mr Lionel Foong , Ms Janice Yong </strong>
 <br>
 </p>
 </td>
