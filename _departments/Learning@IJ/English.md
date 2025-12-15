@@ -15,11 +15,10 @@ third_nav_title: Learning@IJ
 , Mr Eugene Lim.</p>
 <p><strong>MIDDLE from left</strong>: &nbsp;Mdm Cheng Ai Hoon , Ms Michelle
 Tay , Mrs Wendy Lee , Ms Stephanie Song , Ms Chelza Chong , Ms Angela Lim
-, Ms Junainah Binte Amran , Ms Nicole Teo , Mrs Angeline Yeo - <em>Senior Teacher / English Language.</em>
+, Ms Junainah Binte Amran , Mrs Angeline Yeo - <em>Senior Teacher / English Language.</em>
 </p>
 <p><strong>FRONT from left: </strong>&nbsp;Mrs Jerilee Leong , Ms Margaret
 Teo , Ms Claudia Ng , Mrs Magdalen Low , Ms Lee Xiu Ping.</p>
-<p><strong>NOT IN PHOTO</strong>: &nbsp;Ms Jey Sundari.</p>
 <h3>Mission Statement:</h3>
 <p>To nurture critical thinkers who display the ability to negotiate a diverse
 array of multimodal texts to communicate effectively in a complex world.</p>

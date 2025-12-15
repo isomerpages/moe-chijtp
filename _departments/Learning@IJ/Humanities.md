@@ -12,8 +12,7 @@ third_nav_title: Learning@IJ
 </div>
 <p><strong>BACK from left</strong>: Ms Alvina Chua , Mrs Teresa Francis ,
 Mr Joseph Tham , Mr Joel Chen , Mr Tan Yee Ping , Mr Titus Chang , Ms Karina
-Sheri , Mrs Tan Kai Ling , Mr Ernest Leong , Mr Tristan Fernandez , Ms
-Bernice Loon , Mdm Cheng Ai Hoon , Mr Brian Ho.</p>
+Sheri , Mrs Tan Kai Ling , Mr Ernest Leong , Mr Brian Ho , Mr Tristan Fernandez.</p>
 <p><strong>FRONT from left</strong>: Ms Balvinder Kaur , Ms Hemavathy D/O
 , Ms Linda Cruz.</p>
 <hr>
