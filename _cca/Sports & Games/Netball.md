@@ -18,7 +18,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua</p>
+<p><strong>Mdm Seng Wee Pheng, Mr Wong Wei Keong, Mr Eng Wee Keng, Ms Alvina Chua</strong>
+</p>
 </td>
 </tr>
 <tr>
