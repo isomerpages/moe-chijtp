@@ -17,13 +17,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Linda Cruz, Mr Lionel Foong, Ms Janice Yong<br></strong>
+<p>Ms Linda Cruz, Mr Lionel Foong, Ms Janice Yong
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time </strong>
 <br>
 </p>
 </td>
@@ -34,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
+<p><strong>Venue </strong>
 <br>
 </p>
 </td>
