@@ -28,7 +28,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday &amp; Friday (3.00 pm - 6.00 pm)</p>
+<p>Monday , Wednesday &amp; Friday (3.00 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>
@@ -58,8 +58,9 @@ grow their love for the craft.</p>
 beyond the confinement of the common every day. IJ Theatre embodies a creative
 space which pushes students to discover and rediscover their true inner
 strides.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJ_Theatre_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/16_IJ_Theatre___Activity_photo_1.jpg">
 </div>
 <p>Our most recent productions include:</p>
 <ul data-tight="true" class="tight">
