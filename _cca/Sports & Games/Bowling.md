@@ -22,7 +22,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tristan Fernandez , Ms Jey Sundari , Mr Pakirisamy Ragulan</p>
+<p><strong>Mr Tristan Fernandez , Ms Jey Sundari , Mr Pakirisamy Ragulan</strong>
+</p>
 </td>
 </tr>
 <tr>
