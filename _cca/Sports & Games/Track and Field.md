@@ -23,8 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Daniel Kuan (IC), Ms Jesslyn Winata, Mr Harry Goh &amp; Ms Norshidah
-Abdul Rahim<strong><br></strong>
+<p><strong>Mr Daniel Kuan (IC), Ms Jesslyn Winata, Mr Harry Goh &amp; Ms Norshidah Abdul Rahim<br></strong>
 </p>
 </td>
 </tr>
