@@ -16,13 +16,12 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Ernest Leong &amp; Ms Angela Lim</p>
+<p>Mr Ernest Leong , Ms Angela Lim</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -31,7 +30,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA Room (Pascal Café)</p>
@@ -41,7 +41,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_IJYM_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_IJ_Youth_Mission___Exco.jpg">
 </div>
 <p>IJ Youth Mission provides an enabling environment for girls to recognize
 and promote the dignity of human persons, especially the disadvantaged.
@@ -54,7 +54,7 @@ CHIJ St Joseph's and CHIJ Katong. The bond that this CCA shares is the
 IJ mission that belongs to all the IJ schools.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_IJYM_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/17_IJ_Youth_Mission___activity_1.jpg">
 </div>
 <p>All members participate in the annual IJ Youth Mission Inter-school Competition
 to showcase their community service and programme for the year. The IJ
