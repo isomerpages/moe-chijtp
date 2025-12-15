@@ -13,10 +13,11 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Teacher-in-Charge</p>
+<p>T<strong>eacher-in-Charge</strong>
+</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Raquel Lim, Ms Tivona Low, Ms Siti Zainab, Ms Junainah
+<p>Ms Raquel Lim , Mrs Tivona Chelliah , Ms Junainah Binte Amran
 <br>
 </p>
 </th>
