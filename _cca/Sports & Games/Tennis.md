@@ -23,13 +23,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Ms Agnes Leong, Mr Augustine Khoo, Ms Nandhini and Ms Nicole Teo</strong>
-</p>
+<p>Ms Agnes Leong, Mr Augustine Khoo, Ms Nandhini , Ms Nicole Teo</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time</p>
+<p><strong>Training Days/Time</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
@@ -39,7 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time</p>
+<p><strong>Training Days/Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>School Team B &amp; C Division</p>
@@ -48,8 +49,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
-<br>
+<p><strong>Venue <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
@@ -61,7 +61,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___committee.jpg">
 </div>
 <p>CHIJ Tennis welcomes students of all skill levels, whether you're a seasoned
 player or just starting out. Through our cca trainings led by experienced
@@ -73,10 +73,10 @@ is a sport you can enjoy for a lifetime, and we’re excited to help you
 embark on this journey. We can’t wait to see you on the court.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___nsg_team_activity_1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_tennis_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___nsg_team_activity_2.jpg">
 </div>
 <p></p>

@@ -17,14 +17,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Audrey Poon, Ms Amanda Chua, Ms Cheng Ai Hoon</strong>
+<p><strong>Mrs Audrey Teng , Ms Amanda Chua , Ms Susanna Khoo Lee Kuan</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
+<p><strong>Venue </strong>
 <br>
 </p>
 </td>
@@ -47,7 +46,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_GG_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___committee_photo.jpg">
 </div>
 <p><strong>The Aims of Guiding</strong>
 </p>
@@ -62,8 +61,9 @@ to maximise the potential of the Guides. These include both indoor and
 outdoor activities such as handicrafts, camp-craft and outdoor cooking
 which not only enable the Guides to acquire new skills but also to explore
 the many wonders of nature.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_GG_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___activity_photo.jpg">
 </div>
 <p>With a serving heart and mind, the Guides also render their services in
 the numerous community service projects within and outside of school. Our
@@ -71,7 +71,7 @@ community service projects include raising funds for the Girl Guide Association
 though Thinking Day Pennies and through the selling of Girl Guides cookies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_GG_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___activity_photo_2.jpg">
 </div>
 <p>Depending on the national posture and prevailing safe-management measures,
 Guides can look forward to organising and executing the annual Secondary

@@ -16,13 +16,12 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Natalie Chung, Mr Brian Thian</p>
+<p>Mr Brian Thian</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +32,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary, Classrooms</p>
@@ -43,7 +43,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15_iGrow_IJ___Activity_photo_2.jpg">
 </div>
 <p>Pioneering in 2022, iGrow@IJ is a new CCA at IJ which aims to bring awareness
 of the need to nurture sustainability practices among students as inhabitants
@@ -52,7 +52,7 @@ foster an understanding of how to champion environmental causes and thereafter
 become stewards among their peers, influencing them to do the same.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_iGrowIJ_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/15_iGrow_IJ___Activity_photo_1.jpg">
 </div>
 <p>iGrow@IJ offers a wide range of hands-on activities for students to participate
 in, such as mending designated plots of the school garden and subsequently

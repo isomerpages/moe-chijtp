@@ -17,13 +17,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Linda Cruz, Mr Lionel Foong, Ms Janice Yong<br></strong>
+<p><strong>Ms Linda Cruz , Mr Lionel Foong , Ms Janice Yong </strong>
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time </strong>
 <br>
 </p>
 </td>
@@ -34,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
+<p><strong>Venue </strong>
 <br>
 </p>
 </td>
@@ -47,7 +48,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Activity_2.jpg">
 </div>
 <p>In CHIJ Red Cross Youth, we aim to build a community of young leaders
 who are achievers, socially responsible and who embrace humanitarian values.
@@ -58,7 +59,7 @@ make a difference through their activities, in helping to save lives at
 home and in the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Red_Cross_Activity_1.jpg">
 </div>
 <p>The activities of Red Cross Youth will focus on the following:</p>
 <ol data-tight="true" class="tight">
@@ -93,7 +94,7 @@ events;</p>
 </ol>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2024_RC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Committee_photo.jpg">
 </div>
 <p>Apart from training activities, CHIJ Red Cross Youth also organises recreational
 activities like bonding games and camps, heritage trails and outings for

@@ -23,13 +23,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fiona Tan, Ms Stephanie Song, Ms Jesslyn Winata<br></strong>
+<p>Ms Fiona Tan , Ms Stephanie Song<strong><br></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time</strong> 
 <br>
 </p>
 </td>
@@ -41,7 +41,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary: Indoor Sports Hall</p>
@@ -51,7 +52,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Rgym_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24_Rhythmic_Gymnastics___activity_2.jpg">
 </div>
 <p>Rhythmic Gymnastics is a sport in our school that emphasises on poise,
 rhythm, flexibility, physical fitness and contemporary dance movements.
@@ -61,7 +62,7 @@ and the ribbon. Gymnasts use these apparatus to perform beautiful and graceful
 routines.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Rgym_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/24_Rhythmic_Gymnastics___activity_1.jpg">
 </div>
 <p><strong>Competition</strong>
 </p>

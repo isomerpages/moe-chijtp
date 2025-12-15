@@ -30,17 +30,17 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br><br>Ms Samantha Chan</strong>
+<p><strong>Ms Samantha Chan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Teresa Francis, Mr Chan Yew Choong &amp; Ms Balvinder Kaur</strong>
+<p><strong>Mrs Teresa Francis, Mr Chan Yew Choong</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time </strong>
 <br>
 </p>
 </td>
@@ -58,7 +58,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="2">
 <p>CHIJ Secondary, Band Room</p>
@@ -68,7 +69,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Band_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_Band___committee_photo.jpg">
 </div>
 <p>The Convent of the Holy Infant Jesus (CHIJ) Concert Band has distinguished
 itself as one of the most promising Secondary School Bands in Singapore
@@ -76,9 +77,8 @@ and has staged numerous well-received performances. An established performing
 arts group in CHIJ Secondary, the Band was awarded the Certificate of Distinction
 at the 2015, 2017, 2019, 2021 and 2023 Singapore Youth Festival Arts Presentation
 for Concert Bands.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_Band_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10_Band___activity_photo_1.jpg">
 </div>
 <p>In 2014, 2016 and 2018, the Band was given the opportunity to perform
 at the Esplanade Concert Hall as part of the ‘Limelight’ series. In November

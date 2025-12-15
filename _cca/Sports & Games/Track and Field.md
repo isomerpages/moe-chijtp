@@ -29,19 +29,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday &amp; Friday (3.30 pm to 5.30 pm)
-<br>
-</p>
+<p>Monday, Wednesday &amp; Friday (3.30 pm to 5.30 pm)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Track and Field</p>
@@ -51,7 +49,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___committee_photo.jpg">
 </div>
 <p>The Athletics CCA is a CCA where girls are given the opportunity to participate
 in a variety of track and field events, ranging from the fast and furious
@@ -63,7 +61,7 @@ mud, and hills. Not for the faint-hearted, Athletics is a CCA that demands
 a high level of mental and physical toughness.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_1.jpg">
 </div>
 <p>The Athletics team trains under the experienced hands of our coaches and
 our strong team camaraderie enables us to do well each year during the
@@ -76,7 +74,7 @@ the school by not just training hard physically, but also honing our skills
 and tactical awareness.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Track_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_2.jpg">
 </div>
 <p>Ultimately, the goal for our CCA is not just to win medals, but rather
 we aim to inculcate discipline within our girls and create opportunities

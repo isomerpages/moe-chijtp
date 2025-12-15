@@ -20,13 +20,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p><strong>Ms Chelza Chong, Mr Gary Tang &amp; Ms Michelle Tay</strong>
+<p><strong>Mr Gary Tang , Ms Rachel Lim , Ms Michelle Tay , Mdm Siti Zainab</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time </strong>
 <br>
 </p>
 </td>
@@ -54,24 +54,25 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mondays
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tuesdays
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wednesday
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>When necessary
-<br>3pm -6pm</p>
+<br>3pm - 6pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="4">
 <p>CHIJ Secondary - Dance Studio</p>
@@ -81,7 +82,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_Dance_Ensemble___committee_photo.jpg">
 </div>
 <p>The IJ Dance Ensemble (IJDE) is a dynamic and versatile group recognised
 for our contemporary dance style infused with a distinctive Asian influence.
@@ -93,7 +94,7 @@ which are highly anticipated and well-loved, showcasing our commitment
 to excellence and artistic expression.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_Dance_Ensemble___activity_photo_1.jpg">
 </div>
 <p>In 2017 and 2019, IJDE was awarded a Certificate of Distinction at the
 SYF Arts Presentation for Dance in the International category for its Japanese-inspired
@@ -106,7 +107,7 @@ that broadened their knowledge of Japanese culture and dance forms, and
 shared their experience with peers through a dance presentation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJDE_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/11_Dance_Ensemble___activity_photo_2__CANNOT_USE___FILE_SIZE_TOO_SMALL_.jpg">
 </div>
 <p>In 2021 and 2023, IJDE once again achieved Distinction for their SYF performances.
 The 2023 item, A Hymn to Spring, was a portrayal of the spirit of spring,

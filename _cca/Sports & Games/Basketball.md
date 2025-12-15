@@ -22,13 +22,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Zhang Shujuan, Ms Kong Mei Sing &amp; Mr Leon Yeo<br></strong>
+<p><strong>Mrs Seah-Tay Hwee Kheng , Ms Kong Mei Sing , Mr Leon Yeo <br></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
+<p><strong>Training Days/Time </strong>
 <br>
 </p>
 </td>
@@ -39,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
+<p><strong>Venue </strong>
 <br>
 </p>
 </td>
@@ -56,7 +56,7 @@ Hall (Mon)</p>
 </blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_1.jpg">
 </div>
 <p>&nbsp;The CHIJ Basketball team exemplifies dedication, perseverance, and
 teamwork. Through countless hours of practice, we’ve built a strong foundation
@@ -68,10 +68,10 @@ greatest asset. Together, we rise, striving for victory while building
 lasting friendships along the way.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Basketball_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___comm.jpg">
 </div>
 <p></p>

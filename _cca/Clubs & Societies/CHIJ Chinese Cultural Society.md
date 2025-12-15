@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -13,14 +17,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Ma Lei &amp; Mr Li Zheng Jun</strong>
+<p><strong>Ms Ma Lei , Mr Li Zheng Jun</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day/Time
-<br>
+<p><strong>Training Day/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,19 +32,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
-<br>
+<p><strong>Venue <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E-Studio for Tuesday， Celestial (Dance Studio) for Friday</p>
+<p>E-Studio on Tuesday, Celestial (Dance Studio) on Friday.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/Chinese_Cultural.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_Chinese_Cultural_Society___Group_SYF_2.jpg">
 </div>
 <p>CHIJ CHINESE CULTURE SOCIETY engages itself enthusiastically in Chinese
 culture largely through activities such as Chinese dance, Chinese Drama,
@@ -50,6 +52,9 @@ Chinese Wushu, Chinese calligraphy, Chinese culinary arts etc.&nbsp;</p>
 skills and serve as ambassadors of Chinese culture in CHIJ, where they
 have the opportunity to helm activities, such as during Chinese New Year,
 the Mid-Autumn Festival, etc.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/8_Chinese_Cultural_Society___Group_SYF_1.jpg">
+</div>
 <p>In the biennial Singapore Youth Festival Arts Presentation for Chinese
 Drama, CHIJ CHINESE CULTURE SOCIETY successfully obtained a Gold with Honours
 in the year 2011 and obtained a Certificate of Distinction in 2013 and
@@ -58,3 +63,5 @@ for Chinese Dance, we achieved the Certificate of Accomplishment.</p>
 <p>The CHIJ CHINESE CULTURE SOCIETY experience provides an avenue in which
 the girls learn the true meaning of ‘perseverance’, one of five important
 school values, which help shape a Woman of Distinction.</p>
+<p></p>
+<p></p>

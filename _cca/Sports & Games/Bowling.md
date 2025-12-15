@@ -22,14 +22,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tristan Fernandez, Ms Jey Sundari, Mr Pakirisamy Ragulan</strong>
+<p><strong>Mr Tristan Fernandez , Ms Jey Sundari , Mr Pakirisamy Ragulan</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SAFRA@Toa Payoh Bowling Centre / Temasek Club</p>
@@ -50,7 +50,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___committee_photo.jpg">
 </div>
 <p>The CHIJ Tenpin Bowling team started in 2001 with a small number of members.
 Over the years, however, the team has grown and enrolment now stands at
@@ -59,7 +59,7 @@ National Inter-School Tenpin Bowling Championships and the National Age
 Group Competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___Activity_2.jpg">
 </div>
 <p>A team that believes in both playing and working hard, the CHIJ Tenpin
 Bowling Team is one that promises an enjoyable experience like no other.
@@ -71,6 +71,6 @@ to foster and build not only our team spirit but also the camaraderie among
 the team mates at the same time.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Bowling_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___activity_1.jpg">
 </div>
 <p></p>
