@@ -2,7 +2,6 @@
 title: CHIJ SMT
 permalink: /about-us/school-organization/chij-smt/
 description: ""
-third_nav_title: School Organization
 variant: tiptap
 ---
 <p></p>
