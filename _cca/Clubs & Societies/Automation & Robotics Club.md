@@ -16,14 +16,12 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Nur Afiqah bte Jamaludin, Mr Jason Ng, Ms Stephanie Lim, Mr Derrick
-Ng Mang Chung</p>
+<p>Ms Nur Afiqah bte Jamaludin , Mr Jason Ng , Mr Derrick Ng Mang Chung</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +30,8 @@ Ng Mang Chung</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary - Computer Lab 2</p>
@@ -42,7 +41,7 @@ Ng Mang Chung</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_ARC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_ARC___photo_2.jpg">
 </div>
 <p>Automation and Robotics Club (ARC) provides opportunities for students
 to pursue their passion in STEM (Science, Technology, Engineering &amp;
@@ -62,7 +61,7 @@ also learn software programming which allows them to design online games
 and many other exciting outcomes.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_ARC_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5_ARC___committee_photo.jpg">
 </div>
 <p>On top of all that, students are trained to have a growth mindset anchored
 by values such as entrepreneurial dare, grit and teamwork. We have managed
