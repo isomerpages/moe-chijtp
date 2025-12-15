@@ -22,7 +22,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Brian Ho, Mr Marcus Liang</p>
+<p>Mr Brian Ho , Mr Marcus Liang</p>
 </th>
 </tr>
 <tr>
