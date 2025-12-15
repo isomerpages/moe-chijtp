@@ -6,15 +6,6 @@ third_nav_title: Learning@IJ
 variant: tiptap
 ---
 <p></p>
-<h4>Food and Consumer Education</h4>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
-</div>
-<p><strong>BACK from left</strong>: Ms Natalie Chung . Mdm Laura Goh. Mrs
-Eugenia Tan .</p>
-<p><strong>Front from left</strong>: Mrs Lee Xiu Ping . Ms Ida Nursanti .
-Ms Norshidah Abdul Rahim .</p>
 <p><strong>Vision Statement</strong>
 </p>
 <p>The Lifeskills&nbsp;Department aims to inculcate knowledge and skills
@@ -25,8 +16,8 @@ choices which will develop them into a Woman of Distinction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___D_T.jpg">
 </div>
-<p><strong>Front from left: </strong>Mr Rashid Jeffery . Mrs Eugenia Tan
-. Mrs Seah-Tay Hwee Kheng . Mr Wong Wei Keong</p>
+<p><strong>ALL from left: </strong>Mr Rashid Jeffery , Mrs Eugenia Tan <em>-</em>  <em>HoD / Life Skills</em> ,
+Mrs Seah Tay Hwee Kheng , Mr Wong Wei Keong.</p>
 <p>Design and Technology is part of a holistic broad-based education. It
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
@@ -95,6 +86,14 @@ such as the Hippo Hop-on-hop-off tour and factory tours and workshops which
 in the airline services industry to&nbsp; apply their conceptual, analytical
 and evaluative skills to make sound justifiable decisions.</p>
 <h4>Food &amp; Consumer Education</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/6_Life_Skills___FCE.jpg">
+</div>
+<p><strong>BACK from left</strong>: Ms Natalie Chung , Mdm Laura Goh , Mrs
+Eugenia Tan <em>- HoD / Life Skills</em>.</p>
+<p><strong>Front from left</strong>: Mrs Lee Xiu Ping , Ms Ida Nursanti ,
+Ms Norshidah Abdul Rahim.</p>
 <p>FCE in the 21st century is designed with the social and economic landscape
 of Singapore in mind, both current and future. We take into consideration
 new lifestyles and consumer trends, and therefore, the knowledge, skills
