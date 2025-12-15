@@ -17,8 +17,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Ping (<a href="mailto:tan_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_ping@moe.edu.sg</a>),</p>
-<p>Mr Joel Chen, Mrs Chia-Ong Yee Hwee, Ms Hemavathy Anbalagan<strong><br></strong>
+<p>Mr Tan Yee Ping , Mr Eraja Rajan , Mrs Chia-Ong Yee Hwee, Ms Hemavathy
+Anbalagan<strong><br></strong>
 </p>
 </td>
 </tr>
@@ -48,7 +48,7 @@ training activities)</p>
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20_National_Cadet_Corps__Sea____activity_1.jpg">
 </div>
 <p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
 nurture a community of Resilient, Responsible, and Relevant student leaders.
