@@ -17,14 +17,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Titus Chang, Mrs Magdalen Low, Mrs Seah-Tay Hwee Kheng<br></strong>
+<p>Mrs Magdalen Low , Ms Nicole Lek
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary E-Studio</p>
@@ -46,7 +47,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_choir_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___comm.jpg">
 </div>
 <p>The award-winning CHIJ Choir is well known for its high standards both
 locally and abroad.</p>
@@ -61,7 +62,7 @@ Gold with Honours Awards and Certificates of Distinction in all Singapore
 Youth Festivals since 1997 to 2023, with excellent SYF appraisals during
 Covid-19 years.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_choir_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___activity_1.jpg">
 </div>
 <p>Choir members are disciplined, anchored in choral music and contribute
 substantially to school events and in-house performances. This CCA provides
@@ -77,7 +78,7 @@ Grand Prix, and clinched the Championship in the Children’s Category.</p>
 <p>Choir girls give of their best at every local and international competition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_choir_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___activity_2.jpg">
 </div>
 <h4>Values:</h4>
 <p><strong>Commitment </strong>Committed to the music with a strong sense
