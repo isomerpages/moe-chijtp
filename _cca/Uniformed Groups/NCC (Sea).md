@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yee Ping , Mr Eraja Rajan , Mrs Chia-Ong Yee Hwee , Ms Hemavathy
-Anbalagan<strong><br></strong>
+<p><strong>Mr Tan Yee Ping , Mr Eraja Rajan , Mrs Chia-Ong Yee Hwee , Ms Hemavathy Anbalagan<br></strong>
 </p>
 </td>
 </tr>
