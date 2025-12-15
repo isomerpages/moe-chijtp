@@ -20,7 +20,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="4">
-<p>Mr Gary Tang , Ms Rachel Lim , Ms Michelle Tay , Mdm Siti Zainab</p>
+<p><strong>Mr Gary Tang , Ms Rachel Lim , Ms Michelle Tay , Mdm Siti Zainab</strong>
+</p>
 </td>
 </tr>
 <tr>
