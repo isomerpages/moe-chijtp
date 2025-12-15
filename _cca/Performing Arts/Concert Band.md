@@ -30,10 +30,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Samantha Chan</p>
+<p><strong>Ms Samantha Chan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Teresa Francis, Mr Chan Yew Choong</p>
+<p><strong>Mrs Teresa Francis, Mr Chan Yew Choong</strong>
+</p>
 </td>
 </tr>
 <tr>
