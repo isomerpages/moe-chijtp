@@ -23,14 +23,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Mastura Senin, Mr Kenneth Ho, Ms Kim Purushothaman, Mr Eraja Rajan<br></strong>
+<p>Ms Mastura Senin, Mr Kenneth Ho, Mrs Tan Yan Ping
+<br>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hall of Faith / Indoor Sports Hall</p>
@@ -49,7 +50,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Badminton___activity_2.jpg">
 </div>
 <p>The CHIJ Badminton team is dedicated to both rigorous training and competitive
 play. Our members are committed to excel in every tournament, bringing
@@ -58,11 +59,12 @@ competitions and friendly matches, players gain valuable exposure to diverse
 playing styles. This experience, combined with the unwavering support and
 guidance from our teachers and coach, contributes to the players' development
 into skilled athletes</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Badminton___comm.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Badminton_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6_Badminton___activity_1.jpg">
 </div>
 <p></p>
