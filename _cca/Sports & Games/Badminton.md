@@ -34,7 +34,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, Wed, Fri</p>
+<p>Monday, Wednesday, Friday</p>
 </td>
 </tr>
 <tr>
