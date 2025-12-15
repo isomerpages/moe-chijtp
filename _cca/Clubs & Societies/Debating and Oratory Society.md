@@ -16,13 +16,12 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Ms Claudia Ng &amp; Ms Angeline Yeo</p>
+<p>Ms Claudia Ng , Ms Angeline Yeo</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -32,7 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue</p>
+<p><strong>Venue</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary - Shared Room 1 &amp; 2
@@ -44,7 +44,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Debate_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12_Debating___Oratory_Society___photo_1.jpg">
 </div>
 <p>The CHIJ Debating and Oratorical Society is an active society that participates
 in numerous competitions annually. While our society are invited to several
@@ -67,8 +67,13 @@ of CCA sessions to engage in discussions with her team on motions for training
 and competitions as well as craft original speeches.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Debate_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12_Debating___Oratory_Society___photo_2.jpg">
 </div>
 <p>Through the development of oratorical skills, students learn to stand
 and deliver their arguments with confidence and finesse in person as well
 as via video-conferencing platforms.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12_Debating___Oratory_Society___comm_photo.jpg">
+</div>
+<p></p>
