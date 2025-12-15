@@ -17,14 +17,12 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Audrey Teng, Ms Amanda Chua, Ms Susanna Khoo Lee Kuan</strong>
-</p>
+<p>Mrs Audrey Teng, Ms Amanda Chua, Ms Susanna Khoo Lee Kuan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Days/Time
-<br>
+<p><strong>Training Days/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -35,7 +33,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
+<p><strong>Venue </strong>
 <br>
 </p>
 </td>
