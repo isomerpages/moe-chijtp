@@ -23,7 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mastura Senin , Mr Kenneth Ho , Mrs Tan Yan Ping
+<p><strong>Ms Mastura Senin , Mr Kenneth Ho , Mrs Tan Yan Ping </strong>
 <br>
 </p>
 </td>
