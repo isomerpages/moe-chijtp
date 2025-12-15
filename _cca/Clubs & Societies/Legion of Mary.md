@@ -51,7 +51,7 @@ developed by prayer and active co-operation in Mary’s and the Church’s
 work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___activity_photo_2.jpg">
 </div>
 <p>CHIJ Legion of Mary is named Our Lady of Graces Junior Praesidium. The
 members begin meetings with Opening Prayers and the Rosary. Every session
@@ -63,7 +63,7 @@ also participates in the Monthly Curia Meetings, the Acies, and Fellowship
 Programmes with Praesidiums of other Catholic Schools in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___comm_photo.jpg">
 </div>
 <p>The Legion of Mary invites students who are interested in praying together
 and serving the school in its various spiritual activities Join the Legion
