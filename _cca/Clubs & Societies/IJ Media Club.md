@@ -16,7 +16,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Teo Wen Jie, Mr Koh Bing Qin , Mdm Zhang Shujuan</p>
+<p>Mr Teo Wen Jie , Mr Koh Bing Qin , Mdm Zhang Shujuan</p>
 </th>
 </tr>
 <tr>
