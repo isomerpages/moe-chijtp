@@ -23,8 +23,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Training Day/Time
-<br>
+<p><strong>Training Day/Time <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,12 +32,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Venue
-<br>
+<p><strong>Venue <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>E-Studio for Tuesday， Celestial (Dance Studio) for Friday</p>
+<p>E-Studio on Tuesday, Celestial (Dance Studio) on Friday.</p>
 </td>
 </tr>
 </tbody>
