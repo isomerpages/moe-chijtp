@@ -17,8 +17,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Magdalen Low , Ms Nicole Lek
-<br>
+<p><strong>Mrs Magdalen Low , Ms Nicole Lek <br></strong>
 </p>
 </td>
 </tr>
