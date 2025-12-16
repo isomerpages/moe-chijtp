@@ -5,30 +5,6 @@ variant: markdown
 description: ""
 third_nav_title: Parents
 ---
-The 2024 MOE Financial Assistance (FAS) Application is open for application. 
+The 2026 e-Financial Assistance Scheme Application can be submitted via the online form below. 
 
-Please note the following:
-
-* **Eligibility Criteria of MOE FAS scheme** (Ref: [MOE FAS Pamphlet](/files/Parents/MOE_FAS_pamphet.pdf)) This pamphlet provides information such as income criterion and benefits.
-
-* **ComCare Beneficiaries** MOE FAS will be auto-granted to ComCare Beneficiaries. No FAS application for ComCare recipient is required for MOE FAS.
-
-* **Checklist - Supporting Documents Needed** (Ref: [Supporting Documents Checklist](/files/Parents/Check_list___Supporting_Documents_Needed.pdf)) Please use this checklist to ensure you have the necessary supporting documents in softcopy before the application. You may upload scanned documents or pictures of the documents for the application.
-
-Please contact the General Office (Tel: 6353 4972) for assistance if your family has:
-
-* other dependents (e.g. Great grandparents, Aunties/Uncles, Cousins and others)  **OR**
-
-* more than 6 children in govt/govt-aided schools  **OR**
-
-* more than 5 unmarried children not in govt/govt-aided schools **OR**
-
-* more than 3 grand parents
-
-For assistance, please contact the school at **6353 4972**.
-
-**MOE eFAS Application**
-[https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
-
-**Eligibility calculator by MOE**
-[https://www.moe.gov.sg/financial-matters/financial-assistance](https://www.moe.gov.sg/financial-matters/financial-assistance)
+[MOE e-Financial Assistance Scheme (e-FAS) Application Form](https://form.gov.sg/68b7e92465cd36be287889c6)
