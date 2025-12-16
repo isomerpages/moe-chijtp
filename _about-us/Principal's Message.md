@@ -7,7 +7,7 @@ variant: markdown
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mrs_Chye.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/Mrs_Chye.jpg">
 </div>
 <p>Since 1854, CHIJ Secondary has been true to its mission to provide education to young women within a Christ-centred community.&nbsp; Being the oldest Catholic girls’ school in Singapore, we have nurtured generations of IJ girls who have benefitted from being in a community that places learning, faith and service at the heart of all we do.</p>
 
