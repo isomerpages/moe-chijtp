@@ -33,17 +33,15 @@ of ICT tools to create ICT-enriched learning experiences.&nbsp;</p>
 </li>
 <li>
 <p>Effective Communicators.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/NDLP1.png">
-</div>
 </li>
 </ol>
-<p>Throughout their educational journey in IJ, students will be able to acquire
-digital skills across the 3 domains as shown below.&nbsp;
-<br>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/NDLP2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_16_at_10_40_18.jpg">
+</div>
+<p>Throughout their educational journey in IJ, students will be able to acquire
+digital skills across the 3 domains as shown below.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_16_104502.png">
 </div>
 <p><strong>Personal Learning Device @CHIJ</strong>
 <br>Having heard the views of staff, parents, and students through various
@@ -62,11 +60,9 @@ and engaging.&nbsp;</p>
 </div>
 <p>The iPad bundle which includes a warranty and insurance for purchase is
 as shown below:</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/NDLP/pdlp25.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_16_104623.png">
 </div>
-<p></p>
 <p><strong>Resources</strong>
 <br>Parents Handbook on Learning with PLD <a href="/files/ICT/ParentHb124_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK1</a> &amp; <a href="/files/ICT/ParentHb224_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK2</a>
 </p>
