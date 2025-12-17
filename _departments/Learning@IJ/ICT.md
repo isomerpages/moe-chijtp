@@ -61,7 +61,7 @@ and engaging.&nbsp;</p>
 <p>The iPad bundle which includes a warranty and insurance for purchase is
 as shown below:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_16_104623.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_17_120717.png">
 </div>
 <p><strong>Resources</strong>
 <br>Parents Handbook on Learning with PLD <a href="/files/ICT/ParentHb124_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK1</a> &amp; <a href="/files/ICT/ParentHb224_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK2</a>
