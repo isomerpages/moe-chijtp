@@ -1,0 +1,6 @@
+collections:
+  admission:
+    output: true
+    order:
+      - General Information.md
+      - Appeal for Admission.md
