@@ -93,7 +93,6 @@ school website:</p>
 <br>(available only on weekdays 8.30am-4pm)
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
 <br>Website: <a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/</a>
-<a rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
