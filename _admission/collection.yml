@@ -2,5 +2,5 @@ collections:
   admission:
     output: true
     order:
-      - Appeal for Admission.md
       - General Information.md
+      - Appeal for Admission.md
