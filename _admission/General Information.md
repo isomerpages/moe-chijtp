@@ -151,7 +151,4 @@ allowing us to use your daughter’s photographs in various school publications
 and on our social media accounts.</p>
 <p>Once again, we would like to welcome you to CHIJ Secondary and look forward
 to meeting your daughter/ward on the first day of school!</p>
-<p><strong><u>&nbsp;</u></strong>
-</p>
-<p></p>
 <p></p>
