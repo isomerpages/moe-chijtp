@@ -25,7 +25,7 @@ virtually.</p>
 scan the QR code below to access it online by Wednesday, 24 December 2025,
 12 noon. If you have any questions, please feel free to reach out to us.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Registration_Qr_code.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Registration_Qr_code.png">
 </div>
 <p>For students intending to appeal to another school, you will <u>still need to complete the form</u> above.
 If your appeal to another school is successful, please inform the CHIJ
