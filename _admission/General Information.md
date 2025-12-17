@@ -4,8 +4,7 @@ permalink: /general-information/
 variant: tiptap
 description: ""
 ---
-<p><strong>SEC 1 ADMISSION MATTERS</strong>
-</p>
+<h4><strong>SEC 1 ADMISSION MATTERS</strong></h4>
 <p>On behalf of the staff and students at CHIJ Secondary, we extend a warm
 welcome to you, our new Secondary 1 students, and your parents and guardians.
 Welcome to the IJ family!</p>
@@ -30,7 +29,7 @@ scan the QR code below to access it online by Wednesday, 24 December 2025,
 </div>
 <p>For students intending to appeal to another school, you will <u>still need to complete the form</u> above.
 If your appeal to another school is successful, please inform the CHIJ
-General Office at 6353 4972 or <a rel="noopener noreferrer nofollow" target="_blank">chijtpss@moe.edu.sg</a> .</p>
+General Office at 6353 4972 or <a href="chijtpss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chijtpss@moe.edu.sg</a>.</p>
 <p></p>
 <p><strong>ONLINE BRIEFING</strong>
 </p>
@@ -60,7 +59,7 @@ dates for physical sales of textbooks and uniforms in school. Therefore,
 please consider opting for the delivery services online.</p>
 <p>Information on school fees and financial assistance are available on our
 school website:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.chijsec.edu.sg/resources/parents/financial-assistance/</a>
+<p><a href="https://www.chijsec.edu.sg/resources/parents/financial-assistance/" rel="noopener noreferrer nofollow" target="_blank">https://www.chijsec.edu.sg/resources/parents/financial-assistance/</a>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -76,7 +75,7 @@ school website:</p>
 <p>Pacific Bookstores
 <br>Tel:&nbsp; 6559 2269
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">sales@pacificbookstores.com</a>
-<br>Website: <a rel="noopener noreferrer nofollow" target="_blank">www.pacificbookstores.com</a>
+<br>Website: <a href="https://www.pacificbookstores.com/" rel="noopener nofollow" target="_blank">https://www.pacificbookstores.com/</a>
 <br>
 <br>
 </p>
@@ -92,7 +91,11 @@ school website:</p>
 <br>Enquiry: 62935840 or (WhatsApp): 8638 0499
 <br>(available only on weekdays 8.30am-4pm)
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">info@magdalene.com.sg</a>
-<br>Website: <a rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg/<br><br></a>
+<br>Website: <a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/</a>
+<a rel="noopener noreferrer nofollow" target="_blank">
+<br>
+<br>
+</a>
 </p>
 </td>
 </tr>
@@ -113,9 +116,11 @@ school website:</p>
 <p>
 <br>For the purchase of school uniforms from the vendor, there are several
 options available:</p>
-<p>You can easily place an order online by visiting <a rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a>.</p>
+<p>You can easily place an order online by visiting <a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/</a>
+</p>
+<p></p>
 <p>&nbsp;If you prefer to visit their physical retail shop in Ang Mo Kio,
-kindly make an e-appointment through their website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.magdalene.com.sg</a> prior
+kindly make an e-appointment through their website at <a href="https://www.magdalene.com.sg/" rel="noopener nofollow" target="_blank">https://www.magdalene.com.sg/</a> prior
 to your visit.</p>
 </td>
 </tr>
