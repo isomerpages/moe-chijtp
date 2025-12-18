@@ -3,7 +3,6 @@ title: Sec 1 resources
 permalink: /resources/parents/sec-1-briefing-slides/
 variant: tiptap
 description: ""
-third_nav_title: Parents
 ---
 <p><a href="/files/Parents/SBBS1_Parent_s_Talk.pdf" rel="noopener nofollow" target="_blank">Full SBB Sec1 Parent's Talk</a>
 </p>
