@@ -27,5 +27,21 @@ third_nav_title: Parents
 <p><a href="/files/Parents/ITEadmission2025.pdf" rel="noopener nofollow" target="_blank">ITE admission and course information brochure</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.ite.edu.sg/secondary-school-students/ite-full-time-courses/" rel="noopener nofollow" target="_blank">ITE Course Booklet 2026</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener nofollow" target="_blank">ITE Intake Exercise 2026</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.moe.gov.sg/post-secondary/admissions/dpp" rel="noopener nofollow" target="_blank">MOE: DPP Application Timeline</a>
+</p>
+</li>
+<li>
+<p><a href="/files/GCE_N_Level_2025_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">GCE N Level 2025 Briefing Slides</a>
+</p>
+</li>
 </ul>
 <p></p>
