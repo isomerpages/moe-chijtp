@@ -10,7 +10,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/2_Art.jpg">
 </div>
-<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang - <em>Lead Teacher / Art </em>,
+<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang - <em>SH / Student Well-Being </em>,
 Ms Raquel Lim - <em>Senior Teacher / Educational Support </em>, Ms Kong
 Mei Sing , Mrs Yeoh Ting Ting , Ms Jey Sundari , Mr Brian Ho.</p>
 <p><strong>Mission Statement</strong>
