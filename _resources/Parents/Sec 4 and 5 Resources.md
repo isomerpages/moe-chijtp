@@ -1,6 +1,6 @@
 ---
 title: Sec 4 and 5 Resources
-permalink: /sec-4-and-5-parents-talk/
+permalink: /sec-4-and-5-parents-resources/
 variant: tiptap
 description: ""
 third_nav_title: Parents
