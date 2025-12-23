@@ -6,9 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/ictdept_low.jpg">
-</div>
 <p><strong>First row from left</strong>: Mr Adry Aieman - <em>Desktop Engineer ,</em> Mr
 Adrian Moh - <em>SH/ICT</em> , Mr Mike Pyia Phyo - <em>ICT Manager</em> , Mr
 Muhammad Fikri Bin Zulkefili&nbsp;- <em>Desktop Engineer</em>.</p>
