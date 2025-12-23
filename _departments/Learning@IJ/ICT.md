@@ -6,13 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<p><strong>First row from left</strong>: Mr Adry Aieman - <em>Desktop Engineer ,</em> Mr
-Adrian Moh - <em>SH/ICT</em> , Mr Mike Pyia Phyo - <em>ICT Manager</em> , Mr
-Muhammad Fikri Bin Zulkefili&nbsp;- <em>Desktop Engineer</em>.</p>
-<p><strong>Second row from left</strong>: Mrs Lois Law - <em>HoD/ICT , </em>Ms
-Nur Liyana Binte Abdul Rashid - <em>AV Executive , </em>Mr Muhammad Rusydi
-Aman - <em>ICT Associate.</em>
-</p>
 <p><strong>PDLP Outcomes @ CHIJ</strong>
 </p>
 <div class="isomer-image-wrapper">
