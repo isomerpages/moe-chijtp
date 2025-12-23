@@ -5,16 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
-<p></p>
-<p><strong>1st Row from left: </strong>Mr Lionel Foong <em>- SH / Lower Secondary Science</em> ,
-Mrs So Yirong <em>- HoD / Science</em> , Mr Alvin Tang , Mr Francis Yap - <em>YH / Lower Secondary.</em>
-</p>
-<p><strong>2nd Row from left</strong>: Mr Chan Yeo Chong , Mrs Lois Law <em>- HoD / ICT</em> ,
-Ms Tan Boon Chui , Ms Christine Koh <em>- YH / Upper Secondary</em>.</p>
-<p><strong>3rd Row from left</strong>: Ms Nicole Lek , Ms Daphne Chia , Mr
-Koh Bing Qin -<em> SH / Chemistry</em><strong> , </strong>Mrs Audrey Teng.</p>
-<p><strong>4th Row from left</strong>: Mrs Chia Yee Hwee , Mr Brian Thian
-Wen Yao.</p>
 <h3>Mission Statement</h3>
 <p>We aim to nurture excited inquirers with a deep understanding of scientific
 principles, empowering them to navigate a rapidly changing world. Through
