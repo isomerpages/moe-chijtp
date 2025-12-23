@@ -6,10 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/4_EL___Lit.jpg">
-</div>
 <p><strong>BACK from left</strong>: Mr Ragulan Pakirisamy , Mrs Teresa Francis
 , Mrs Geralyn Vincent , Ms Sum Kar Mun , Ms Puja Dada , Mrs Tivona Chelliah
 , Mr Eugene Lim.</p>
