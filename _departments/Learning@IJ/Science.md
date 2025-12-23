@@ -6,9 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/10_Science.jpg">
-</div>
 <p><strong>1st Row from left: </strong>Mr Lionel Foong <em>- SH / Lower Secondary Science</em> ,
 Mrs So Yirong <em>- HoD / Science</em> , Mr Alvin Tang , Mr Francis Yap - <em>YH / Lower Secondary.</em>
 </p>
