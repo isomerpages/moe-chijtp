@@ -7,9 +7,6 @@ third_nav_title: Learning@IJ
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/8_Mother_Tongue.jpg">
-</div>
 <p><strong>STANDING from left: </strong>Mdm Siti Zainab , Mdm Cheng Wenli
 , Mdm Lay Woon Ting , Mdm Zhang Shujuan - <em>Senior Teacher / Chinese Language , </em>Ms
 Joanne Tan , Ms Mai Lei<em> , </em>Ms Lim Fang Teng . Ms Mastura Senin
