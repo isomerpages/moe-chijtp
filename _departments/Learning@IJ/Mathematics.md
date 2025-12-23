@@ -7,9 +7,6 @@ third_nav_title: Learning@IJ
 ---
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/7_Math.jpg">
-</div>
 <p><strong>BACK from left:</strong>&nbsp;Mr Augustine Khoo , Mr Eng Wee Keng
 , Mr Derrick Ng , Mrs Priscilla Lim , Mrs Tan Yan Ping , Mrs Khoo Bee Siong
 , Mr Eraja Rajan Narayanasamy , Ms May Chong <em>- Lead Teacher / Additional Mathematics.</em>
