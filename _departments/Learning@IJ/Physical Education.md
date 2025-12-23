@@ -6,10 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/9_PE.jpg">
-</div>
 <p><strong>ALL from left:</strong> Ms Agnes Leong , Mr Harry Goh <em>- SH / Physical Education</em> ,
 Mrs Tan Yan Ping <em>- HoD / Educational Support</em> , Mr Kenneth Ho , Mr
 Daryl Chan <em>- HoD / PE &amp; CCA</em> , Mr Daniel Kuan <em>- SH Student Leadership</em> ,

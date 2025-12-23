@@ -6,10 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dept/2026/5_Humanities.jpg">
-</div>
 <p><strong>BACK from left</strong>: Ms Alvina Chua , Mrs Teresa Francis ,
 Mr Joseph Tham , Mr Joel Chen , Mr Tan Yee Ping , Mr Titus Chang , Ms Karina
 Sheri , Mrs Tan Kai Ling , Mr Ernest Leong , Mr Brian Ho , Mr Tristan Fernandez.</p>
