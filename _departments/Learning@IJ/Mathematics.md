@@ -6,14 +6,6 @@ variant: tiptap
 third_nav_title: Learning@IJ
 ---
 <p></p>
-<p></p>
-<p><strong>BACK from left:</strong>&nbsp;Mr Augustine Khoo , Mr Eng Wee Keng
-, Mr Derrick Ng , Mrs Priscilla Lim , Mrs Tan Yan Ping , Mrs Khoo Bee Siong
-, Mr Eraja Rajan Narayanasamy , Ms May Chong <em>- Lead Teacher / Additional Mathematics.</em>
-</p>
-<p><strong>FRONT from left</strong>: Mr Adrian Moh , Ms Amanda Chua , Ms
-Janice Yong , Mr Jason Ng - <em>SH / Mathematics</em> , Mrs Gladys Hoy - <em>HoD / Mathematics</em> ,
-Mrs Siti Nurulhuda , Ms Nur Afiqah Jamaludin, Mrs Martha Praeman.</p>
 <h3>VISION</h3>
 <p>To nurture&nbsp;</p>
 <ol>
