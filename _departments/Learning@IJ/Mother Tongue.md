@@ -5,15 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
-<p></p>
-<p></p>
-<p><strong>STANDING from left: </strong>Mdm Siti Zainab , Mdm Cheng Wenli
-, Mdm Lay Woon Ting , Mdm Zhang Shujuan - <em>Senior Teacher / Chinese Language , </em>Ms
-Joanne Tan , Ms Mai Lei<em> , </em>Ms Lim Fang Teng . Ms Mastura Senin
-, Ms I Nandhini , Mr Li Zhengjun.</p>
-<p><strong>SEATED from left: </strong>Mrs Mythily Ezhilmani , Mdm Seng Wee
-Pheng , Ms Shirley Ong - <em>HoD / Mother Tongue Languages </em>, Ms Joan
-Gan , Mdm Sim Hoon Kuan <em>- SH / Chinese Language</em>.</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture bilingual learners who are proud to share their heritage and
