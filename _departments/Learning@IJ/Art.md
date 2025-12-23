@@ -5,10 +5,6 @@ description: ""
 third_nav_title: Learning@IJ
 variant: tiptap
 ---
-<p></p>
-<p><strong>ALL from left</strong>: &nbsp;Mr Marcus Liang - <em>SH / Student Well-Being </em>,
-Ms Raquel Lim - <em>Senior Teacher / Educational Support </em>, Ms Kong
-Mei Sing , Ms Jey Sundari , Mr Brian Ho.</p>
 <p><strong>Mission Statement</strong>
 </p>
 <p>To nurture inquiring and engaged art learners who display curiosity, resourcefulness,
