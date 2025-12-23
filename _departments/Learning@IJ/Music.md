@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Learning@IJ
 variant: tiptap
 ---
-<p></p>
-<p><strong>ALL from left</strong>: Mr Titus Chang , Ms Samantha Chan.</p>
 <p>Students are at the centre of the Music Programme in CHIJ Secondary. We
 believe that all students have the ability to respond to and express themselves
 through music. We therefore aim to not only develop students’ musical skills
