@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 third_nav_title: Learning@IJ
 ---
-<p></p>
 <h3>VISION</h3>
 <p>To nurture&nbsp;</p>
 <ol>
