@@ -10,8 +10,8 @@ variant: tiptap
 <p></p>
 <p><strong>Top from left:</strong> Mr Gary Tang <em>- SH / Performing Arts</em> ,
 Mr Marcus Liang.</p>
-<p><strong>Bottom from left: </strong>Ms Sum Kar Mun<em> </em>, Ms Angela
-Lim , Mrs Tivona Chelliah , Ms Raquel Lim.</p>
+<p><strong>Bottom from left: </strong>Ms Angela Lim , Mrs Tivona Chelliah
+, Ms Raquel Lim.</p>
 <p>The lower secondary&nbsp;Drama&nbsp;programme aims to deepen students’
 understanding of cultural and social constructs via activity-based collaborative
 learning. Every lesson is therefore an opportunity for students to hone
