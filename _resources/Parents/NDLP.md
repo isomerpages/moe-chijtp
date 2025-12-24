@@ -94,6 +94,60 @@ device. The specific device depends on your child's school and their curriculum
 needs.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary><strong>How much does the device cost?</strong> 
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The device is subsidised by MOE, with families typically paying around
+$200-400 depending on the device model. Financial assistance is available
+for families who need it, and some may receive the device at no cost.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Can we use our own device instead?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students can use their own device as long as it is compatible with the
+school model. The device must meet the same specifications and be able
+to run the required educational software and connect to the school's systems.
+Parents should check with the school about compatibility requirements before
+using a personal device.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What if the device gets damaged or lost?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Schools typically have insurance coverage and repair procedures in place.
+Parents should report any damage or loss immediately to the school. There
+may be excess charges for repairs or replacement depending on the circumstances.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>How will screen time be managed?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Schools implement device management systems that can control app usage,
+screen time, and internet access during school hours. Parents can also
+set additional controls at home through the device management system.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What apps and software will be installed?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The device comes pre-loaded with educational apps and software relevant
+to the curriculum, including productivity tools, subject-specific applications,
+and learning management systems used by the school.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>What happens to the device when my child graduates?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Students typically keep the device after completing their secondary education.</p>
+</div>
+</details>
 </div>
 <hr>
 <h4><strong>Resources</strong></h4>
