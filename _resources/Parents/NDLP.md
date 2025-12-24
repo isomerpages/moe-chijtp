@@ -20,7 +20,7 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
-<p><strong>FAQ</strong>
+<p><strong>FAQs</strong>
 </p>
 <hr>
 </li>
