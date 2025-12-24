@@ -5,14 +5,8 @@ description: ""
 variant: markdown
 third_nav_title: Parents
 ---
-<details class="isomer-details">
-<summary><strong>NDLP Outcomes @ CHIJ</strong>
-</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>NDLP Outcomes @ CHIJNDLP Outcomes @ CHIJ</strong>
-</p>
-</div>
-</details>
+NDLP Outcomes @ CHIJ
+
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What is NDLP?</strong>
@@ -87,19 +81,6 @@ and learning management systems used by the school.</p>
 <p>Students typically keep the device after completing their secondary education.</p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/PDLP.png">
 </div>
@@ -149,4 +130,4 @@ as shown below:</p>
 <br>Parents Handbook on Learning with PLD <a href="/files/ICT/ParentHb124_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK1</a> &amp; <a href="/files/ICT/ParentHb224_.pdf" rel="noopener noreferrer nofollow" target="_blank">BOOK2</a>
 </p>
 <p>Cyberwellness Resources for Parents <a href="/files/ICT/cybwellness4uchild.pdf" rel="noopener noreferrer nofollow" target="_blank">Parents' Toolkit</a>
-</p>
+</p></div>
