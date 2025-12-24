@@ -73,7 +73,7 @@ as shown below:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NDLP/2026-ipad-package.png">
 </div>
 <hr>
-<h4><strong>FAQ</strong></h4>
+<h4><strong>FAQs</strong></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>What is NDLP?</strong>
