@@ -2,7 +2,7 @@
 title: NDLP
 permalink: /ndlp/
 description: ""
-variant: markdown
+variant: tiptap
 third_nav_title: Parents
 ---
 <h3><strong>National Digital Literacy Programme</strong></h3>
@@ -20,7 +20,7 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
-<p><strong>FAQ</strong>
+<p><strong>FAQs</strong>
 </p>
 <hr>
 </li>
@@ -98,9 +98,9 @@ needs.</p>
 <summary><strong>How much does the device cost?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The device is subsidised by MOE, with families typically paying around
-$200-400 depending on the device model. Financial assistance is available
-for families who need it, and some may receive the device at no cost.</p>
+<p>The cost of the device bundle can be paid using Edusave account. To ensure
+the affordability of devices, MOE has provided Edusave top-up to all eligible
+students.</p>
 </div>
 </details>
 <details class="isomer-details">
