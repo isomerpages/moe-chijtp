@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Parents
 ---
-<h3>National Digital Literacy Programme</h3>
+<h3><strong>National Digital Literacy Programme</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>NDLP Outcomes @ CHIJ</strong>
@@ -95,7 +95,7 @@ needs.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>How much does the device cost?</strong> 
+<summary><strong>How much does the device cost?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The device is subsidised by MOE, with families typically paying around
