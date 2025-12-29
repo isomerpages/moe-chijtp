@@ -4,64 +4,27 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
-<h4><a href="https://docs.google.com/spreadsheets/d/15wjq8PSAvlXDlSSbumqHNzuRCbHuyvIgRrhTSneW59M/edit?usp=sharing" rel="noopener nofollow" target="_blank">End of Year Exam Script checking Schedule 2025 </a>(Students, Please access via your students email)</h4>
-<h4><a href="/files/Timetable/PEAS25.pdf" rel="noopener noreferrer nofollow" target="_blank">PEA Schedule 2025</a></h4>
-<h4><strong>EYE Timetable 2025</strong></h4>
+<h4><strong>IJCE Breaker Schedule</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/Sec1EYE2025a.pdf" rel="noopener nofollow" target="_blank">Sec 1 EYE Timetable 2025</a>
+<p><a href="/files/Students/S1_IJCE_Breaker_Week_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">S1 IJCE Breaker Week Schedule 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec2EYE2025a.pdf" rel="noopener nofollow" target="_blank">Sec 2 EYE Timetable 2025</a>
+<p><a href="/files/Students/S2_IJCE_Breaker_Week_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">S2 IJCE Breaker Week Schedule 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/Sec3EYE2025d.pdf" rel="noopener nofollow" target="_blank">Sec 3 EYE Timetable 2025</a>(Updated
-19 Sep'2025)</p>
+<p><a href="/files/Students/S3_IJCE_Breaker_Week_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">S3 IJCE Breaker Week Schedule 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/S4_IJCE_Breaker_Week_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">S4 IJCE Breaker Week Schedule 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Students/S5_IJCE_Breaker_Week_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">S5 IJCE Breaker Week Schedule 2026</a>
+</p>
+</li>
+</ul>
 <p></p>
-</li>
-</ul>
-<h4><strong>Schedule for Term 3 WA</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/2025Term3WA4.pdf" rel="noopener nofollow" target="_blank">Schedule for Term 3 WA</a>
-</p>
-</li>
-</ul>
-<h4><strong>Prelim Exam Timetable</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/OLevelPExamTTb.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/OLevelPExamTTAAb.pdf" rel="noopener nofollow" target="_blank">4E5N Prelim Exam Timetable (AA)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/4NPrelimsg.pdf" rel="noopener nofollow" target="_blank">4N Prelim Exam Timetable</a>
-</p>
-</li>
-</ul>
-<h4><strong>Semester 2 Timetable</strong></h4>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Timetable/S2S1Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/S2S2Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/S2S3Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Timetable/S2S45Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5</a>
-</p>
-<h4></h4>
-</li>
-</ul>
-<p>(Updated 18 Sep'2025)</p>
