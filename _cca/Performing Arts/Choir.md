@@ -17,7 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Magdalen Low , Ms Nicole Lek <br></strong>
+<p><strong>Ms Nicole Lek (<a href="mailto:lek_hui_xin_nicole@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lek_hui_xin_nicole@moe.edu.sg</a>),&nbsp;</strong>
+</p>
+<p><strong>Mrs Magdalen Low &amp; Mr Titus Chang</strong>
 </p>
 </td>
 </tr>
@@ -27,8 +29,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday (2.45 pm – 5.45 pm)
-<br>Friday ( 3.00 pm – 6.00 pm)
+<p>Wednesdays (2.45 pm – 5.45 pm)
+<br>Fridays ( 3.00 pm – 6.00 pm)
 <br>
 </p>
 </td>
@@ -39,7 +41,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary E-Studio</p>
+<p>CHIJ Secondary, E-Studio</p>
 </td>
 </tr>
 </tbody>
@@ -48,18 +50,20 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___comm.jpg">
 </div>
-<p>The award-winning CHIJ Choir is well known for its high standards both
-locally and abroad.</p>
+<p>The award-winning <strong>CHIJ Choir</strong> is well known for its high
+standards both locally and abroad.</p>
 <p>As an established Performing Arts group, the CCA continues to nurture
 confident choir members who are passionate in taking choral music into
 top-notch international competitions abroad. Choir girls have participated
 in festivals and competitions in Sydney Australia, Hawaii USA, Xiamen China,
 Riva del Garda Italy (twice), Olomouc Czech Republic, Wales, Hong Kong
-(4 times), and Taiwan for international festivals and returned with top
-awards in all categories, in all countries. We have also obtained Golds,
-Gold with Honours Awards and Certificates of Distinction in all Singapore
-Youth Festivals since 1997 to 2023, with excellent SYF appraisals during
-Covid-19 years.</p>
+(4 times), and Taiwan, and Malaysia, for international festivals and returned
+with top awards in all categories, in all countries. We have also obtained
+Golds, Gold with Honours Awards and Certificates of Distinction in all
+Singapore Youth Festivals from 1997 to 2025, with excellent SYF appraisals
+during Covid-19 years.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___activity_1.jpg">
 </div>
@@ -73,9 +77,8 @@ are in attendance to assist school masses. In 2024 we took the lead in
 the Convent’s 170th grand anniversary celebrations, participated in the
 Papal Mass, and returned from the Malaysian Choral Eisteddfod International
 Choir Festival 2024 with 3 Gold Medals, earning TOP 10 position in the
-Grand Prix, and clinched the Championship in the Children’s Category.</p>
+Grand Prix, and clinched the Championship in the Children’s Category.&nbsp;&nbsp;</p>
 <p>Choir girls give of their best at every local and international competition.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/9_Choir___activity_2.jpg">
 </div>
