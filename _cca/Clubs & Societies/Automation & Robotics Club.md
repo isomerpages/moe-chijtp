@@ -16,9 +16,12 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p>Ms Afiqah Bte Jamaludin (<a href="mailto:nur_afiqah_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_afiqah_jamaludin@moe.edu.sg</u></a>),&nbsp;</p>
-<p>Mr Jason Ng (<a href="mailto:ng_yee_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_yee_boon@moe.edu.sg</u></a>),</p>
-<p>Mr Derrick Ng (<a href="mailto:ng_mang_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_mang_chung@moe.edu.sg</u></a>).</p>
+<p><strong>Ms Afiqah Bte Jamaludin (<a href="mailto:nur_afiqah_jamaludin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_afiqah_jamaludin@moe.edu.sg</u></a>),&nbsp;</strong>
+</p>
+<p><strong>Mr Jason Ng (<a href="mailto:ng_yee_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_yee_boon@moe.edu.sg</u></a>),</strong>
+</p>
+<p><strong>Mr Derrick Ng (<a href="mailto:ng_mang_chung@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ng_mang_chung@moe.edu.sg</u></a>).</strong>
+</p>
 </td>
 </tr>
 <tr>
