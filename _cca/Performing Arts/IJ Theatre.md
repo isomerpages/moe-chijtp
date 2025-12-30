@@ -16,11 +16,12 @@ variant: tiptap
 <p>T<strong>eacher-in-Charge</strong>
 </p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Ms Raquel Lim , Mrs Tivona Chelliah , Ms Junainah Binte Amran
-<br>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Raquel Lim (<a href="mailto:lim_pei_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_pei_hua@moe.edu.sg</a>),&nbsp;</strong>
 </p>
-</th>
+<p><strong>Ms Tivona Low &amp; Ms Junainah</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -37,13 +38,14 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary - ARTSbox@IJ</p>
+<p>CHIJ Secondary (Mon - Estudio, Wed &amp; Fri -ARTSbox@IJ)</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/2024_IJ_Theatre_1.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_12_30_152427.png">
 </div>
 <p>IJ Theatre trains its members in the multi-faceted aspects of theatre
 production. Our students are exposed to an array of theatre disciplines
@@ -64,6 +66,9 @@ strides.</p>
 </div>
 <p>Our most recent productions include:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>‘Sisters’ (SYF Distinction, 2025)</p>
+</li>
 <li>
 <p>‘Over a Glass of Water Graduation show’ (2024)</p>
 </li>
@@ -90,9 +95,9 @@ strides.</p>
 </li>
 <li>
 <p>‘Red Hill’ (2016)</p>
-</li>
-<li>
-<p>‘Fished’ (2015)</p>
+<p>
+<br>
+</p>
 </li>
 </ul>
 <p></p>
