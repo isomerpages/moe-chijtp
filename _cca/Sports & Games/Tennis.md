@@ -34,8 +34,7 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="2">
-<p><strong>Recreational Team: </strong>Tuesday</p>
-<p>
+<p><strong>Recreational Team: </strong>Tuesday
 <br><strong>School Training Team</strong>
 </p>
 <p><strong>C Division : </strong>Tuesday &amp; Friday</p>
