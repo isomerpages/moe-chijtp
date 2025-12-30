@@ -61,13 +61,13 @@ Nature Society Singapore, members of this club will also have the opportunity
 to explore the biodiversity within the school campus through regular participation
 in citizen science surveys, contributing to invaluable information gathered
 about the presence of urban biodiversity in Singapore.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_3.jpg">
-</div>
 <p>iGrow@IJ welcomes all students with a passion and interest for environmental
 stewardship and provides an opportunity for students to deepen their own
 knowledge, understanding and appreciation for the natural world and its
 importance in our lives.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_igrowij_3.jpg">
+</div>
 <p><u>Our Achievements:&nbsp;</u>
 </p>
 <ul>
