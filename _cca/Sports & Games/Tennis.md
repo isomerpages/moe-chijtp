@@ -68,6 +68,9 @@ has blossomed into a programme that continues to shape young athletes today.</p>
 skilled sportswomen through rigorous training, our deeper commitment lies
 in nurturing Women of Distinction who embody the timeless values of our
 IJ heritage: truth, justice, freedom, and love.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___nsg_team_activity_2.jpg">
+</div>
 <p>Our experienced coaches, working closely with dedicated teacher mentors,
 employ diverse training methodologies including:</p>
 <p>•&nbsp; &nbsp; &nbsp; &nbsp; Progressive skill development drills</p>
@@ -84,9 +87,5 @@ but as a more confident, resilient, and values-driven individual ready
 to serve both on the court and in life.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___nsg_team_activity_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/25_Tennis___nsg_team_activity_2.jpg">
 </div>
 <p></p>
