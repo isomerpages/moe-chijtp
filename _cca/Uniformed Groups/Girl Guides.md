@@ -67,6 +67,9 @@ coy.</p>
 service and advocacy projects, both within the school and within the community.
 One such project includes raising funds for the Girl Guides Association
 through the annual sale of Girl Guides cookies.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___activity_photo.jpg">
+</div>
 <p>Throughout their Guiding journey, Guides can look forward to opportunities
 to take the lead in organizing and executing events like the annual Secondary
 One orientation campfire and the 3D2N overnight camp, as well as collaborating
@@ -74,10 +77,6 @@ with Guides from other schools during HQ and division events.&nbsp;</p>
 <p>Joining Girl Guides is more than just participating in activities—it is
 about growing as individuals, building lasting friendships, and making
 a positive impact on the community and the world.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___activity_photo.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/13_Girl_Guides___activity_photo_2.jpg">
 </div>
