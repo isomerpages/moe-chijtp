@@ -25,9 +25,6 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p>Ms Agnes Leong (<a href="mailto:leong_ngan_yean_agnes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ngan_yean_agnes@moe.edu.sg</a>),&nbsp;</p>
 <p>Mr Augustine Khoo, Ms Nicole Teo &amp; Ms Nandhini</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -45,9 +42,6 @@ variant: tiptap
 <p><strong>B Division : </strong>Wednesday &amp; Friday&nbsp;</p>
 <p></p>
 <p>Time : 3.15 pm to 5.45 pm</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
