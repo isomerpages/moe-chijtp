@@ -23,8 +23,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Agnes Leong (<a href="mailto:leong_ngan_yean_agnes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ngan_yean_agnes@moe.edu.sg</a>),&nbsp;</p>
-<p>Mr Augustine Khoo, Ms Nicole Teo &amp; Ms Nandhini</p>
+<p><strong>Ms Agnes Leong (<a href="mailto:leong_ngan_yean_agnes@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_ngan_yean_agnes@moe.edu.sg</a>),&nbsp;</strong>
+</p>
+<p><strong>Mr Augustine Khoo, Ms Nicole Teo &amp; Ms Nandhini</strong>
+</p>
 </td>
 </tr>
 <tr>
