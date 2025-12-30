@@ -23,8 +23,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Daniel Kuan (IC), Ms Jesslyn Winata, Mr Harry Goh &amp; Ms Norshidah Abdul Rahim<br></strong>
-</p>
+<p>Ms Karina Lalchand Sheri (<a href="mailto:karina_lalchand_sheri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>karina_lalchand_sheri@moe.edu.sg</u></a>),</p>
+<p>Mr Daniel Kuan, Mr Harry Goh &amp; Mdm Norshidah Abdul Rahim</p>
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday, Wednesday &amp; Friday (3.30 pm to 5.30 pm)</p>
+<p>Mondays, Wednesday &amp; Fridays (3.30 pm to 5.30 pm)</p>
 </td>
 </tr>
 <tr>
@@ -47,37 +47,32 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___committee_photo.jpg">
 </div>
-<p>The Athletics CCA is a CCA where girls are given the opportunity to participate
-in a variety of track and field events, ranging from the fast and furious
-100m and the gruelling 3000m, to the explosive long jump and technical
-Shot Put, before they are placed in a specialisation. Certain girls will
-also have the chance to participate in the cross country events, where
-runners compete to complete a course over open terrain, i.e. gravel, grass,
-mud, and hills. Not for the faint-hearted, Athletics is a CCA that demands
-a high level of mental and physical toughness.</p>
-<p></p>
+<p>The Track and Field CCA introduces students to a range of track and field
+events, from sprints and middle-distance runs to jumping and throwing disciplines.
+Students have the opportunity to try out different events before they are
+sorted into an area of specialisation which their training will focus primarily
+on. Those who are keen on distance running will also have the opportunity
+to participate in cross-country races.</p>
+<p>Training is led by experienced coaches and regular team practice helps
+students build confidence and strong working relationships. Our athletes
+take part in various inter-school competitions each year, such as the Allcomers
+Meet, National Inter-School Cross Country Championships and National Inter-School
+Track and Field Championships, where they are given opportunities to challenge
+themselves and gain competition experience. With such exposure, students
+also develop technical skills and race awareness, beyond physical conditioning.</p>
+<p>While we aim to perform well in competitions, the CCA places equal emphasis
+on personal growth. Through consistent training and teamwork, students
+learn discipline, resilience, responsibility, and leadership. These are
+values that extend beyond sport and support our students in their future
+endeavours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_1.jpg">
 </div>
-<p>The Athletics team trains under the experienced hands of our coaches and
-our strong team camaraderie enables us to do well each year during the
-Singapore Press Holdings Schools Relay Championships, the Singapore Youth
-and Junior Athletics Championships, the National Inter-School Cross Country
-Championships and the National Inter-School Track and Field Championships,
-where our girls display their talents and skills in the competition arena.
-Each year, we strive to go beyond our personal best and bring glory to
-the school by not just training hard physically, but also honing our skills
-and tactical awareness.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_2.jpg">
 </div>
-<p>Ultimately, the goal for our CCA is not just to win medals, but rather
-we aim to inculcate discipline within our girls and create opportunities
-for character and leadership building. We believe it is these values that
-will allow those who succeed on the track and on the field to achieve similar
-and greater success in their lives after they have graduated from CHIJ.</p>
+<p>CHIJ.</p>
