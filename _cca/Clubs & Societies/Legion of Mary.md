@@ -48,6 +48,9 @@ in about 170 countries whose members serve the Church and their neighbours
 on a voluntary basis. The objective of the Legion of Mary is to glorify
 God through the holiness of its members developed by prayer and active
 cooperation in Mary’s and the Church’s work.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___activity_photo_2.jpg">
+</div>
 <p>At CHIJ Secondary, we have one Legion praesidium: Our Lady of Graces Junior
 Praesidium. Every meeting includes the Rosary, spiritual reading and sharing.
 Legionaries cultivate their spiritual growth through these weekly prayer
@@ -55,15 +58,11 @@ meetings and regular contact work in the form of outreach. They also assist
 at school Masses and conduct the daily Chapel Morning Prayer. The Praesidium
 also participates in monthly Curia meetings and fellowship programmes with
 Junior Praesidia of other Catholic schools in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___comm_photo.jpg">
+</div>
 <p>The Legion of Mary invites students who are interested in praying together
 and serving the school in its various spiritual activities. Join the Legion
 of Mary to have an enriched spiritual and prayer life and discover what
 God has in store for you!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___activity_photo_2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18_Legion_of_Mary___comm_photo.jpg">
-</div>
 <p></p>
