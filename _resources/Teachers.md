@@ -30,7 +30,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/SLS.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSd3VsQl8O-qV128WlTsLVWDGX2HKLHDHF81HQfCvdNk3m6nkQ/viewform"><img style="width: 70%;" height="auto" width="100%" src="/images/IconTr/ITEquipment_ver2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chijtpss-adm/home"><img style="width: 70%;" height="auto" width="100%" alt="" src="/images/IconTr/IJform2.png"></a>
 </td>
 </tr>
 <tr>
