@@ -33,18 +33,6 @@ variant: tiptap
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/SLS.png"></a>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chij-secondary-homework-board/home"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IconStu/HWB.png"></a>
-</td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/file/ICT/iconguide"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/iconguide.png"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <ul data-tight="true" class="tight">
