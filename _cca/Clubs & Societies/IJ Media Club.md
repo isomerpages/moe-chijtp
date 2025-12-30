@@ -15,9 +15,10 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Teacher-in-Charge</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mr Teo Wen Jie , Mr Koh Bing Qin , Mdm Zhang Shujuan</p>
-</th>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Wen Jie (<a href="mailto:teo_wen_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_wen_jie@moe.edu.sg</u></a>),&nbsp;</p>
+<p>Mr Koh Bing Qin &amp; Mdm Zhang Shujuan</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,7 +35,7 @@ variant: tiptap
 <p>Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary - Library Computer Lab</p>
+<p>CHIJ Secondary - Computer Lab 4</p>
 </td>
 </tr>
 </tbody>
@@ -43,28 +44,71 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_Club___Committee_photo.jpg">
 </div>
-<p>IJ Media Club provides the opportunity for students to be involved in
-photography, videography, as well as the setting up and operating of audio-visual
-systems to support school-wide events and activities. Members will have
-the opportunity to learn 1) basic functions and use of DSLR cameras, 2)
-techniques for mobile phone photography and videography, and 3) post-production
-skills through editing tools such as Snapseed and Capcut. Hands-on learning
-opportunities will also be provided for members with outdoor field shoots
-organised whenever possible.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___farewell_Photo.jpg">
-</div>
+<p><strong>IJ Media Club</strong> provides the opportunity for students to
+be involved in photography, videography, as well as the setting up and
+operating of audio-visual systems to support school-wide events and activities.
+Members will have the opportunity to learn 1) basic functions and use of
+DSLR cameras, 2) techniques for mobile phone photography and videography,
+and 3) post-production skills through editing tools such as Snapseed and
+Capcut. Hands-on learning opportunities will also be provided for members
+with outdoor field shoots organised whenever possible.&nbsp;</p>
 <p>All IJ Media Club members are encouraged to participate in national and
 international photography and videography competitions to gain greater
 exposure. Some competitions that our Media Club members have participated
 in previously include the “Our Schools, Our Stories” photography and videography
-competition and the “SYFgoesOnline! Pixel Perfect” competition.</p>
+competition and the “SYFgoesOnline! Pixel Perfect” competition.&nbsp;</p>
+<p>IJ Media Club welcomes all who are keen to explore and deepen their interest
+in photography and videography!&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___farewell_Photo.jpg">
+</div>
+<p></p>
+<p><u>Here are some photographs taken by our IJ Media Club members</u>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___learning_journey.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_12_30_145248.png">
 </div>
-<p>IJ Media Club welcomes all who are keen to explore and deepen their interest
-in photography and videography!
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_12_30_145329.png">
+</div>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_12_30_145344.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_12_30_145358.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Screenshot_2025_12_30_145351.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
