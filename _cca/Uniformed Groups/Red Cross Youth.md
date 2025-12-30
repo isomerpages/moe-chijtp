@@ -19,10 +19,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Linda Cruz (<a href="mailto:linda_cruz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">linda_cruz@moe.edu.sg</a>),</p>
 <p>Mr Foong Sheng Hui Lionel</p>
-<p>
-<br>
-<br>
-</p>
 </td>
 </tr>
 <tr>
