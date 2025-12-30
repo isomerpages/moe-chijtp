@@ -23,8 +23,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Karina Lalchand Sheri (<a href="mailto:karina_lalchand_sheri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>karina_lalchand_sheri@moe.edu.sg</u></a>),</p>
-<p>Mr Daniel Kuan, Mr Harry Goh &amp; Mdm Norshidah Abdul Rahim</p>
+<p><strong>Ms Karina Lalchand Sheri (<a href="mailto:karina_lalchand_sheri@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>karina_lalchand_sheri@moe.edu.sg</u></a>),</strong>
+</p>
+<p><strong>Mr Daniel Kuan, Mr Harry Goh &amp; Mdm Norshidah Abdul Rahim</strong>
+</p>
 </td>
 </tr>
 <tr>
