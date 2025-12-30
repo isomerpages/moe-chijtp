@@ -22,7 +22,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Brian Ho , Mr Marcus Liang</p>
+<p>Mr Brian Ho (<a href="mailto:ho_hoe_kiong_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hoe_kiong_brian@moe.edu.sg</a>)</p>
 </th>
 </tr>
 <tr>
@@ -31,9 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday (3.00 pm - 6.00 pm)
-<br>
-</p>
+<p>Monday (3.00 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary, Computer Lab 4 (Level 1)</p>
+<p>CHIJ Secondary; St. Michael Block, Level 3 Art Studio</p>
 </td>
 </tr>
 </tbody>
@@ -51,37 +49,39 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Arts_Alive___open_house.jpg">
 </div>
-<p>Arts Alive! provides its member's opportunities to engage in the arts,
-through a range of platforms and group activities where they learn skills
-like creativity, self-expression, discipline, perseverance, risk-taking,
-open-mindedness and collaboration.</p>
+<p><strong>Arts Alive!</strong> provides its member's opportunities to engage
+in the arts, through a range of platforms and group activities where they
+learn skills like creativity, self-expression, discipline, perseverance,
+risk-taking, open-mindedness and collaboration.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_arts_alive_2.jpg">
 </div>
-<p>Students at Arts Alive! get to express, explore and evaluate different
-art forms while applying various materials and mediums. There would be
-art exhibitions and performances to offer them a window to the vibrant
-arts scene in Singapore, and to raise their cultural and aesthetic awareness.
-Beyond school, they interact with different community groups through the
-CCA VIA (Values-in Action) to share their knowledge and love for the arts.</p>
-<p>2019-2020 Art sessions: Manga drawing, Felt art and Decoupage</p>
+<p>Students at <strong>Arts Alive!</strong> get to express, explore and evaluate
+different art forms while applying various materials and mediums. There
+would be art exhibitions and performances to offer them a window to the
+vibrant arts scene in Singapore, and to raise their cultural and aesthetic
+awareness. Beyond school, they interact with different community groups
+through the CCA VIA (Values-in Action) to share their knowledge and love
+for the arts.</p>
 <p>2021 Art sessions: Pyrography, Cyanotype and Crochet</p>
 <p>2022 Art Sessions: Linocut, Embroidery and Nagomi art</p>
 <p>2023 Art sessions: iPad Denim Bag, Scribble &amp; Relief art and CD painting</p>
 <p>2024 Art sessions: Eco Bin Painting, mini recycled clay plant pots, Decoupage,
 Paper Twirling</p>
-<p></p>
+<p>2025 Art sessions: Sumi-ink Painting, Digital Manga drawing, Recyclables
+Fashion Art, Flip Book art, Air-dry Clay sculptures, Stop-motion animation</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4_Arts_Alive___Committee_photo.jpg">
 </div>
-<p>Our Achievements:</p>
-<ul data-tight="true" class="tight">
+<p><u>Our Achievements:</u>
+</p>
+<ul>
 <li>
 <p>2015-2018 Lantern Painting Competition – 3 Consolation Positions (2017),
-1st &amp; 3rd Positions, 4 Consolation Positions (2016), 1st &amp; 2nd
-Positions, 4 Consolation Positions (2015), 1st &amp; 3rd Positions, 3 Consolation
-Positions (2018)</p>
+1<sup>st</sup> &amp; 3<sup>rd</sup> Positions, 4 Consolation Positions (2016),
+1<sup>st</sup> &amp; 2<sup>nd</sup> Positions, 4 Consolation Positions (2015),
+1<sup>st</sup> &amp; 3<sup>rd</sup> Positions, 3 Consolation Positions (2018)</p>
 </li>
 <li>
 <p>2019 Dyslexia Awareness Art Competition - (Mixed media Open category)
