@@ -56,6 +56,9 @@ Students have the opportunity to try out different events before they are
 sorted into an area of specialisation which their training will focus primarily
 on. Those who are keen on distance running will also have the opportunity
 to participate in cross-country races.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_2.jpg">
+</div>
 <p>Training is led by experienced coaches and regular team practice helps
 students build confidence and strong working relationships. Our athletes
 take part in various inter-school competitions each year, such as the Allcomers
@@ -70,9 +73,5 @@ values that extend beyond sport and support our students in their future
 endeavours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_2.jpg">
 </div>
 <p></p>
