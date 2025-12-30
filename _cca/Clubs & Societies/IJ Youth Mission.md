@@ -16,7 +16,10 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Ernest Leong , Ms Angela Lim</p>
+<p>Ms Angela Lim (<a href="mailto:lim_yin_poh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_yin_poh@moe.edu.sg</a>)
+&amp;&nbsp;</p>
+<p>Mr Ernest Leong (<a href="mailto:leong_wing_yew_ernest@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_wing_yew_ernest@moe.edu.sg</a>)</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -25,7 +28,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday (3.00 pm - 5.30 pm) OR selected Thursdays</p>
+<p>Wednesdays (3.00 pm – 5.30 pm) and (possible project based days which
+may be scheduled on other days)</p>
 </td>
 </tr>
 <tr>
@@ -34,7 +38,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Room (Pascal Café)</p>
+<p>CHIJ Secondary, Pascal Cafe -Ga401</p>
 </td>
 </tr>
 </tbody>
