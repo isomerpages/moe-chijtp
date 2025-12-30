@@ -23,8 +23,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Mastura Senin (<a href="mailto:mastura_senin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_senin@moe.edu.sg</a>), Mr
-Kenneth Ho, Ms Sim Hoon Kuan,&nbsp;Mrs Tan Yan Ping (Sem 1) / Ms Jeannette
+<p>Ms Mastura Senin (<a href="mailto:mastura_senin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mastura_senin@moe.edu.sg</a>),</p>
+<p>Mr Kenneth Ho, Ms Sim Hoon Kuan,&nbsp;Mrs Tan Yan Ping (Sem 1) / Ms Jeannette
 Lee (Sem 2)</p>
 </td>
 </tr>
