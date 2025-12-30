@@ -59,8 +59,8 @@ variant: tiptap
 <blockquote>
 <p><em>"Feel the passion, love the game"</em>
 </p>
-</blockquote>
 <p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_1.jpg">
 </div>
