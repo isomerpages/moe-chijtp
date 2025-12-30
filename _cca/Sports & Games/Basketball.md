@@ -22,8 +22,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Kong Mei Sing (<a href="mailto:kong_mei_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mei_sing@moe.edu.sg</a>),&nbsp;</p>
-<p>Mr Leon Yeo &amp; Mrs Seah-Tay Hwee Kheng</p>
+<p><strong>Ms Kong Mei Sing (<a href="mailto:kong_mei_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mei_sing@moe.edu.sg</a>),&nbsp;</strong>
+</p>
+<p><strong>Mr Leon Yeo &amp; Mrs Seah-Tay Hwee Kheng</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -65,6 +67,9 @@ and the joy of playing with others all contribute to a fulfilling experience.</p
 we compete fiercely while fostering sportsmanship and camaraderie. In addition
 to official tournaments, we engage in friendly matches with various schools
 and participate in competitions organized by external organizations.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_2.jpg">
+</div>
 <p>Collaborating with teammates during competitions to achieve a common goal
 reinforces the importance of communication, cooperation, and mutual respect.
 Interacting with people from different backgrounds can broaden your perspective.
@@ -74,9 +79,6 @@ and teamwork.</p>
 fitness levels, hone your skills, or simply enjoy a friendly game with
 others, you'll certainly gain satisfaction as you reap the benefits of
 the game, and most importantly, have fun!</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_2.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___comm.jpg">
