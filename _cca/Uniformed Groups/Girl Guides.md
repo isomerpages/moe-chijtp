@@ -17,8 +17,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Chua (<a href="mailto:chua_li_wen_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_wen_amanda@moe.edu.sg</a>),</p>
-<p>Mrs Audrey Teng and Mrs Susanna Ng</p>
+<p><strong>Ms Amanda Chua (<a href="mailto:chua_li_wen_amanda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_li_wen_amanda@moe.edu.sg</a>),</strong>
+</p>
+<p><strong>Mrs Audrey Teng and Mrs Susanna Ng</strong>
+</p>
 </td>
 </tr>
 <tr>
