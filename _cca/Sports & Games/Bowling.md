@@ -60,6 +60,9 @@ of members. Over the years, it has grown steadily, and today the team boasts
 an enrolment of more than 50 passionate bowlers. Each year, our members
 take part in major competitions such as the <strong>National Inter-School Tenpin Bowling Championships (NSG)</strong> and
 the <strong>National Age Group (NAG) Competition</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___Activity_2.jpg">
+</div>
 <p>As a team that believes in both training and playing hard, the CHIJ Tenpin
 Bowling Team promises an enjoyable and rewarding experience like no other.
 We strive for that perfect throw that results in a strike — one that demands
@@ -68,11 +71,6 @@ Our bowlers are trained in all these aspects to excel in the sport.</p>
 <p>Beyond the lanes, we also organise various activities to strengthen team
 spirit and foster camaraderie among members, making the journey both meaningful
 and memorable.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___Activity_2.jpg">
-</div>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/26_Tenpin_Bowling___activity_1.jpg">
 </div>
