@@ -35,9 +35,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mondays &amp; Wednesdays (3.00 pm – 6.00 pm)</p>
 <p>Monday, Wednesday and Friday during Mar, Jun &amp; Nov holidays</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -49,9 +46,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>CHIJ Secondary, Indoor Sports Hall (Mon)&nbsp;</p>
 <p>CHIJ Secondary, Basketball Court (Wed)</p>
-<p>
-<br>
-</p>
 </td>
 </tr>
 </tbody>
