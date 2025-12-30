@@ -18,9 +18,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Seng Wee Pheng (<a href="mailto:seng_wee_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_wee_pheng@moe.edu.sg</a>),&nbsp;</p>
+<p><strong>Mdm Seng Wee Pheng (<a href="mailto:seng_wee_pheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seng_wee_pheng@moe.edu.sg</a>),&nbsp;</strong>
+</p>
 <p></p>
-<p>Mr Wong Wei Keong, Mr Eng Wee Keng &amp; Ms Alvina Chua</p>
+<p><strong>Mr Wong Wei Keong, Mr Eng Wee Keng &amp; Ms Alvina Chua</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -75,16 +77,15 @@ In 2022 and 2023, we achieved champions for both ‘B’ &amp; ‘C’ divisions
 in the South Zone Inter-school Netball Championships.&nbsp; In 2025, we
 achieved 3rd place in the ‘B’ division National Inter-School Championships
 and 2nd place in the ‘C’ division League 1 competition.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21_Netball___activity_photo_1.jpg">
+</div>
 <p>However, the CHIJ Netball School Team is not only about winning competitions.
 Besides the annual championships, CHIJ Netball also plays friendly matches
 with many different schools and teams. Annually, the team also organises
 a team bonding retreat and beach training at Sentosa. This helps us to
 learn from the other players and allows us to gain more experience on and
 off the court.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21_Netball___activity_photo_1.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/21_Netball___commitee_photo.jpg">
 </div>
@@ -141,18 +142,17 @@ To help us achieve these aims, the club participates in both competitive
 and friendly games. Each year, we aim to have every level represent the
 school in at least one netball competition. We have participated in various
 age-group netball competitions such as the&nbsp;Daisy Tan Netball Carnival
-and Deloitte Pesta Sukan Netball Carnival. Our members have gained much
-from participating in such competitions. For the past 4 years, we organised
-an in-house games carnival to promote the same camaraderie and team spirit.
-We want our members to enjoy learning the skill as well as playing as a
-CCA. We are always looking for opportunities to enable our members to grow
-holistically.&nbsp;</p>
-<p><strong>JOIN THE NETBALL CLUB</strong>! Let’s make 2026 a fruitful and
-meaningful year!</p>
+and Deloitte Pesta Sukan Netball Carnival.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22_Netball__Recreational____activity_2.jpg">
 </div>
-<p></p>
+<p>Our members have gained much from participating in such competitions.
+For the past 4 years, we organised an in-house games carnival to promote
+the same camaraderie and team spirit. We want our members to enjoy learning
+the skill as well as playing as a CCA. We are always looking for opportunities
+to enable our members to grow holistically.&nbsp;</p>
+<p><strong>JOIN THE NETBALL CLUB</strong>! Let’s make 2026 a fruitful and
+meaningful year!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/22_Netball__Recreational____committee.jpg">
 </div>
