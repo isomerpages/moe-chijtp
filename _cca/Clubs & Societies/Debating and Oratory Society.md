@@ -58,6 +58,9 @@ is invited to several competitions every year, we participate in the ones
 that offer our debaters a good platform to engage at the highest level
 of debating as well as receive poignant feedback and adjudication so that
 they may develop and learn.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Debate_2.jpg">
+</div>
 <p>With online competitions being a common occurrence since 2020, we have
 taken part in more international competitions which offer rich learning
 to our debaters, giving them opportunities to hone their craft as well
@@ -72,15 +75,9 @@ and competitions as well as craft original speeches.&nbsp;</p>
 and deliver their arguments with confidence and finesse in person as well
 as via video-conferencing platforms.</p>
 <p></p>
-<p><strong><u>Signing-up for trials is necessary.</u> Students who did not manage to sign up during the CCA Orientation <u>must email</u> the teachers-in-charge. &nbsp;</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Debate_2.jpg">
-</div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12_Debating___Oratory_Society___photo_2.jpg">
 </div>
-<p></p>
+<p><strong><u>Signing-up for trials is necessary.</u> Students who did not manage to sign up during the CCA Orientation <u>must email</u> the teachers-in-charge. &nbsp;</strong>
+</p>
 <p></p>
