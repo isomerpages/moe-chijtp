@@ -22,8 +22,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Kong Mei Sing (<a href="mailto:kong_mei_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mei_sing@moe.edu.sg</a>),&nbsp;Mr Leon Yeo &amp; Mrs Seah-Tay Hwee Kheng</strong>
-</p>
+<p>Ms Kong Mei Sing (<a href="mailto:kong_mei_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mei_sing@moe.edu.sg</a>),&nbsp;</p>
+<p>Mr Leon Yeo &amp; Mrs Seah-Tay Hwee Kheng</p>
 </td>
 </tr>
 <tr>
