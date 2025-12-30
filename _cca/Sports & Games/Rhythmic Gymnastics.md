@@ -23,8 +23,10 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Tan (<a href="mailto:tan_yong_fang_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yong_fang_fiona@moe.edu.sg</u></a>),</p>
-<p>Ms Stephanie Song, &amp; Ms Jesslyn Winata</p>
+<p><strong>Ms Fiona Tan (<a href="mailto:tan_yong_fang_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yong_fang_fiona@moe.edu.sg</u></a>),</strong>
+</p>
+<p><strong>Ms Stephanie Song, &amp; Ms Jesslyn Winata</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +71,6 @@ Championships in groups or as individuals. Spanning over three days, we
 take part in various categories like the compulsory, optional and group
 routines. We also take part actively in competitions like National Championships
 organised by Singapore Gymnastics (National Sports Association for gymnastics).</p>
-<p>
-<br>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports/2024_Rgym_3.jpg">
 </div>
