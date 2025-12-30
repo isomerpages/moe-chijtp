@@ -52,14 +52,12 @@ variant: tiptap
 </div>
 <p><strong>Debating and Oratory Society</strong>
 </p>
-<p></p>
 <p>The <strong>CHIJ Debating and Oratory Society</strong> is an active society
 that participates in numerous competitions annually. While our society
 is invited to several competitions every year, we participate in the ones
 that offer our debaters a good platform to engage at the highest level
 of debating as well as receive poignant feedback and adjudication so that
 they may develop and learn.&nbsp;</p>
-<p></p>
 <p>With online competitions being a common occurrence since 2020, we have
 taken part in more international competitions which offer rich learning
 to our debaters, giving them opportunities to hone their craft as well
@@ -80,7 +78,6 @@ as via video-conferencing platforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Debate_2.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/12_Debating___Oratory_Society___photo_2.jpg">
