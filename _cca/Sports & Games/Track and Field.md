@@ -75,4 +75,4 @@ endeavours.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/27_Track___Field___Activity_2.jpg">
 </div>
-<p>CHIJ.</p>
+<p></p>
