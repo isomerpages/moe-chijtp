@@ -17,8 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Linda Cruz , Mr Lionel Foong , Ms Janice Yong </strong>
-<br>
+<p><strong>Ms Linda Cruz (<a href="mailto:linda_cruz@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">linda_cruz@moe.edu.sg</a>),</strong>
+</p>
+<p><strong>Mr Foong Sheng Hui Lionel</strong>
 </p>
 </td>
 </tr>
@@ -29,8 +30,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wednesday (3.00 pm – 6.00 pm)
+<p>Wednesdays (3.00 pm – 6.00 pm)
 <br>Ad hoc Saturdays for competitions and training by Red cross Youth (HQ)</p>
+<p>Attendance is compulsory if selected to attend these HQ activities.</p>
 </td>
 </tr>
 <tr>
@@ -40,12 +42,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary; Parade Square, Classrooms</p>
+<p>CHIJ Secondary; Parade Square/Classrooms (R101 &amp; R102)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Activity_2.jpg">
@@ -62,7 +63,7 @@ home and in the community.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Red_Cross_Activity_1.jpg">
 </div>
 <p>The activities of Red Cross Youth will focus on the following:</p>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
 <p>First Aid Skills;</p>
 </li>
@@ -83,20 +84,21 @@ home and in the community.</p>
 events;</p>
 </li>
 <li>
-<p>Training in Red Cross Knowledge,</p>
+<p>Training in Red Cross Knowledge,&nbsp;</p>
 </li>
 <li>
-<p>Footdrills and Outdoor Activities;</p>
+<p>Footdrill and Outdoor Activities;</p>
 </li>
 <li>
-<p>Fund Raising</p>
+<p>Fund Raising.</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/23_Red_Cross_Youth___Committee_photo.jpg">
 </div>
-<p>Apart from training activities, CHIJ Red Cross Youth also organises recreational
-activities like bonding games and camps, heritage trails and outings for
-our cadets. Members are given the opportunity to develop their organisational
-and leadership skills by planning for activities and camps.</p>
+<p>Apart from theory-based and practical training activities,<strong> CHIJ Red Cross Youth</strong> also
+organises recreational activities like bonding games, camps, heritage trails
+and outings for its cadets. Members are given the opportunity to develop
+their organisational and leadership skills by planning for their own activities
+and camps.</p>

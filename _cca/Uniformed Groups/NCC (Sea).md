@@ -17,7 +17,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Tan Yee Ping , Mr Eraja Rajan , Mrs Chia-Ong Yee Hwee , Ms Hemavathy Anbalagan<br></strong>
+<p><strong>Mr Tan Yee Ping (<a href="mailto:tan_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yee_ping@moe.edu.sg</u></a>),</strong>
+</p>
+<p><strong>Mrs Chia-Ong Yee Hwee, Miss Hemavathy Anbalagan, Mr Erajan Rajan</strong>
 </p>
 </td>
 </tr>
@@ -64,7 +66,7 @@ with Pride and Dedication!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_2.jpg">
 </div>
-<p><strong>Highlights:</strong>
+<p>&nbsp;<strong>Highlights:</strong>
 </p>
 <ul>
 <li>
@@ -77,9 +79,9 @@ Proficiency assessments</p>
 2-Star Kayaking</p>
 </li>
 <li>
-<p><strong>Camps and Courses</strong>:<strong> </strong>Camp FORGE (Sec 1s),
-Camp STEEL (Sec 2s), Sea Specialist Course &amp; Senior Specialist Leadership
-Course (Sec 3s), Cadet Officer Course (Selected Sec 4s&amp;5s)&nbsp;</p>
+<p>Camp FORGE (Sec 1s), Camp STEEL (Sec 2s), Sea Specialist Course &amp;
+Senior Specialist Leadership Course (Sec 3s), Cadet Officer Course (Selected
+Sec 4s&amp;5s)&nbsp;</p>
 </li>
 <li>
 <p><strong>Unit Initiatives</strong>: Leadership Camp, Unit Camp, National
@@ -89,18 +91,11 @@ Education (NE) Learning Journey</p>
 <p><strong>HQ NCC Sports and Service-related Competitions&nbsp;</strong>
 </p>
 </li>
-<li>
-<p><strong>HQ NCC programmes:&nbsp;</strong>Affirmation Ceremony at Changi
-Naval Base, Air Rifle shoot, SAR21 live firing, Basic sailing course,&nbsp;
-International Cadet Exchange Programme (ICEP), Exercise Puncak/ Mt Ophir
-Expedition, Ship visits, and more!</p>
-</li>
 </ul>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/UGs/2025_NCC_3.jpg">
 </div>
-<p><strong>2025</strong>&nbsp;<strong>Achievements:</strong>
+<p><strong>2025</strong>  <strong>Achievements:</strong>
 </p>
 <ul>
 <li>
@@ -123,10 +118,6 @@ Expedition, Ship visits, and more!</p>
 </li>
 <li>
 <p>NCC Sports Championship Frisbee (Girls) (Cluster 1st Runner up)</p>
-</li>
-<li>
-<p>Outstanding Unit Award (OCA) awarded to Clover Low En Min and Chua Xin
-Yi Sherilyn from 4 Elizabeth</p>
 </li>
 </ul>
 <p></p>

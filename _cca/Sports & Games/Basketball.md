@@ -22,7 +22,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Seah-Tay Hwee Kheng , Ms Kong Mei Sing , Mr Leon Yeo <br></strong>
+<p><strong>Ms Kong Mei Sing (<a href="mailto:kong_mei_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kong_mei_sing@moe.edu.sg</a>),&nbsp;</strong>
+</p>
+<p><strong>Mr Leon Yeo &amp; Mrs Seah-Tay Hwee Kheng</strong>
 </p>
 </td>
 </tr>
@@ -33,8 +35,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday &amp; Wednesday (3.00 pm - 6.00 pm)
-<br>Monday, Wednesday and Friday during Mar, Jun &amp; Nov holidays</p>
+<p>Mondays &amp; Wednesdays (3.00 pm – 6.00 pm)</p>
+<p>Monday, Wednesday and Friday during Mar, Jun &amp; Nov holidays</p>
 </td>
 </tr>
 <tr>
@@ -44,8 +46,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CHIJ Secondary - Basketball Court (Wed) CHIJ Secondary - Indoor Sports
-Hall (Mon)</p>
+<p>CHIJ Secondary, Indoor Sports Hall (Mon)&nbsp;</p>
+<p>CHIJ Secondary, Basketball Court (Wed)</p>
 </td>
 </tr>
 </tbody>
@@ -53,23 +55,30 @@ Hall (Mon)</p>
 <blockquote>
 <p><em>"Feel the passion, love the game"</em>
 </p>
-</blockquote>
 <p></p>
+</blockquote>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_1.jpg">
 </div>
-<p>&nbsp;The CHIJ Basketball team exemplifies dedication, perseverance, and
-teamwork. Through countless hours of practice, we’ve built a strong foundation
-rooted in trust and collaboration. Every challenge on and off the court
-has only strengthened our resolve. Our girls support each other, pushing
-one another to achieve personal and collective goals. With each game, we
-showcase our commitment to excellence, demonstrating that teamwork is our
-greatest asset. Together, we rise, striving for victory while building
-lasting friendships along the way.</p>
-<p></p>
+<p><strong>CHIJ Basketball</strong> is a fun and exciting sport CCA. The enjoyable
+experience of making a shot, the challenge of defending against an opponent,
+and the joy of playing with others all contribute to a fulfilling experience.</p>
+<p>As members of the South Zone Secondary Schools Basketball Championships,
+we compete fiercely while fostering sportsmanship and camaraderie. In addition
+to official tournaments, we engage in friendly matches with various schools
+and participate in competitions organized by external organizations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___activity_2.jpg">
 </div>
+<p>Collaborating with teammates during competitions to achieve a common goal
+reinforces the importance of communication, cooperation, and mutual respect.
+Interacting with people from different backgrounds can broaden your perspective.
+These skills are vital in everyday life to cultivate a sense of community
+and teamwork.</p>
+<p><strong>Join IJ Basketball!</strong> Whether you're looking to boost your
+fitness levels, hone your skills, or simply enjoy a friendly game with
+others, you'll certainly gain satisfaction as you reap the benefits of
+the game, and most importantly, have fun!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/7_Basketball___comm.jpg">
