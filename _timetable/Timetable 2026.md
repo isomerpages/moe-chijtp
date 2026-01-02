@@ -39,7 +39,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/SEC3S1TT26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetables</a>
+<p><a href="/files/Timetable/sec3s1tt26a.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetables</a>
 </p>
 </li>
 <li>
