@@ -20,17 +20,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ijtech"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/IJTech.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chij-secondary-hbl/home"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/HBL.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/LibCatalogue.png"></a>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://schoolibrary.moe.edu.sg/chijsectoapayoh/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/LibCatalogue.png"></a>
-</td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/chijecg2021/home"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IconTr/CCE.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://workspace.google.com/dashboard"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/stdicon.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://vle.learning.moe.edu.sg/login"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/SLS.png"></a>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
