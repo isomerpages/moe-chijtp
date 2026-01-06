@@ -31,19 +31,19 @@ variant: tiptap
 <h4><strong>2026 Semester 1 Class timetables</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Timetable/SEC1S1TT26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetables</a>
+<p><a href="/files/Timetable/sec1s1tt26a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/SEC2S1TT26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetables</a>
+<p><a href="/files/Timetable/sec2s1tt26a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/sec3s1tt26a.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetables</a>
+<p><a href="/files/Timetable/sec3s1tt26b.pdf" rel="noopener nofollow" target="_blank">Sec 3 Timetables</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Timetable/SEC45S1TT26.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetables</a>
+<p><a href="/files/Timetable/sec45s1tt26a.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetables</a>
 </p>
 <p></p>
 </li>
