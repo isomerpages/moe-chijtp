@@ -19,11 +19,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/S4_IJCE_Breaker_Week_Schedule_2026c.pdf" rel="noopener nofollow" target="_blank">S4 IJCE Breaker Week Schedule 2026</a>
+<p><a href="/files/Timetable/S4IJCEBreakerWeekSchedule2026d.pdf" rel="noopener nofollow" target="_blank">S4 IJCE Breaker Week Schedule 2026</a>
 </p>
 </li>
 <li>
-<p><a href="/files/S5_IJCE_Breaker_Week_Schedule_2026c.pdf" rel="noopener nofollow" target="_blank">S5 IJCE Breaker Week Schedule 2026</a>
+<p><a href="/files/Timetable/S5IJCEBreakerWeekSchedule2026d.pdf" rel="noopener nofollow" target="_blank">S5 IJCE Breaker Week Schedule 2026</a>
 </p>
 </li>
 </ul>
