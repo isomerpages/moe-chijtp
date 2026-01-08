@@ -23,9 +23,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Fiona Tan (<a href="mailto:tan_yong_fang_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yong_fang_fiona@moe.edu.sg</u></a>),</strong>
-</p>
-<p><strong>Ms Stephanie Song, &amp; Ms Jesslyn Winata</strong>
+<p><strong>Ms Fiona Tan (<a href="mailto:tan_yong_fang_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yong_fang_fiona@moe.edu.sg</u></a>), &amp; Ms Stephanie Song</strong>
 </p>
 </td>
 </tr>
