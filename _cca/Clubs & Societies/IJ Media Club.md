@@ -16,9 +16,7 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Teo Wen Jie (<a href="mailto:teo_wen_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_wen_jie@moe.edu.sg</u></a>),&nbsp;</strong>
-</p>
-<p><strong>Mr Koh Bing Qin &amp; Mdm Zhang Shujuan</strong>
+<p><strong>Mr Teo Wen Jie (<a href="mailto:teo_wen_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>teo_wen_jie@moe.edu.sg</u></a>),&nbsp;&amp; Mdm Zhang Shujuan</strong>
 </p>
 </td>
 </tr>
