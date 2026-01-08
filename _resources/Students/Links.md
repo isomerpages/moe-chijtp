@@ -44,8 +44,10 @@ variant: tiptap
 <li>
 <p><a href="/files/Students/PRINTED___2026__Student_CCA_Info_Booklet.pdf" rel="noopener nofollow" target="_blank">Student CCA Info Booklet 2026</a>
 </p>
-<p></p>
-<p></p>
+</li>
+<li>
+<p><a href="/files/Students/2026_CCA_Briefing_Slides__Students_Parents__pptx.pdf" rel="noopener nofollow" target="_blank">CCA Orientation Briefing 2026</a>
+</p>
 </li>
 </ul>
 <p></p>
