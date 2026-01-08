@@ -19,7 +19,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Mr Tan Yee Ping (<a href="mailto:tan_yee_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_yee_ping@moe.edu.sg</u></a>),</strong>
 </p>
-<p><strong>Mrs Chia-Ong Yee Hwee, Miss Hemavathy Anbalagan, Mr Erajan Rajan</strong>
+<p><strong>Mrs Chia-Ong Yee Hwee, Miss Hemavathy Anbalagan, Mr Erajan Rajan, Mr Andy Pek</strong>
 </p>
 </td>
 </tr>

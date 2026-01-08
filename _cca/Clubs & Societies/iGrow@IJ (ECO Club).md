@@ -16,8 +16,8 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Brian Thian (<a href="mailto:brian_thian_wen_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>brian_thian_wen_yao@moe.edu.sg</u></a>)</p>
-<p>&amp;&nbsp; Ms Lee Xiu-Ping</p>
+<p>Mr Brian Thian (<a href="mailto:brian_thian_wen_yao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>brian_thian_wen_yao@moe.edu.sg</u></a>),
+Ms Lee Xiu-Ping &amp; Ms Leow Chen Yen</p>
 </th>
 </tr>
 <tr>
