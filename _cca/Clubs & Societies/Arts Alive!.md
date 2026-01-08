@@ -22,7 +22,8 @@ variant: tiptap
 <p>Teacher-in-Charge</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Mr Brian Ho (<a href="mailto:ho_hoe_kiong_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hoe_kiong_brian@moe.edu.sg</a>)</p>
+<p>Mr Brian Ho (<a href="mailto:ho_hoe_kiong_brian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_hoe_kiong_brian@moe.edu.sg</a>)
+&amp; Ms Megan Low</p>
 </th>
 </tr>
 <tr>
@@ -31,7 +32,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday (3.00 pm - 6.00 pm)</p>
+<p>Wednesday (3.00 pm - 6.00 pm)</p>
 </td>
 </tr>
 <tr>
