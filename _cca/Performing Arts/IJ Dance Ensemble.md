@@ -22,7 +22,7 @@ variant: tiptap
 <td rowspan="1" colspan="4">
 <p><strong>Mdm Siti Zainab (<a href="mailto:siti_zainab_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_zainab_zainal@moe.edu.sg</a>),&nbsp;</strong>
 </p>
-<p><strong>Mr Gary Tang &amp; Ms Michelle Tay</strong>
+<p><strong>Mr Gary Tang, Ms Michelle Tay &amp; Ms Rachel Lim</strong>
 </p>
 </td>
 </tr>
