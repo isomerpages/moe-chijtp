@@ -43,5 +43,9 @@ third_nav_title: Parents
 <p><a href="/files/GCE_N_Level_2025_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">GCE N Level 2025 Briefing Slides</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Students/GCE_O_Level_2025_Briefing_Slides___Student.pdf" rel="noopener nofollow" target="_blank">GCE O Level 2025 Briefing Slides</a>
+</p>
+</li>
 </ul>
 <p></p>
