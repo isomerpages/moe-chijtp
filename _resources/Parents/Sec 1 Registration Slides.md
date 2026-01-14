@@ -14,5 +14,9 @@ third_nav_title: Parents
 <p><a href="/files/Parents/2026_Presentation___FAQ_Slides_for_Sec_1_Registration.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Registration Slides</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Parents/Sec_1ParentsMeet9Jan.pdf" rel="noopener nofollow" target="_blank">2026 Sec 1 Parents' Meeting</a>
+</p>
+</li>
 </ul>
 <p></p>
