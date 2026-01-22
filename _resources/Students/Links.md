@@ -16,7 +16,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/resources/students/timetable/"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/timetable.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Students/StudentHandbook2026b.pdf"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/shb2.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/files/Students/StudentHandbook2026c.pdf"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/shb2.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://sites.google.com/moe.edu.sg/ijtech"><img style="width:50%" height="auto" width="100%" src="/images/IconStu/IJTech.png"></a>
 </td>
