@@ -16,10 +16,6 @@ third_nav_title: Parents
 </p>
 </li>
 <li>
-<p><a href="/files/Parents/Sec45PT2025c.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Start-of-Year Parents Talk</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener nofollow" target="_blank">2025 JAE Courses</a>
 </p>
 </li>
@@ -33,6 +29,10 @@ third_nav_title: Parents
 </li>
 <li>
 <p><a href="https://www.ite.edu.sg/intake-exercises/" rel="noopener nofollow" target="_blank">ITE Intake Exercise 2026</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Parents/Sec_4_and_5_Start_of_Year_Parents_Talk_2026___For_Upload.pdf" rel="noopener nofollow" target="_blank">Sec 4 and 5 Start-of-Year Parents Talk 2026</a>
 </p>
 </li>
 <li>
