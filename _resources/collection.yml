@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Open House.md
       - Admission/.keep
       - Parents/NDLP.md
       - Parents/.keep
