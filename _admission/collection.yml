@@ -1,5 +1,4 @@
 collections:
   admission:
     output: true
-    order:
-      - Appeal for Admission.md
+    order: []
