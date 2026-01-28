@@ -42,19 +42,18 @@ interest as a Parent Volunteer or to express interest in joining the PSG
 Exco.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/PSG_QR_Code.jpg">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/psg2026.jpg">
 </div>
 <p>Should you have any questions or wish to find out more about the PSG,
-please feel free to contact us at</p>
-<p><a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a>.</p>
+please feel free to contact us at <a href="mailto:psg.chijsec@gmail.com" rel="noopener noreferrer nofollow" target="_blank">psg.chijsec@gmail.com</a>.</p>
 <p>On behalf of the PSG Executive Committee and IJ Secondary, we thank you
 in advance for your generous support and gift of love. We look forward
 to serving the school together with you in the year ahead.</p>
 <p>God’s blessings always,</p>
-<p>Jenevieve</p>
-<p>Chairperson</p>
-<p>Parents’ Support Group</p>
-<p>CHIJ Secondary</p>
+<p>Jenevieve
+<br>Chairperson
+<br>Parents’ Support Group
+<br>CHIJ Secondary</p>
 <h3>PSG@IJ Sec EXCO 2026</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_IJ_Sec_EXCO_2026.png">
