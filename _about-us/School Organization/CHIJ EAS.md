@@ -16,5 +16,4 @@ Aieman, Mr Rusydi Aman</p>
 <p><strong>FRONT from left</strong>: Ms Nur Liyana, Mdm Chia Siong Lang,
 Mdm Wong Yin Ping, Mdm Kiang Kim Lian, Ms Karen Pang, Mrs Florance Chia,
 Ms Ida Nursanti Bte Kusain, Ms Rungaroon Lupsa (Hannah), Ms Shirley Fang,
-Mrs Wendy Tay</p>
-<p><strong>NOT IN PHOTO</strong>: Mr Hamdan Leman. Mdm Faridah Misdi</p>
+Mrs Wendy Ta</p>
