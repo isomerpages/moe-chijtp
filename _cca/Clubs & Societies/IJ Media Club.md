@@ -59,10 +59,6 @@ in previously include the “Our Schools, Our Stories” photography and videogr
 competition and the “SYFgoesOnline! Pixel Perfect” competition.&nbsp;</p>
 <p>IJ Media Club welcomes all who are keen to explore and deepen their interest
 in photography and videography!&nbsp;&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19_Media_club___farewell_Photo.jpg">
-</div>
-<p></p>
 <p><u>Here are some photographs taken by our IJ Media Club members</u>
 </p>
 <table style="minWidth: 75px">
