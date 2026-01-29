@@ -91,9 +91,6 @@ strides.</p>
 </li>
 <li>
 <p>‘Red Hill’ (2016)</p>
-<p>
-<br>
-</p>
 </li>
 </ul>
 <p></p>
