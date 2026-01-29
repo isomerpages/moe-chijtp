@@ -12,8 +12,6 @@ variant: tiptap
 to every student, providing them with the opportunity to make informed
 choices which will develop them into a Woman of Distinction.</p>
 <h4>Design &amp; Technology</h4>
-<p><strong>ALL from left: </strong>Mr Rashid Jeffery , Mrs Eugenia Tan <em>-</em>  <em>HoD / Life Skills</em> ,
-Mrs Seah Tay Hwee Kheng , Mr Wong Wei Keong.</p>
 <p>Design and Technology is part of a holistic broad-based education. It
 is a compulsory project-based subject in the lower secondary school curriculum.
 Design and Technology anchors on design action and application of knowledge
