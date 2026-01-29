@@ -41,7 +41,7 @@ variant: tiptap
 </table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs/2024_Legion_of_Mary_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_01_29_095150.png">
 </div>
 <p>The <strong>Legion of Mary</strong> is a lay Catholic organisation present
 in about 170 countries whose members serve the Church and their neighbours
