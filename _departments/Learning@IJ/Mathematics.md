@@ -202,18 +202,6 @@ students’ learning</p>
 </p>
 <ul>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/maths/2020-express_na-maths_syllabuses.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G3 and G2 Mathematics Syllabus (4052)</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses-nt/maths/2020-nt-maths_syllabus.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G1 Mathematics Syllabus (4046)</u></a>
-</p>
-</li>
-<li>
-<p><a href="https://www.moe.gov.sg/-/media/files/secondary/syllabuses/maths/2020-express_na-add-maths_syllabuses.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>G3 and G2 Additional Mathematics Syllabus (4049)</u></a>
-</p>
-</li>
-<li>
 <p><a href="https://file.go.gov.sg/seab-approvedcalculators.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>List of approved calculators</u></a> (by
 the Singapore Examinations and Assessment Board)</p>
 </li>
