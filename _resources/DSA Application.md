@@ -7,7 +7,8 @@ variant: tiptap
 <h1><strong>Direct School Admission 2026</strong></h1>
 <p></p>
 <p></p>
-<p></p>
+<p>Direct School Admission Information (for Secondary 1 cohort of 2027) <strong><a href="/files/DSA_Info_Sec_1_2027_docx.pdf" rel="noopener noreferrer nofollow" target="_blank">Here !</a></strong>
+</p>
 <p></p>
 <p>The school will be admitting students via these talent areas in 2026:</p>
 <ul data-tight="true" class="tight">
