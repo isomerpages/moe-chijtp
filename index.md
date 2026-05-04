@@ -18,7 +18,7 @@ sections:
         - title: DSA Admission
           description: View All
           url: /resources/parents/dsa-application/
-        - title: Open House
+        - title: DSA Webinar Reg
           description: View All
-          url: /open-house/
+          url: /dsa-webinar/
 ---
