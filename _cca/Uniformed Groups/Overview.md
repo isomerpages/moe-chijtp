@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/ncc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/UGs/2024_NCC_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Sea)</div><div class="isomer-card-description">NCC Annual Unit Recognition Award Distinction 2021, 2022, 2023, 2024</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/ncc/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/CCA/WhatsApp_Image_2026_05_14_at_09_58_05.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NCC (Sea)</div><div class="isomer-card-description">NCC Annual Unit Recognition Award Distinction 2021, 2022, 2023, 2024</div><div class="isomer-card-link">Read more</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/cca/uniformed-groups/girl-guides/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
