@@ -47,9 +47,8 @@ training activities)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NCC_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/WhatsApp_Image_2026_05_14_at_09_58_05.jpg">
 </div>
 <p>In the <strong>CHIJ National Cadet Corps (NCC) (Sea)</strong>, we aim to
 nurture a community of Resilient, Responsible, and Relevant student leaders.
