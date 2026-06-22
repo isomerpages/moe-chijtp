@@ -7,8 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2026_06_22_103302.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_Chart_2026_updated_version.png">
 </div>
-<p><a href="/files/Staff/Staff_Chart_2026.pdf" rel="noopener nofollow" target="_blank">Staff Chart 2026</a>
+<p><a href="/files/Staff_Chart_2026d.pdf" rel="noopener nofollow" target="_blank">Staff Chart 2026</a>
 </p>
-<p></p>
