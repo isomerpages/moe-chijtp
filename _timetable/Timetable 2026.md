@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>2026 4N prelim timetables</strong></h4>
-<p></p>
+<p><a href="/files/Timetable/4NPT26.pdf" rel="noopener noreferrer nofollow" target="_blank">4N prelim timetable</a>
+</p>
 <h4><strong>2026 Semester 2 Class timetables</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
