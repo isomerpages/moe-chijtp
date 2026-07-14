@@ -4,6 +4,9 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2026 WA3 schedule</strong></h4>
+<p><a href="https://docs.google.com/spreadsheets/d/1MZUXF4UiCCejsu0IpHmUfbmLTstJgX9lSOiZQYetbEo/edit?gid=1501521194#gid=1501521194" rel="noopener nofollow" target="_blank">WA3 schedule</a>
+</p>
 <h4><strong>2026 4N prelim timetables</strong></h4>
 <p><a href="/files/Timetable/4NPT26.pdf" rel="noopener noreferrer nofollow" target="_blank">4N prelim timetable</a>
 </p>
