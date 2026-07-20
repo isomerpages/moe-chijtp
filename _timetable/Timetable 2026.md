@@ -4,6 +4,9 @@ permalink: /resources/students/timetable/
 description: ""
 variant: tiptap
 ---
+<h4><strong>2026 O-level Preliminary Examination</strong></h4>
+<p><a href="/files/Timetable/prelimOET26.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination timetable</a>
+</p>
 <h4><strong>2026 WA3 schedule</strong></h4>
 <p><a href="https://docs.google.com/spreadsheets/d/1MZUXF4UiCCejsu0IpHmUfbmLTstJgX9lSOiZQYetbEo/edit?gid=1501521194#gid=1501521194" rel="noopener nofollow" target="_blank">WA3 schedule</a>
 </p>
